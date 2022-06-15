@@ -1,0 +1,100 @@
+<body>
+  <div class="intro" fxLayout="row" fxLayout.lt-md="column-reverse" fxLayoutAlign="space-around center">
+     <div class="intro-description" fxLayout="column" fxLayoutAlign="center start">
+        <h1 class="intro-text">Hi! I'm Omar, a Senior UX Designer.</h1>
+        <h2 class="intro-text">With over 5+ years experience in the space, I design</h2>
+        <h2 class="intro-text">user based experiences with a modern touch.</h2>
+     </div>
+     <div class="intro-logo">
+        <img src="./assets/img-homepage/OMHLogo.png">
+     </div>
+  </div>
+
+  <div class="scroll-arrow">
+    <img src="./assets/img-media/down-arrow.png">
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="chat-btn">
+    <a href="/#contactMe">
+      <img src="./assets/img-fixed-but/chat.png" alt="chat-box">
+    </a>
+ </div>
+
+  <div class="work" id="work">
+     <h1 class="section-header">PROJECTS</h1>
+     <app-card-list [data]="records"></app-card-list>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="about-me" id="aboutMe">
+     <h1 class="section-header">ABOUT OMAR</h1>
+     <div class="about-me-container"
+        fxLayout="row"
+        fxLayout.lt-md="column"
+        fxLayoutAlign="space-around center">
+        <div class="about-me-description">
+          <p>
+            My journey with UX/UI design all started at 6 years old, when I started playing with a Nintendo 64 game console.
+            While playing Legend of Zelda, I was captivated by… I brought this fascination with videogaming to life by starting to learn 3D
+            design with Rhino 3D and pursuing an architecture degree. Throughout my studies, I realized that my architectural skills were
+            similar to web designers and content creators. Successful architects, web designers, and content creators embody creativity
+            and think about how end users interact with your creation. Instead of pursuing architecture from a traditional sense, designing
+            buildings, I wanted to apply my experience to creating a polished online platform for my clients.
+          </p>
+          <p>
+            5 years ago, I took the plunge and became a freelance UX/UI designer. I began collaborating with up-and-coming brands
+            and companies who needed quality UX/UI design to showcase my skills of delivering high stand pieces. From concept all the way
+            to prototyping, these projects built my portfolio and expertise in app development, branding, and creating a seamless user
+            experience through compelling designs and images.
+          </p>
+          <p>
+            To me, UX/UI design is more than creating a functional or practical interface for users.
+            It’s about creating an eye-catching piece of art, fostering a familiar and enjoyable user experience, and expanding accessibility through innovation and creativity.
+            My favorite part about being a UX/UI designer is connecting with motivated people who are excited to share their ideas with the world and collaborating in a fast-paced
+            environment to deliver high-impact results.
+          </p>
+        </div>
+        <img class="about-me-img" src="./assets/img-homepage/OMH2.png"  alt="My Face Picture" id="Face">
+     </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="contact" id="contactMe">
+     <h1 class="section-header">CONTACT ME</h1>
+     <form class="contact-me-container" [formGroup]="sendEmailFormGroup" id="sendEmailForm">
+      <label class="full-name-label">Name *</label>
+      <div class="half" fxLayout="row" fxLayoutAlign="space-between center">
+         <div class="item">
+            <input type="text" id="name" formControlName="firstName" value="[{email.firstName}]">
+            <label class="under-input-label" for="name">First Name</label>
+         </div>
+         <div class="item">
+            <input type="text" id ="lname" formControlName="lastName">
+            <label class="under-input-label" for="lname">Last Name</label>
+         </div>
+      </div>
+      <div class="middle" fxLayout="column" fxLayoutAlign="space-between center">
+         <div class="item">
+            <label for="senderEmail">Email *</label>
+            <input type="text" id = "senderEmail" formControlName="senderEmail">
+         </div>
+         <div class="item">
+            <label for="emailSubject">How can I help You? *</label>
+            <input type="text" id="emailSubject" formControlName="emailSubject">
+         </div>
+      </div>
+      <div class="item">
+         <label for="message">Message *</label>
+         <textarea id="message" rows="5" formControlName="message"></textarea>
+      </div>
+      <div class="submit-btn">
+         <input type="submit" value="Submit" form="sendEmailForm" (click)="onEmailSubmit()">
+      </div>
+   </form>
+  </div>
+
+</body>

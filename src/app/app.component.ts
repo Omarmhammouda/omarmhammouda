@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'omarmhammouda';
+  title = 'omarmhammouda'; 
+  clientHeight: number;
+
+constructor() {
+   this.clientHeight = window.innerHeight; 
+}
 }

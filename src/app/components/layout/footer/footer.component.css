@@ -1,0 +1,50 @@
+footer {
+  background-color: black;
+  overflow: hidden;
+  width: 100%;
+}
+
+.email a {
+  display: flex;
+  justify-content: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.email a:hover {
+  color: #ef7833;
+}
+
+
+
+.linkedin a {
+  display: flex;
+  justify-content: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+
+.linkedin a:hover {
+  color: #ef7833;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

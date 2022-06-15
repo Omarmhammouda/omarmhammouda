@@ -1,0 +1,18 @@
+img{
+  width: 100%;
+  height: auto;
+}
+.cover-art{
+  margin-top: 94px;
+  width: 100%;
+}
+
+.img-container {
+  width: 100%;
+}
+
+.web-btn-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}

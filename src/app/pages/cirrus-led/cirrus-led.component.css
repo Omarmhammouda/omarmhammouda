@@ -1,0 +1,18 @@
+img{
+  width: 100%;
+  height: auto;
+}
+
+.hero{
+  margin-top: 94px;
+  width: 100%;
+}
+
+.img-container {
+  width: 100%;
+}
+
+.divider{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

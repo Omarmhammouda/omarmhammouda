@@ -1,0 +1,142 @@
+.intro
+{
+  display: flex;
+  width: 70%;
+  max-width: 1300px;
+  margin: 25vh auto 20vh auto;
+  justify-content: space-between;
+}
+
+.intro-description{
+  height: auto;
+  margin: 160px auto 0 0;
+}
+.intro-description h1{
+  font-size: 44px;
+  line-height: 44px;
+}
+
+.intro-description h2{
+  font-size: 24px;
+}
+
+.intro-logo img{
+  width: 400px;
+  height: 400px;
+}
+
+.scroll-arrow{
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(185deg) brightness(104%) contrast(101%);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 35vh;
+}
+
+.section-header{
+  font-size: 75px;
+  line-height: 75px;
+  margin: 100px 0;
+  padding: 0 10px;
+}
+
+.work,
+.about-me,
+.contact {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 300px;
+}
+
+.about-me-container {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.about-me-description {
+  text-align: left;
+  width: 60%;
+  font-size: 15px;
+  word-spacing: 2px;
+  line-height: 25px;
+}
+
+.about-me-img {
+  width: 430px;
+  height: auto;
+}
+
+.contact-me-container{
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.full-name-label{
+  font-size: 15px;
+  font-weight: bolder;
+  float: left;
+}
+
+.item{
+  width: 100%;
+  text-align: left;
+  margin: 10px 0;
+}
+
+.under-input-label {
+  margin-bottom: 0 !important;
+  margin-top: 10px;
+}
+
+.item label {
+  font-size: 15px;
+  font-weight: bolder;
+  margin-bottom: 10px;
+  display: block;
+}
+
+input, textarea{
+  border-radius: 4px;
+  border: 5px solid white;
+  line-height: 34px;
+  background: transparent;
+  font-size: 17px;
+  width: 100%;
+  padding: 5px;
+}
+
+.half,
+.middle {
+  width: 100%;
+}
+
+.half .item {
+  width: 47%;
+}
+
+.submit-btn{
+  width: 115px;
+  margin: 0 auto;
+}
+
+.submit-btn:hover{
+  color: black;
+  background-color: #ef7833;
+  cursor: pointer;
+}
+
+.submit-btn input:hover{
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 960px){
+  .about-me-description{
+    width: 100%;
+  }
+  .contact-me-container{
+    width: 80%;
+  }
+}

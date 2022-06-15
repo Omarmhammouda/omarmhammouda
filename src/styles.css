@@ -1,1 +1,75 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url(//db.onlinewebfonts.com/c/a449c42ee753b7a31ec00350785d5945?family=Loew);
+
+@font-face {
+  font-family: "Loew"; src: url("//db.onlinewebfonts.com/t/a449c42ee753b7a31ec00350785d5945.eot");
+  src:
+    url("//db.onlinewebfonts.com/t/a449c42ee753b7a31ec00350785d5945.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/a449c42ee753b7a31ec00350785d5945.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/a449c42ee753b7a31ec00350785d5945.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/a449c42ee753b7a31ec00350785d5945.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/a449c42ee753b7a31ec00350785d5945.svg#Loew") format("svg");
+}
+
+*{
+  color: white;
+  font-family: 'Loew';
+  text-decoration: none;
+}
+
+body
+{
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  font-family: "Loew";
+}
+
+.divider {
+  max-width: 400px;
+  height: 0;
+  border-top: 2px solid grey;
+  margin: 0 auto;
+}
+
+.web-btn {
+  padding: 15px 30px;
+  border: 3px solid white;
+  background-color: black;
+  font-size: 15px;
+  color: white;
+}
+
+.web-btn:hover{
+  background-color: #ed7117;
+  color: black;
+  cursor: pointer;
+}
+
+.chat-btn {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+.chat-btn:hover{
+  cursor: pointer;
+  filter: invert(55%) sepia(86%) saturate(1940%) hue-rotate(341deg) brightness(99%) contrast(89%);
+}
+
+.chat-btn img{
+  width: 50px !important;
+  height: 50px !important;
+}
+
+@media only screen and (max-width: 600px) {
+
+  .divider {
+    width: 80%;
+  }
+}

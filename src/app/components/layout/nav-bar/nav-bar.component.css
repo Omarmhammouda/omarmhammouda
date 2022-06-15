@@ -1,0 +1,140 @@
+.nav {
+  background-color: black;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  padding: 20px;
+}
+
+.menu {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu li{
+  display: flex;
+  padding: 0 20px;
+}
+
+.nav a {
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.nav a:hover {
+  color: #ef7833;
+}
+
+.navbar-logo{
+  height: 50px;
+  width: 50px;
+}
+
+.navbar-logo:hover{
+  cursor: pointer;
+  filter: invert(55%) sepia(86%) saturate(1940%) hue-rotate(341deg) brightness(99%) contrast(89%);
+}
+
+.menu-button-container {
+  display: none;
+  height: 100%;
+  width: 30px;
+  cursor: pointer;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#menu-toggle{
+  display: none;
+}
+
+.menu-button,
+.menu-button::before,
+.menu-button::after {
+  display: block;
+  background-color: #fff;
+  position: absolute;
+  height: 4px;
+  width: 30px;
+  transition: transform 400ms cubic-bezier(0.23, 1, 0.32, 1);
+  border-radius: 2px;
+}
+
+.menu-button::before {
+  content: '';
+  margin-top: -8px;
+}
+
+.menu-button::after {
+  content: '';
+  margin-top: 8px;
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button::before {
+  margin-top: 0px;
+  transform: rotate(405deg);
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button {
+  background: rgba(255, 255, 255, 0);
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button::after {
+  margin-top: 0px;
+  transform: rotate(-405deg);
+}
+
+@media all and (max-width: 600px) {
+  .menu-button-container {
+    display: flex;
+  }
+
+  .menu {
+    position: absolute;
+    top: 85px;
+    right: 0px;
+    flex-direction: column;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+
+  #menu-toggle ~ .menu li {
+    overflow: hidden;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
+  }
+  #menu-toggle:checked ~ .menu li {
+    height: auto;
+    background-color: black;
+    transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
+    justify-content: center;
+    width: 100px;
+  }
+
+  .menu > li {
+    display: flex;
+    justify-content: right;
+    margin: 0;
+    padding: 0.5em 0;
+    width: 100%;
+    color: white;
+    background-color: #222;
+  }
+  .menu > li :last-child {
+    padding-bottom: 10px;
+  }
+}
