@@ -55,9 +55,10 @@ body {
   right: 15px;
   background-color: black;
   border-radius: 50%;
+  padding: 5px;
 }
 
-.chat-btn:hover{
+.chat-btn img:hover{
   cursor: pointer;
   filter: invert(55%) sepia(86%) saturate(1940%) hue-rotate(341deg) brightness(99%) contrast(89%);
 }
