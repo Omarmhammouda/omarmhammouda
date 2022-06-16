@@ -9,7 +9,7 @@
       fxLayoutAlign="start center">
       <div class="project-thumbnail-container">
         <img *ngIf="project.image !== ''" class="project-thumbnail" src={{project.image}} />
-        <video *ngIf="project.video !== ''" class="project-thumbnail" autoplay="" loop="" muted="" playsinline="">
+        <video *ngIf="project.video !== ''" class="project-thumbnail" autoplay loop muted playsinline>
           <source src={{project.video}} type="video/webm">
         </video>
       </div>
@@ -33,7 +33,7 @@
       fxLayoutAlign="start center">
       <div class="project-thumbnail-container">
         <img *ngIf="project.image !== ''" class="project-thumbnail" src={{project.image}} />
-        <video *ngIf="project.video !== ''" class="project-thumbnail" autoplay="" loop="" muted="" playsinline="">
+        <video *ngIf="project.video !== ''" class="project-thumbnail" autoplay loop muted playsinline>
           <source src={{project.video}} type="video/webm">
         </video>
       </div>
