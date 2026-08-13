@@ -158,12 +158,6 @@ a {
 .hero {
   padding-block: clamp(56px, 10vh, 96px) clamp(48px, 8vh, 88px);
 }
-.hero-grid {
-  display: grid;
-  grid-template-columns: 7fr 4fr;
-  gap: clamp(32px, 6vw, 96px);
-  align-items: center;
-}
 .hero h1 {
   font-size: clamp(2.5rem, 5.6vw, 4.4rem);
   font-weight: 900;
@@ -238,9 +232,9 @@ a {
   .hero-actions {
     animation-delay: 0.22s;
   }
-  .palette li {
-    animation: rise-in 0.7s var(--ease) backwards;
-    animation-delay: calc(0.25s + var(--i, 0) * 0.045s);
+  .hero-stats {
+    animation: rise-in 0.9s var(--ease) backwards;
+    animation-delay: 0.32s;
   }
 }
 @keyframes rise-in {
@@ -250,80 +244,6 @@ a {
   }
   to {
     opacity: 1;
-    transform: none;
-  }
-}
-
-/* Palette index: interactive index of the 12 projects */
-.palette {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-  list-style: none;
-}
-.palette li a {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 34px;
-  border-radius: 8px;
-  padding-inline: 14px;
-  background: var(--chip);
-  color: var(--chip-ink);
-  font-size: 0.82rem;
-  font-weight: 700;
-  letter-spacing: 0.01em;
-  transition: transform 0.25s var(--ease), height 0.25s var(--ease);
-}
-.palette li a .p-cat {
-  font-weight: 500;
-  opacity: 0;
-  font-size: 0.78rem;
-  transition: opacity 0.2s var(--ease);
-}
-.palette li a:hover,
-.palette li a:focus-visible {
-  transform: scaleX(1.04);
-}
-.palette li a:hover .p-cat,
-.palette li a:focus-visible .p-cat {
-  opacity: 0.85;
-}
-
-/* Floating board preview for the hero project index (desktop hover only) */
-.palette-preview {
-  position: fixed;
-  z-index: 40;
-  width: 272px;
-  aspect-ratio: 4 / 3;
-  border-radius: 12px;
-  overflow: hidden;
-  border: 1px solid var(--line);
-  background: #050505;
-  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
-  opacity: 0;
-  transform: scale(0.96) translateY(6px);
-  transition: opacity 0.25s var(--ease), transform 0.25s var(--ease);
-  pointer-events: none;
-}
-.palette-preview.show {
-  opacity: 1;
-  transform: none;
-}
-.palette-preview img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: top;
-}
-@media (hover: none), (max-width: 860px) {
-  .palette-preview {
-    display: none;
-  }
-}
-@media (prefers-reduced-motion: reduce) {
-  .palette-preview {
-    transition: opacity 0.15s linear;
     transform: none;
   }
 }
@@ -368,18 +288,18 @@ a {
   grid-column: span 5;
 }
 .cover {
-  /* Typographic cover. Replace each cover's inner content with a real
-     export from the Figma board when ready:
-     <img src="assets/work/<slug>.png" alt="..."> at the same aspect ratio. */
   position: relative;
-  display: flex;
-  align-items: flex-end;
-  background: var(--c-bg);
-  color: var(--c-ink);
-  aspect-ratio: 21 / 9;
-  padding: clamp(20px, 3vw, 36px);
   overflow: hidden;
-  transition: transform 0.5s var(--ease);
+  border-radius: var(--radius);
+  background: #0b0c0e;
+  aspect-ratio: 21 / 9;
+}
+.cover img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .work-card.wide-tall .cover {
   aspect-ratio: 2 / 1;
@@ -392,88 +312,42 @@ a {
     flex: 1;
     min-height: 420px;
   }
-  .work-card.span-5 .cover .cover-title {
-    font-size: clamp(1.4rem, 2.2vw, 2rem);
-  }
-}
-.cover .ghost {
-  position: absolute;
-  right: -0.08em;
-  top: -0.18em;
-  font-size: clamp(5rem, 13vw, 11rem);
-  font-weight: 900;
-  letter-spacing: -0.04em;
-  line-height: 1;
-  opacity: 0.14;
-  white-space: nowrap;
-  pointer-events: none;
-  user-select: none;
-}
-.cover .cover-img {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: top;
-  opacity: 0;
-  transition: opacity 0.45s var(--ease), transform 0.6s var(--ease);
-}
-
-.cover::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to top, rgba(5, 5, 5, 0.72) 0%, transparent 45%);
-  opacity: 0;
-  transition: opacity 0.45s var(--ease);
-  pointer-events: none;
-}
-.cover .ghost,
-.cover .cover-title {
-  transition: color 0.3s var(--ease), opacity 0.3s var(--ease);
-}
-.cover .cover-title {
-  position: relative;
-  z-index: 1;
 }
 @media (hover: hover) {
-  .work-card:hover .cover-img,
-  .work-card:focus-visible .cover-img {
-    opacity: 1;
+  .cover img {
+    transition: transform 0.6s var(--ease);
   }
-  .work-card:hover .cover::after,
-  .work-card:focus-visible .cover::after {
-    opacity: 1;
+  .work-card:hover .cover img,
+  .work-card:focus-visible .cover img {
+    transform: scale(1.03);
   }
-  .work-card:hover .ghost,
-  .work-card:focus-visible .ghost {
-    opacity: 0;
-  }
-  .work-card:hover .cover-title,
-  .work-card:focus-visible .cover-title {
-    color: #fff;
-  }
-}
-.cover .cover-title {
-  font-size: clamp(1.6rem, 3.4vw, 2.6rem);
-  font-weight: 900;
-  letter-spacing: -0.03em;
-  line-height: 1.05;
-  max-width: 16ch;
-}
-.work-card:hover .cover {
-  transform: scale(1.015);
 }
 .work-meta {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 16px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 2px 16px;
   padding: 14px 4px 0;
+  align-items: baseline;
+}
+.w-head {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+.chip-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  background: var(--chip);
+  flex: none;
 }
 .work-meta .w-name {
   font-weight: 700;
+}
+.work-meta .w-desc {
+  grid-column: 1;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
 .work-meta .w-cat {
   color: var(--muted);
@@ -496,6 +370,13 @@ a {
 }
 .index-item:nth-child(-n + 2) {
   border-top: 1px solid var(--line-soft);
+}
+.index-thumb {
+  width: 104px;
+  height: 66px;
+  object-fit: cover;
+  border-radius: 10px;
+  flex: none;
 }
 .index-swatch {
   width: 40px;
@@ -557,6 +438,9 @@ a.index-item:hover .i-go {
 }
 .stats {
   margin-top: 36px;
+}
+.hero-stats {
+  margin-top: clamp(44px, 8vh, 72px);
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
@@ -814,30 +698,17 @@ a.index-item:hover .i-go {
   .hero-grid {
     grid-template-columns: 1fr;
   }
-  .palette {
-    flex-direction: row;
-    overflow-x: auto;
-    padding-bottom: 8px;
-    scroll-snap-type: x mandatory;
-  }
-  .palette li {
-    flex: none;
-    scroll-snap-align: start;
-  }
-  .palette li a {
-    height: 44px;
-    min-width: 132px;
-  }
-  .palette li a .p-cat {
-    display: none;
-  }
   .work-card.span-7,
   .work-card.span-5 {
     grid-column: span 12;
   }
   .work-card .cover,
   .work-card.wide-tall .cover {
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 16 / 10;
+  }
+  .index-thumb {
+    width: 84px;
+    height: 54px;
   }
   .index-grid {
     grid-template-columns: 1fr;
