@@ -261,6 +261,44 @@ a {
   opacity: 0.85;
 }
 
+/* Floating board preview for the hero project index (desktop hover only) */
+.palette-preview {
+  position: fixed;
+  z-index: 40;
+  width: 272px;
+  aspect-ratio: 4 / 3;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: #050505;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+  opacity: 0;
+  transform: scale(0.96) translateY(6px);
+  transition: opacity 0.25s var(--ease), transform 0.25s var(--ease);
+  pointer-events: none;
+}
+.palette-preview.show {
+  opacity: 1;
+  transform: none;
+}
+.palette-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+@media (hover: none), (max-width: 860px) {
+  .palette-preview {
+    display: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .palette-preview {
+    transition: opacity 0.15s linear;
+    transform: none;
+  }
+}
+
 /* ---------- Section scaffolding ---------- */
 .section {
   padding-block: clamp(64px, 10vh, 128px);
@@ -341,6 +379,51 @@ a {
   white-space: nowrap;
   pointer-events: none;
   user-select: none;
+}
+.cover .cover-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  opacity: 0;
+  transition: opacity 0.45s var(--ease);
+}
+.cover::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(5, 5, 5, 0.72) 0%, transparent 45%);
+  opacity: 0;
+  transition: opacity 0.45s var(--ease);
+  pointer-events: none;
+}
+.cover .ghost,
+.cover .cover-title {
+  transition: color 0.3s var(--ease), opacity 0.3s var(--ease);
+}
+.cover .cover-title {
+  position: relative;
+  z-index: 1;
+}
+@media (hover: hover) {
+  .work-card:hover .cover-img,
+  .work-card:focus-visible .cover-img {
+    opacity: 1;
+  }
+  .work-card:hover .cover::after,
+  .work-card:focus-visible .cover::after {
+    opacity: 1;
+  }
+  .work-card:hover .ghost,
+  .work-card:focus-visible .ghost {
+    opacity: 0;
+  }
+  .work-card:hover .cover-title,
+  .work-card:focus-visible .cover-title {
+    color: #fff;
+  }
 }
 .cover .cover-title {
   font-size: clamp(1.6rem, 3.4vw, 2.6rem);
