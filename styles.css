@@ -294,12 +294,77 @@ a {
   background: #0b0c0e;
   aspect-ratio: 21 / 9;
 }
-.cover img {
+.cover > img {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+/* Live covers: real screen layers with entrance stagger + hover parallax */
+.cover-live {
+  container-type: size;
+  background: var(--cbg);
+}
+.cover-live .stage {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: max(100cqw, 184.6cqh);
+  height: max(100cqh, 54.2cqw);
+}
+.cover-live .ly {
+  position: absolute;
+  left: var(--x);
+  top: var(--y);
+  width: var(--w);
+  height: auto;
+  transform: translate(-50%, -50%) rotate(var(--r));
+  filter: drop-shadow(0 16px 22px rgba(6, 8, 7, 0.28));
+  will-change: transform;
+  transition: transform 0.7s var(--ease), opacity 0.7s var(--ease);
+}
+/* settle-in: layers rise into their tilt as the card reveals */
+.work-card .cover-live .ly {
+  opacity: 0;
+  transform: translate(-50%, -38%) rotate(calc(var(--r) * 0.25));
+}
+.work-card.in .cover-live .ly {
+  opacity: 1;
+  transform: translate(-50%, -50%) rotate(var(--r));
+}
+.work-card.in .cover-live .ly:nth-child(2) {
+  transition-delay: 0.09s;
+}
+.work-card.in .cover-live .ly:nth-child(3) {
+  transition-delay: 0.18s;
+}
+@media (hover: hover) {
+  .work-card:hover .cover-live .ly:nth-child(1),
+  .work-card:focus-visible .cover-live .ly:nth-child(1) {
+    transform: translate(-52.5%, -51.5%) rotate(calc(var(--r) - 2deg)) scale(1.02);
+    transition-delay: 0s;
+  }
+  .work-card:hover .cover-live .ly:nth-child(2),
+  .work-card:focus-visible .cover-live .ly:nth-child(2) {
+    transform: translate(-47%, -48.5%) rotate(calc(var(--r) + 2.5deg)) scale(1.04);
+    transition-delay: 0s;
+  }
+  .work-card:hover .cover-live .ly:nth-child(3),
+  .work-card:focus-visible .cover-live .ly:nth-child(3) {
+    transform: translate(-45%, -52%) rotate(calc(var(--r) + 3deg)) scale(1.03);
+    transition-delay: 0s;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cover-live .ly,
+  .work-card .cover-live .ly {
+    opacity: 1;
+    transform: translate(-50%, -50%) rotate(var(--r));
+    transition: none;
+  }
 }
 .work-card.wide-tall .cover {
   aspect-ratio: 2 / 1;
@@ -314,11 +379,11 @@ a {
   }
 }
 @media (hover: hover) {
-  .cover img {
+  .cover > img {
     transition: transform 0.6s var(--ease);
   }
-  .work-card:hover .cover img,
-  .work-card:focus-visible .cover img {
+  .work-card:hover .cover > img,
+  .work-card:focus-visible .cover > img {
     transform: scale(1.03);
   }
 }
