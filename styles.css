@@ -225,6 +225,35 @@ a {
   transform: translateX(4px);
 }
 
+/* Hero entrance (load-in) */
+@media (prefers-reduced-motion: no-preference) {
+  .hero h1,
+  .hero-sub,
+  .hero-actions {
+    animation: rise-in 0.9s var(--ease) backwards;
+  }
+  .hero-sub {
+    animation-delay: 0.12s;
+  }
+  .hero-actions {
+    animation-delay: 0.22s;
+  }
+  .palette li {
+    animation: rise-in 0.7s var(--ease) backwards;
+    animation-delay: calc(0.25s + var(--i, 0) * 0.045s);
+  }
+}
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
 /* Palette index: interactive index of the 12 projects */
 .palette {
   display: flex;
@@ -388,8 +417,9 @@ a {
   object-fit: cover;
   object-position: top;
   opacity: 0;
-  transition: opacity 0.45s var(--ease);
+  transition: opacity 0.45s var(--ease), transform 0.6s var(--ease);
 }
+
 .cover::after {
   content: "";
   position: absolute;
@@ -622,6 +652,24 @@ a.index-item:hover .i-go {
   background: var(--c-bg);
   color: var(--c-ink);
   padding-block: clamp(64px, 12vh, 128px);
+  position: relative;
+  overflow: hidden;
+}
+.case-hero .case-ghost {
+  position: absolute;
+  right: -0.06em;
+  top: -0.14em;
+  font-size: clamp(6rem, 18vw, 15rem);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  opacity: 0.12;
+  white-space: nowrap;
+  pointer-events: none;
+  user-select: none;
+}
+.case-hero .wrap {
+  position: relative;
 }
 .case-hero .case-cat {
   font-size: 1rem;
