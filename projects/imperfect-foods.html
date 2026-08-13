@@ -7,7 +7,7 @@
   <meta name="description" content="A grocery experience for produce that would otherwise go to waste.">
   <link rel="preload" href="../assets/fonts/satoshi-900.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="../assets/fonts/satoshi-500.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../styles.css?v=2">
 </head>
 <body>
 
@@ -17,6 +17,7 @@
       <ul class="nav-links">
         <li><a href="../index.html#work">Work</a></li>
         <li class="hide-sm"><a href="../index.html#about">About</a></li>
+        <li><a href="../assets/Omar_M_Hammouda_Resume.docx" download>Resume</a></li>
         <li><a class="nav-cta" href="../index.html#contact">Contact</a></li>
       </ul>
     </div>
@@ -32,7 +33,6 @@
     </section>
 
     <section class="case-meta wrap">
-      <!-- TODO(Omar): add Role and Year once you want them public -->
       <div class="case-meta-grid">
         <div><div class="m-label">Type</div><div class="m-value">Consumer app</div></div>
         <div><div class="m-label">Platform</div><div class="m-value">Mobile</div></div>
@@ -59,20 +59,18 @@
         </ul>
       </section>
 
-      <section class="case-section reveal" style="--c-bg:#f6c6ce;--c-ink:#5a1a24">
-        <!-- Replace these two slots with real exports from the Figma board:
-             assets/work/imperfect-foods-01.png and imperfect-foods-02.png at 1600x900 (2x).
-             In Figma: open the board section, select a key frame,
-             Export as PNG 2x. -->
-        <div class="figure-slot" role="img" aria-label="Placeholder for Imperfect Foods case study visuals">
-          <span>Case study visual. Export a key frame from the Imperfect Foods board and drop it in as assets/work/imperfect-foods-01.png.</span>
+      <section class="case-section board-section reveal">
+        <h2>The case study</h2>
+        <p>The full annotated board: research, flows, explorations, and final screens.</p>
+        <div class="board-stack">
+          <img src="../assets/work/imperfect-foods/01.jpg" alt="Imperfect Foods case study board, part 1 of 6" width="1440" height="2800" decoding="async">
+          <img src="../assets/work/imperfect-foods/02.jpg" alt="Imperfect Foods case study board, part 2 of 6" width="1440" height="2800" decoding="async" loading="lazy">
+          <img src="../assets/work/imperfect-foods/03.jpg" alt="Imperfect Foods case study board, part 3 of 6" width="1440" height="2800" decoding="async" loading="lazy">
+          <img src="../assets/work/imperfect-foods/04.jpg" alt="Imperfect Foods case study board, part 4 of 6" width="1440" height="2800" decoding="async" loading="lazy">
+          <img src="../assets/work/imperfect-foods/05.jpg" alt="Imperfect Foods case study board, part 5 of 6" width="1440" height="2800" decoding="async" loading="lazy">
+          <img src="../assets/work/imperfect-foods/06.jpg" alt="Imperfect Foods case study board, part 6 of 6" width="1440" height="2123" decoding="async" loading="lazy">
         </div>
-      </section>
-
-      <section class="case-section reveal">
-        <h2>Read the full case study</h2>
-        <p>The complete annotated board, including every flow, wireframe, and screen, lives in Figma.</p>
-        <div class="case-cta" style="margin-top:20px">
+        <div class="case-cta">
           <a class="btn btn-primary" href="https://www.figma.com/design/AQDJdRHfd2DbPeyDAbBeq8/Omar-s-Portfolio?node-id=761-25573" target="_blank" rel="noopener">Open in Figma <span class="arrow">&#8599;</span></a>
         </div>
       </section>
@@ -81,7 +79,7 @@
     <nav class="case-next wrap" aria-label="Next project">
       <a href="morgan-morgan.html">
         <span class="n-label">Next project</span>
-        <span class="n-name">Morgan & Morgan &rarr;</span>
+        <span class="n-name">Morgan &amp; Morgan &rarr;</span>
       </a>
     </nav>
   </main>

@@ -442,6 +442,30 @@ a.index-item:hover .i-go {
   line-height: 1.5;
   font-weight: 500;
 }
+.stats {
+  margin-top: 36px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding-block: 24px;
+  border-block: 1px solid var(--line-soft);
+}
+.stat-num {
+  display: block;
+  font-size: clamp(1.9rem, 3.4vw, 2.7rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  color: var(--accent);
+}
+.stat-label {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
 .chips {
   margin-top: 28px;
   display: flex;
@@ -583,21 +607,23 @@ a.index-item:hover .i-go {
   font-weight: 700;
   font-size: 0.98rem;
 }
-.figure-slot {
-  border-radius: var(--radius);
-  background: var(--c-bg);
-  color: var(--c-ink);
-  aspect-ratio: 16 / 9;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 24px;
+.board-section > p {
+  color: var(--muted);
 }
-.figure-slot span {
-  opacity: 0.7;
-  font-size: 0.95rem;
-  max-width: 44ch;
+.board-stack {
+  margin-top: 24px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--line-soft);
+  background: #050505;
+}
+.board-stack img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.board-section .case-cta {
+  margin-top: 28px;
 }
 .case-cta {
   display: flex;
@@ -700,6 +726,9 @@ a.index-item:hover .i-go {
   .case-meta-grid {
     grid-template-columns: 1fr 1fr;
     gap: 20px;
+  }
+  .stats {
+    grid-template-columns: 1fr 1fr;
   }
   .case-list {
     grid-template-columns: 1fr;
