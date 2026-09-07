@@ -4,10 +4,11 @@
  "category": "DTC e-commerce",
  "tier": "light",
  "dek": "Selling a three step treatment routine to people burned by products that promised dryness and delivered irritation.",
+ "attribution": "An unsolicited concept study built around the existing Duradry brand, with which I have no affiliation. The brand, products, and photography belong to their owners, while the research, flows, screens, and system work shown here are my own exploration and were never commissioned or shipped.",
  "at_a_glance": {
   "role": "Sole UX/UI designer, end to end",
   "type": "Independent concept project",
-  "year": null,
+  "year": "2023",
   "platform": "Responsive web",
   "scope": "Competitor analysis, user journey, design system, hi-fi UI, usability test plan",
   "industry": "DTC personal care",
@@ -34,24 +35,24 @@
    {
     "figure": "b18-crop.jpg",
     "caption": "The hero names the condition outright, then answers it in one line, so sufferers know instantly this page is for them.",
-    "alt": "Duradry homepage hero with red product lineup on a white ground, headline asking about excessive sweating, and a red Get Started For 20 dollars button.",
+    "alt": "Duradry homepage hero with three red products on a pale blue ground with leaf shadows, a headline asking do you suffer from excessive sweating, and a red Get Started For 20 dollars button.",
     "frame": "light"
    },
    {
-    "figure": "b19-crop.jpg",
-    "caption": "PM, AM, and Wash sit side by side with price ranges, framing three products as one treatment rather than a catalog to compare.",
-    "alt": "Product carousel showing Duradry PM, AM, and Wash on pale blue tiles with star ratings and price ranges under an Excessive Sweating headline.",
+    "figure": "b19-fix.jpg",
+    "caption": "PM, AM, and Wash sit side by side with price ranges, framing three products as one treatment rather than a catalog to compare. The placeholder intro line under the headline is masked in this slice.",
+    "alt": "Product carousel showing Duradry PM, AM, and Wash on pale blue tiles with star ratings and price ranges under an Excessive Sweating headline, with blank space where intro copy sat.",
     "frame": "light"
    },
    {
-    "figure": "b23.jpg",
-    "caption": "The routine is compressed to three photographed steps, bedtime, morning, wash, so the regimen reads as habit, not homework.",
+    "figure": "b23-fix.jpg",
+    "caption": "The routine is compressed to three photographed steps, bedtime, morning, wash, so the regimen reads as habit, not homework. The dummy intro paragraph under the headline is masked in this slice.",
     "alt": "3 Simple Steps section with three photos, hands opening a PM sachet, applying AM cream, and a man holding the wash, each with a step caption.",
     "frame": "light"
    },
    {
     "figure": "b25-crop.jpg",
-    "caption": "A bar comparison against clinical antiperspirants and deodorants makes the strength claim visual and checkable at a glance.",
+    "caption": "A bar comparison against clinical antiperspirants and deodorants turns the strength claim into one picture. The bars carry no numbers, they rank the categories rather than measure anything.",
     "alt": "Unbelievable Sweat Protection section with horizontal bars comparing Duradry to antiperspirant categories, beside a hand holding the red wash tube.",
     "frame": "light"
    },
@@ -62,14 +63,15 @@
     "frame": "light"
    },
    {
-    "figure": "b28-crop.jpg",
-    "caption": "A long first person testimonial does the emotional work the clinical bars cannot, proof from someone who lived the problem.",
-    "alt": "Testimonial section with two smiling people holding a Duradry product beside a monospaced customer review under an Easy to apply headline.",
+    "figure": "b28-fix.jpg",
+    "caption": "One long first person review does the emotional work the comparison bars cannot. The quote is content I did not collect myself, so the reviewer's name is masked in this slice.",
+    "alt": "Testimonial section with two smiling people holding a Duradry product beside a monospaced customer review, reviewer name masked, under an Easy to apply headline.",
     "frame": "light"
    }
   ]
  },
  "validation": {
+  "claim_h2": "How I planned to test it",
   "flows": [
    "Find the main products",
    "Compare product benefits",
@@ -78,7 +80,8 @@
    "Confirm free shipping"
   ],
   "changed": [],
-  "honest_line": "The task scenarios could check whether the page's information scent holds up, whether people can find products, usage, and shipping answers, but not whether skeptical buyers would actually convert or stay subscribed."
+  "honest_line": "A moderated walkthrough of these five tasks could show whether the page's information scent holds, whether a first time visitor can locate the products, the routine, the reviews, and the shipping answer without help. It could not show whether a skeptical buyer would pay, stay subscribed, or believe the clinical claims.",
+  "limit_line": "What follows is a plan for testing a concept, not a record of sessions. No participants were recruited, so no claim in this study is backed by live usage."
  },
  "learnings": [],
  "appendix": {

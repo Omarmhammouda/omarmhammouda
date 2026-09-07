@@ -2,14 +2,15 @@
  "slug": "content-cloud",
  "name": "Content Cloud",
  "category": "Content platform",
- "tier": "light",
+ "tier": "full",
  "dek": "One workspace for planning, publishing, and tracking content.",
+ "attribution": "An unsolicited, unaffiliated concept study built around the existing Futuri Content Cloud brand. The name and product belong to Futuri Media, and the research, page designs, component library, and testing plan shown here are my own exploration, never commissioned, endorsed, or shipped.",
  "at_a_glance": {
   "role": "Sole UX/UI designer, end to end",
   "type": "Independent concept project",
   "year": "2023",
   "platform": "Responsive web",
-  "scope": "Research, competitor analysis, user journeys, design system, hi-fi UI, usability testing",
+  "scope": "Research, competitor analysis, user journeys, design system, hi-fi UI, usability test planning",
   "industry": "Creator tools and social analytics",
   "hard_part": "Marketing an analytics product to creators who distrust dashboards, without hiding the data behind hype.",
   "look_for": "How each landing section pairs a creator pain point with the exact tool that answers it, ending in one clear action."
@@ -25,24 +26,50 @@
   ],
   "research_note": "Desk research covered six competitors including Later, Hootsuite, Buffer, CoSchedule, Sprout Social, and ContentStudio, mapped by features, strengths, and gaps."
  },
- "decisions": [],
- "pull_quote": null,
+ "decisions": [
+  {
+   "title": "Identity first: the hero is the brand behaving like content",
+   "thesis": "The first screen sells belonging before it sells features, so the opening moment is a glitch treated wordmark, not a product shot.",
+   "rationale": "The board annotates the hero as a bold, immersive visual dominated by a glitch style treatment of the logo, built to claim a futuristic, creator native identity in the first second. The rejected alternative was the standard SaaS opener, a headline beside a product screenshot and a signup field, which would have front loaded information for a visitor who has not yet decided the brand is for them. This page bets that a creator scrolls for proof once the identity lands, and every section that follows carries one feature and one button to collect that attention. The accepted cost is plain: above the fold there is no feature claim at all, so a visitor hunting for capabilities has to scroll or hit the navigation, and the most valuable screen on the site is spent entirely on tone.",
+   "figure": "b23-crop.jpg",
+   "caption": "The opening screen commits everything to identity, a chromatic glitch treatment of the wordmark, with every feature claim deferred below the fold.",
+   "alt": "Hero screen with a navy navigation bar and a glitching chromatic Futuri Content Cloud wordmark and cloud icon over a deep blue textured background.",
+   "source_blocks": [
+    22,
+    23
+   ]
+  },
+  {
+   "title": "The screenshot is the sales pitch",
+   "thesis": "For creators who already distrust dashboards, an illustration would confirm the suspicion, so the Tools page opens on the interface itself.",
+   "rationale": "The Tools page hero pairs the promise of one dashboard for every platform with a full screenshot of the analytics surface: a channel rail on the left, an audience donut in the center, a growth over time chart on the right. The rejected alternative was the abstract or stock illustration most marketing pages reach for, safer to art direct but proof of nothing. Leading with the actual mockup makes the stronger claim, and its cost lands in two places. Interface text at hero scale is decorative rather than readable, so the screenshot works as proof of shape, not documentation. And the mockup's own sample content becomes marketing copy, because the audience totals and daily tips inside the frame are placeholder data, so the image can promise a kind of tool but never a result.",
+   "figure": "b31-fix.jpg",
+   "caption": "The Tools page opens on the analytics surface itself. The totals and tips inside the shot are placeholder data, and the prototype's navigation chrome is cropped out of this slice.",
+   "alt": "Tools page hero reading all your platforms one dashboard above a dashboard mockup with a channel sidebar, an audience donut chart, and a stacked area growth graph.",
+   "source_blocks": [
+    31,
+    33
+   ]
+  },
+  {
+   "title": "Community gets a section, not a footer icon",
+   "thesis": "The lonely part of creating is treated as a product problem, so the Discord community holds a full section just before the closing pitch.",
+   "rationale": "The copy across the landing page keeps naming isolation. One section asks whether you are aimlessly making content and hoping people care, another admits that most days feel like losing the race. Tools alone cannot answer that feeling, so the community section responds in kind, telling the visitor they do not have to do it alone and framing the Discord based creator community as something every user gains access to. The rejected alternative was the usual home for community, a row of social icons in the footer, which costs no space but signals an afterthought. Elevating it to a full section spends an entire scroll on something that is not a tool and pushes the closing summary farther down an already long page, a cost accepted because belonging is the one claim a screenshot cannot make.",
+   "figure": "b28-crop.jpg",
+   "caption": "Discord holds its own purple section just before the closing pitch, so support reads as part of the product rather than a footer courtesy.",
+   "alt": "Purple section with a large Discord icon, headline you don't have to do it alone, community copy, and a yellow start your journey for free today button over a wave pattern.",
+   "source_blocks": [
+    25,
+    27,
+    28
+   ]
+  }
+ ],
+ "pull_quote": "Name the fear, show the tool, ask for one click. Every section runs that loop on a skeptic who has seen the hype before.",
  "design": {
   "claim_h2": "Every section earns the next scroll",
-  "intro": "The site walks a skeptical creator from identity to proof to community, and each section closes with a single unmistakable action.",
+  "intro": "Between the hero and the closing pitch, each landing section names one creator pain, pairs it with the tool that answers it, and closes on a single action.",
   "figures": [
-   {
-    "figure": "b23-crop.jpg",
-    "caption": "A glitch-treated wordmark opens the site, claiming a creator-native identity before any feature talk begins.",
-    "alt": "Hero screen with a navy navigation bar and a glitching chromatic Futuri Content Cloud logo over a deep blue background.",
-    "frame": "dark"
-   },
-   {
-    "figure": "b31.jpg",
-    "caption": "The Tools page leads with the real analytics dashboard, so the product proof is the marketing, not a stock illustration.",
-    "alt": "Tools page showing a dashboard mockup with a donut chart of total audience by channel and a stacked growth graph, followed by a trending content module.",
-    "frame": "dark"
-   },
    {
     "figure": "b25-crop.jpg",
     "caption": "The audience section names the fear of posting into the void, then answers it with a free dashboard as the low-risk first step.",
@@ -50,20 +77,21 @@
     "frame": "dark"
    },
    {
-    "figure": "b28-crop.jpg",
-    "caption": "Community gets its own section with Discord front and center, positioning support as a feature rather than a footer link.",
-    "alt": "Purple section with a Discord icon, headline you don't have to do it alone, and a yellow start-for-free button over a wave pattern.",
+    "figure": "b26-crop.jpg",
+    "caption": "The timing section promises to answer what to post and when to post it, then keeps the ask singular with one aspirational button.",
+    "alt": "Dark section with headline know what to post and when to post it, concentric ring graphics, a circular photo of a woman in neon light, and a lets go viral button.",
     "frame": "dark"
    },
    {
     "figure": "b29-crop.jpg",
-    "caption": "Six numbered pillars beside the live dashboard compress the whole pitch into one closing summary before the final call to action.",
+    "caption": "Six numbered pillars beside a dashboard screenshot compress the whole pitch into one closing summary before the final call to action.",
     "alt": "Section titled what is Futuri Content Cloud listing six numbered benefits next to an analytics dashboard screenshot with a glowing button below.",
     "frame": "dark"
    }
   ]
  },
  "validation": {
+  "claim_h2": "How I planned to test it",
   "flows": [
    "Learn what the platform does",
    "Join the creator community",
@@ -72,9 +100,14 @@
    "Catch up on platform news"
   ],
   "changed": [],
-  "honest_line": "Moderated sessions confirmed people could navigate the site and find each answer, but only a live product could show whether the insights change what creators actually post."
+  "honest_line": "A moderated walkthrough of these five tasks could show whether a first time visitor finds the tools, the community, and help without prompting, and whether each section's single action reads as the obvious next step. It could not show whether the insights would change what a creator actually posts, and no completed sessions or findings are documented anywhere on these boards.",
+  "limit_line": "This chapter is a testing plan for a concept site, not a record of sessions with real creators, and no part of the design has been validated by live usage."
  },
- "learnings": [],
+ "learnings": [
+  "When the product screenshot is the hero, its placeholder content becomes marketing copy. The dashboard mockups carry sample totals and filler tips, and anything legible at hero scale reads as a promise, so mock data needs the same curation as the interface around it.",
+  "One ask per scroll is a discipline, not a layout preference. Pairing each named creator fear with a single button kept every section focused and honest, and the accepted price is a long page where each section has to earn attention all over again.",
+  "A saturated identity on dark surfaces holds together only because every hue is a documented ramp. The eight step tonal scales made contrast decisions on navy backgrounds repeatable, and the shared component sheet meant the navigation, cards, and dropdowns never had to be reinvented across the four pages."
+ ],
  "appendix": {
   "framing": "The system underneath the marketing surface: a componentized navigation, card, and dropdown library on a 12-column grid, and tonal ramps for every brand color.",
   "figures": [

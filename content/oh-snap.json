@@ -4,10 +4,11 @@
  "category": "Mobile app and UI kit",
  "tier": "light",
  "dek": "Creators plan trips with strangers from the internet. The app has to make that feel organized and safe.",
+ "attribution": "Oh Snap is an invented product that exists only in this concept study. Every part of it, from the brand and UI kit to the research, flows, and screens, is my own unaffiliated work, never commissioned by anyone and never shipped.",
  "at_a_glance": {
   "role": "Sole UX/UI designer, end to end",
   "type": "Independent concept project",
-  "year": null,
+  "year": "2020",
   "platform": "iOS mobile app",
   "scope": "Competitor analysis, user flows, UI kit, hi-fi UI, heuristic evaluation",
   "industry": "Travel and creator collaboration",
@@ -33,8 +34,8 @@
   "figures": [
    {
     "figure": "b22-crop.jpg",
-    "caption": "Entry keeps to two actions on a full-bleed travel image, then plain email forms with password visibility and recovery.",
-    "alt": "Three iPhone screens: a splash with an airplane wing photo and Oh Snap wordmark, then log in and sign up forms with teal buttons and open keyboards.",
+    "caption": "Entry keeps to two actions on a full-bleed travel image, then plain email forms with password visibility and recovery. The open keyboards are static components pasted from the kit, suggestion strip included, with no field actually focused.",
+    "alt": "Three iPhone screens: a splash with an airplane wing photo and Oh Snap wordmark, then log in and sign up forms with teal buttons and static keyboards whose suggestion strip reads Helli above empty fields.",
     "frame": "dark"
    },
    {
@@ -64,6 +65,7 @@
   ]
  },
  "validation": {
+  "claim_h2": "The walkthroughs I scripted but never ran",
   "flows": [
    "Invite a collaboration from home",
    "Turn a chat into an invite",
@@ -71,7 +73,8 @@
    "Post the trip and credit your partner"
   ],
   "changed": [],
-  "honest_line": "Formal testing with users was out of scope. Heuristic walkthroughs of these scripted tasks caught clarity issues and drove small fixes, but the trust model itself remains unvalidated."
+  "honest_line": "Run as scripted, these walkthroughs could show whether people find the invite entry points and read the pending and approved states correctly. They could not settle whether two strangers would trust each other enough to travel together, which is the bet the whole app makes. The only evaluation that did happen was my own heuristic pass, which produced small clarity fixes.",
+  "limit_line": "This chapter is a scripted plan for evaluating a concept, not a report of moderated sessions: no participant ever sat down with Oh Snap, and nothing here carries the weight of live usage."
  },
  "learnings": [],
  "appendix": {
@@ -79,8 +82,8 @@
   "figures": [
    {
     "figure": "b21.jpg",
-    "caption": "The kit's working parts: icon set, keyboards, destination cards, profile stats, nav bar variants, and a voice note player.",
-    "alt": "A UI kit sheet on a dark board showing teal icons, number and text keyboards, two destination post cards, a profile stat card, stacked navigation bar variants, and a voice note component.",
+    "caption": "The kit sheet straight from the working file, dashed group outlines still visible: icon set, keyboards, status bars, destination cards, a profile stat card, nav bar variants, and a voice note player.",
+    "alt": "A UI kit sheet on a dark board with dashed outlines around each component group, showing teal icons, number and text keyboards, two destination post cards, a profile stat card, stacked navigation bar variants, and a voice note component.",
     "frame": null
    },
    {

@@ -18,8 +18,8 @@ CONTENT = ROOT / "content"
 OUT = ROOT / "projects"
 CASE_ASSETS = ROOT / "assets" / "case"
 
-ORDER = ["karma", "hm", "mockquestions", "imperfect-foods", "wnder", "morgan-morgan",
-         "sanctify", "content-cloud", "duradry", "nuvie", "oh-snap"]
+ORDER = ["hm", "sanctify", "content-cloud", "mockquestions", "karma", "imperfect-foods",
+         "wnder", "morgan-morgan", "duradry", "nuvie", "oh-snap"]
 
 PALETTE = {
     "karma": ("#dcefe3", "#0e3b2e", "#58b98b"),
@@ -34,8 +34,6 @@ PALETTE = {
     "nuvie": ("#f6c89b", "#3a2415", "#e8923f"),
     "oh-snap": ("#d9c1a3", "#191a1c", "#c29a62"),
 }
-
-LIMIT_LINE = "As a concept project, testing was moderated task walkthroughs, not longitudinal use."
 
 errors = []
 all_paragraphs = {}
@@ -133,7 +131,7 @@ def build(slug):
         lint_text(slug, f"glance.{k}", str(v or ""))
     lint_paragraph(slug, "dek", c["dek"])
 
-    nxt = c["next"]
+    nxt = ORDER[(ORDER.index(slug) + 1) % len(ORDER)]
     nbg, nink, nchip = PALETTE[nxt]
     nname = json.loads((CONTENT / f"{nxt}.json").read_text())["name"]
 
@@ -148,6 +146,11 @@ def build(slug):
 
     rail = "".join(f'<a href="#{a}"><span>{nums[a]}</span>{title}</a>'
                    for a, title in anchors)
+
+    attribution = c.get("attribution") or ""
+    if len(attribution) < 30:
+        err(slug, "attribution line missing or too thin: every study must state its relationship to the real brand")
+    lint_paragraph(slug, "attribution", attribution)
 
     g = c["at_a_glance"]
     glance_cells = "".join(
@@ -215,11 +218,16 @@ def build(slug):
         for x in v["changed"][:2]:
             lint_text(slug, "validation changed", x)
         changed = f'<ul class="changed-list">{items}</ul>'
-    ch_validation = (chapter_open("validation", nums["validation"], "What testing could and could not tell me")
+    limit_line = v.get("limit_line") or ""
+    if not limit_line or len(limit_line) < 20:
+        err(slug, "validation.limit_line missing: each study must state its own testing reality")
+    lint_paragraph(slug, "limit_line", limit_line)
+    v_title = v.get("claim_h2") or "What testing could and could not tell me"
+    ch_validation = (chapter_open("validation", nums["validation"], v_title)
                      + f'<div class="pill-row">{pills}</div>'
                      + changed
                      + f"<p>{esc(v['honest_line'])}</p>"
-                     + f'<p class="limit-line">{esc(LIMIT_LINE)}</p></section>')
+                     + f'<p class="limit-line">{esc(limit_line)}</p></section>')
 
     # Chapter 05: learnings
     ch_learned = ""
@@ -246,6 +254,10 @@ def build(slug):
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>document.documentElement.classList.add("js")</script>
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <meta property="og:title" content="{esc(name)}, a concept case study by Omar M. Hammouda">
+  <meta property="og:image" content="https://omarmhammouda.com/assets/covers/{slug}.jpg">
   <title>{esc(name)}, case study by Omar M. Hammouda</title>
   <meta name="description" content="{esc(c['dek'])}">
   <link rel="preload" href="../assets/fonts/satoshi-900.woff2" as="font" type="font/woff2" crossorigin>
@@ -253,6 +265,7 @@ def build(slug):
   <link rel="stylesheet" href="../styles.css?v=11">
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
 
   <header class="nav">
     <div class="wrap nav-inner">
@@ -267,7 +280,7 @@ def build(slug):
     <div class="progress" style="--chip:{chip}" aria-hidden="true"></div>
   </header>
 
-  <main>
+  <main id="main">
     <section class="case-hero" style="--c-bg:{bg};--c-ink:{ink}">
       <span class="case-ghost" aria-hidden="true">{name_html}</span>
       <div class="wrap">
@@ -284,6 +297,7 @@ def build(slug):
 
     <section class="glance wrap reveal">
       <div class="glance-grid">{glance_cells}</div>
+      <div class="glance-row"><span class="m-label">Authorship</span><p>{esc(attribution)}</p></div>
       <div class="glance-row"><span class="m-label">The hard part</span><p>{esc(g['hard_part'])}</p></div>
       <div class="glance-row"><span class="m-label">Look for</span><p>{esc(g['look_for'])}</p></div>
     </section>

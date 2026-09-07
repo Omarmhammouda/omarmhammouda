@@ -3,16 +3,17 @@
  "name": "NuVIE",
  "category": "Mobile app",
  "tier": "light",
+ "attribution": "NuVIE is a fictional streaming companion app invented for this concept study, and the name, brand, research, flows, and screens are entirely my own work. The streaming service logos that appear inside the mockups belong to their respective owners and indicate where a title could be watched, nothing more.",
  "dek": "A watch-tracking app built around deciding what to watch next.",
  "at_a_glance": {
   "role": "Sole UX/UI designer, end to end",
   "type": "Independent concept project",
-  "year": null,
+  "year": "2022",
   "platform": "iOS mobile app",
-  "scope": "Competitor analysis, user flows, design system, hi-fi UI, usability testing",
+  "scope": "Competitor analysis, user flows, design system, hi-fi UI, usability test plan",
   "industry": "Streaming and entertainment",
   "hard_part": "Turning an open-ended catalog into a short guided path, so a person with decision fatigue lands on one confident pick instead of endless scrolling.",
-  "look_for": "How the mood questionnaire, mode picker, and folder-based watchlists all push toward the same goal: fewer options on screen at any moment."
+  "look_for": "How the mode picker, the onboarding genre step, and the questionnaire components all push toward the same goal: fewer options on screen at any moment."
  },
  "problem": {
   "claim_h2": "The problem is not finding movies. It is choosing one.",
@@ -29,7 +30,7 @@
  "pull_quote": null,
  "design": {
   "claim_h2": "A guided path from mood to one good pick",
-  "intro": "Every screen narrows the decision: pick a mode, answer a few playful questions, get a short list, then track what you saved and watched.",
+  "intro": "Read this chapter as flow and system work rather than finished content. The mode picker, the onboarding order, and the component sheet define how a person would move from a mood to a short list, while several downstream screens in the source file still hold placeholder posters and copy, so the argument here lives in the structure of the path, not in polished surfaces.",
   "figures": [
    {
     "figure": "b02.jpg",
@@ -39,25 +40,14 @@
    },
    {
     "figure": "b19-crop.jpg",
-    "caption": "Onboarding folds genre selection into signup, so the first recommendation set has taste data before the home screen loads.",
-    "alt": "Four orange onboarding screens: login, signup with Google, Facebook and Apple options, a favorite-genre picker grid, and a confirmation screen.",
-    "frame": "dark"
-   },
-   {
-    "figure": "b20-crop.jpg",
-    "caption": "One answer per card, one question per screen. The questionnaire replaces catalog scrolling with a short guided quiz that ends in a results grid.",
-    "alt": "Four screens showing the home feed grouped by Netflix, Hulu and HBO Max, the mode picker, a mood question with four answer cards, and a results grid.",
-    "frame": "dark"
-   },
-   {
-    "figure": "b21-crop.jpg",
-    "caption": "Detail pages surface streaming logos and watch progress inline, and favorites split into user-named folders like Weekend Watchlist.",
-    "alt": "Movie detail screen with platform logos, rating and episode chips, next to a Favorite List screen organized into Weekend Watchlist and Horror folders with watched-percentage badges.",
+    "caption": "Onboarding runs login, social signup, a favorite genre step, then a confirmation screen. The genre tiles are unlabeled placeholders at concept fidelity, and what the flow commits to is the order: taste capture before the home feed ever loads.",
+    "alt": "Four orange NuVIE onboarding screens: a login form, a signup screen with Google, Facebook and Apple buttons, a genre picker made of blank placeholder circles, and a confirmation screen with a Next button.",
     "frame": "dark"
    }
   ]
  },
  "validation": {
+  "claim_h2": "How I planned to put it in front of people",
   "flows": [
    "Answer preference questions",
    "Find a movie by mood",
@@ -66,7 +56,8 @@
    "Organize saved titles by genre"
   ],
   "changed": [],
-  "honest_line": "Scenario-based sessions checked whether the recommendation flow, streaming links, and favorite folders were discoverable and intuitive; as a concept prototype, they could not measure whether guided picks beat browsing over real weeks of use."
+  "honest_line": "Walking a participant through these tasks could show whether the mode picker reads as the start of the journey, whether the questionnaire feels faster than browsing a feed, and whether the folder structure for saved titles is discoverable. It could not show whether guided picks actually beat open scrolling over time, and because the catalog screens hold placeholder posters, it could not test how real cover art would shape the choice.",
+  "limit_line": "What stands here is a plan for sessions that never took place: no participant has used NuVIE, and none of these screens has been checked against live behavior."
  },
  "learnings": [],
  "appendix": {

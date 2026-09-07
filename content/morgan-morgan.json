@@ -4,12 +4,13 @@
  "category": "Marketing site",
  "tier": "light",
  "dek": "A clearer path to legal help for people who fear the cost of asking.",
+ "attribution": "An unsolicited, unaffiliated concept study built around the existing Morgan & Morgan law firm brand. The name, marketing claims, and identity belong to the firm, while the research, flows, screens, and design system shown here are my own exploration, never commissioned, reviewed, or shipped by anyone at Morgan & Morgan.",
  "at_a_glance": {
   "role": "Sole UX/UI designer, end to end",
   "type": "Independent concept project",
   "year": "2021",
   "platform": "Responsive web",
-  "scope": "Competitor analysis, user journey, design system, hi-fi homepage, usability testing",
+  "scope": "Competitor analysis, user journey, design system, hi-fi homepage, usability test plan",
   "industry": "Legal services",
   "hard_part": "Earning trust from stressed, first-time visitors fast enough that they act before hesitation about cost and outcome wins.",
   "look_for": "How every section answers one objection in sequence: can I trust them, can they win, what will it cost, what do I do now."
@@ -39,31 +40,26 @@
    },
    {
     "figure": "b23-crop.jpg",
-    "caption": "Result cards pair the final award with the pre-trial offer, turning an abstract claim about never settling into inspectable evidence.",
-    "alt": "Navy section titled We Never Settle for Less with two white case cards showing car accident verdicts against much smaller pre-trial offers, beside an attorney portrait.",
+    "caption": "Result cards pair the final award with the pre-trial offer to argue the firm never settles cheap. Both cards in this concept frame carry the same placeholder figures, a repeated $4,930,000 over $300,001, so what it demonstrates is the comparison layout, not verified case outcomes.",
+    "alt": "Navy section titled We Never Settle for Less with two white case cards that both display an identical $4,930,000 award above an identical $300,001 pre-trial offer, beside an attorney portrait.",
     "frame": "dark"
    },
    {
     "figure": "b25-crop.jpg",
     "caption": "A quiet values section states who the firm fights for in plain language, giving hesitant visitors a reason to believe before the ask.",
-    "alt": "Light section titled We Fight For The People with short paragraphs of plain-language copy beside a photo of a gavel resting on a book and cash.",
+    "alt": "Light section titled We fight For The People with short paragraphs of plain-language copy beside a photo of a gavel resting on a book and cash.",
     "frame": "light"
    },
    {
     "figure": "b26-crop.jpg",
-    "caption": "A side-by-side table contrasts retainer and contingency billing, dismantling the cost objection right before the evaluation CTA.",
-    "alt": "Light comparison section titled It's Free Unless We Win with two columns comparing retainer-based and contingency-based models above a yellow CTA button.",
-    "frame": "light"
-   },
-   {
-    "figure": "b27-crop.jpg",
-    "caption": "The evaluation form asks only what intake needs, with a lawyer-and-client photo alongside to keep the step feeling human, not legal.",
-    "alt": "Light section with a photo of a lawyer speaking with an older client next to a short case evaluation form with name, contact, zip code, case type, and description fields.",
+    "caption": "A side-by-side table contrasts retainer and contingency billing right before the evaluation CTA. One flaw survives in this frame: both columns reuse the same checkmark bullet, so retainer drawbacks like pay even if you lose read as endorsements, a detail the next pass would swap for cross marks.",
+    "alt": "Light comparison section titled It's Free Unless We Win with two columns comparing retainer based and contingency based models, every line in both columns marked with an identical checkmark, above a yellow CTA button.",
     "frame": "light"
    }
   ]
  },
  "validation": {
+  "claim_h2": "How I planned to test the argument",
   "flows": [
    "Learn about the firm",
    "Judge if they can win",
@@ -71,7 +67,8 @@
    "Schedule a consultation"
   ],
   "changed": [],
-  "honest_line": "Moderated sessions with first-time visitors showed the page communicates credibility and a clear next step, but a concept test cannot prove real claimants under real stress would convert."
+  "honest_line": "A moderated walkthrough of this page could show whether first-time visitors understand the cost model, believe the credibility signals, and find the evaluation form without help. It could not show whether a stressed claimant with a real case would trust a concept page enough to act, so any claim about conversion stays out of reach.",
+  "limit_line": "This is the plan for evaluating a concept, not an account of sessions that ran. The study reports no participants, no quotes, and no findings, and none of its claims rest on observed use."
  },
  "learnings": [],
  "appendix": {

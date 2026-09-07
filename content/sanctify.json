@@ -2,8 +2,9 @@
  "slug": "sanctify",
  "name": "Sanctify",
  "category": "Analytics dashboard",
- "tier": "light",
+ "tier": "full",
  "dek": "An analytics dashboard and the system behind it: Catholic values screening made inspectable.",
+ "attribution": "An unsolicited concept study built around Sanctify, an existing Catholic values screening product. The brand, name, and product belong to their owners; the research, flows, screens, and system work shown here are my own exploration and were never commissioned, endorsed, or shipped.",
  "at_a_glance": {
   "role": "Sole UX/UI designer, end to end",
   "type": "Independent concept project",
@@ -25,34 +26,69 @@
   ],
   "research_note": "Desk research compared Inspire Investing, Eventide, and GuideStone Funds on messaging, transparency, and data visualization, which surfaced the pain points above."
  },
- "decisions": [],
- "pull_quote": null,
+ "decisions": [
+  {
+   "title": "Every grade opens into the screens that produced it",
+   "thesis": "A composite moral score is credible only while it can be decomposed on sight, so decomposition is the dashboard's default state, not a drill-down.",
+   "rationale": "The competitor scan put opacity at the top of the pain list: Inspire Investing and Eventide both keep their screening methodology hidden behind the score. Sanctify answers structurally. Research Details renders all twelve moral categories as cards, each pairing a letter grade ring with a labeled bar for every underlying screen, and the Screenset Info panel repeats the same anatomy beside the headline rating. The rejected alternative was the industry default, one composite score with a methodology page a click away, which is simpler to lay out but asks users to leave the screen to interrogate the number, exactly the move that reads as marketing. The accepted cost is density: twelve open cards make the dashboard long, and scanning it takes visibly more effort than a single reassuring number would.",
+   "figure": "b30-crop.jpg",
+   "caption": "Twelve category cards, each pairing a letter grade with a labeled bar per screen, so the rating reads as an argument to check rather than a verdict to accept.",
+   "alt": "Grid of screening category cards for Adult Content, Alcohol, Banking and Lending, Corporate Donations, Environment, Medical Ethics, and others, each with a colored letter grade ring and horizontal score bars for individual screens.",
+   "source_blocks": [
+    3,
+    7,
+    30,
+    31
+   ]
+  },
+  {
+   "title": "A weight field hands the moral policy to the investor",
+   "thesis": "Checkboxes decide what gets screened, but only weights decide what matters, so the builder makes every included screen carry a user-set value.",
+   "rationale": "The screenset builder runs in four mobile steps: pick screens by category, weight each one, name the set, then read the graded report. The second step is the decision. Each selected screen, grouped under headings like Environment, Smoking, and Weapons, carries an editable value field and a delete control, so an investor encodes how much each concern counts in their own policy before the report grades it. The lighter alternative was to stop at the first screen's checkbox pattern, include or exclude and nothing more, which would have flattened every concern to equal importance and quietly made the platform the moral authority. The accepted cost is friction: a four-step flow with a numeric decision per screen asks more of the user than a one-screen picker ever would.",
+   "figure": "b38-crop.jpg",
+   "caption": "Four steps: pick screens, weight each one, name the set, read the graded report. The value fields in the second screen are where the user's own policy enters the score.",
+   "alt": "Four mobile screens of the Add Screenset flow: a category and screen picker, a weighting screen with editable value fields grouped under Environment, Smoking, and Weapons, a checklist for naming the set, and a Research Details report with letter grades.",
+   "source_blocks": [
+    9,
+    38
+   ]
+  },
+  {
+   "title": "The marketing page previews the product with real components",
+   "thesis": "The clearest gap in the scan, no dashboard preview before signup, was closed by rebuilding dashboard components inside the marketing page itself.",
+   "rationale": "Every competitor reviewed hid the product until after registration: Eventide requires an account to see its dashboard at all, and none of the three showed working data visualization up front. Sanctify's marketing sections carry the actual component kit instead, a Screenset Information card with its rating ring and category bars, a sector breakdown chart, and a market value card, sitting beside the value proposition. The rejected alternative was the safe one, stylized illustrations or a gated demo, which would have kept the page easy to maintain but contradicted the transparency claim in the headline directly above it. The accepted cost runs two ways: the marketing page inherits product upkeep forever, and in this concept the supporting body copy beside the components is still placeholder text, plainly visible in the figure.",
+   "figure": "b25-crop.jpg",
+   "caption": "A working rating card, sector chart, and market value card sit inside the marketing page. The body copy beside them is still placeholder text, left visible rather than hidden.",
+   "alt": "Marketing section pairing an AA rating ring over category score bars, a sector breakdown chart, and a market value card with a headline about Catholic values investing above placeholder body copy.",
+   "source_blocks": [
+    7,
+    24,
+    25,
+    26
+   ]
+  }
+ ],
+ "pull_quote": "A moral score that cannot show its math is just branding. Every surface in this system exists to show the math.",
  "design": {
   "claim_h2": "Show the score's work, everywhere the score appears",
   "intro": "One green-led component language carries the moral rating from the first marketing touch to the deepest dashboard card.",
   "figures": [
    {
-    "figure": "b23-crop.jpg",
+    "figure": "b23-fix2.jpg",
     "caption": "The hero pairs the value proposition with a full trial signup form, so conversion starts before any scrolling.",
     "alt": "Sanctify homepage hero: dark navy background, white headline about Catholic values investing, and a white 14-day free trial signup form with name, email, company, and phone fields.",
     "frame": "dark"
    },
    {
-    "figure": "b25-crop.jpg",
-    "caption": "Real dashboard components on the marketing page preview the product before signup, a gap every competitor left open.",
-    "alt": "Marketing section showing dashboard previews: an AA score ring, a sector breakdown bar chart, a market value card, and a checklist of screening categories like Banking and Lending and Gambling.",
-    "frame": "light"
-   },
-   {
     "figure": "b30.jpg",
-    "caption": "The user dashboard breaks the rating into letter-graded categories with per-screen percentage bars, so the number is inspectable.",
-    "alt": "User dashboard with metric cards, an Add Screenset form, category cards graded A to D for Adult Content, Environment, and others, sector breakdown and performance charts, and notes and changes panels.",
+    "caption": "The user dashboard breaks the rating into letter graded categories with per-screen score bars. The note and changes panels at right still run on placeholder conversations, scaffolding for collaboration rather than evidence of it.",
+    "alt": "User dashboard with metric cards, an Add Screenset form, category cards graded A to D for Adult Content, Environment, and others, sector breakdown and performance charts, and note and changes panels filled with placeholder names and dummy text.",
     "frame": "light"
    },
    {
     "figure": "b33.jpg",
-    "caption": "The admin view swaps moral detail for oversight: user trends, a pass and fail donut of screened companies, and a managed user table.",
-    "alt": "Admin dashboard with user metrics, a yearly users line chart, a pass and fail company statistic donut, a recent users table with a row action menu, and activity log panels.",
+    "caption": "The admin view swaps moral detail for oversight: user trends, a pass and fail donut of screened companies, and a user table whose nine rows repeat one placeholder identity, filler a shipped build would replace.",
+    "alt": "Admin dashboard with user metrics, a yearly users line chart, a pass and fail company statistic donut, and a recent users table of nine rows sharing the same placeholder email and phone number.",
     "frame": "light"
    },
    {
@@ -64,6 +100,7 @@
   ]
  },
  "validation": {
+  "claim_h2": "How I planned to test it",
   "flows": [
    "Start the free trial",
    "Build a screen set",
@@ -72,16 +109,21 @@
    "Review a screening report"
   ],
   "changed": [],
-  "honest_line": "Testing was scoped to task scenarios walked through on the hi-fi prototype, enough to check navigation and hierarchy, not enough to claim validated behavior with real investors."
+  "honest_line": "Walking a participant through these five tasks could show whether the trial signup, the screenset builder, and the graded report each read as intended on first contact. It could not show whether real investors would trust these scores with real money, and the boards record no sessions, no participants, and no findings.",
+  "limit_line": "This chapter is the test I designed, not a test I ran: no participant ever sat with these screens, and no claim in this study rests on observed behavior."
  },
- "learnings": [],
+ "learnings": [
+  "Transparency is a component decision before it is a copy decision. The rating ring, the letter grade, and the labeled score bar carry the openness claim on every surface, from the marketing page to the deepest dashboard card, so trust never depends on a paragraph the user has to take on faith.",
+  "A weight field changes who owns the ethics. Include or exclude checkboxes make the platform the moral authority, but the value step in the screenset builder hands that authority to the investor, and the graded report that follows measures their policy rather than a house verdict.",
+  "Placeholder content is a debt the captions have to declare. The note panels, the repeated user row, and the lorem body copy were scaffolding left in these boards, and naming them plainly costs a study less than a reviewer discovering them unannounced."
+ ],
  "appendix": {
   "framing": "The flows and component sheet show how four surfaces stayed coherent. Every screen above is assembled from this one kit.",
   "figures": [
    {
     "figure": "b08-crop.jpg",
-    "caption": "Three user-story flows, investor screening, admin user creation, and visitor conversion, mapped before any UI was drawn.",
-    "alt": "Flowchart diagrams on black for three user stories: adding a screen set from the dashboard, an admin adding a user by invitation or manually, and a visitor moving from homepage to signup.",
+    "caption": "Three user-story flows, investor screening, admin user creation, and visitor conversion, kept here as working artifacts, story-label typos included, exactly as they steered the screens.",
+    "alt": "Flowchart diagrams on black for three user stories: adding a screen set from the dashboard, an admin adding a user by invitation or manually, and a visitor moving from homepage to signup, with rough uncorrected wording in the story labels.",
     "frame": null
    },
    {
