@@ -1,0 +1,6292 @@
+[
+ {
+  "i": 0,
+  "file": "b00.jpg",
+  "y0": 117,
+  "y1": 372,
+  "h": 255,
+  "color": 0.0,
+  "density": 0.158,
+  "lines": [
+   {
+    "t": "Futuri Content Cloud",
+    "x": 0.2238,
+    "y": 0.0391,
+    "w": 0.2994,
+    "h": 0.1642
+   },
+   {
+    "t": "A Platform Built to Guide, Support, and Inspire Creators",
+    "x": 0.2224,
+    "y": 0.3164,
+    "w": 0.5073,
+    "h": 0.1307
+   },
+   {
+    "t": "Futuri Content Cloud is a cloud based smart content solution that helps creators",
+    "x": 0.2224,
+    "y": 0.6911,
+    "w": 0.5276,
+    "h": 0.0824
+   },
+   {
+    "t": "and brands strategize, create, and share content more accurately and measurably,",
+    "x": 0.2224,
+    "y": 0.7886,
+    "w": 0.5436,
+    "h": 0.0903
+   },
+   {
+    "t": "from initial ideas to tangible results.",
+    "x": 0.2208,
+    "y": 0.8694,
+    "w": 0.2373,
+    "h": 0.1044
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "file": "b01.jpg",
+  "y0": 483,
+  "y1": 924,
+  "h": 441,
+  "color": 19.74,
+  "density": 0.298,
+  "lines": [
+   {
+    "t": "STANTOUR OUTTA",
+    "x": 0.6017,
+    "y": 0.1086,
+    "w": 0.048,
+    "h": 0.0099
+   },
+   {
+    "t": "FUTURI",
+    "x": 0.4985,
+    "y": 0.2938,
+    "w": 0.0741,
+    "h": 0.0711
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.4985,
+    "y": 0.3791,
+    "w": 0.1192,
+    "h": 0.0806
+   },
+   {
+    "t": "CLOUD",
+    "x": 0.5,
+    "y": 0.4686,
+    "w": 0.0946,
+    "h": 0.0817
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "file": "b02.jpg",
+  "y0": 1025,
+  "y1": 1523,
+  "h": 498,
+  "color": 2.1,
+  "density": 0.223,
+  "lines": [
+   {
+    "t": "Project Overview",
+    "x": 0.3401,
+    "y": 0.0622,
+    "w": 0.1599,
+    "h": 0.0586
+   },
+   {
+    "t": "FUTURI",
+    "x": 0.2349,
+    "y": 0.1333,
+    "w": 0.0317,
+    "h": 0.025
+   },
+   {
+    "t": "Futuri Content Cloud is designed to address the major challenges faced by content creators,",
+    "x": 0.3401,
+    "y": 0.15,
+    "w": 0.4827,
+    "h": 0.0375
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.2334,
+    "y": 0.1667,
+    "w": 0.0533,
+    "h": 0.0292
+   },
+   {
+    "t": "brands, and social media teams in consistently building an audience. With Al-based technology,",
+    "x": 0.3415,
+    "y": 0.1867,
+    "w": 0.4971,
+    "h": 0.0383
+   },
+   {
+    "t": "CLOUD",
+    "x": 0.2319,
+    "y": 0.1952,
+    "w": 0.0433,
+    "h": 0.0304
+   },
+   {
+    "t": "this platform not only suggests what to post and when the best time to post is, but also",
+    "x": 0.3415,
+    "y": 0.2249,
+    "w": 0.4539,
+    "h": 0.0382
+   },
+   {
+    "t": "provides in-depth analytics to measure impact, engagement, and audience growth. The",
+    "x": 0.3415,
+    "y": 0.2623,
+    "w": 0.454,
+    "h": 0.0443
+   },
+   {
+    "t": "platform combines content creation, audience insights, cross-platform distribution, and",
+    "x": 0.3415,
+    "y": 0.2992,
+    "w": 0.451,
+    "h": 0.0383
+   },
+   {
+    "t": "community collaboration into one efficient ecosystem. For anyone serious about building",
+    "x": 0.3415,
+    "y": 0.3373,
+    "w": 0.4597,
+    "h": 0.0382
+   },
+   {
+    "t": "influence in the digital age, this is a strategic tool that accelerates the achievement of their",
+    "x": 0.3401,
+    "y": 0.3792,
+    "w": 0.4741,
+    "h": 0.0385
+   },
+   {
+    "t": "Industry",
+    "x": 0.1613,
+    "y": 0.3859,
+    "w": 0.0449,
+    "h": 0.0324
+   },
+   {
+    "t": "\u2022 Digital Marketing",
+    "x": 0.1643,
+    "y": 0.4208,
+    "w": 0.1009,
+    "h": 0.0417
+   },
+   {
+    "t": "content goals.",
+    "x": 0.3415,
+    "y": 0.4208,
+    "w": 0.0749,
+    "h": 0.0292
+   },
+   {
+    "t": "\u2022 Influencer & Content",
+    "x": 0.1657,
+    "y": 0.4618,
+    "w": 0.121,
+    "h": 0.0301
+   },
+   {
+    "t": "Creator",
+    "x": 0.1772,
+    "y": 0.4994,
+    "w": 0.0404,
+    "h": 0.0304
+   },
+   {
+    "t": "\u2022 Social Media",
+    "x": 0.1643,
+    "y": 0.5375,
+    "w": 0.0807,
+    "h": 0.0333
+   },
+   {
+    "t": "Solution",
+    "x": 0.6282,
+    "y": 0.558,
+    "w": 0.0793,
+    "h": 0.0549
+   },
+   {
+    "t": "Problem",
+    "x": 0.3645,
+    "y": 0.5659,
+    "w": 0.0779,
+    "h": 0.0473
+   },
+   {
+    "t": "Management",
+    "x": 0.1772,
+    "y": 0.5747,
+    "w": 0.0706,
+    "h": 0.034
+   },
+   {
+    "t": "\u2022 SaaS for Content",
+    "x": 0.1657,
+    "y": 0.6124,
+    "w": 0.1023,
+    "h": 0.0341
+   },
+   {
+    "t": "Strategy",
+    "x": 0.1765,
+    "y": 0.6484,
+    "w": 0.046,
+    "h": 0.0416
+   },
+   {
+    "t": "1. Struggling to determine the most",
+    "x": 0.3444,
+    "y": 0.65,
+    "w": 0.1873,
+    "h": 0.0333
+   },
+   {
+    "t": "1. Content recommendations and",
+    "x": 0.6081,
+    "y": 0.65,
+    "w": 0.1744,
+    "h": 0.0333
+   },
+   {
+    "t": "effective content types for your audience",
+    "x": 0.3573,
+    "y": 0.6867,
+    "w": 0.2161,
+    "h": 0.0341
+   },
+   {
+    "t": "engagement data",
+    "x": 0.6225,
+    "y": 0.6867,
+    "w": 0.0922,
+    "h": 0.0341
+   },
+   {
+    "t": "2. Uncertain about the optimal timing for",
+    "x": 0.3429,
+    "y": 0.7249,
+    "w": 0.2147,
+    "h": 0.0382
+   },
+   {
+    "t": "2. Guidance on the best times to post for",
+    "x": 0.6066,
+    "y": 0.7249,
+    "w": 0.2161,
+    "h": 0.0341
+   },
+   {
+    "t": "Tools",
+    "x": 0.1614,
+    "y": 0.7458,
+    "w": 0.0288,
+    "h": 0.0292
+   },
+   {
+    "t": "posting",
+    "x": 0.3559,
+    "y": 0.7667,
+    "w": 0.0418,
+    "h": 0.0375
+   },
+   {
+    "t": "maximum results",
+    "x": 0.621,
+    "y": 0.7667,
+    "w": 0.0893,
+    "h": 0.0292
+   },
+   {
+    "t": "Figma",
+    "x": 0.1599,
+    "y": 0.7833,
+    "w": 0.0331,
+    "h": 0.0375
+   },
+   {
+    "t": "3. Stuck in a cycle of creating content",
+    "x": 0.3444,
+    "y": 0.7992,
+    "w": 0.1988,
+    "h": 0.0383
+   },
+   {
+    "t": "3. An easy to understand audience insights",
+    "x": 0.6081,
+    "y": 0.7992,
+    "w": 0.2248,
+    "h": 0.0383
+   },
+   {
+    "t": "without clear results",
+    "x": 0.3573,
+    "y": 0.8414,
+    "w": 0.1066,
+    "h": 0.0301
+   },
+   {
+    "t": "and growth dashboard",
+    "x": 0.621,
+    "y": 0.8414,
+    "w": 0.1182,
+    "h": 0.0341
+   },
+   {
+    "t": "Year",
+    "x": 0.1585,
+    "y": 0.8792,
+    "w": 0.0274,
+    "h": 0.0333
+   },
+   {
+    "t": "4. Limited access to insights and real time",
+    "x": 0.3429,
+    "y": 0.8792,
+    "w": 0.2205,
+    "h": 0.0375
+   },
+   {
+    "t": "4. Community support and cloud based",
+    "x": 0.6081,
+    "y": 0.8792,
+    "w": 0.2061,
+    "h": 0.0333
+   },
+   {
+    "t": "2023",
+    "x": 0.1585,
+    "y": 0.9167,
+    "w": 0.0303,
+    "h": 0.0333
+   },
+   {
+    "t": "collaborative tools",
+    "x": 0.621,
+    "y": 0.9167,
+    "w": 0.0965,
+    "h": 0.0292
+   },
+   {
+    "t": "insights",
+    "x": 0.3559,
+    "y": 0.9208,
+    "w": 0.0432,
+    "h": 0.0333
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "file": "b03.jpg",
+  "y0": 1554,
+  "y1": 1736,
+  "h": 182,
+  "color": 0.15,
+  "density": 0.232,
+  "lines": [
+   {
+    "t": "My Role and Responsibility",
+    "x": 0.1773,
+    "y": 0.069,
+    "w": 0.25,
+    "h": 0.1728
+   },
+   {
+    "t": "As a Ul/UX Designer on the Futuri Content Cloud project, I am responsible for designing intuitive user experiences that effectively",
+    "x": 0.1526,
+    "y": 0.3333,
+    "w": 0.6788,
+    "h": 0.092
+   },
+   {
+    "t": "drive audience growth.",
+    "x": 0.1526,
+    "y": 0.4341,
+    "w": 0.1221,
+    "h": 0.0947
+   },
+   {
+    "t": "I am involved from beginning to end, including user research, competitor analysis research, user flow and user journey creation,",
+    "x": 0.1512,
+    "y": 0.6429,
+    "w": 0.6701,
+    "h": 0.1044
+   },
+   {
+    "t": "wireframing, Ul design, and usability testing scenario development. Throughout this process, I work to ensure that design solutions",
+    "x": 0.1526,
+    "y": 0.7471,
+    "w": 0.6875,
+    "h": 0.0935
+   },
+   {
+    "t": "are not only aesthetically pleasing but also based on data and real user needs.",
+    "x": 0.1526,
+    "y": 0.8506,
+    "w": 0.4128,
+    "h": 0.0945
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "file": "b04.jpg",
+  "y0": 1775,
+  "y1": 2171,
+  "h": 396,
+  "color": 0.0,
+  "density": 0.174,
+  "lines": [
+   {
+    "t": "Process",
+    "x": 0.1526,
+    "y": 0.0265,
+    "w": 0.0756,
+    "h": 0.0582
+   },
+   {
+    "t": "The design process for this project was divided into four key phases to ensure a user centered and results experience:",
+    "x": 0.1526,
+    "y": 0.164,
+    "w": 0.6235,
+    "h": 0.043
+   },
+   {
+    "t": "The design process for this project was divide",
+    "x": 0.15,
+    "y": 0.1667,
+    "w": 0.2458,
+    "h": 0.0455
+   },
+   {
+    "t": "1. Discovery",
+    "x": 0.1555,
+    "y": 0.2587,
+    "w": 0.0669,
+    "h": 0.0488
+   },
+   {
+    "t": "Conducting competitor analysis, digital content trend research, and user interviews to gather insights and understand the key",
+    "x": 0.1701,
+    "y": 0.3069,
+    "w": 0.6599,
+    "h": 0.0476
+   },
+   {
+    "t": "needs and challenges faced by content creators.",
+    "x": 0.1686,
+    "y": 0.3535,
+    "w": 0.2587,
+    "h": 0.0486
+   },
+   {
+    "t": "2. Ideation",
+    "x": 0.1555,
+    "y": 0.4545,
+    "w": 0.0582,
+    "h": 0.0434
+   },
+   {
+    "t": "Brainstorming solutions based on discovery findings. Developing user flows, identifying core features, and prioritizing user needs",
+    "x": 0.1701,
+    "y": 0.5025,
+    "w": 0.6759,
+    "h": 0.048
+   },
+   {
+    "t": "in the form of initial wireframes.",
+    "x": 0.1686,
+    "y": 0.545,
+    "w": 0.1686,
+    "h": 0.0434
+   },
+   {
+    "t": "3. Design Process",
+    "x": 0.1555,
+    "y": 0.6455,
+    "w": 0.0959,
+    "h": 0.0423
+   },
+   {
+    "t": "Developing high fidelity Ul based on a consistent design system. Creating interactive prototypes to test flow and visual",
+    "x": 0.1701,
+    "y": 0.6919,
+    "w": 0.625,
+    "h": 0.0435
+   },
+   {
+    "t": "consistency, while optimizing readability and information hierarchy.",
+    "x": 0.1686,
+    "y": 0.7399,
+    "w": 0.3532,
+    "h": 0.0432
+   },
+   {
+    "t": "4. Usability Testing",
+    "x": 0.1541,
+    "y": 0.8359,
+    "w": 0.1032,
+    "h": 0.053
+   },
+   {
+    "t": "Developing relevant testing tasks and scenarios, such as finding the best time to post content, checking audience insights from a",
+    "x": 0.1701,
+    "y": 0.8836,
+    "w": 0.6788,
+    "h": 0.0482
+   },
+   {
+    "t": "piece of content, and accessing content performance results from various platforms.",
+    "x": 0.1701,
+    "y": 0.9312,
+    "w": 0.4448,
+    "h": 0.0486
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "file": "b05.jpg",
+  "y0": 2210,
+  "y1": 2597,
+  "h": 387,
+  "color": 0.0,
+  "density": 0.234,
+  "lines": [
+   {
+    "t": "Discovery",
+    "x": 0.1524,
+    "y": 0.0195,
+    "w": 0.095,
+    "h": 0.0728
+   },
+   {
+    "t": "Discover and Understanding",
+    "x": 0.1512,
+    "y": 0.1881,
+    "w": 0.1904,
+    "h": 0.0593
+   },
+   {
+    "t": "The first stage of the design process begins with gaining a deep understanding of the main problems faced by content creators and",
+    "x": 0.1526,
+    "y": 0.3011,
+    "w": 0.6933,
+    "h": 0.0494
+   },
+   {
+    "t": "brands in today's digital age. Through industry trend analysis and case studies of popular content distribution platforms, 1 identified",
+    "x": 0.1526,
+    "y": 0.3495,
+    "w": 0.689,
+    "h": 0.0538
+   },
+   {
+    "t": "that many users feel overwhelmed by inefficient content production processes, a lack of insight into their audience, and confusion",
+    "x": 0.1526,
+    "y": 0.4021,
+    "w": 0.6831,
+    "h": 0.0496
+   },
+   {
+    "t": "about when and what to post. These insights form the foundation for developing a design direction that is not only aesthetically",
+    "x": 0.1526,
+    "y": 0.451,
+    "w": 0.6701,
+    "h": 0.0438
+   },
+   {
+    "t": "pleasing but also strategically relevant and beneficial.",
+    "x": 0.1526,
+    "y": 0.5,
+    "w": 0.282,
+    "h": 0.049
+   },
+   {
+    "t": "Competitor Analysis",
+    "x": 0.1512,
+    "y": 0.6129,
+    "w": 0.1366,
+    "h": 0.0598
+   },
+   {
+    "t": "To understand Futuri Content Cloud's position in the market, I conducted a competitor analysis of several similar platforms that have",
+    "x": 0.1526,
+    "y": 0.7312,
+    "w": 0.6948,
+    "h": 0.0484
+   },
+   {
+    "t": "similar functions, which is to support content strategies based on data and Al. This analysis covers key features, strengths,",
+    "x": 0.1526,
+    "y": 0.7784,
+    "w": 0.6468,
+    "h": 0.0496
+   },
+   {
+    "t": "weaknesses, and the design approaches they employ. From this case, I found that many platforms excel in one area but lack",
+    "x": 0.1526,
+    "y": 0.8273,
+    "w": 0.6541,
+    "h": 0.049
+   },
+   {
+    "t": "integration in combining audience insights, content strategies, and collaboration tools. This finding presents an opportunity for",
+    "x": 0.1526,
+    "y": 0.8763,
+    "w": 0.6657,
+    "h": 0.049
+   },
+   {
+    "t": "Futuri to position itself as a more cohesive end to end solution.",
+    "x": 0.1526,
+    "y": 0.9247,
+    "w": 0.3314,
+    "h": 0.043
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "file": "b06.jpg",
+  "y0": 2624,
+  "y1": 3889,
+  "h": 1265,
+  "color": 0.21,
+  "density": 0.302,
+  "lines": [
+   {
+    "t": "Competitor",
+    "x": 0.279,
+    "y": 0.0097,
+    "w": 0.0655,
+    "h": 0.0169
+   },
+   {
+    "t": "Core Features",
+    "x": 0.3823,
+    "y": 0.0099,
+    "w": 0.0799,
+    "h": 0.0149
+   },
+   {
+    "t": "Weaknesses",
+    "x": 0.6119,
+    "y": 0.0099,
+    "w": 0.0727,
+    "h": 0.0149
+   },
+   {
+    "t": "Strengths",
+    "x": 0.4839,
+    "y": 0.0112,
+    "w": 0.0583,
+    "h": 0.0155
+   },
+   {
+    "t": "\u2022 Less focus on",
+    "x": 0.6177,
+    "y": 0.0427,
+    "w": 0.0887,
+    "h": 0.0152
+   },
+   {
+    "t": "\u2022 Social",
+    "x": 0.3866,
+    "y": 0.0442,
+    "w": 0.048,
+    "h": 0.0136
+   },
+   {
+    "t": "\u2022 Strong Instagram",
+    "x": 0.4884,
+    "y": 0.0442,
+    "w": 0.109,
+    "h": 0.0169
+   },
+   {
+    "t": "Later",
+    "x": 0.2776,
+    "y": 0.0446,
+    "w": 0.032,
+    "h": 0.0132
+   },
+   {
+    "t": "scheduling",
+    "x": 0.3982,
+    "y": 0.0643,
+    "w": 0.0626,
+    "h": 0.0152
+   },
+   {
+    "t": "tools",
+    "x": 0.5015,
+    "y": 0.0645,
+    "w": 0.0305,
+    "h": 0.0132
+   },
+   {
+    "t": "content",
+    "x": 0.6294,
+    "y": 0.0645,
+    "w": 0.0465,
+    "h": 0.0132
+   },
+   {
+    "t": "\u2022 Calendar",
+    "x": 0.3866,
+    "y": 0.0843,
+    "w": 0.0654,
+    "h": 0.0132
+   },
+   {
+    "t": "\u2022 Intuitive Ul",
+    "x": 0.4884,
+    "y": 0.0843,
+    "w": 0.0741,
+    "h": 0.0152
+   },
+   {
+    "t": "strategy",
+    "x": 0.6294,
+    "y": 0.0843,
+    "w": 0.0465,
+    "h": 0.0165
+   },
+   {
+    "t": "\u2022 Analytics",
+    "x": 0.3865,
+    "y": 0.1036,
+    "w": 0.0656,
+    "h": 0.0175
+   },
+   {
+    "t": "\u2022 More on",
+    "x": 0.6177,
+    "y": 0.1038,
+    "w": 0.0597,
+    "h": 0.014
+   },
+   {
+    "t": "scheduling",
+    "x": 0.6294,
+    "y": 0.124,
+    "w": 0.061,
+    "h": 0.0165
+   },
+   {
+    "t": "Hootsuite",
+    "x": 0.279,
+    "y": 0.1568,
+    "w": 0.0553,
+    "h": 0.0153
+   },
+   {
+    "t": "\u2022 Supports many",
+    "x": 0.4898,
+    "y": 0.157,
+    "w": 0.0974,
+    "h": 0.0168
+   },
+   {
+    "t": "\u2022 Steep learning",
+    "x": 0.6192,
+    "y": 0.157,
+    "w": 0.0901,
+    "h": 0.0152
+   },
+   {
+    "t": "\u2022 Multi",
+    "x": 0.3866,
+    "y": 0.1587,
+    "w": 0.0422,
+    "h": 0.0135
+   },
+   {
+    "t": "platform",
+    "x": 0.3997,
+    "y": 0.1785,
+    "w": 0.0465,
+    "h": 0.0149
+   },
+   {
+    "t": "platforms",
+    "x": 0.5015,
+    "y": 0.1785,
+    "w": 0.0552,
+    "h": 0.0149
+   },
+   {
+    "t": "curve",
+    "x": 0.6308,
+    "y": 0.1802,
+    "w": 0.032,
+    "h": 0.0099
+   },
+   {
+    "t": "publishing,",
+    "x": 0.3997,
+    "y": 0.1983,
+    "w": 0.061,
+    "h": 0.0149
+   },
+   {
+    "t": "\u2022 Mature",
+    "x": 0.4884,
+    "y": 0.1983,
+    "w": 0.0552,
+    "h": 0.0134
+   },
+   {
+    "t": "\u2022 Cluttered",
+    "x": 0.6163,
+    "y": 0.1983,
+    "w": 0.0654,
+    "h": 0.0134
+   },
+   {
+    "t": "interface",
+    "x": 0.6278,
+    "y": 0.2163,
+    "w": 0.0524,
+    "h": 0.0154
+   },
+   {
+    "t": "\u2022 Analytics",
+    "x": 0.3866,
+    "y": 0.218,
+    "w": 0.0654,
+    "h": 0.0167
+   },
+   {
+    "t": "ecosystem",
+    "x": 0.5029,
+    "y": 0.2198,
+    "w": 0.0611,
+    "h": 0.0134
+   },
+   {
+    "t": "\u2022 Streams",
+    "x": 0.388,
+    "y": 0.2378,
+    "w": 0.0582,
+    "h": 0.012
+   },
+   {
+    "t": "\u2022 Scheduling,",
+    "x": 0.3852,
+    "y": 0.2709,
+    "w": 0.0814,
+    "h": 0.0168
+   },
+   {
+    "t": "\u2022 Simple Ul",
+    "x": 0.4898,
+    "y": 0.2709,
+    "w": 0.0669,
+    "h": 0.0167
+   },
+   {
+    "t": "\u2022 Limited in depth",
+    "x": 0.6177,
+    "y": 0.2709,
+    "w": 0.1003,
+    "h": 0.015
+   },
+   {
+    "t": "Buffer",
+    "x": 0.2791,
+    "y": 0.2711,
+    "w": 0.0363,
+    "h": 0.0132
+   },
+   {
+    "t": "\u2022 Affordable pricing",
+    "x": 0.4898,
+    "y": 0.2907,
+    "w": 0.1105,
+    "h": 0.0168
+   },
+   {
+    "t": "insights",
+    "x": 0.6279,
+    "y": 0.2909,
+    "w": 0.048,
+    "h": 0.0165
+   },
+   {
+    "t": "engagement",
+    "x": 0.3997,
+    "y": 0.2922,
+    "w": 0.0713,
+    "h": 0.0156
+   },
+   {
+    "t": "\u2022 No content",
+    "x": 0.6177,
+    "y": 0.312,
+    "w": 0.0756,
+    "h": 0.0136
+   },
+   {
+    "t": "tools",
+    "x": 0.3983,
+    "y": 0.3124,
+    "w": 0.0305,
+    "h": 0.0132
+   },
+   {
+    "t": "\u2022 Analytics",
+    "x": 0.3866,
+    "y": 0.332,
+    "w": 0.0655,
+    "h": 0.0153
+   },
+   {
+    "t": "ideation",
+    "x": 0.6279,
+    "y": 0.3322,
+    "w": 0.048,
+    "h": 0.0132
+   },
+   {
+    "t": "CoSchedule",
+    "x": 0.279,
+    "y": 0.3647,
+    "w": 0.0685,
+    "h": 0.016
+   },
+   {
+    "t": "\u2022 Marketing",
+    "x": 0.3866,
+    "y": 0.3649,
+    "w": 0.0698,
+    "h": 0.0169
+   },
+   {
+    "t": "Content strategy",
+    "x": 0.484,
+    "y": 0.3649,
+    "w": 0.0945,
+    "h": 0.0152
+   },
+   {
+    "t": "\u2022 Ul feels dated",
+    "x": 0.6163,
+    "y": 0.3649,
+    "w": 0.0901,
+    "h": 0.0136
+   },
+   {
+    "t": "calendar",
+    "x": 0.3983,
+    "y": 0.3851,
+    "w": 0.0509,
+    "h": 0.0149
+   },
+   {
+    "t": "integrated with",
+    "x": 0.4826,
+    "y": 0.3851,
+    "w": 0.0872,
+    "h": 0.0165
+   },
+   {
+    "t": "\u2022 Not beginner",
+    "x": 0.6163,
+    "y": 0.3851,
+    "w": 0.0872,
+    "h": 0.0165
+   },
+   {
+    "t": "scheduling",
+    "x": 0.4839,
+    "y": 0.4045,
+    "w": 0.0612,
+    "h": 0.0174
+   },
+   {
+    "t": "\u2022 Al based",
+    "x": 0.3866,
+    "y": 0.405,
+    "w": 0.0625,
+    "h": 0.0153
+   },
+   {
+    "t": "friendly",
+    "x": 0.6294,
+    "y": 0.405,
+    "w": 0.0465,
+    "h": 0.0165
+   },
+   {
+    "t": "optimization",
+    "x": 0.3996,
+    "y": 0.4244,
+    "w": 0.0684,
+    "h": 0.0172
+   },
+   {
+    "t": "Sprout Social",
+    "x": 0.279,
+    "y": 0.4577,
+    "w": 0.0742,
+    "h": 0.0169
+   },
+   {
+    "t": "\u2022 Analytics",
+    "x": 0.3866,
+    "y": 0.4577,
+    "w": 0.0655,
+    "h": 0.0169
+   },
+   {
+    "t": "\u2022 Expensive",
+    "x": 0.6177,
+    "y": 0.4578,
+    "w": 0.0698,
+    "h": 0.0151
+   },
+   {
+    "t": "\u2022 Enterprise grade",
+    "x": 0.4898,
+    "y": 0.4579,
+    "w": 0.1047,
+    "h": 0.0169
+   },
+   {
+    "t": "\u2022 Overkill for",
+    "x": 0.6163,
+    "y": 0.4777,
+    "w": 0.0741,
+    "h": 0.0152
+   },
+   {
+    "t": "reporting",
+    "x": 0.5014,
+    "y": 0.4792,
+    "w": 0.0538,
+    "h": 0.0151
+   },
+   {
+    "t": "\u2022 Publishing",
+    "x": 0.3866,
+    "y": 0.4793,
+    "w": 0.0712,
+    "h": 0.0151
+   },
+   {
+    "t": "\u2022 Social",
+    "x": 0.3866,
+    "y": 0.4975,
+    "w": 0.048,
+    "h": 0.0151
+   },
+   {
+    "t": "\u2022 Collaboration",
+    "x": 0.4884,
+    "y": 0.4992,
+    "w": 0.0887,
+    "h": 0.0135
+   },
+   {
+    "t": "individual",
+    "x": 0.6294,
+    "y": 0.4992,
+    "w": 0.0552,
+    "h": 0.0132
+   },
+   {
+    "t": "creators",
+    "x": 0.6292,
+    "y": 0.5181,
+    "w": 0.0483,
+    "h": 0.015
+   },
+   {
+    "t": "listening",
+    "x": 0.3982,
+    "y": 0.5186,
+    "w": 0.0482,
+    "h": 0.0173
+   },
+   {
+    "t": "features",
+    "x": 0.5029,
+    "y": 0.519,
+    "w": 0.0465,
+    "h": 0.0116
+   },
+   {
+    "t": "ContentStudio",
+    "x": 0.2791,
+    "y": 0.5521,
+    "w": 0.0799,
+    "h": 0.0132
+   },
+   {
+    "t": "\u2022 Content",
+    "x": 0.3881,
+    "y": 0.5521,
+    "w": 0.0581,
+    "h": 0.0135
+   },
+   {
+    "t": "\u2022 Recommendation",
+    "x": 0.4913,
+    "y": 0.5521,
+    "w": 0.109,
+    "h": 0.0135
+   },
+   {
+    "t": "\u2022 Interface not as",
+    "x": 0.6177,
+    "y": 0.5521,
+    "w": 0.0988,
+    "h": 0.0135
+   },
+   {
+    "t": "polished",
+    "x": 0.6293,
+    "y": 0.5717,
+    "w": 0.0481,
+    "h": 0.017
+   },
+   {
+    "t": "content",
+    "x": 0.5029,
+    "y": 0.5733,
+    "w": 0.0451,
+    "h": 0.012
+   },
+   {
+    "t": "discovery",
+    "x": 0.3997,
+    "y": 0.5734,
+    "w": 0.0538,
+    "h": 0.0151
+   },
+   {
+    "t": "\u2022 Scheduling",
+    "x": 0.3866,
+    "y": 0.5916,
+    "w": 0.0756,
+    "h": 0.0166
+   },
+   {
+    "t": "\u2022 Automation",
+    "x": 0.4898,
+    "y": 0.5916,
+    "w": 0.077,
+    "h": 0.015
+   },
+   {
+    "t": "\u2022 Less brand",
+    "x": 0.6163,
+    "y": 0.5932,
+    "w": 0.0756,
+    "h": 0.0134
+   },
+   {
+    "t": "friendly",
+    "x": 0.6294,
+    "y": 0.6116,
+    "w": 0.0465,
+    "h": 0.0165
+   },
+   {
+    "t": "\u2022 Analytics",
+    "x": 0.3866,
+    "y": 0.6128,
+    "w": 0.0656,
+    "h": 0.0157
+   },
+   {
+    "t": "Pain Points",
+    "x": 0.1511,
+    "y": 0.6643,
+    "w": 0.0756,
+    "h": 0.0169
+   },
+   {
+    "t": "From analyzing various content and social media platforms, we found some common pain points that users experience:",
+    "x": 0.1526,
+    "y": 0.6975,
+    "w": 0.625,
+    "h": 0.015
+   },
+   {
+    "t": "1. Many platforms only focus on scheduling, without supporting the ideation process or long term content strategy.",
+    "x": 0.1555,
+    "y": 0.7124,
+    "w": 0.6061,
+    "h": 0.0151
+   },
+   {
+    "t": "2. The interface is complicated and confusing for beginners, making it hard to onboard new users.",
+    "x": 0.1555,
+    "y": 0.7273,
+    "w": 0.5203,
+    "h": 0.0152
+   },
+   {
+    "t": "3. Insights and analytics are shallow, not helpful enough for strategy based decision making.",
+    "x": 0.1555,
+    "y": 0.7421,
+    "w": 0.4884,
+    "h": 0.0149
+   },
+   {
+    "t": "4. High subscription costs, especially on platforms with comprehensive features, making access difficult for independent creators",
+    "x": 0.1541,
+    "y": 0.7567,
+    "w": 0.6831,
+    "h": 0.0168
+   },
+   {
+    "t": "or small businesses.",
+    "x": 0.1686,
+    "y": 0.7733,
+    "w": 0.109,
+    "h": 0.0118
+   },
+   {
+    "t": "5. Lack of seamless integration between content planning, audience analytics, and team collaboration processes.",
+    "x": 0.1555,
+    "y": 0.7867,
+    "w": 0.5945,
+    "h": 0.015
+   },
+   {
+    "t": "6. Many platforms feel too corporate or rigid, with user interfaces and experiences that are less engaging for the creative industry.",
+    "x": 0.1555,
+    "y": 0.8033,
+    "w": 0.686,
+    "h": 0.015
+   },
+   {
+    "t": "User & Audience",
+    "x": 0.1512,
+    "y": 0.838,
+    "w": 0.1119,
+    "h": 0.0151
+   },
+   {
+    "t": "Based on usage patterns and competitor product positioning, several main user types can be identified:",
+    "x": 0.1526,
+    "y": 0.8744,
+    "w": 0.5451,
+    "h": 0.0135
+   },
+   {
+    "t": "1. Individual content creators who need simple and fast tools to manage their content.",
+    "x": 0.1555,
+    "y": 0.8893,
+    "w": 0.4535,
+    "h": 0.0152
+   },
+   {
+    "t": "2. Social media managers who require efficiency in scheduling and reporting content performance.",
+    "x": 0.1555,
+    "y": 0.9041,
+    "w": 0.5203,
+    "h": 0.0132
+   },
+   {
+    "t": "3. Small business owners who produce their own content and want audience insights without needing a large team.",
+    "x": 0.1555,
+    "y": 0.9186,
+    "w": 0.6076,
+    "h": 0.0136
+   },
+   {
+    "t": "4. Marketing teams at agencies or startups that require a collaborative platform with editorial control, insights, and flexible",
+    "x": 0.1555,
+    "y": 0.9336,
+    "w": 0.6424,
+    "h": 0.0151
+   },
+   {
+    "t": "5. Communication teams at large companies that need in depth analytics solutions, approval systems, and multi platform",
+    "x": 0.1555,
+    "y": 0.9636,
+    "w": 0.6352,
+    "h": 0.015
+   },
+   {
+    "t": "integration, automation",
+    "x": 0.1686,
+    "y": 0.9785,
+    "w": 0.1235,
+    "h": 0.0152
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "file": "b07.jpg",
+  "y0": 3929,
+  "y1": 4104,
+  "h": 175,
+  "color": 0.0,
+  "density": 0.132,
+  "lines": [
+   {
+    "t": "Ideation",
+    "x": 0.1511,
+    "y": 0.0349,
+    "w": 0.0785,
+    "h": 0.1564
+   },
+   {
+    "t": "User Journey",
+    "x": 0.1522,
+    "y": 0.3625,
+    "w": 0.0894,
+    "h": 0.1337
+   },
+   {
+    "t": "Based on the discovery steps, I began to map out the user journey to understand the thought process, emotional needs, and",
+    "x": 0.1526,
+    "y": 0.6307,
+    "w": 0.6541,
+    "h": 0.108
+   },
+   {
+    "t": "expectations of users when using this platform. This approach helped me identify critical moments that could be optimized through",
+    "x": 0.1526,
+    "y": 0.7381,
+    "w": 0.689,
+    "h": 0.0971
+   },
+   {
+    "t": "targeted design solutions.",
+    "x": 0.1512,
+    "y": 0.8452,
+    "w": 0.1395,
+    "h": 0.1093
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "file": "b08.jpg",
+  "y0": 4132,
+  "y1": 4684,
+  "h": 552,
+  "color": 0.45,
+  "density": 0.405,
+  "lines": [
+   {
+    "t": "Scenario:",
+    "x": 0.202,
+    "y": 0.0189,
+    "w": 0.0538,
+    "h": 0.0265
+   },
+   {
+    "t": "Want to check the performance of newly posted content.",
+    "x": 0.202,
+    "y": 0.0489,
+    "w": 0.3052,
+    "h": 0.0344
+   },
+   {
+    "t": "Expectation:",
+    "x": 0.2005,
+    "y": 0.1165,
+    "w": 0.0714,
+    "h": 0.0397
+   },
+   {
+    "t": "A concise and informative dashboard insight.",
+    "x": 0.202,
+    "y": 0.1553,
+    "w": 0.2398,
+    "h": 0.0303
+   },
+   {
+    "t": "Evaluation",
+    "x": 0.6119,
+    "y": 0.2455,
+    "w": 0.0626,
+    "h": 0.0355
+   },
+   {
+    "t": "Interaction",
+    "x": 0.5087,
+    "y": 0.2458,
+    "w": 0.064,
+    "h": 0.0349
+   },
+   {
+    "t": "Decision",
+    "x": 0.7325,
+    "y": 0.246,
+    "w": 0.0495,
+    "h": 0.0308
+   },
+   {
+    "t": "Phase",
+    "x": 0.1758,
+    "y": 0.2496,
+    "w": 0.035,
+    "h": 0.0274
+   },
+   {
+    "t": "Awareness",
+    "x": 0.2791,
+    "y": 0.25,
+    "w": 0.064,
+    "h": 0.0265
+   },
+   {
+    "t": "Consideration",
+    "x": 0.3808,
+    "y": 0.25,
+    "w": 0.0814,
+    "h": 0.0303
+   },
+   {
+    "t": "Activity",
+    "x": 0.1744,
+    "y": 0.3258,
+    "w": 0.0436,
+    "h": 0.0341
+   },
+   {
+    "t": "User remembers",
+    "x": 0.2791,
+    "y": 0.3258,
+    "w": 0.0916,
+    "h": 0.0265
+   },
+   {
+    "t": "Opens the app or",
+    "x": 0.3823,
+    "y": 0.3258,
+    "w": 0.0959,
+    "h": 0.0311
+   },
+   {
+    "t": "Navigates to the",
+    "x": 0.5087,
+    "y": 0.3258,
+    "w": 0.0916,
+    "h": 0.0347
+   },
+   {
+    "t": "Views key metrics",
+    "x": 0.6119,
+    "y": 0.3258,
+    "w": 0.1003,
+    "h": 0.0347
+   },
+   {
+    "t": "Decides next",
+    "x": 0.7326,
+    "y": 0.3258,
+    "w": 0.0727,
+    "h": 0.0265
+   },
+   {
+    "t": "just posted new",
+    "x": 0.2762,
+    "y": 0.3712,
+    "w": 0.0901,
+    "h": 0.0346
+   },
+   {
+    "t": "insight dashboard",
+    "x": 0.3794,
+    "y": 0.3712,
+    "w": 0.1017,
+    "h": 0.0382
+   },
+   {
+    "t": "insight",
+    "x": 0.5073,
+    "y": 0.3712,
+    "w": 0.0407,
+    "h": 0.0379
+   },
+   {
+    "t": "steps based on",
+    "x": 0.7326,
+    "y": 0.3712,
+    "w": 0.0828,
+    "h": 0.031
+   },
+   {
+    "t": "(views,",
+    "x": 0.6119,
+    "y": 0.375,
+    "w": 0.0436,
+    "h": 0.0341
+   },
+   {
+    "t": "dashboard",
+    "x": 0.5101,
+    "y": 0.4159,
+    "w": 0.0582,
+    "h": 0.0281
+   },
+   {
+    "t": "engagement)",
+    "x": 0.6118,
+    "y": 0.4189,
+    "w": 0.0745,
+    "h": 0.0358
+   },
+   {
+    "t": "content",
+    "x": 0.2776,
+    "y": 0.4202,
+    "w": 0.0451,
+    "h": 0.0271
+   },
+   {
+    "t": "data",
+    "x": 0.7326,
+    "y": 0.4205,
+    "w": 0.0247,
+    "h": 0.0227
+   },
+   {
+    "t": "\"I hope the data",
+    "x": 0.5087,
+    "y": 0.4879,
+    "w": 0.0902,
+    "h": 0.0431
+   },
+   {
+    "t": "Thought",
+    "x": 0.1744,
+    "y": 0.4924,
+    "w": 0.0494,
+    "h": 0.0379
+   },
+   {
+    "t": "\"I want to check",
+    "x": 0.2762,
+    "y": 0.4924,
+    "w": 0.0916,
+    "h": 0.0347
+   },
+   {
+    "t": "\"There should be a",
+    "x": 0.3794,
+    "y": 0.4924,
+    "w": 0.1061,
+    "h": 0.0347
+   },
+   {
+    "t": "\"Is this",
+    "x": 0.6119,
+    "y": 0.4924,
+    "w": 0.0392,
+    "h": 0.0347
+   },
+   {
+    "t": "\"Should I create",
+    "x": 0.7297,
+    "y": 0.4924,
+    "w": 0.0901,
+    "h": 0.0347
+   },
+   {
+    "t": "clear summary here\"",
+    "x": 0.3808,
+    "y": 0.5341,
+    "w": 0.1148,
+    "h": 0.042
+   },
+   {
+    "t": "performance",
+    "x": 0.6119,
+    "y": 0.537,
+    "w": 0.0728,
+    "h": 0.0396
+   },
+   {
+    "t": "loads quickly",
+    "x": 0.5174,
+    "y": 0.5374,
+    "w": 0.0742,
+    "h": 0.0388
+   },
+   {
+    "t": "similar content",
+    "x": 0.7311,
+    "y": 0.5379,
+    "w": 0.0828,
+    "h": 0.0346
+   },
+   {
+    "t": "how this content",
+    "x": 0.2776,
+    "y": 0.5417,
+    "w": 0.0945,
+    "h": 0.0308
+   },
+   {
+    "t": "is doing\"",
+    "x": 0.2761,
+    "y": 0.5826,
+    "w": 0.0525,
+    "h": 0.0394
+   },
+   {
+    "t": "and is complete\"",
+    "x": 0.5087,
+    "y": 0.5833,
+    "w": 0.0945,
+    "h": 0.038
+   },
+   {
+    "t": "meeting my",
+    "x": 0.6105,
+    "y": 0.587,
+    "w": 0.0683,
+    "h": 0.0344
+   },
+   {
+    "t": "or try something",
+    "x": 0.7311,
+    "y": 0.587,
+    "w": 0.0916,
+    "h": 0.038
+   },
+   {
+    "t": "different?\"",
+    "x": 0.7311,
+    "y": 0.6288,
+    "w": 0.061,
+    "h": 0.0341
+   },
+   {
+    "t": "expectations?\"",
+    "x": 0.6118,
+    "y": 0.6318,
+    "w": 0.0847,
+    "h": 0.0354
+   },
+   {
+    "t": "Emotion",
+    "x": 0.1759,
+    "y": 0.7082,
+    "w": 0.0465,
+    "h": 0.0268
+   },
+   {
+    "t": "Opportunity",
+    "x": 0.1757,
+    "y": 0.7825,
+    "w": 0.0671,
+    "h": 0.041
+   },
+   {
+    "t": "Send reminder",
+    "x": 0.2776,
+    "y": 0.7841,
+    "w": 0.0843,
+    "h": 0.0347
+   },
+   {
+    "t": "Provide a concise",
+    "x": 0.3808,
+    "y": 0.7841,
+    "w": 0.0974,
+    "h": 0.0347
+   },
+   {
+    "t": "Optimize loading",
+    "x": 0.5087,
+    "y": 0.7841,
+    "w": 0.093,
+    "h": 0.0384
+   },
+   {
+    "t": "Offer additional",
+    "x": 0.6119,
+    "y": 0.7841,
+    "w": 0.0872,
+    "h": 0.0347
+   },
+   {
+    "t": "Provide content",
+    "x": 0.7311,
+    "y": 0.7841,
+    "w": 0.0887,
+    "h": 0.0347
+   },
+   {
+    "t": "insights and",
+    "x": 0.6119,
+    "y": 0.8288,
+    "w": 0.0684,
+    "h": 0.0394
+   },
+   {
+    "t": "suggestions",
+    "x": 0.7325,
+    "y": 0.829,
+    "w": 0.0669,
+    "h": 0.0353
+   },
+   {
+    "t": "notifications to",
+    "x": 0.2776,
+    "y": 0.8295,
+    "w": 0.0828,
+    "h": 0.0346
+   },
+   {
+    "t": "and easy to",
+    "x": 0.3807,
+    "y": 0.8323,
+    "w": 0.0656,
+    "h": 0.0361
+   },
+   {
+    "t": "speed and real",
+    "x": 0.5102,
+    "y": 0.8333,
+    "w": 0.0814,
+    "h": 0.0308
+   },
+   {
+    "t": "based on",
+    "x": 0.7325,
+    "y": 0.8783,
+    "w": 0.051,
+    "h": 0.0313
+   },
+   {
+    "t": "understand summary",
+    "x": 0.3823,
+    "y": 0.8786,
+    "w": 0.1163,
+    "h": 0.0308
+   },
+   {
+    "t": "time data",
+    "x": 0.5087,
+    "y": 0.8786,
+    "w": 0.0538,
+    "h": 0.0308
+   },
+   {
+    "t": "check",
+    "x": 0.2776,
+    "y": 0.8788,
+    "w": 0.0363,
+    "h": 0.0303
+   },
+   {
+    "t": "actionable",
+    "x": 0.6119,
+    "y": 0.8788,
+    "w": 0.064,
+    "h": 0.0303
+   },
+   {
+    "t": "performance",
+    "x": 0.279,
+    "y": 0.9232,
+    "w": 0.0713,
+    "h": 0.0323
+   },
+   {
+    "t": "updates",
+    "x": 0.5101,
+    "y": 0.9236,
+    "w": 0.0466,
+    "h": 0.0317
+   },
+   {
+    "t": "insights",
+    "x": 0.7311,
+    "y": 0.9241,
+    "w": 0.0451,
+    "h": 0.0345
+   },
+   {
+    "t": "recommendations",
+    "x": 0.6119,
+    "y": 0.9242,
+    "w": 0.1003,
+    "h": 0.0265
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "file": "b09.jpg",
+  "y0": 4727,
+  "y1": 4878,
+  "h": 151,
+  "color": 0.0,
+  "density": 0.146,
+  "lines": [
+   {
+    "t": "Design Process",
+    "x": 0.1526,
+    "y": 0.0789,
+    "w": 0.1439,
+    "h": 0.2105
+   },
+   {
+    "t": "The design process begins with understanding user needs through research and empathy, followed by ideation to generate creative",
+    "x": 0.1526,
+    "y": 0.3421,
+    "w": 0.6933,
+    "h": 0.125
+   },
+   {
+    "t": "solutions. Next, prototypes are created and tested iteratively to refine the user experience.",
+    "x": 0.1526,
+    "y": 0.4658,
+    "w": 0.4782,
+    "h": 0.1264
+   },
+   {
+    "t": "Design System",
+    "x": 0.1526,
+    "y": 0.7794,
+    "w": 0.1192,
+    "h": 0.1809
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "file": "b10.jpg",
+  "y0": 4909,
+  "y1": 5016,
+  "h": 107,
+  "color": 0.01,
+  "density": 0.026,
+  "lines": [
+   {
+    "t": "Color",
+    "x": 0.1771,
+    "y": 0.0683,
+    "w": 0.0571,
+    "h": 0.2673
+   },
+   {
+    "t": "Primary Color",
+    "x": 0.1759,
+    "y": 0.7308,
+    "w": 0.0872,
+    "h": 0.1952
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "file": "b11.jpg",
+  "y0": 5061,
+  "y1": 5126,
+  "h": 65,
+  "color": 0.45,
+  "density": 0.014,
+  "lines": []
+ },
+ {
+  "i": 12,
+  "file": "b12.jpg",
+  "y0": 5167,
+  "y1": 5351,
+  "h": 184,
+  "color": 4.26,
+  "density": 0.256,
+  "lines": [
+   {
+    "t": "Secondary colors",
+    "x": 0.1759,
+    "y": 0.0543,
+    "w": 0.1105,
+    "h": 0.1161
+   },
+   {
+    "t": "Black Sea Night",
+    "x": 0.1773,
+    "y": 0.2386,
+    "w": 0.093,
+    "h": 0.1146
+   },
+   {
+    "t": "Black Sea Night 700 Black Sea Night 600 Black Sea Night 500 Black Sea Night 400 Black Sea Night 300 Black Sea Night 200",
+    "x": 0.175,
+    "y": 0.7717,
+    "w": 0.4542,
+    "h": 0.1315
+   },
+   {
+    "t": "Black Sea Night 100",
+    "x": 0.6337,
+    "y": 0.7935,
+    "w": 0.0683,
+    "h": 0.0707
+   },
+   {
+    "t": "Black Sea Night 50",
+    "x": 0.7108,
+    "y": 0.7935,
+    "w": 0.064,
+    "h": 0.0707
+   },
+   {
+    "t": "#89889C",
+    "x": 0.4811,
+    "y": 0.8741,
+    "w": 0.0306,
+    "h": 0.0587
+   },
+   {
+    "t": "#181728",
+    "x": 0.1759,
+    "y": 0.875,
+    "w": 0.0276,
+    "h": 0.0568
+   },
+   {
+    "t": "#3E3D51",
+    "x": 0.2529,
+    "y": 0.875,
+    "w": 0.0291,
+    "h": 0.0568
+   },
+   {
+    "t": "#646377",
+    "x": 0.327,
+    "y": 0.875,
+    "w": 0.0305,
+    "h": 0.0568
+   },
+   {
+    "t": "#aDAOCO",
+    "x": 0.4055,
+    "y": 0.875,
+    "w": 0.0291,
+    "h": 0.0568
+   },
+   {
+    "t": "H9C9BAF",
+    "x": 0.5567,
+    "y": 0.875,
+    "w": 0.0305,
+    "h": 0.0568
+   },
+   {
+    "t": "HAFAEC2",
+    "x": 0.6337,
+    "y": 0.875,
+    "w": 0.0291,
+    "h": 0.0568
+   },
+   {
+    "t": "#C2C1D5",
+    "x": 0.7093,
+    "y": 0.875,
+    "w": 0.0305,
+    "h": 0.0568
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "file": "b13.jpg",
+  "y0": 5379,
+  "y1": 5530,
+  "h": 151,
+  "color": 23.17,
+  "density": 0.346,
+  "lines": [
+   {
+    "t": "Vivid Cerulean",
+    "x": 0.1759,
+    "y": 0.0789,
+    "w": 0.0872,
+    "h": 0.1265
+   },
+   {
+    "t": "Vivid Cerulean 700",
+    "x": 0.1773,
+    "y": 0.7534,
+    "w": 0.064,
+    "h": 0.0822
+   },
+   {
+    "t": "Vivid Cerulean 600",
+    "x": 0.2529,
+    "y": 0.7534,
+    "w": 0.0654,
+    "h": 0.0822
+   },
+   {
+    "t": "Vivid Cerulean 500",
+    "x": 0.327,
+    "y": 0.7534,
+    "w": 0.0683,
+    "h": 0.0822
+   },
+   {
+    "t": "Vivid Cerulean 400",
+    "x": 0.4055,
+    "y": 0.7534,
+    "w": 0.0669,
+    "h": 0.0822
+   },
+   {
+    "t": "Vivid Cerulean 300",
+    "x": 0.4811,
+    "y": 0.7534,
+    "w": 0.0669,
+    "h": 0.0822
+   },
+   {
+    "t": "Vivid Cerulean 200",
+    "x": 0.5581,
+    "y": 0.7534,
+    "w": 0.0654,
+    "h": 0.0822
+   },
+   {
+    "t": "Vivid Cerulean 100",
+    "x": 0.6337,
+    "y": 0.7534,
+    "w": 0.0654,
+    "h": 0.0822
+   },
+   {
+    "t": "Vivid Cerulean 50",
+    "x": 0.7108,
+    "y": 0.7534,
+    "w": 0.061,
+    "h": 0.0822
+   },
+   {
+    "t": "#66CEF5",
+    "x": 0.3284,
+    "y": 0.8478,
+    "w": 0.0291,
+    "h": 0.0715
+   },
+   {
+    "t": "HODADEF",
+    "x": 0.1759,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#3380F2",
+    "x": 0.2529,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "1990(59",
+    "x": 0.4055,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#B2E6FA",
+    "x": 0.4811,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#CCEFFC",
+    "x": 0.5567,
+    "y": 0.8493,
+    "w": 0.032,
+    "h": 0.0685
+   },
+   {
+    "t": "#E5F7FD",
+    "x": 0.6337,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#FFFFFF",
+    "x": 0.7093,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "file": "b14.jpg",
+  "y0": 5557,
+  "y1": 5709,
+  "h": 152,
+  "color": 12.54,
+  "density": 0.322,
+  "lines": [
+   {
+    "t": "Hint Of Purple",
+    "x": 0.1758,
+    "y": 0.0781,
+    "w": 0.083,
+    "h": 0.1451
+   },
+   {
+    "t": "Hint Of Purple 700",
+    "x": 0.1773,
+    "y": 0.7534,
+    "w": 0.0625,
+    "h": 0.0822
+   },
+   {
+    "t": "Hint Of Purple 600",
+    "x": 0.2529,
+    "y": 0.7534,
+    "w": 0.064,
+    "h": 0.0822
+   },
+   {
+    "t": "Hint Of Purple 500",
+    "x": 0.327,
+    "y": 0.7534,
+    "w": 0.0654,
+    "h": 0.0822
+   },
+   {
+    "t": "Hint Of Purple 400",
+    "x": 0.4055,
+    "y": 0.7534,
+    "w": 0.064,
+    "h": 0.0822
+   },
+   {
+    "t": "Hint Of Purple 300",
+    "x": 0.4811,
+    "y": 0.7534,
+    "w": 0.064,
+    "h": 0.0822
+   },
+   {
+    "t": "Hint Of Purple 200",
+    "x": 0.5567,
+    "y": 0.7534,
+    "w": 0.0654,
+    "h": 0.0822
+   },
+   {
+    "t": "Hint Of Purple 100",
+    "x": 0.6337,
+    "y": 0.7534,
+    "w": 0.064,
+    "h": 0.0822
+   },
+   {
+    "t": "Hint Of Purple 50",
+    "x": 0.7108,
+    "y": 0.7534,
+    "w": 0.0596,
+    "h": 0.0822
+   },
+   {
+    "t": "#4047C1",
+    "x": 0.1759,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#716CCD",
+    "x": 0.2515,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#9491DA",
+    "x": 0.3285,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#B8B5E6",
+    "x": 0.4055,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#CACBEC",
+    "x": 0.4811,
+    "y": 0.8493,
+    "w": 0.032,
+    "h": 0.0685
+   },
+   {
+    "t": "#DBDAF3",
+    "x": 0.5567,
+    "y": 0.8493,
+    "w": 0.032,
+    "h": 0.0685
+   },
+   {
+    "t": "#EDE0F9",
+    "x": 0.6337,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#EFFFFF",
+    "x": 0.7093,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "file": "b15.jpg",
+  "y0": 5740,
+  "y1": 5888,
+  "h": 148,
+  "color": 9.78,
+  "density": 0.345,
+  "lines": [
+   {
+    "t": "Goldilocks",
+    "x": 0.1759,
+    "y": 0.0704,
+    "w": 0.0625,
+    "h": 0.1127
+   },
+   {
+    "t": "Goldilocks 700",
+    "x": 0.1773,
+    "y": 0.7432,
+    "w": 0.0509,
+    "h": 0.0878
+   },
+   {
+    "t": "Goldilocks 600",
+    "x": 0.2529,
+    "y": 0.7432,
+    "w": 0.0523,
+    "h": 0.0878
+   },
+   {
+    "t": "Goldilocks 500",
+    "x": 0.3285,
+    "y": 0.7432,
+    "w": 0.0523,
+    "h": 0.0878
+   },
+   {
+    "t": "Goldilocks 400",
+    "x": 0.4055,
+    "y": 0.7432,
+    "w": 0.0523,
+    "h": 0.0878
+   },
+   {
+    "t": "Goldilocks 300",
+    "x": 0.4811,
+    "y": 0.7432,
+    "w": 0.0523,
+    "h": 0.0878
+   },
+   {
+    "t": "Goldilocks 200",
+    "x": 0.5567,
+    "y": 0.7432,
+    "w": 0.0523,
+    "h": 0.0878
+   },
+   {
+    "t": "Goldilocks 100",
+    "x": 0.6337,
+    "y": 0.7432,
+    "w": 0.0523,
+    "h": 0.0878
+   },
+   {
+    "t": "Goldilocks 50",
+    "x": 0.7107,
+    "y": 0.7434,
+    "w": 0.0466,
+    "h": 0.0907
+   },
+   {
+    "t": "#FFFEFA",
+    "x": 0.6322,
+    "y": 0.8443,
+    "w": 0.0291,
+    "h": 0.0719
+   },
+   {
+    "t": "#FFF595",
+    "x": 0.1759,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#EFFZAA",
+    "x": 0.2515,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#FFF805",
+    "x": 0.4041,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#FFFCOF",
+    "x": 0.4811,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#FFFDEA",
+    "x": 0.5567,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#FFFFFF",
+    "x": 0.7108,
+    "y": 0.8451,
+    "w": 0.0276,
+    "h": 0.0704
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "file": "b16.jpg",
+  "y0": 5916,
+  "y1": 6067,
+  "h": 151,
+  "color": 16.57,
+  "density": 0.358,
+  "lines": [
+   {
+    "t": "Pistachio Mousse",
+    "x": 0.1759,
+    "y": 0.0789,
+    "w": 0.1047,
+    "h": 0.1265
+   },
+   {
+    "t": "Pistachio Mousse 700",
+    "x": 0.1759,
+    "y": 0.7534,
+    "w": 0.0756,
+    "h": 0.0822
+   },
+   {
+    "t": "Pistachio Mousse 600",
+    "x": 0.2573,
+    "y": 0.7534,
+    "w": 0.0756,
+    "h": 0.0822
+   },
+   {
+    "t": "Pistachio Mousse 500",
+    "x": 0.3372,
+    "y": 0.7534,
+    "w": 0.0756,
+    "h": 0.0822
+   },
+   {
+    "t": "Pistachio Mousse 400",
+    "x": 0.4172,
+    "y": 0.7534,
+    "w": 0.077,
+    "h": 0.0822
+   },
+   {
+    "t": "Pistachio Mousse 300",
+    "x": 0.4971,
+    "y": 0.7534,
+    "w": 0.077,
+    "h": 0.0822
+   },
+   {
+    "t": "Pistachio Mousse200",
+    "x": 0.577,
+    "y": 0.7534,
+    "w": 0.0756,
+    "h": 0.0822
+   },
+   {
+    "t": "Pistachio Mousse 100",
+    "x": 0.6555,
+    "y": 0.7534,
+    "w": 0.0799,
+    "h": 0.0822
+   },
+   {
+    "t": "Pistachio Mousse 50",
+    "x": 0.7355,
+    "y": 0.7534,
+    "w": 0.0727,
+    "h": 0.0822
+   },
+   {
+    "t": "#F8FFF4",
+    "x": 0.657,
+    "y": 0.8356,
+    "w": 0.0291,
+    "h": 0.0822
+   },
+   {
+    "t": "#B8FF8F",
+    "x": 0.1759,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#C6FFAS",
+    "x": 0.2558,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#D4FF8C",
+    "x": 0.3372,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#E3FF02",
+    "x": 0.4172,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#EAFFOD",
+    "x": 0.4985,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#F1FFE9",
+    "x": 0.5785,
+    "y": 0.8493,
+    "w": 0.0276,
+    "h": 0.0685
+   },
+   {
+    "t": "#FFFFFF",
+    "x": 0.7369,
+    "y": 0.8493,
+    "w": 0.0276,
+    "h": 0.0685
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "file": "b17.jpg",
+  "y0": 6098,
+  "y1": 6246,
+  "h": 148,
+  "color": 20.5,
+  "density": 0.324,
+  "lines": [
+   {
+    "t": "Cascara",
+    "x": 0.1773,
+    "y": 0.0704,
+    "w": 0.048,
+    "h": 0.0986
+   },
+   {
+    "t": "Cascara 700",
+    "x": 0.1773,
+    "y": 0.7441,
+    "w": 0.0437,
+    "h": 0.0893
+   },
+   {
+    "t": "Cascara 600",
+    "x": 0.2529,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Cascara 500",
+    "x": 0.3285,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Cascara 400",
+    "x": 0.4055,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Cascara 300",
+    "x": 0.4826,
+    "y": 0.7606,
+    "w": 0.0436,
+    "h": 0.0705
+   },
+   {
+    "t": "Cascara200",
+    "x": 0.5581,
+    "y": 0.7606,
+    "w": 0.0422,
+    "h": 0.0704
+   },
+   {
+    "t": "Cascara 100",
+    "x": 0.6337,
+    "y": 0.7606,
+    "w": 0.0436,
+    "h": 0.0705
+   },
+   {
+    "t": "Cascara 50",
+    "x": 0.7108,
+    "y": 0.7606,
+    "w": 0.0392,
+    "h": 0.0705
+   },
+   {
+    "t": "#F8B6AD",
+    "x": 0.404,
+    "y": 0.842,
+    "w": 0.0307,
+    "h": 0.0767
+   },
+   {
+    "t": "#EE4833",
+    "x": 0.1759,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#F16DSC",
+    "x": 0.2515,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#FS9185",
+    "x": 0.3285,
+    "y": 0.8451,
+    "w": 0.0276,
+    "h": 0.0704
+   },
+   {
+    "t": "#F886AD",
+    "x": 0.4811,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#FAC8C2",
+    "x": 0.5567,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#FCDAD",
+    "x": 0.6337,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#DEDES",
+    "x": 0.7108,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "file": "b18.jpg",
+  "y0": 6277,
+  "y1": 6425,
+  "h": 148,
+  "color": 0.0,
+  "density": 0.289,
+  "lines": [
+   {
+    "t": "Neutral colors",
+    "x": 0.1759,
+    "y": 0.0676,
+    "w": 0.0901,
+    "h": 0.1296
+   },
+   {
+    "t": "Neutral 600",
+    "x": 0.2529,
+    "y": 0.7432,
+    "w": 0.0422,
+    "h": 0.0878
+   },
+   {
+    "t": "Neutral 700",
+    "x": 0.1758,
+    "y": 0.7453,
+    "w": 0.0422,
+    "h": 0.0868
+   },
+   {
+    "t": "Neutra",
+    "x": 0.3285,
+    "y": 0.7606,
+    "w": 0.0218,
+    "h": 0.0704
+   },
+   {
+    "t": "#000000",
+    "x": 0.1759,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#333333",
+    "x": 0.2515,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#666SL",
+    "x": 0.3285,
+    "y": 0.8451,
+    "w": 0.0218,
+    "h": 0.0704
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "file": "b19.jpg",
+  "y0": 6521,
+  "y1": 7888,
+  "h": 1367,
+  "color": 0.0,
+  "density": 0.072,
+  "lines": [
+   {
+    "t": "Typography",
+    "x": 0.2107,
+    "y": 0.0043,
+    "w": 0.1048,
+    "h": 0.0236
+   },
+   {
+    "t": "Sofia Pro",
+    "x": 0.481,
+    "y": 0.0638,
+    "w": 0.0728,
+    "h": 0.016
+   },
+   {
+    "t": "TT Norms",
+    "x": 0.2093,
+    "y": 0.0641,
+    "w": 0.0814,
+    "h": 0.0155
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "x": 0.2108,
+    "y": 0.0887,
+    "w": 0.173,
+    "h": 0.0107
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "x": 0.4797,
+    "y": 0.0887,
+    "w": 0.1744,
+    "h": 0.0107
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.2108,
+    "y": 0.107,
+    "w": 0.1265,
+    "h": 0.0107
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.4811,
+    "y": 0.107,
+    "w": 0.1265,
+    "h": 0.0107
+   },
+   {
+    "t": "1234567890",
+    "x": 0.2108,
+    "y": 0.1239,
+    "w": 0.0552,
+    "h": 0.0092
+   },
+   {
+    "t": "1234567890",
+    "x": 0.4811,
+    "y": 0.1239,
+    "w": 0.0552,
+    "h": 0.0092
+   },
+   {
+    "t": "Style",
+    "x": 0.2093,
+    "y": 0.1713,
+    "w": 0.0291,
+    "h": 0.0138
+   },
+   {
+    "t": "Font size/weight",
+    "x": 0.5581,
+    "y": 0.1725,
+    "w": 0.0872,
+    "h": 0.0125
+   },
+   {
+    "t": "80/Bold",
+    "x": 0.5565,
+    "y": 0.2163,
+    "w": 0.23,
+    "h": 0.0583
+   },
+   {
+    "t": "Heading",
+    "x": 0.2135,
+    "y": 0.2195,
+    "w": 0.2242,
+    "h": 0.0596
+   },
+   {
+    "t": "50/Reguler",
+    "x": 0.5564,
+    "y": 0.3136,
+    "w": 0.1837,
+    "h": 0.0411
+   },
+   {
+    "t": "Title 1",
+    "x": 0.2093,
+    "y": 0.315,
+    "w": 0.1032,
+    "h": 0.0322
+   },
+   {
+    "t": "42/Semi Bold",
+    "x": 0.5552,
+    "y": 0.3881,
+    "w": 0.1905,
+    "h": 0.0326
+   },
+   {
+    "t": "Title 2",
+    "x": 0.2089,
+    "y": 0.3884,
+    "w": 0.0924,
+    "h": 0.0306
+   },
+   {
+    "t": "30/Bold",
+    "x": 0.5566,
+    "y": 0.4492,
+    "w": 0.0845,
+    "h": 0.0222
+   },
+   {
+    "t": "Body 1",
+    "x": 0.2108,
+    "y": 0.4495,
+    "w": 0.0683,
+    "h": 0.0245
+   },
+   {
+    "t": "26/Semi Bold",
+    "x": 0.5566,
+    "y": 0.492,
+    "w": 0.1208,
+    "h": 0.0222
+   },
+   {
+    "t": "Body 2",
+    "x": 0.2106,
+    "y": 0.4933,
+    "w": 0.0628,
+    "h": 0.0225
+   },
+   {
+    "t": "Body 3",
+    "x": 0.2092,
+    "y": 0.538,
+    "w": 0.0626,
+    "h": 0.0218
+   },
+   {
+    "t": "25/Extra Bold",
+    "x": 0.5567,
+    "y": 0.538,
+    "w": 0.1206,
+    "h": 0.0201
+   },
+   {
+    "t": "Body 4",
+    "x": 0.2108,
+    "y": 0.5826,
+    "w": 0.0581,
+    "h": 0.0199
+   },
+   {
+    "t": "24/Semi Bold",
+    "x": 0.5567,
+    "y": 0.5841,
+    "w": 0.109,
+    "h": 0.0169
+   },
+   {
+    "t": "24/Reguler",
+    "x": 0.5551,
+    "y": 0.6263,
+    "w": 0.0918,
+    "h": 0.0211
+   },
+   {
+    "t": "Body 5",
+    "x": 0.2106,
+    "y": 0.6265,
+    "w": 0.0555,
+    "h": 0.0206
+   },
+   {
+    "t": "Body 6",
+    "x": 0.2092,
+    "y": 0.6693,
+    "w": 0.057,
+    "h": 0.0208
+   },
+   {
+    "t": "23/Medium",
+    "x": 0.5567,
+    "y": 0.6713,
+    "w": 0.0887,
+    "h": 0.0153
+   },
+   {
+    "t": "Sub Body 1",
+    "x": 0.2092,
+    "y": 0.7152,
+    "w": 0.083,
+    "h": 0.0177
+   },
+   {
+    "t": "22/Semi Bold",
+    "x": 0.5552,
+    "y": 0.7156,
+    "w": 0.1017,
+    "h": 0.0154
+   },
+   {
+    "t": "Sub Body 2",
+    "x": 0.2091,
+    "y": 0.759,
+    "w": 0.0846,
+    "h": 0.0186
+   },
+   {
+    "t": "22/Reguler",
+    "x": 0.5567,
+    "y": 0.7598,
+    "w": 0.0814,
+    "h": 0.0186
+   },
+   {
+    "t": "Sub Body 3",
+    "x": 0.2092,
+    "y": 0.8023,
+    "w": 0.0772,
+    "h": 0.0178
+   },
+   {
+    "t": "20/Reguler",
+    "x": 0.5552,
+    "y": 0.8027,
+    "w": 0.0756,
+    "h": 0.0185
+   },
+   {
+    "t": "Sub Body 4",
+    "x": 0.2092,
+    "y": 0.8468,
+    "w": 0.0757,
+    "h": 0.0174
+   },
+   {
+    "t": "19/Semi Bold",
+    "x": 0.5552,
+    "y": 0.8486,
+    "w": 0.0727,
+    "h": 0.0125
+   },
+   {
+    "t": "Sub Body 5",
+    "x": 0.2092,
+    "y": 0.8927,
+    "w": 0.0699,
+    "h": 0.0144
+   },
+   {
+    "t": "18/Reguler",
+    "x": 0.5552,
+    "y": 0.893,
+    "w": 0.0669,
+    "h": 0.0138
+   },
+   {
+    "t": "Sub Body 6",
+    "x": 0.2108,
+    "y": 0.9357,
+    "w": 0.061,
+    "h": 0.0139
+   },
+   {
+    "t": "16/Medium",
+    "x": 0.5538,
+    "y": 0.9373,
+    "w": 0.0625,
+    "h": 0.0122
+   },
+   {
+    "t": "16/Reguler",
+    "x": 0.5537,
+    "y": 0.9799,
+    "w": 0.0611,
+    "h": 0.0142
+   },
+   {
+    "t": "Sub Body 7",
+    "x": 0.2093,
+    "y": 0.9801,
+    "w": 0.0625,
+    "h": 0.0139
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "file": "b20.jpg",
+  "y0": 8003,
+  "y1": 8401,
+  "h": 398,
+  "color": 1.45,
+  "density": 0.055,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.2792,
+    "y": 0.0299,
+    "w": 0.075,
+    "h": 0.0746
+   },
+   {
+    "t": "Label",
+    "x": 0.4346,
+    "y": 0.3,
+    "w": 0.0291,
+    "h": 0.0316
+   },
+   {
+    "t": "Label",
+    "x": 0.5291,
+    "y": 0.3,
+    "w": 0.0334,
+    "h": 0.0316
+   },
+   {
+    "t": "< Label >",
+    "x": 0.5232,
+    "y": 0.4455,
+    "w": 0.0554,
+    "h": 0.0407
+   },
+   {
+    "t": "< Label",
+    "x": 0.4229,
+    "y": 0.4466,
+    "w": 0.0423,
+    "h": 0.0384
+   },
+   {
+    "t": "\u2039 Label >",
+    "x": 0.5232,
+    "y": 0.5989,
+    "w": 0.0553,
+    "h": 0.0391
+   },
+   {
+    "t": "< Label >",
+    "x": 0.423,
+    "y": 0.6,
+    "w": 0.0552,
+    "h": 0.0368
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "file": "b21.jpg",
+  "y0": 8525,
+  "y1": 10045,
+  "h": 1520,
+  "color": 11.11,
+  "density": 0.302,
+  "lines": [
+   {
+    "t": "Component",
+    "x": 0.2423,
+    "y": 0.007,
+    "w": 0.0492,
+    "h": 0.0092
+   },
+   {
+    "t": "Navigation Bar",
+    "x": 0.2469,
+    "y": 0.032,
+    "w": 0.0613,
+    "h": 0.0088
+   },
+   {
+    "t": "Challenges",
+    "x": 0.454,
+    "y": 0.061,
+    "w": 0.0337,
+    "h": 0.0073
+   },
+   {
+    "t": "Tools",
+    "x": 0.5077,
+    "y": 0.061,
+    "w": 0.0169,
+    "h": 0.0073
+   },
+   {
+    "t": "Blog",
+    "x": 0.5429,
+    "y": 0.061,
+    "w": 0.0153,
+    "h": 0.0087
+   },
+   {
+    "t": "FAQ",
+    "x": 0.5767,
+    "y": 0.061,
+    "w": 0.0138,
+    "h": 0.0073
+   },
+   {
+    "t": "Login",
+    "x": 0.615,
+    "y": 0.061,
+    "w": 0.0184,
+    "h": 0.0073
+   },
+   {
+    "t": "START YOUR JOURNEY NOW",
+    "x": 0.6549,
+    "y": 0.061,
+    "w": 0.0813,
+    "h": 0.0074
+   },
+   {
+    "t": "CONTEN",
+    "x": 0.2822,
+    "y": 0.064,
+    "w": 0.0215,
+    "h": 0.0029
+   },
+   {
+    "t": "Challenges",
+    "x": 0.454,
+    "y": 0.109,
+    "w": 0.0337,
+    "h": 0.0073
+   },
+   {
+    "t": "Blog",
+    "x": 0.5429,
+    "y": 0.109,
+    "w": 0.0169,
+    "h": 0.0073
+   },
+   {
+    "t": "FAQ",
+    "x": 0.5767,
+    "y": 0.109,
+    "w": 0.0138,
+    "h": 0.0073
+   },
+   {
+    "t": "Login",
+    "x": 0.615,
+    "y": 0.109,
+    "w": 0.0184,
+    "h": 0.0073
+   },
+   {
+    "t": "FUTURE",
+    "x": 0.2807,
+    "y": 0.1541,
+    "w": 0.0153,
+    "h": 0.0029
+   },
+   {
+    "t": "START YOUR JOURNEY NOW",
+    "x": 0.6549,
+    "y": 0.1553,
+    "w": 0.0813,
+    "h": 0.0092
+   },
+   {
+    "t": "FAG",
+    "x": 0.5767,
+    "y": 0.1555,
+    "w": 0.0138,
+    "h": 0.0073
+   },
+   {
+    "t": "Login",
+    "x": 0.615,
+    "y": 0.1555,
+    "w": 0.0184,
+    "h": 0.0073
+   },
+   {
+    "t": "Challenges",
+    "x": 0.454,
+    "y": 0.157,
+    "w": 0.0337,
+    "h": 0.0073
+   },
+   {
+    "t": "Tools",
+    "x": 0.5077,
+    "y": 0.157,
+    "w": 0.0169,
+    "h": 0.0073
+   },
+   {
+    "t": "START YOUR JOURNEY NOW",
+    "x": 0.6549,
+    "y": 0.2033,
+    "w": 0.0813,
+    "h": 0.0075
+   },
+   {
+    "t": "Challenges",
+    "x": 0.454,
+    "y": 0.2035,
+    "w": 0.0337,
+    "h": 0.0073
+   },
+   {
+    "t": "Blog",
+    "x": 0.5429,
+    "y": 0.2035,
+    "w": 0.0169,
+    "h": 0.0087
+   },
+   {
+    "t": "FAG",
+    "x": 0.5752,
+    "y": 0.2035,
+    "w": 0.0153,
+    "h": 0.0073
+   },
+   {
+    "t": "Login",
+    "x": 0.615,
+    "y": 0.2035,
+    "w": 0.0184,
+    "h": 0.0073
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.2807,
+    "y": 0.2049,
+    "w": 0.0261,
+    "h": 0.0073
+   },
+   {
+    "t": "Card",
+    "x": 0.2469,
+    "y": 0.2544,
+    "w": 0.0215,
+    "h": 0.0073
+   },
+   {
+    "t": "EL B",
+    "x": 0.566,
+    "y": 0.3023,
+    "w": 0.0798,
+    "h": 0.0437
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet,",
+    "x": 0.25,
+    "y": 0.3776,
+    "w": 0.1503,
+    "h": 0.0119
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet,",
+    "x": 0.411,
+    "y": 0.3776,
+    "w": 0.1488,
+    "h": 0.0119
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet,",
+    "x": 0.5721,
+    "y": 0.3776,
+    "w": 0.1488,
+    "h": 0.0119
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.411,
+    "y": 0.3908,
+    "w": 0.1288,
+    "h": 0.0118
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.5721,
+    "y": 0.3908,
+    "w": 0.1288,
+    "h": 0.0118
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.25,
+    "y": 0.3924,
+    "w": 0.1288,
+    "h": 0.0102
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer",
+    "x": 0.2485,
+    "y": 0.4142,
+    "w": 0.1426,
+    "h": 0.0088
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer",
+    "x": 0.411,
+    "y": 0.4142,
+    "w": 0.1426,
+    "h": 0.0088
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer",
+    "x": 0.5721,
+    "y": 0.4142,
+    "w": 0.1426,
+    "h": 0.0088
+   },
+   {
+    "t": "adipiscing elit, sed diam nonummy nibh",
+    "x": 0.2485,
+    "y": 0.4257,
+    "w": 0.1365,
+    "h": 0.0092
+   },
+   {
+    "t": "adipiscing elit, sed diam nonummy nibh",
+    "x": 0.411,
+    "y": 0.4257,
+    "w": 0.135,
+    "h": 0.0092
+   },
+   {
+    "t": "adipiscing elit, sed diam nonummy nibh",
+    "x": 0.5721,
+    "y": 0.4257,
+    "w": 0.1365,
+    "h": 0.0092
+   },
+   {
+    "t": "euismod tincidunt ut laoreet dolore magna",
+    "x": 0.2485,
+    "y": 0.436,
+    "w": 0.1472,
+    "h": 0.0087
+   },
+   {
+    "t": "euismod tincidunt ut laoreet dolore magna",
+    "x": 0.4095,
+    "y": 0.436,
+    "w": 0.1472,
+    "h": 0.0087
+   },
+   {
+    "t": "euismod tincidunt ut laoreet dolore magna",
+    "x": 0.5721,
+    "y": 0.436,
+    "w": 0.1457,
+    "h": 0.0087
+   },
+   {
+    "t": "aliquam erat volutpat.",
+    "x": 0.2485,
+    "y": 0.4474,
+    "w": 0.0752,
+    "h": 0.0079
+   },
+   {
+    "t": "aliquam erat volutpat.",
+    "x": 0.411,
+    "y": 0.4474,
+    "w": 0.0767,
+    "h": 0.0079
+   },
+   {
+    "t": "aliquam erat volutpat.",
+    "x": 0.5721,
+    "y": 0.4474,
+    "w": 0.0752,
+    "h": 0.0079
+   },
+   {
+    "t": "Dropdown",
+    "x": 0.2484,
+    "y": 0.4868,
+    "w": 0.043,
+    "h": 0.0089
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.2623,
+    "y": 0.5174,
+    "w": 0.2071,
+    "h": 0.0089
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.2623,
+    "y": 0.5638,
+    "w": 0.2393,
+    "h": 0.0105
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh suismod tincidunt ut laoreet dolore",
+    "x": 0.2607,
+    "y": 0.5814,
+    "w": 0.3497,
+    "h": 0.0087
+   },
+   {
+    "t": "magna aliquam erat volutpat.",
+    "x": 0.2607,
+    "y": 0.5914,
+    "w": 0.089,
+    "h": 0.0074
+   },
+   {
+    "t": "Grid System",
+    "x": 0.1809,
+    "y": 0.6756,
+    "w": 0.0768,
+    "h": 0.0137
+   },
+   {
+    "t": "Desktop (1440px)",
+    "x": 0.181,
+    "y": 0.7049,
+    "w": 0.112,
+    "h": 0.0131
+   },
+   {
+    "t": "56px",
+    "x": 0.1718,
+    "y": 0.7413,
+    "w": 0.023,
+    "h": 0.0087
+   },
+   {
+    "t": "20px",
+    "x": 0.4893,
+    "y": 0.7413,
+    "w": 0.023,
+    "h": 0.0087
+   },
+   {
+    "t": "\u041f",
+    "x": 0.4923,
+    "y": 0.7515,
+    "w": 0.0138,
+    "h": 0.0131
+   },
+   {
+    "t": "1324px",
+    "x": 0.4847,
+    "y": 0.9593,
+    "w": 0.0307,
+    "h": 0.0087
+   },
+   {
+    "t": "1440px",
+    "x": 0.4831,
+    "y": 0.9855,
+    "w": 0.0337,
+    "h": 0.0102
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "file": "b22.jpg",
+  "y0": 10141,
+  "y1": 10394,
+  "h": 253,
+  "color": 0.0,
+  "density": 0.14,
+  "lines": [
+   {
+    "t": "Final Design",
+    "x": 0.1525,
+    "y": 0.0465,
+    "w": 0.0976,
+    "h": 0.1119
+   },
+   {
+    "t": "This design consists of four pages: Homepage, Tools, Blog, and Frequently Asked Questions. To provide",
+    "x": 0.1512,
+    "y": 0.2705,
+    "w": 0.6904,
+    "h": 0.0996
+   },
+   {
+    "t": "a comprehensive understanding, the Homepage will be described section by section, while the other",
+    "x": 0.1512,
+    "y": 0.3689,
+    "w": 0.6701,
+    "h": 0.0997
+   },
+   {
+    "t": "three pages will be presented in a more concise format.\"",
+    "x": 0.1512,
+    "y": 0.4508,
+    "w": 0.3765,
+    "h": 0.0984
+   },
+   {
+    "t": "Homepage",
+    "x": 0.1523,
+    "y": 0.645,
+    "w": 0.0877,
+    "h": 0.0934
+   },
+   {
+    "t": "Hero Section",
+    "x": 0.1526,
+    "y": 0.8689,
+    "w": 0.1032,
+    "h": 0.0839
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "file": "b23.jpg",
+  "y0": 10425,
+  "y1": 11115,
+  "h": 690,
+  "color": 26.09,
+  "density": 0.397,
+  "lines": [
+   {
+    "t": "START YOUR JOURNEY NOW",
+    "x": 0.6468,
+    "y": 0.0696,
+    "w": 0.077,
+    "h": 0.0159
+   },
+   {
+    "t": "FAO",
+    "x": 0.5727,
+    "y": 0.0697,
+    "w": 0.0145,
+    "h": 0.0152
+   },
+   {
+    "t": "Login",
+    "x": 0.609,
+    "y": 0.0697,
+    "w": 0.0174,
+    "h": 0.0152
+   },
+   {
+    "t": "FUTURI",
+    "x": 0.4998,
+    "y": 0.2531,
+    "w": 0.1035,
+    "h": 0.0574
+   },
+   {
+    "t": "CONTEN",
+    "x": 0.4956,
+    "y": 0.3273,
+    "w": 0.1686,
+    "h": 0.0818
+   },
+   {
+    "t": "CLOUD",
+    "x": 0.4984,
+    "y": 0.4078,
+    "w": 0.1384,
+    "h": 0.0784
+   },
+   {
+    "t": "The hero section of the Futuri Content Cloud website features a bold and immersive visual that immediately captures user attention.",
+    "x": 0.1526,
+    "y": 0.7273,
+    "w": 0.6933,
+    "h": 0.0249
+   },
+   {
+    "t": "Dominated by a vibrant glitch style animation of the logo and text, it conveys a futuristic and dynamic identity. The blurred,",
+    "x": 0.1526,
+    "y": 0.7545,
+    "w": 0.6453,
+    "h": 0.0273
+   },
+   {
+    "t": "chromatic cloud icon combined with the distorted typography emphasizes innovation and digital transformation.",
+    "x": 0.1526,
+    "y": 0.7783,
+    "w": 0.5901,
+    "h": 0.0278
+   },
+   {
+    "t": "Above the visual, a transparent navy navigation bar offers access to key pages Challenges, Tools, Blog, and FAQ along with login",
+    "x": 0.1526,
+    "y": 0.8362,
+    "w": 0.6744,
+    "h": 0.0275
+   },
+   {
+    "t": "and a prominent CTA button labeled \"START YOUR JOURNEY NOW,\" encouraging immediate user engagement. This section",
+    "x": 0.1526,
+    "y": 0.8636,
+    "w": 0.6497,
+    "h": 0.0277
+   },
+   {
+    "t": "effectively sets the tone for a tech forward, interactive experience.",
+    "x": 0.1526,
+    "y": 0.8909,
+    "w": 0.3517,
+    "h": 0.0279
+   },
+   {
+    "t": "Introduction Banner",
+    "x": 0.1512,
+    "y": 0.9515,
+    "w": 0.1613,
+    "h": 0.034
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "file": "b24.jpg",
+  "y0": 11146,
+  "y1": 11819,
+  "h": 673,
+  "color": 16.13,
+  "density": 0.375,
+  "lines": [
+   {
+    "t": "THE NEXT",
+    "x": 0.2732,
+    "y": 0.0707,
+    "w": 0.0888,
+    "h": 0.0387
+   },
+   {
+    "t": "STEP IN YOUR",
+    "x": 0.2747,
+    "y": 0.118,
+    "w": 0.1221,
+    "h": 0.0378
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.2747,
+    "y": 0.1801,
+    "w": 0.1526,
+    "h": 0.0559
+   },
+   {
+    "t": "JOURNEY",
+    "x": 0.2718,
+    "y": 0.2541,
+    "w": 0.1542,
+    "h": 0.0571
+   },
+   {
+    "t": "Let's create, together! We help you build",
+    "x": 0.5305,
+    "y": 0.3944,
+    "w": 0.1483,
+    "h": 0.0217
+   },
+   {
+    "t": "relevant content & grow your audience.",
+    "x": 0.5305,
+    "y": 0.4224,
+    "w": 0.1453,
+    "h": 0.0186
+   },
+   {
+    "t": "It's time to become the content creator you",
+    "x": 0.5305,
+    "y": 0.4658,
+    "w": 0.157,
+    "h": 0.0193
+   },
+   {
+    "t": "dream of.",
+    "x": 0.5304,
+    "y": 0.49,
+    "w": 0.0379,
+    "h": 0.0201
+   },
+   {
+    "t": "START YOUR JOURNEY NOW",
+    "x": 0.5407,
+    "y": 0.5772,
+    "w": 0.0916,
+    "h": 0.0163
+   },
+   {
+    "t": "This section serves as an introductory banner that reinforces the platform's value proposition. The left side features a bold,",
+    "x": 0.1526,
+    "y": 0.7478,
+    "w": 0.6453,
+    "h": 0.0286
+   },
+   {
+    "t": "motivational headline \"The Next Step in Your Content Journey\" using a modern typographic hierarchy to emphasize key words like",
+    "x": 0.1526,
+    "y": 0.776,
+    "w": 0.6817,
+    "h": 0.0284
+   },
+   {
+    "t": "Content and Journey. On the right, circular imagery of content creators adds a human and relatable touch, visually aligning with the",
+    "x": 0.1526,
+    "y": 0.8042,
+    "w": 0.6904,
+    "h": 0.0282
+   },
+   {
+    "t": "message. Below the images, a brief but inspiring message encourages users to start creating relevant content and grow their",
+    "x": 0.1526,
+    "y": 0.8353,
+    "w": 0.6584,
+    "h": 0.0252
+   },
+   {
+    "t": "audience, positioning the platform as an empowering tool. The section ends with a standout TA button, \"Start Your Journey Now,\"",
+    "x": 0.1526,
+    "y": 0.8602,
+    "w": 0.6875,
+    "h": 0.0314
+   },
+   {
+    "t": "which guides users toward taking their first actionable step.",
+    "x": 0.1526,
+    "y": 0.8913,
+    "w": 0.3169,
+    "h": 0.0248
+   },
+   {
+    "t": "Audience Insight",
+    "x": 0.1512,
+    "y": 0.9503,
+    "w": 0.1366,
+    "h": 0.0408
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "file": "b25.jpg",
+  "y0": 11850,
+  "y1": 12552,
+  "h": 702,
+  "color": 11.06,
+  "density": 0.378,
+  "lines": [
+   {
+    "t": "YOU GOTTA KNOW",
+    "x": 0.5276,
+    "y": 0.0863,
+    "w": 0.1483,
+    "h": 0.0298
+   },
+   {
+    "t": "YOUR AUDIENCE",
+    "x": 0.5291,
+    "y": 0.125,
+    "w": 0.1294,
+    "h": 0.0303
+   },
+   {
+    "t": "TO GROW",
+    "x": 0.5275,
+    "y": 0.1656,
+    "w": 0.131,
+    "h": 0.0497
+   },
+   {
+    "t": "YOUR",
+    "x": 0.5276,
+    "y": 0.2287,
+    "w": 0.0801,
+    "h": 0.0456
+   },
+   {
+    "t": "AUDIENCE",
+    "x": 0.5291,
+    "y": 0.2887,
+    "w": 0.1483,
+    "h": 0.0446
+   },
+   {
+    "t": "Do you feel like you are just aimlessly making content",
+    "x": 0.3052,
+    "y": 0.3304,
+    "w": 0.1701,
+    "h": 0.0179
+   },
+   {
+    "t": "and hoping people care?",
+    "x": 0.3052,
+    "y": 0.3512,
+    "w": 0.0828,
+    "h": 0.0208
+   },
+   {
+    "t": "Analytics can tell a story and be your map to",
+    "x": 0.3052,
+    "y": 0.3929,
+    "w": 0.1439,
+    "h": 0.0179
+   },
+   {
+    "t": "improving engagement with your followers.",
+    "x": 0.3052,
+    "y": 0.4131,
+    "w": 0.1395,
+    "h": 0.0185
+   },
+   {
+    "t": "Gof everything you need to grow your audience",
+    "x": 0.3052,
+    "y": 0.4524,
+    "w": 0.1512,
+    "h": 0.0179
+   },
+   {
+    "t": "from in-depth insights on your followers to tips to",
+    "x": 0.3052,
+    "y": 0.4729,
+    "w": 0.157,
+    "h": 0.0185
+   },
+   {
+    "t": "expand into new platforms.",
+    "x": 0.3052,
+    "y": 0.497,
+    "w": 0.0887,
+    "h": 0.0149
+   },
+   {
+    "t": "Start for free and upgrade as you go!",
+    "x": 0.3052,
+    "y": 0.5356,
+    "w": 0.1206,
+    "h": 0.0185
+   },
+   {
+    "t": "IWANT MY FREE AUDIENCE DASHBOARD",
+    "x": 0.3154,
+    "y": 0.6097,
+    "w": 0.1163,
+    "h": 0.0185
+   },
+   {
+    "t": "This section highlights the importance of understanding one's audience in order to grow effectively as a content creator. With a bold",
+    "x": 0.1526,
+    "y": 0.7589,
+    "w": 0.6933,
+    "h": 0.0238
+   },
+   {
+    "t": "headline stating \"You gotta know your audience to grow your audience\", it sets a confident tone that directly addresses user pain",
+    "x": 0.1526,
+    "y": 0.7821,
+    "w": 0.6773,
+    "h": 0.0304
+   },
+   {
+    "t": "points. On the left, supporting text explains how analytics and insights can quide creators toward better engagement and platform",
+    "x": 0.1526,
+    "y": 0.812,
+    "w": 0.6846,
+    "h": 0.0243
+   },
+   {
+    "t": "expansion. The messaging encourages users to start for free, making the platform feel accessible and low risk. isuals of expressive",
+    "x": 0.1526,
+    "y": 0.839,
+    "w": 0.6875,
+    "h": 0.0271
+   },
+   {
+    "t": "individuals emphasize diversity and digital culture, while the cal to action button \"I Want My Free Audience Dashboard\" invites users",
+    "x": 0.1526,
+    "y": 0.8661,
+    "w": 0.6919,
+    "h": 0.0271
+   },
+   {
+    "t": "to take immediate steps toward growth.",
+    "x": 0.151,
+    "y": 0.8886,
+    "w": 0.2125,
+    "h": 0.0325
+   },
+   {
+    "t": "Viral Content Timing",
+    "x": 0.1512,
+    "y": 0.9524,
+    "w": 0.1642,
+    "h": 0.0362
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "file": "b26.jpg",
+  "y0": 12586,
+  "y1": 13400,
+  "h": 814,
+  "color": 14.99,
+  "density": 0.256,
+  "lines": [
+   {
+    "t": "KNOW WHAT TO POST &",
+    "x": 0.4084,
+    "y": 0.0946,
+    "w": 0.1831,
+    "h": 0.0262
+   },
+   {
+    "t": "WHEN TO POST IT",
+    "x": 0.3837,
+    "y": 0.1311,
+    "w": 0.234,
+    "h": 0.036
+   },
+   {
+    "t": "Let's create, together! Wa help you build relovant content",
+    "x": 0.4142,
+    "y": 0.2027,
+    "w": 0.1817,
+    "h": 0.016
+   },
+   {
+    "t": "& grow your audience.",
+    "x": 0.468,
+    "y": 0.2211,
+    "w": 0.0741,
+    "h": 0.0185
+   },
+   {
+    "t": "It's time to become the content creator you dream of.",
+    "x": 0.4172,
+    "y": 0.2543,
+    "w": 0.1701,
+    "h": 0.016
+   },
+   {
+    "t": "LET'S GO VIRAL!",
+    "x": 0.4767,
+    "y": 0.3157,
+    "w": 0.0465,
+    "h": 0.0111
+   },
+   {
+    "t": "This section focuses on educating users not only about what content to post, but also when to post it for maximum impact. The title",
+    "x": 0.1526,
+    "y": 0.8145,
+    "w": 0.6919,
+    "h": 0.021
+   },
+   {
+    "t": "\"Know What to Post & When to Post It\" directly conveys clarity and strategic advantage. The supporting text encourages",
+    "x": 0.1526,
+    "y": 0.8378,
+    "w": 0.6337,
+    "h": 0.0233
+   },
+   {
+    "t": "collaboration and content relevance, positioning the brand as a helpful guide for creators who want to grow. The bold CTA button",
+    "x": 0.1526,
+    "y": 0.8612,
+    "w": 0.6788,
+    "h": 0.0233
+   },
+   {
+    "t": "\"Let's Go Viral!\" reinforces the aspirational goal of reaching a wide audience. A round photo of a confident and stylish woman",
+    "x": 0.1512,
+    "y": 0.8843,
+    "w": 0.657,
+    "h": 0.0235
+   },
+   {
+    "t": "wrapped in dynamic gradient graphics visually supports the idea of creating content that follows trends and has a high impact.",
+    "x": 0.1526,
+    "y": 0.9075,
+    "w": 0.6657,
+    "h": 0.0237
+   },
+   {
+    "t": "The Race to More Followers",
+    "x": 0.1526,
+    "y": 0.9589,
+    "w": 0.2209,
+    "h": 0.0288
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "file": "b27.jpg",
+  "y0": 13431,
+  "y1": 14036,
+  "h": 605,
+  "color": 14.53,
+  "density": 0.379,
+  "lines": [
+   {
+    "t": "THE RACE TO",
+    "x": 0.2792,
+    "y": 0.0396,
+    "w": 0.1167,
+    "h": 0.0495
+   },
+   {
+    "t": "Followers are currency in the social media",
+    "x": 0.5291,
+    "y": 0.1271,
+    "w": 0.1497,
+    "h": 0.0248
+   },
+   {
+    "t": "WUnS",
+    "x": 0.3283,
+    "y": 0.1413,
+    "w": 0.0687,
+    "h": 0.0622
+   },
+   {
+    "t": "age. We all want more, but most days feel like",
+    "x": 0.5291,
+    "y": 0.1551,
+    "w": 0.1642,
+    "h": 0.0248
+   },
+   {
+    "t": "we are losing the race.",
+    "x": 0.5291,
+    "y": 0.1862,
+    "w": 0.0814,
+    "h": 0.0207
+   },
+   {
+    "t": "Posting consistently and effectively with a",
+    "x": 0.5305,
+    "y": 0.231,
+    "w": 0.1468,
+    "h": 0.0248
+   },
+   {
+    "t": "variety of content will get you there but it",
+    "x": 0.5291,
+    "y": 0.2586,
+    "w": 0.1468,
+    "h": 0.0241
+   },
+   {
+    "t": "will take time.",
+    "x": 0.5291,
+    "y": 0.2855,
+    "w": 0.0494,
+    "h": 0.0215
+   },
+   {
+    "t": "Add your next million followers with Content",
+    "x": 0.5291,
+    "y": 0.3345,
+    "w": 0.157,
+    "h": 0.0241
+   },
+   {
+    "t": "Cloud!",
+    "x": 0.5305,
+    "y": 0.3621,
+    "w": 0.0247,
+    "h": 0.0207
+   },
+   {
+    "t": "I WANT MORE FOLLOWERS!",
+    "x": 0.5392,
+    "y": 0.4552,
+    "w": 0.0872,
+    "h": 0.0172
+   },
+   {
+    "t": "MORE",
+    "x": 0.279,
+    "y": 0.4837,
+    "w": 0.1004,
+    "h": 0.0722
+   },
+   {
+    "t": "FOLLOWERS",
+    "x": 0.2833,
+    "y": 0.5545,
+    "w": 0.1917,
+    "h": 0.0693
+   },
+   {
+    "t": "This section highlights the urgency and challenge of growing a social media following in today's digital landscape. Titled \"The Race",
+    "x": 0.1526,
+    "y": 0.7475,
+    "w": 0.686,
+    "h": 0.0352
+   },
+   {
+    "t": "to More Followers,\" it taps into the common frustration that creators face the feeling of falling behind. The copy reassures users that",
+    "x": 0.1511,
+    "y": 0.7716,
+    "w": 0.6963,
+    "h": 0.0429
+   },
+   {
+    "t": "consistent, diverse content is the key to long term success, while introducing Content Cloud as the solution to accelerate their",
+    "x": 0.1525,
+    "y": 0.8035,
+    "w": 0.6644,
+    "h": 0.0451
+   },
+   {
+    "t": "growth. Visuals of confident individuals within dynamic, glowing circles reinforce the idea of momentum and digital presence. The",
+    "x": 0.1526,
+    "y": 0.8448,
+    "w": 0.6802,
+    "h": 0.0314
+   },
+   {
+    "t": "call to action \"I Want More Followers!\" motivates users to take the next step toward scaling their audience.",
+    "x": 0.1526,
+    "y": 0.8759,
+    "w": 0.5596,
+    "h": 0.0276
+   },
+   {
+    "t": "The Power of Community",
+    "x": 0.15,
+    "y": 0.9406,
+    "w": 0.2083,
+    "h": 0.0495
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "file": "b28.jpg",
+  "y0": 14067,
+  "y1": 14724,
+  "h": 657,
+  "color": 28.42,
+  "density": 0.344,
+  "lines": [
+   {
+    "t": "YOU DON'T HAVE TO",
+    "x": 0.4215,
+    "y": 0.2568,
+    "w": 0.1555,
+    "h": 0.0352
+   },
+   {
+    "t": "DO IT ALONE",
+    "x": 0.4172,
+    "y": 0.3009,
+    "w": 0.1686,
+    "h": 0.0486
+   },
+   {
+    "t": "Join our Discord Community",
+    "x": 0.4448,
+    "y": 0.3778,
+    "w": 0.109,
+    "h": 0.0222
+   },
+   {
+    "t": "Connect & engage with ilkeminded creofors just like you!",
+    "x": 0.4273,
+    "y": 0.4254,
+    "w": 0.1468,
+    "h": 0.019
+   },
+   {
+    "t": "Al Content Cloud usars gain exclusive access to the futuri Content Cloud Creator Communily,",
+    "x": 0.3779,
+    "y": 0.4508,
+    "w": 0.2427,
+    "h": 0.0159
+   },
+   {
+    "t": "With the support from o\u00fcr entire network of creators, you are not on this journey alone",
+    "x": 0.3881,
+    "y": 0.4757,
+    "w": 0.2238,
+    "h": 0.0167
+   },
+   {
+    "t": "START YOUR JOURNEY FOR FREE TODAY!",
+    "x": 0.4419,
+    "y": 0.5556,
+    "w": 0.1163,
+    "h": 0.0159
+   },
+   {
+    "t": "This section emphasizes community and collaboration by inviting users to join the platform's exclusive Discord community. The",
+    "x": 0.1526,
+    "y": 0.7683,
+    "w": 0.6657,
+    "h": 0.0286
+   },
+   {
+    "t": "headline \"You Don't Have to Do It Alone\" reassures content creators that they're not navigating their growth journey in isolation. It",
+    "x": 0.1526,
+    "y": 0.7964,
+    "w": 0.6788,
+    "h": 0.029
+   },
+   {
+    "t": "highlights the benefits of connecting with like minded creators and gaining access to the Futuri Content Cloud Creator Community.",
+    "x": 0.1526,
+    "y": 0.8283,
+    "w": 0.6875,
+    "h": 0.0258
+   },
+   {
+    "t": "Through mutual support and shared experiences, users can find motivation, exchange insights, and accelerate their creative goals.",
+    "x": 0.1526,
+    "y": 0.8539,
+    "w": 0.6876,
+    "h": 0.0339
+   },
+   {
+    "t": "The bright call to action encourages immediate participation by offering a free start to this empowering network.",
+    "x": 0.1526,
+    "y": 0.8857,
+    "w": 0.5916,
+    "h": 0.0261
+   },
+   {
+    "t": "What is Futuri Content Cloud?",
+    "x": 0.1512,
+    "y": 0.9453,
+    "w": 0.2398,
+    "h": 0.0357
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "file": "b29.jpg",
+  "y0": 14755,
+  "y1": 15487,
+  "h": 732,
+  "color": 11.29,
+  "density": 0.348,
+  "lines": [
+   {
+    "t": "WHAT IS",
+    "x": 0.4695,
+    "y": 0.0543,
+    "w": 0.0596,
+    "h": 0.029
+   },
+   {
+    "t": "FUTURI CONTENT CLOUD?",
+    "x": 0.3387,
+    "y": 0.0886,
+    "w": 0.3256,
+    "h": 0.0486
+   },
+   {
+    "t": "Futuri Content Cloud in a powerful and innovative software developed",
+    "x": 0.3968,
+    "y": 0.1708,
+    "w": 0.2064,
+    "h": 0.0178
+   },
+   {
+    "t": "specifically for content creators to build more relevant content & grow their",
+    "x": 0.391,
+    "y": 0.1913,
+    "w": 0.2195,
+    "h": 0.015
+   },
+   {
+    "t": "oudiences using actionable insights & real-time trends.",
+    "x": 0.4201,
+    "y": 0.2114,
+    "w": 0.1599,
+    "h": 0.0143
+   },
+   {
+    "t": "Learn more about your audience",
+    "x": 0.3503,
+    "y": 0.2623,
+    "w": 0.1119,
+    "h": 0.0291
+   },
+   {
+    "t": "Improve your engagement",
+    "x": 0.3502,
+    "y": 0.3045,
+    "w": 0.0918,
+    "h": 0.0309
+   },
+   {
+    "t": "Grow your following",
+    "x": 0.3488,
+    "y": 0.3451,
+    "w": 0.0743,
+    "h": 0.0327
+   },
+   {
+    "t": "Magnify your impact",
+    "x": 0.3474,
+    "y": 0.388,
+    "w": 0.077,
+    "h": 0.0355
+   },
+   {
+    "t": "23,024",
+    "x": 0.5581,
+    "y": 0.4257,
+    "w": 0.0174,
+    "h": 0.0143
+   },
+   {
+    "t": "Multiply your rovenue",
+    "x": 0.3503,
+    "y": 0.4286,
+    "w": 0.077,
+    "h": 0.0318
+   },
+   {
+    "t": "(Learn, optimize, and grow",
+    "x": 0.3473,
+    "y": 0.4704,
+    "w": 0.0947,
+    "h": 0.0393
+   },
+   {
+    "t": "In short. Futuri Content Cloud helps you become the content creator you",
+    "x": 0.3939,
+    "y": 0.5543,
+    "w": 0.2122,
+    "h": 0.0143
+   },
+   {
+    "t": "dreamed of being.",
+    "x": 0.4724,
+    "y": 0.571,
+    "w": 0.0552,
+    "h": 0.0178
+   },
+   {
+    "t": "The next stop in your content journey is hore...",
+    "x": 0.4331,
+    "y": 0.6052,
+    "w": 0.1337,
+    "h": 0.0178
+   },
+   {
+    "t": "BEGIN YOUR CONTENT CLOUD JOURNEY TODAY!",
+    "x": 0.436,
+    "y": 0.6708,
+    "w": 0.1279,
+    "h": 0.0178
+   },
+   {
+    "t": "Futuri Content Cloud is an innovative platform designed specifically for content creators to build more relevant and impactful",
+    "x": 0.1526,
+    "y": 0.7937,
+    "w": 0.6541,
+    "h": 0.0263
+   },
+   {
+    "t": "content. By leveraging data driven insights and real time trends, the platform helps creators understand their audience more deeply,",
+    "x": 0.1526,
+    "y": 0.8197,
+    "w": 0.6933,
+    "h": 0.026
+   },
+   {
+    "t": "increase engagement, expand reach, and maximize revenue. Through six core pillars, from audience analysis to continuous",
+    "x": 0.1526,
+    "y": 0.8484,
+    "w": 0.6453,
+    "h": 0.026
+   },
+   {
+    "t": "optimization, Futuri Content Cloud serves as a strategic partner in your creative journey, paving the way for consistent and",
+    "x": 0.1526,
+    "y": 0.8714,
+    "w": 0.6424,
+    "h": 0.0261
+   },
+   {
+    "t": "sustainable growth.",
+    "x": 0.1526,
+    "y": 0.9,
+    "w": 0.1047,
+    "h": 0.0235
+   },
+   {
+    "t": "Footer",
+    "x": 0.1524,
+    "y": 0.9555,
+    "w": 0.0528,
+    "h": 0.0319
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "file": "b30.jpg",
+  "y0": 15519,
+  "y1": 16191,
+  "h": 672,
+  "color": 8.48,
+  "density": 0.389,
+  "lines": [
+   {
+    "t": "Usefull Links",
+    "x": 0.4462,
+    "y": 0.1086,
+    "w": 0.0436,
+    "h": 0.0164
+   },
+   {
+    "t": "Sign up for Content Cloud updates",
+    "x": 0.5959,
+    "y": 0.1086,
+    "w": 0.1148,
+    "h": 0.0193
+   },
+   {
+    "t": "FUTURI",
+    "x": 0.3081,
+    "y": 0.1148,
+    "w": 0.0263,
+    "h": 0.0165
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.3081,
+    "y": 0.1308,
+    "w": 0.0436,
+    "h": 0.0218
+   },
+   {
+    "t": "CLOUD",
+    "x": 0.3096,
+    "y": 0.1526,
+    "w": 0.032,
+    "h": 0.0156
+   },
+   {
+    "t": "Challenges",
+    "x": 0.4462,
+    "y": 0.1526,
+    "w": 0.0334,
+    "h": 0.0156
+   },
+   {
+    "t": "Your email",
+    "x": 0.6032,
+    "y": 0.1711,
+    "w": 0.0334,
+    "h": 0.0164
+   },
+   {
+    "t": "Took:",
+    "x": 0.4462,
+    "y": 0.1807,
+    "w": 0.0174,
+    "h": 0.0156
+   },
+   {
+    "t": "Be sure to take a look at",
+    "x": 0.2689,
+    "y": 0.1963,
+    "w": 0.077,
+    "h": 0.0156
+   },
+   {
+    "t": "Blog",
+    "x": 0.4462,
+    "y": 0.2118,
+    "w": 0.016,
+    "h": 0.0187
+   },
+   {
+    "t": "our Terms of Use and",
+    "x": 0.2689,
+    "y": 0.2212,
+    "w": 0.0683,
+    "h": 0.0156
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.2689,
+    "y": 0.2426,
+    "w": 0.0451,
+    "h": 0.0164
+   },
+   {
+    "t": "FAQS",
+    "x": 0.4462,
+    "y": 0.243,
+    "w": 0.0174,
+    "h": 0.0156
+   },
+   {
+    "t": "SUBSCRIBE",
+    "x": 0.6076,
+    "y": 0.2461,
+    "w": 0.0407,
+    "h": 0.0156
+   },
+   {
+    "t": "About Futuri Media",
+    "x": 0.4462,
+    "y": 0.2738,
+    "w": 0.0567,
+    "h": 0.0164
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.4462,
+    "y": 0.3051,
+    "w": 0.0422,
+    "h": 0.0164
+   },
+   {
+    "t": "2022 Futuri Content Cloud All rights Reserved",
+    "x": 0.2689,
+    "y": 0.433,
+    "w": 0.1323,
+    "h": 0.0156
+   },
+   {
+    "t": "This footer features a modern design with an elegant dark to blue gradient background. On the left side, there is a cloud logo with",
+    "x": 0.1526,
+    "y": 0.5514,
+    "w": 0.6831,
+    "h": 0.028
+   },
+   {
+    "t": "bar graphics and the text \"FUTURI CONTENT CLOUD\" as the main branding element. Below that, there is an invitation to read the",
+    "x": 0.1526,
+    "y": 0.5789,
+    "w": 0.6788,
+    "h": 0.0286
+   },
+   {
+    "t": "Terms of Use and Privacy Policy pages. Social media icons such as Instagram, TikTok, Twitter, YouTube, Facebook, and Linkedin are",
+    "x": 0.1526,
+    "y": 0.6071,
+    "w": 0.6919,
+    "h": 0.0315
+   },
+   {
+    "t": "displayed horizontally, providing quick access to these platforms.",
+    "x": 0.1526,
+    "y": 0.6384,
+    "w": 0.3445,
+    "h": 0.0283
+   },
+   {
+    "t": "In the middle of the footer, there is a navigation column titled \"Useful Links\" (there is a typo, it should be \"Useful Links\"), which",
+    "x": 0.1512,
+    "y": 0.6916,
+    "w": 0.6642,
+    "h": 0.0346
+   },
+   {
+    "t": "contains important links such as Challenges, Tools, Blog, FAQS, About Futuri Media, and Privacy Policy. Meanwhile, the right side of",
+    "x": 0.1512,
+    "y": 0.7227,
+    "w": 0.6904,
+    "h": 0.0317
+   },
+   {
+    "t": "the footer displays a subscription form titled \"Sign up for Content Cloud updates.\" This form consists of an email input field with the",
+    "x": 0.1526,
+    "y": 0.747,
+    "w": 0.689,
+    "h": 0.0287
+   },
+   {
+    "t": "placeholder \"Your email\" and a \"SUBSCRIBE\" button in a striking blue-yellow gradient with a glowing effect, adding visual appeal.",
+    "x": 0.1526,
+    "y": 0.7753,
+    "w": 0.6759,
+    "h": 0.0316
+   },
+   {
+    "t": "The bottom of the footer includes a copyright notice reading \"2022 Futuri Content Cloud All rights Reserved.\" The overall design",
+    "x": 0.1526,
+    "y": 0.8318,
+    "w": 0.6715,
+    "h": 0.0313
+   },
+   {
+    "t": "features rounded outer corners and is adorned with wavy lines on the right side, giving the final page layout a futuristic and dynamic",
+    "x": 0.1512,
+    "y": 0.8629,
+    "w": 0.6962,
+    "h": 0.0284
+   },
+   {
+    "t": "Tools Page",
+    "x": 0.1511,
+    "y": 0.9524,
+    "w": 0.0888,
+    "h": 0.0423
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "file": "b31.jpg",
+  "y0": 16223,
+  "y1": 17322,
+  "h": 1099,
+  "color": 15.2,
+  "density": 0.408,
+  "lines": [
+   {
+    "t": "Challenges",
+    "x": 0.4593,
+    "y": 0.0418,
+    "w": 0.0305,
+    "h": 0.0095
+   },
+   {
+    "t": "Blog",
+    "x": 0.5392,
+    "y": 0.0418,
+    "w": 0.0145,
+    "h": 0.0095
+   },
+   {
+    "t": "FAQ",
+    "x": 0.5683,
+    "y": 0.0418,
+    "w": 0.0131,
+    "h": 0.0095
+   },
+   {
+    "t": "Login",
+    "x": 0.6017,
+    "y": 0.0418,
+    "w": 0.016,
+    "h": 0.0095
+   },
+   {
+    "t": "START YOUR JOURNEY NOW",
+    "x": 0.6366,
+    "y": 0.0418,
+    "w": 0.0727,
+    "h": 0.0095
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.3067,
+    "y": 0.0437,
+    "w": 0.0247,
+    "h": 0.0076
+   },
+   {
+    "t": "Il CLOUD",
+    "x": 0.298,
+    "y": 0.0473,
+    "w": 0.0276,
+    "h": 0.0118
+   },
+   {
+    "t": "ALDENCE AMALITICA",
+    "x": 0.359,
+    "y": 0.1198,
+    "w": 0.0378,
+    "h": 0.0076
+   },
+   {
+    "t": "DISCOVER",
+    "x": 0.4041,
+    "y": 0.1198,
+    "w": 0.0203,
+    "h": 0.0076
+   },
+   {
+    "t": "CHEATTAPALAM",
+    "x": 0.4288,
+    "y": 0.1198,
+    "w": 0.0363,
+    "h": 0.0076
+   },
+   {
+    "t": "Returning oner",
+    "x": 0.5247,
+    "y": 0.1198,
+    "w": 0.0262,
+    "h": 0.0076
+   },
+   {
+    "t": "no amigo Brand A",
+    "x": 0.2994,
+    "y": 0.1426,
+    "w": 0.0552,
+    "h": 0.0057
+   },
+   {
+    "t": "Dale saige",
+    "x": 0.6206,
+    "y": 0.1445,
+    "w": 0.0174,
+    "h": 0.0038
+   },
+   {
+    "t": "YOUR DALY THA",
+    "x": 0.3939,
+    "y": 0.1709,
+    "w": 0.032,
+    "h": 0.01
+   },
+   {
+    "t": "*",
+    "x": 0.3735,
+    "y": 0.173,
+    "w": 0.0087,
+    "h": 0.0095
+   },
+   {
+    "t": "In tristique convalls negue ell hes, quam. tu imperdet sages ibero tinciduet",
+    "x": 0.3924,
+    "y": 0.1806,
+    "w": 0.1526,
+    "h": 0.0058
+   },
+   {
+    "t": "You Tub",
+    "x": 0.3096,
+    "y": 0.1973,
+    "w": 0.0189,
+    "h": 0.0045
+   },
+   {
+    "t": "Social impact by channel",
+    "x": 0.3663,
+    "y": 0.2182,
+    "w": 0.0727,
+    "h": 0.0119
+   },
+   {
+    "t": "+ >",
+    "x": 0.3023,
+    "y": 0.2224,
+    "w": 0.0073,
+    "h": 0.0209
+   },
+   {
+    "t": "Twate",
+    "x": 0.314,
+    "y": 0.2376,
+    "w": 0.0102,
+    "h": 0.0038
+   },
+   {
+    "t": "Tiktok",
+    "x": 0.3125,
+    "y": 0.249,
+    "w": 0.0145,
+    "h": 0.0076
+   },
+   {
+    "t": "Over time",
+    "x": 0.5276,
+    "y": 0.249,
+    "w": 0.0218,
+    "h": 0.0057
+   },
+   {
+    "t": "in",
+    "x": 0.3023,
+    "y": 0.2624,
+    "w": 0.0087,
+    "h": 0.0095
+   },
+   {
+    "t": "Web batte",
+    "x": 0.3125,
+    "y": 0.289,
+    "w": 0.0218,
+    "h": 0.0076
+   },
+   {
+    "t": "TOTAL taste",
+    "x": 0.423,
+    "y": 0.2964,
+    "w": 0.0334,
+    "h": 0.004
+   },
+   {
+    "t": "23,024",
+    "x": 0.4273,
+    "y": 0.3099,
+    "w": 0.0262,
+    "h": 0.0095
+   },
+   {
+    "t": "\u2022 Leatebos",
+    "x": 0.3038,
+    "y": 0.3173,
+    "w": 0.0305,
+    "h": 0.01
+   },
+   {
+    "t": "Crater Ci",
+    "x": 0.3023,
+    "y": 0.3327,
+    "w": 0.0305,
+    "h": 0.0057
+   },
+   {
+    "t": "ALL YOUR PLATFORMS",
+    "x": 0.4055,
+    "y": 0.3726,
+    "w": 0.189,
+    "h": 0.021
+   },
+   {
+    "t": "ONE DASHBOARD.",
+    "x": 0.3692,
+    "y": 0.4027,
+    "w": 0.266,
+    "h": 0.0345
+   },
+   {
+    "t": "Understand your audience on a deeper lovel",
+    "x": 0.423,
+    "y": 0.46,
+    "w": 0.1541,
+    "h": 0.0136
+   },
+   {
+    "t": "Everything you need to grow your audience from in-depth insights on your followers to tips",
+    "x": 0.3474,
+    "y": 0.4905,
+    "w": 0.3067,
+    "h": 0.0114
+   },
+   {
+    "t": "to expand into new platforms.",
+    "x": 0.4491,
+    "y": 0.5036,
+    "w": 0.1017,
+    "h": 0.0118
+   },
+   {
+    "t": "GET YOUR FREE DASHBOARD",
+    "x": 0.4549,
+    "y": 0.5509,
+    "w": 0.0901,
+    "h": 0.01
+   },
+   {
+    "t": "THE ULTIMATE",
+    "x": 0.2892,
+    "y": 0.6764,
+    "w": 0.1206,
+    "h": 0.0214
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.2892,
+    "y": 0.7072,
+    "w": 0.1439,
+    "h": 0.0304
+   },
+   {
+    "t": "* Trending",
+    "x": 0.5726,
+    "y": 0.7296,
+    "w": 0.0307,
+    "h": 0.0105
+   },
+   {
+    "t": "COMPASS",
+    "x": 0.2892,
+    "y": 0.749,
+    "w": 0.1424,
+    "h": 0.0304
+   },
+   {
+    "t": "$$$\u20ac",
+    "x": 0.6468,
+    "y": 0.7871,
+    "w": 0.0654,
+    "h": 0.0361
+   },
+   {
+    "t": "Uncover hidden opportunities",
+    "x": 0.2892,
+    "y": 0.8023,
+    "w": 0.1032,
+    "h": 0.0114
+   },
+   {
+    "t": "\u0435\u043a\u0441\u0442\u0430",
+    "x": 0.5928,
+    "y": 0.8053,
+    "w": 0.0513,
+    "h": 0.0226
+   },
+   {
+    "t": "Know what to post and when to post it. Create content",
+    "x": 0.2892,
+    "y": 0.8308,
+    "w": 0.1846,
+    "h": 0.0137
+   },
+   {
+    "t": "with a purpose while staying connected to the trending",
+    "x": 0.2892,
+    "y": 0.846,
+    "w": 0.189,
+    "h": 0.0133
+   },
+   {
+    "t": "topics that mean the most to your audience.",
+    "x": 0.2892,
+    "y": 0.8609,
+    "w": 0.1512,
+    "h": 0.0118
+   },
+   {
+    "t": "DISCOVER WHAT YOU COULD BE MISSING",
+    "x": 0.3009,
+    "y": 0.9087,
+    "w": 0.1279,
+    "h": 0.0095
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "file": "b32.jpg",
+  "y0": 17402,
+  "y1": 18090,
+  "h": 688,
+  "color": 22.76,
+  "density": 0.21,
+  "lines": [
+   {
+    "t": "SOMETHING BIGIS",
+    "x": 0.423,
+    "y": 0.1337,
+    "w": 0.1541,
+    "h": 0.0335
+   },
+   {
+    "t": "COMING SOON...",
+    "x": 0.3794,
+    "y": 0.1788,
+    "w": 0.2427,
+    "h": 0.0583
+   },
+   {
+    "t": "Everything you didn't know you needed to grow your audience.",
+    "x": 0.3968,
+    "y": 0.2674,
+    "w": 0.2137,
+    "h": 0.0189
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit,",
+    "x": 0.4099,
+    "y": 0.3125,
+    "w": 0.1919,
+    "h": 0.0189
+   },
+   {
+    "t": "sed diam nonummy nibh euismod tincidunt ut laoreet",
+    "x": 0.4142,
+    "y": 0.3343,
+    "w": 0.1831,
+    "h": 0.0218
+   },
+   {
+    "t": "dolore magna aliquam erat volutpat.",
+    "x": 0.4419,
+    "y": 0.3587,
+    "w": 0.1265,
+    "h": 0.0213
+   },
+   {
+    "t": "LET'S GO VIRAL!",
+    "x": 0.4738,
+    "y": 0.4346,
+    "w": 0.0523,
+    "h": 0.0153
+   }
+  ]
+ },
+ {
+  "i": 33,
+  "file": "b33.jpg",
+  "y0": 18114,
+  "y1": 18860,
+  "h": 746,
+  "color": 6.71,
+  "density": 0.328,
+  "lines": [
+   {
+    "t": "Usefull Links",
+    "x": 0.4535,
+    "y": 0.084,
+    "w": 0.0392,
+    "h": 0.014
+   },
+   {
+    "t": "Sign up for Content Cloud updates",
+    "x": 0.5843,
+    "y": 0.0868,
+    "w": 0.1003,
+    "h": 0.0168
+   },
+   {
+    "t": "FUTURI",
+    "x": 0.3328,
+    "y": 0.0896,
+    "w": 0.0233,
+    "h": 0.014
+   },
+   {
+    "t": "All CLOUD",
+    "x": 0.3042,
+    "y": 0.1021,
+    "w": 0.0586,
+    "h": 0.0388
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.3328,
+    "y": 0.1036,
+    "w": 0.0378,
+    "h": 0.0168
+   },
+   {
+    "t": "Challenges",
+    "x": 0.4535,
+    "y": 0.1232,
+    "w": 0.0291,
+    "h": 0.014
+   },
+   {
+    "t": "Tools",
+    "x": 0.4535,
+    "y": 0.1457,
+    "w": 0.0131,
+    "h": 0.014
+   },
+   {
+    "t": "Be sure to take a look at",
+    "x": 0.298,
+    "y": 0.1595,
+    "w": 0.0669,
+    "h": 0.0147
+   },
+   {
+    "t": "Blog",
+    "x": 0.452,
+    "y": 0.1709,
+    "w": 0.0145,
+    "h": 0.014
+   },
+   {
+    "t": "our Terms of Use and",
+    "x": 0.298,
+    "y": 0.1765,
+    "w": 0.0581,
+    "h": 0.014
+   },
+   {
+    "t": "SUBSCRIBE",
+    "x": 0.593,
+    "y": 0.1933,
+    "w": 0.0378,
+    "h": 0.014
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.298,
+    "y": 0.1957,
+    "w": 0.0392,
+    "h": 0.0147
+   },
+   {
+    "t": "FAOs",
+    "x": 0.452,
+    "y": 0.1961,
+    "w": 0.016,
+    "h": 0.0112
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.4535,
+    "y": 0.2437,
+    "w": 0.0363,
+    "h": 0.014
+   },
+   {
+    "t": "2022 Fufuri Content Cloud All rights Reserved",
+    "x": 0.298,
+    "y": 0.3445,
+    "w": 0.1148,
+    "h": 0.014
+   },
+   {
+    "t": "The Tools page on the Futuri Content Cloud website features a modern and futuristic interface with a dark tone combined with blue",
+    "x": 0.1526,
+    "y": 0.4424,
+    "w": 0.6919,
+    "h": 0.0255
+   },
+   {
+    "t": "and neon yellow gradients. This design is not only aesthetically pleasing but also helps highlight key elements on the page. The",
+    "x": 0.1526,
+    "y": 0.4678,
+    "w": 0.6686,
+    "h": 0.0255
+   },
+   {
+    "t": "main navigation remains consistent at the top, displaying options such as Challenges, Tools (active), Blog, FAQ, as well as prominent",
+    "x": 0.1526,
+    "y": 0.493,
+    "w": 0.6933,
+    "h": 0.0258
+   },
+   {
+    "t": "Login and Start Your Journey Now buttons.",
+    "x": 0.1526,
+    "y": 0.5182,
+    "w": 0.2282,
+    "h": 0.0252
+   },
+   {
+    "t": "After the header, visitors are immediately greeted by a hero section showcasing the Futuri Content Cloud dashboard interface. Data",
+    "x": 0.1526,
+    "y": 0.5684,
+    "w": 0.6962,
+    "h": 0.0255
+   },
+   {
+    "t": "visualization in the form of pie charts and line graphs reinforces the impression that this tool focuses on in depth analysis. The main",
+    "x": 0.1526,
+    "y": 0.5938,
+    "w": 0.6904,
+    "h": 0.0255
+   },
+   {
+    "t": "text reads \"All Your Platforms. One Dashboard.\" emphasizing the value of integration between social media platforms, allowing users",
+    "x": 0.1512,
+    "y": 0.619,
+    "w": 0.6933,
+    "h": 0.0257
+   },
+   {
+    "t": "to understand their audience more deeply. The call to action \"Get Your Free Dashboard\" is also presented to direct users to try this",
+    "x": 0.1497,
+    "y": 0.6443,
+    "w": 0.689,
+    "h": 0.0287
+   },
+   {
+    "t": "tool directly.",
+    "x": 0.1511,
+    "y": 0.671,
+    "w": 0.0671,
+    "h": 0.025
+   },
+   {
+    "t": "The next section introduces a feature called Content Compass with another visualization of the tool's interface. This content is",
+    "x": 0.1526,
+    "y": 0.7198,
+    "w": 0.673,
+    "h": 0.0255
+   },
+   {
+    "t": "designed to help users know what to post and when the best time to do so is. The emphasis is on \"Uncover hidden opportunities,\"",
+    "x": 0.1526,
+    "y": 0.7451,
+    "w": 0.6846,
+    "h": 0.0257
+   },
+   {
+    "t": "implying that the tool can uncover untapped potential from users' digital activities. The CTA \"Discover What You Could Be Missing\"",
+    "x": 0.1512,
+    "y": 0.7731,
+    "w": 0.686,
+    "h": 0.0224
+   },
+   {
+    "t": "In the third section, there is a teaser with the headline \"Something Big is Coming Soon...\" creating an air of exclusivity and curiosity.",
+    "x": 0.1526,
+    "y": 0.8458,
+    "w": 0.6962,
+    "h": 0.0282
+   },
+   {
+    "t": "Enhanced with a yellow glowing circle and a photo of a figure in artistic lighting, this section emphasizes the upcoming innovation",
+    "x": 0.1526,
+    "y": 0.8739,
+    "w": 0.6802,
+    "h": 0.0255
+   },
+   {
+    "t": "that will support the growth of the user's audience.",
+    "x": 0.1526,
+    "y": 0.8992,
+    "w": 0.2703,
+    "h": 0.0258
+   },
+   {
+    "t": "Blog Page",
+    "x": 0.1526,
+    "y": 0.9548,
+    "w": 0.08,
+    "h": 0.0372
+   }
+  ]
+ },
+ {
+  "i": 34,
+  "file": "b34.jpg",
+  "y0": 18892,
+  "y1": 21335,
+  "h": 2443,
+  "color": 15.93,
+  "density": 0.335,
+  "lines": [
+   {
+    "t": "Challenger",
+    "x": 0.4581,
+    "y": 0.0174,
+    "w": 0.032,
+    "h": 0.0073
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.2906,
+    "y": 0.055,
+    "w": 0.0814,
+    "h": 0.0091
+   },
+   {
+    "t": "CORNER",
+    "x": 0.2882,
+    "y": 0.0698,
+    "w": 0.1256,
+    "h": 0.0131
+   },
+   {
+    "t": "Behind the Lens: A Content",
+    "x": 0.3227,
+    "y": 0.1874,
+    "w": 0.1749,
+    "h": 0.009
+   },
+   {
+    "t": "Creator's Journal",
+    "x": 0.3227,
+    "y": 0.1948,
+    "w": 0.1133,
+    "h": 0.0102
+   },
+   {
+    "t": "Thoughts, tips and observations from you",
+    "x": 0.3202,
+    "y": 0.2122,
+    "w": 0.1601,
+    "h": 0.0044
+   },
+   {
+    "t": "friendly neighborhood creators.",
+    "x": 0.3202,
+    "y": 0.218,
+    "w": 0.1207,
+    "h": 0.0074
+   },
+   {
+    "t": "5L",
+    "x": 0.5739,
+    "y": 0.298,
+    "w": 0.032,
+    "h": 0.0174
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet,",
+    "x": 0.2906,
+    "y": 0.3343,
+    "w": 0.133,
+    "h": 0.0074
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet,",
+    "x": 0.431,
+    "y": 0.3343,
+    "w": 0.1355,
+    "h": 0.0074
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet,",
+    "x": 0.5764,
+    "y": 0.3343,
+    "w": 0.133,
+    "h": 0.0074
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.2906,
+    "y": 0.3416,
+    "w": 0.1158,
+    "h": 0.0074
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.431,
+    "y": 0.3416,
+    "w": 0.1182,
+    "h": 0.0074
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.5739,
+    "y": 0.3416,
+    "w": 0.1182,
+    "h": 0.0074
+   },
+   {
+    "t": "aliquam erat volutpat.",
+    "x": 0.4335,
+    "y": 0.3719,
+    "w": 0.069,
+    "h": 0.0061
+   },
+   {
+    "t": "aliquam erat volutpat",
+    "x": 0.5764,
+    "y": 0.3719,
+    "w": 0.0665,
+    "h": 0.0061
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet,",
+    "x": 0.431,
+    "y": 0.4491,
+    "w": 0.1355,
+    "h": 0.0059
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet",
+    "x": 0.5739,
+    "y": 0.4491,
+    "w": 0.133,
+    "h": 0.0044
+   },
+   {
+    "t": "Lorem losum color sit amer",
+    "x": 0.2906,
+    "y": 0.4505,
+    "w": 0.1305,
+    "h": 0.003
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.2906,
+    "y": 0.4549,
+    "w": 0.1182,
+    "h": 0.0074
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.431,
+    "y": 0.4549,
+    "w": 0.1207,
+    "h": 0.0074
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.5764,
+    "y": 0.4549,
+    "w": 0.1158,
+    "h": 0.0074
+   },
+   {
+    "t": "aliquam erat volutpat.",
+    "x": 0.2906,
+    "y": 0.4853,
+    "w": 0.069,
+    "h": 0.0061
+   },
+   {
+    "t": "aliquam erat volutpat.",
+    "x": 0.4335,
+    "y": 0.4853,
+    "w": 0.069,
+    "h": 0.0061
+   },
+   {
+    "t": "aliquam erat volutpat",
+    "x": 0.5764,
+    "y": 0.4853,
+    "w": 0.0665,
+    "h": 0.0075
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet",
+    "x": 0.5764,
+    "y": 0.5625,
+    "w": 0.1305,
+    "h": 0.0044
+   },
+   {
+    "t": "Lorem iosum color sit amer",
+    "x": 0.2906,
+    "y": 0.5638,
+    "w": 0.1305,
+    "h": 0.003
+   },
+   {
+    "t": "Lorem insum color sit amer",
+    "x": 0.431,
+    "y": 0.5638,
+    "w": 0.133,
+    "h": 0.003
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.431,
+    "y": 0.5683,
+    "w": 0.1182,
+    "h": 0.0074
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.5739,
+    "y": 0.5683,
+    "w": 0.1182,
+    "h": 0.0074
+   },
+   {
+    "t": "consecteruer daliscine",
+    "x": 0.2906,
+    "y": 0.5712,
+    "w": 0.1158,
+    "h": 0.0029
+   },
+   {
+    "t": "mod tincidunt ut laoreet dolore magr",
+    "x": 0.3054,
+    "y": 0.5916,
+    "w": 0.1108,
+    "h": 0.0087
+   },
+   {
+    "t": "aliquam orat volutpat.",
+    "x": 0.4335,
+    "y": 0.5988,
+    "w": 0.069,
+    "h": 0.0059
+   },
+   {
+    "t": "aliquam erat volutpat",
+    "x": 0.5764,
+    "y": 0.5988,
+    "w": 0.0665,
+    "h": 0.0073
+   },
+   {
+    "t": "Lorem insum dolor sit amet",
+    "x": 0.5764,
+    "y": 0.6759,
+    "w": 0.1305,
+    "h": 0.0044
+   },
+   {
+    "t": "Lorem osum color sir amer",
+    "x": 0.2906,
+    "y": 0.6772,
+    "w": 0.1305,
+    "h": 0.0031
+   },
+   {
+    "t": "Lorem insum color sit amet",
+    "x": 0.431,
+    "y": 0.6772,
+    "w": 0.133,
+    "h": 0.0031
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.2906,
+    "y": 0.6817,
+    "w": 0.1182,
+    "h": 0.0074
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.431,
+    "y": 0.6817,
+    "w": 0.1182,
+    "h": 0.0087
+   },
+   {
+    "t": "consectetuer adipiscing",
+    "x": 0.5764,
+    "y": 0.6817,
+    "w": 0.1158,
+    "h": 0.0074
+   },
+   {
+    "t": "euismod tincidunt ut laoreet dolore magna",
+    "x": 0.4335,
+    "y": 0.7062,
+    "w": 0.1305,
+    "h": 0.0074
+   },
+   {
+    "t": "euismod incidunt ut laoreet dolore magna",
+    "x": 0.5764,
+    "y": 0.7062,
+    "w": 0.1305,
+    "h": 0.0074
+   },
+   {
+    "t": "aliquam erat volutpa",
+    "x": 0.5764,
+    "y": 0.7136,
+    "w": 0.064,
+    "h": 0.0045
+   },
+   {
+    "t": "LOAD MORE",
+    "x": 0.4778,
+    "y": 0.7413,
+    "w": 0.0419,
+    "h": 0.0059
+   },
+   {
+    "t": "Usefull Links",
+    "x": 0.4557,
+    "y": 0.7892,
+    "w": 0.0345,
+    "h": 0.0074
+   },
+   {
+    "t": "sign up tor Content Cloud updat",
+    "x": 0.5837,
+    "y": 0.7921,
+    "w": 0.0936,
+    "h": 0.0029
+   },
+   {
+    "t": "I CLOU",
+    "x": 0.3202,
+    "y": 0.7994,
+    "w": 0.0345,
+    "h": 0.0075
+   },
+   {
+    "t": "Challenge",
+    "x": 0.4532,
+    "y": 0.8009,
+    "w": 0.0271,
+    "h": 0.0058
+   },
+   {
+    "t": "SUBSCRIBE",
+    "x": 0.5911,
+    "y": 0.8227,
+    "w": 0.0369,
+    "h": 0.0058
+   },
+   {
+    "t": "@ryatin",
+    "x": 0.2956,
+    "y": 0.8358,
+    "w": 0.0911,
+    "h": 0.0044
+   },
+   {
+    "t": "The Futuri Content Cloud blog page, titled \"Content Corner,\" features a modern futuristic style consistent with the overall theme of",
+    "x": 0.1502,
+    "y": 0.8997,
+    "w": 0.6872,
+    "h": 0.0087
+   },
+   {
+    "t": "the website: dark colors (dark mode) with blue purple accents and bold typography elements. At the top of the page, there is a mair",
+    "x": 0.1502,
+    "y": 0.9083,
+    "w": 0.6921,
+    "h": 0.0059
+   },
+   {
+    "t": "navigation bar with the Blog tab active, indicating the user's position on the site. Below that, the page begins with a hero section",
+    "x": 0.1502,
+    "y": 0.9141,
+    "w": 0.6773,
+    "h": 0.009
+   },
+   {
+    "t": "featuring the headline of the featured article, \"Behind the Lens: A Content Creator's Journal,\" accompanied by a close up image of a",
+    "x": 0.1502,
+    "y": 0.923,
+    "w": 0.6946,
+    "h": 0.0073
+   },
+   {
+    "t": "camera focusing on a subject in the distance, reinforcing a deep and personal feel.",
+    "x": 0.1502,
+    "y": 0.93,
+    "w": 0.436,
+    "h": 0.009
+   },
+   {
+    "t": "Below the hero section, the page displays a grid layout of four columns featuring other blog articles. Each article card includes a",
+    "x": 0.1502,
+    "y": 0.9462,
+    "w": 0.6749,
+    "h": 0.0088
+   },
+   {
+    "t": "thumbnail image, a placeholder title, and a briet excerpt from the article. There are a total of 3 main grid rows, each displaying 4",
+    "x": 0.1502,
+    "y": 0.9549,
+    "w": 0.6724,
+    "h": 0.0058
+   },
+   {
+    "t": "articles, with varied and expressive visuals that capture the diverse nuances of the content creator's world. At the bottom, there is a",
+    "x": 0.1502,
+    "y": 0.9607,
+    "w": 0.697,
+    "h": 0.0088
+   },
+   {
+    "t": "\"Load More\" button to load additional articles, indicating that the blog content will continue to grow.",
+    "x": 0.1527,
+    "y": 0.9693,
+    "w": 0.5222,
+    "h": 0.009
+   },
+   {
+    "t": "Frequently Asked Questions Page",
+    "x": 0.1527,
+    "y": 0.9869,
+    "w": 0.2709,
+    "h": 0.0102
+   }
+  ]
+ },
+ {
+  "i": 35,
+  "file": "b35.jpg",
+  "y0": 21366,
+  "y1": 23086,
+  "h": 1720,
+  "color": 13.86,
+  "density": 0.445,
+  "lines": [
+   {
+    "t": "Challenges",
+    "x": 0.4531,
+    "y": 0.0291,
+    "w": 0.0365,
+    "h": 0.0073
+   },
+   {
+    "t": "FAQ",
+    "x": 0.5781,
+    "y": 0.0291,
+    "w": 0.0139,
+    "h": 0.0073
+   },
+   {
+    "t": "Login",
+    "x": 0.6163,
+    "y": 0.0291,
+    "w": 0.0191,
+    "h": 0.0058
+   },
+   {
+    "t": "START YOUR JOURNEY NOW",
+    "x": 0.6563,
+    "y": 0.0291,
+    "w": 0.0816,
+    "h": 0.0073
+   },
+   {
+    "t": "I CLOUr",
+    "x": 0.2708,
+    "y": 0.0334,
+    "w": 0.026,
+    "h": 0.0073
+   },
+   {
+    "t": "FREQUENTLY",
+    "x": 0.4358,
+    "y": 0.0887,
+    "w": 0.1302,
+    "h": 0.0174
+   },
+   {
+    "t": "ASKED QUESTIONS",
+    "x": 0.342,
+    "y": 0.109,
+    "w": 0.3142,
+    "h": 0.0276
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.1802,
+    "w": 0.2101,
+    "h": 0.0087
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.2224,
+    "w": 0.2431,
+    "h": 0.0087
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore",
+    "x": 0.3021,
+    "y": 0.2384,
+    "w": 0.3524,
+    "h": 0.0073
+   },
+   {
+    "t": "magna aliquam erat volutpat.",
+    "x": 0.3021,
+    "y": 0.2471,
+    "w": 0.0903,
+    "h": 0.0073
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.2878,
+    "w": 0.2101,
+    "h": 0.0087
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.3299,
+    "w": 0.2118,
+    "h": 0.0087
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.3721,
+    "w": 0.2101,
+    "h": 0.0087
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.4142,
+    "w": 0.2118,
+    "h": 0.0087
+   },
+   {
+    "t": "+",
+    "x": 0.684,
+    "y": 0.4549,
+    "w": 0.0156,
+    "h": 0.0116
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.4564,
+    "w": 0.2101,
+    "h": 0.0087
+   },
+   {
+    "t": "+",
+    "x": 0.6858,
+    "y": 0.4971,
+    "w": 0.0139,
+    "h": 0.0116
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.4985,
+    "w": 0.2101,
+    "h": 0.0073
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.302,
+    "y": 0.5392,
+    "w": 0.212,
+    "h": 0.0103
+   },
+   {
+    "t": "+",
+    "x": 0.684,
+    "y": 0.5392,
+    "w": 0.0156,
+    "h": 0.0116
+   },
+   {
+    "t": "Lorem ipsum dolor sit amet, consectetuer adipiscing",
+    "x": 0.3021,
+    "y": 0.5814,
+    "w": 0.2101,
+    "h": 0.0087
+   },
+   {
+    "t": "Usefull Links",
+    "x": 0.4462,
+    "y": 0.6671,
+    "w": 0.0434,
+    "h": 0.0074
+   },
+   {
+    "t": "Sign up for Content Cloud updates",
+    "x": 0.5937,
+    "y": 0.6672,
+    "w": 0.1163,
+    "h": 0.0087
+   },
+   {
+    "t": "FUTURI",
+    "x": 0.3073,
+    "y": 0.6686,
+    "w": 0.0278,
+    "h": 0.0073
+   },
+   {
+    "t": "CONTENT",
+    "x": 0.309,
+    "y": 0.6773,
+    "w": 0.0434,
+    "h": 0.0073
+   },
+   {
+    "t": "CLOUD",
+    "x": 0.3073,
+    "y": 0.6846,
+    "w": 0.0347,
+    "h": 0.0073
+   },
+   {
+    "t": "Challenges",
+    "x": 0.4462,
+    "y": 0.6846,
+    "w": 0.0347,
+    "h": 0.0073
+   },
+   {
+    "t": "Your email",
+    "x": 0.6024,
+    "y": 0.6919,
+    "w": 0.0347,
+    "h": 0.0058
+   },
+   {
+    "t": "Tools",
+    "x": 0.4462,
+    "y": 0.6977,
+    "w": 0.0174,
+    "h": 0.0058
+   },
+   {
+    "t": "Be sure to take a look of",
+    "x": 0.2674,
+    "y": 0.7035,
+    "w": 0.0781,
+    "h": 0.0058
+   },
+   {
+    "t": "Blog",
+    "x": 0.4462,
+    "y": 0.7093,
+    "w": 0.0156,
+    "h": 0.0073
+   },
+   {
+    "t": "our Terms of Use and",
+    "x": 0.2674,
+    "y": 0.7122,
+    "w": 0.0694,
+    "h": 0.0073
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.2691,
+    "y": 0.7209,
+    "w": 0.0451,
+    "h": 0.0073
+   },
+   {
+    "t": "FAQS",
+    "x": 0.4462,
+    "y": 0.7209,
+    "w": 0.0174,
+    "h": 0.0073
+   },
+   {
+    "t": "About Futuri Media",
+    "x": 0.4462,
+    "y": 0.7326,
+    "w": 0.0556,
+    "h": 0.0073
+   },
+   {
+    "t": "@",
+    "x": 0.2691,
+    "y": 0.7398,
+    "w": 0.0104,
+    "h": 0.0087
+   },
+   {
+    "t": "in",
+    "x": 0.3628,
+    "y": 0.7398,
+    "w": 0.0104,
+    "h": 0.0087
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.4462,
+    "y": 0.7456,
+    "w": 0.0417,
+    "h": 0.0073
+   },
+   {
+    "t": "2022 Futuri Content Cloud All rights Reserved",
+    "x": 0.2674,
+    "y": 0.7951,
+    "w": 0.1337,
+    "h": 0.0073
+   },
+   {
+    "t": "The Futuri Content Cloud FAQ page features a futuristic design that is consistent with the other pages. The dark theme with blue-",
+    "x": 0.1528,
+    "y": 0.8401,
+    "w": 0.6823,
+    "h": 0.0116
+   },
+   {
+    "t": "purple gradations creates an elegant and professional impression. The page title, \"Frequently Asked Questions,\" is prominently",
+    "x": 0.1528,
+    "y": 0.8503,
+    "w": 0.6649,
+    "h": 0.0116
+   },
+   {
+    "t": "displayed in capital letters and a combination of white and blue purple, emphasizing the words \"ASKED QUESTIONS.\"",
+    "x": 0.1528,
+    "y": 0.8619,
+    "w": 0.6146,
+    "h": 0.0116
+   },
+   {
+    "t": "The main section of the page consists of an accordion list (a list of expandable questions), each item of which displays a question in",
+    "x": 0.1528,
+    "y": 0.8852,
+    "w": 0.6927,
+    "h": 0.0102
+   },
+   {
+    "t": "placeholder text. When the user clicks the plus (+) icon on the right side, that section opens and displays the answer, which is also",
+    "x": 0.1528,
+    "y": 0.8953,
+    "w": 0.6858,
+    "h": 0.0116
+   },
+   {
+    "t": "still in dummy text. The open accordion appears different with a bright blue border that lights up, indicating user interaction.",
+    "x": 0.151,
+    "y": 0.907,
+    "w": 0.6562,
+    "h": 0.0102
+   },
+   {
+    "t": "This interactive design makes it easy for users to view the information they need without having to scroll extensively, as each",
+    "x": 0.1528,
+    "y": 0.9288,
+    "w": 0.658,
+    "h": 0.0119
+   },
+   {
+    "t": "answer remains hidden until opened. Visual elements such as the plus icon, border lines, and smooth animations support an intuitive",
+    "x": 0.151,
+    "y": 0.9404,
+    "w": 0.6962,
+    "h": 0.0102
+   },
+   {
+    "t": "user experience.",
+    "x": 0.151,
+    "y": 0.9506,
+    "w": 0.0903,
+    "h": 0.0102
+   },
+   {
+    "t": "The page footer is similar to other pages, featuring a logo, social media icons, useful links, and an email column for subscribing to",
+    "x": 0.1528,
+    "y": 0.9724,
+    "w": 0.6788,
+    "h": 0.0116
+   },
+   {
+    "t": "the latest content updates.",
+    "x": 0.151,
+    "y": 0.9855,
+    "w": 0.1441,
+    "h": 0.0087
+   }
+  ]
+ },
+ {
+  "i": 36,
+  "file": "b36.jpg",
+  "y0": 23119,
+  "y1": 23631,
+  "h": 512,
+  "color": 0.0,
+  "density": 0.31,
+  "lines": [
+   {
+    "t": "Usability Testing",
+    "x": 0.1526,
+    "y": 0.0245,
+    "w": 0.1323,
+    "h": 0.0536
+   },
+   {
+    "t": "To evaluate the overall effectiveness, usability, and user satisfaction of the Futuri Content Cloud platform, I conducted a series of",
+    "x": 0.1526,
+    "y": 0.0938,
+    "w": 0.6788,
+    "h": 0.0371
+   },
+   {
+    "t": "moderated usability testing sessions with participants representing potential users of the platform. These sessions were carefully",
+    "x": 0.1526,
+    "y": 0.1306,
+    "w": 0.6788,
+    "h": 0.0374
+   },
+   {
+    "t": "structured to simulate real world usage, using realistic scenarios combined with goal oriented tasks that reflect a new user's journey",
+    "x": 0.1526,
+    "y": 0.1673,
+    "w": 0.6919,
+    "h": 0.0367
+   },
+   {
+    "t": "when discovering and exploring Futuri Content Cloud.",
+    "x": 0.1512,
+    "y": 0.2031,
+    "w": 0.2849,
+    "h": 0.0377
+   },
+   {
+    "t": "The main goal of this usability testing was to observe how users interact with key features, how easily they can navigate the",
+    "x": 0.1526,
+    "y": 0.2773,
+    "w": 0.6526,
+    "h": 0.0371
+   },
+   {
+    "t": "interface, and whether the design choices, such as content hierarchy, button placement, and terminology successfully guide users",
+    "x": 0.1526,
+    "y": 0.3143,
+    "w": 0.686,
+    "h": 0.0412
+   },
+   {
+    "t": "toward achieving their goals. Furthermore, I aimed to identify any usability issues or pain points that could hinder the overall user",
+    "x": 0.1512,
+    "y": 0.3551,
+    "w": 0.6788,
+    "h": 0.0375
+   },
+   {
+    "t": "experience and determine whether the platform effectively aligns with user needs, expectations, and motivations.",
+    "x": 0.1526,
+    "y": 0.3918,
+    "w": 0.5988,
+    "h": 0.0367
+   },
+   {
+    "t": "By analyzing participant behavior, feedback, and performance in completing tasks, I was able to gather valuable insights to inform",
+    "x": 0.1526,
+    "y": 0.4609,
+    "w": 0.6817,
+    "h": 0.0411
+   },
+   {
+    "t": "potential design improvements. These findings also helped validate whether the current product direction supports users through",
+    "x": 0.1526,
+    "y": 0.502,
+    "w": 0.6817,
+    "h": 0.0332
+   },
+   {
+    "t": "every stage of their content creation journey from discovery and exploration to engagement and confidence.",
+    "x": 0.1526,
+    "y": 0.5388,
+    "w": 0.5727,
+    "h": 0.0335
+   },
+   {
+    "t": "Participants were given the following scenario to complete:",
+    "x": 0.1526,
+    "y": 0.6113,
+    "w": 0.311,
+    "h": 0.0336
+   },
+   {
+    "t": "1. You are interested in becoming a content creator but are still unsure of what to do, and you have heard that Futuri Content Cloud",
+    "x": 0.1555,
+    "y": 0.6484,
+    "w": 0.689,
+    "h": 0.0373
+   },
+   {
+    "t": "can solve your problems. Now you want to know more about Futuri Content Cloud, so what do you do?",
+    "x": 0.1686,
+    "y": 0.6855,
+    "w": 0.5392,
+    "h": 0.0371
+   },
+   {
+    "t": "2. You see that Futuri Content Cloud provides a community for sharing information related to content creators, and you want to join.",
+    "x": 0.1555,
+    "y": 0.7224,
+    "w": 0.6948,
+    "h": 0.0412
+   },
+   {
+    "t": "What can you do?",
+    "x": 0.1686,
+    "y": 0.7592,
+    "w": 0.0959,
+    "h": 0.0377
+   },
+   {
+    "t": "3. You understand Futuri Content Cloud, but you still want to explore its features. How do you do that?",
+    "x": 0.1555,
+    "y": 0.7959,
+    "w": 0.5378,
+    "h": 0.0367
+   },
+   {
+    "t": "4. Right now, you're facing challenges and feeling confused. What should you do?",
+    "x": 0.1555,
+    "y": 0.8359,
+    "w": 0.4288,
+    "h": 0.0335
+   },
+   {
+    "t": "5. You also want to know the latest news about Futuri Content Cloud to build your confidence in using this platform. What should",
+    "x": 0.1555,
+    "y": 0.8691,
+    "w": 0.6773,
+    "h": 0.0371
+   },
+   {
+    "t": "you do?",
+    "x": 0.1671,
+    "y": 0.9101,
+    "w": 0.0451,
+    "h": 0.037
+   },
+   {
+    "t": "6. You are 100% confident in using Futuri Content Cloud. What can you do?",
+    "x": 0.1541,
+    "y": 0.9429,
+    "w": 0.3968,
+    "h": 0.0415
+   }
+  ]
+ },
+ {
+  "i": 37,
+  "file": "b37.jpg",
+  "y0": 23665,
+  "y1": 23891,
+  "h": 226,
+  "color": 0.0,
+  "density": 0.268,
+  "lines": [
+   {
+    "t": "Reflection",
+    "x": 0.1526,
+    "y": 0.0556,
+    "w": 0.0799,
+    "h": 0.1019
+   },
+   {
+    "t": "With additional time, I would continue refining the design through extended usability testing using structured scenarios and task-",
+    "x": 0.1512,
+    "y": 0.2035,
+    "w": 0.6788,
+    "h": 0.0841
+   },
+   {
+    "t": "based activities. This would allow for deeper validation of the content structure, visual clarity, and effectiveness of key interaction",
+    "x": 0.1526,
+    "y": 0.287,
+    "w": 0.6817,
+    "h": 0.0935
+   },
+   {
+    "t": "points, ensuring they align with user expectations.",
+    "x": 0.1526,
+    "y": 0.3796,
+    "w": 0.266,
+    "h": 0.085
+   },
+   {
+    "t": "If direct testing couldn't be arranged, I would explore alternative methods such as distributing targeted surveys featuring design",
+    "x": 0.1526,
+    "y": 0.5354,
+    "w": 0.6715,
+    "h": 0.085
+   },
+   {
+    "t": "cups. This would help aather meaninaful input from potential users to uncover early stade insiahts and areas for improvement",
+    "x": 0.1667,
+    "y": 0.6053,
+    "w": 0.6667,
+    "h": 0.0806
+   },
+   {
+    "t": "Moreover, I would revisit and review the design from a broader usability perspective focusing on clarity, consistency, and simplicity",
+    "x": 0.1526,
+    "y": 0.7963,
+    "w": 0.686,
+    "h": 0.0842
+   },
+   {
+    "t": "to ensure the overall experience remains intuitive and user focused throughout the platform.",
+    "x": 0.1512,
+    "y": 0.8796,
+    "w": 0.4869,
+    "h": 0.0761
+   }
+  ]
+ }
+]

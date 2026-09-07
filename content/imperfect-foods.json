@@ -1,0 +1,151 @@
+{
+ "slug": "imperfect-foods",
+ "name": "Imperfect Foods",
+ "category": "Mobile commerce",
+ "tier": "full",
+ "dek": "Selling ugly produce means selling trust: a storefront that makes the sustainable order the easy one.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": null,
+  "platform": "Responsive web",
+  "scope": "Competitive research, user journey, design system, hi-fi UI, usability test plan",
+  "industry": "Sustainable grocery delivery",
+  "hard_part": "One page has to teach food rescue, defuse subscription anxiety, and sell groceries at the same time, without any of the three slowing the other two.",
+  "look_for": "Notice how every mission moment sits directly beside a low-friction action, so conviction and conversion never compete for the same click."
+ },
+ "problem": {
+  "claim_h2": "The sustainable choice has to be the easy one",
+  "thesis": "People already want to fight food waste; what stops them is a storefront that makes rescuing groceries feel like homework.",
+  "body": "Imperfect Foods sells produce that is perfectly edible but cosmetically rejected, through a weekly subscription. That model inherits every doubt of online grocery, then adds two of its own: is imperfect food actually good, and what am I committing to?",
+  "bullets": [
+   "Affordable and healthy read as opposites, so shoppers assume the sustainable option costs more.",
+   "Sourcing is opaque on most platforms, which is fatal for a brand whose whole pitch is where the food comes from.",
+   "Subscription language triggers commitment anxiety before the value is ever demonstrated."
+  ],
+  "research_note": "Desk research compared Misfits Market, Thrive Market, FreshDirect, and Whole Foods via Amazon Fresh across value communication, product clarity, and onboarding friction."
+ },
+ "decisions": [
+  {
+   "title": "A cart that starts full and stays editable",
+   "thesis": "Pre-filling the box removes the cold start, but only if the copy hands control back in the same breath.",
+   "rationale": "The competitive scan showed commitment anxiety killing signups: Misfits Market gates products behind an account, Thrive Market gates them behind a membership. So the service section leads with the opposite promise: your favorites are already in the cart, and you can add things in, take things out, and order exactly what you want. The hero reinforces it before the pitch even lands, with no commitment and no fees stated above the headline. I considered the standard alternative, an empty cart fed by a preference quiz, which signals control just as well but stacks steps in front of the first moment of value. Pre-filling carries its own risk of feeling presumptuous, which is why the copy is built from editing verbs rather than recommendation language.",
+   "figure": "b23-crop.jpg",
+   "caption": "The box arrives pre-filled and fully editable: add things in, take things out, one weekly delivery, no store trip.",
+   "alt": "Cream section with the headline Affordable groceries delivered weekly to your door, copy about starting with favorites already in the cart, a magenta Get started for free button, and an illustration of an Imperfect Foods box overflowing with produce.",
+   "source_blocks": [
+    7,
+    21,
+    23
+   ]
+  },
+  {
+   "title": "Mission proof at every scroll stop, action always adjacent",
+   "thesis": "The mission earns attention only if it never costs a click.",
+   "rationale": "The journey map located the real doubt at evaluation: is the food fresh, can I trust this brand, are the prices actually lower. So instead of quarantining sustainability content on an about page, proof is threaded through the scroll: a running tally of food saved rides above the hero headline, an impact section breaks one weekly box into food recovered, water conserved, time saved, and carbon avoided, and a slider lets the reader scale that story across weeks. Each of these moments keeps a CTA within reach, so being convinced and getting started are the same gesture. A dedicated impact page was the considered alternative; it would let the story breathe but pulls exactly the hesitant readers off the conversion path at their most persuadable moment. The tradeoff is density, managed by giving each proof point its own section rather than stacking statistics.",
+   "figure": "b27-crop.jpg",
+   "caption": "Impact broken down per weekly box, with a slider that scales the story across weeks and a CTA waiting under the answer.",
+   "alt": "Impact section titled Taking a bite out of food waste, with four icon stats for food recovered, water conserved, time saved, and carbon avoided, a week slider labeled slide to see how your impact grows, and a magenta Get started for free button.",
+   "source_blocks": [
+    9,
+    21,
+    27,
+    28
+   ]
+  },
+  {
+   "title": "A warm system for a utilitarian errand",
+   "thesis": "Warmth is not decoration here; it is the argument that imperfect means charming, not defective.",
+   "rationale": "The product is cosmetically rejected food, so the visual language has to do persuasion the copy cannot: odd produce framed by a cold, clinical interface reads like damaged goods. The system pairs natural greens with a confident magenta, keeps Roboto as a plain-spoken workhorse for reading, and spends the personality budget on handwritten annotations and illustration, a delivery van looping one neighborhood road, a beet parachuting into the footer box. Competitor analysis pointed the same direction from the other side: Thrive Market's premium polish was logged as a weakness because it deters the price-conscious, and Whole Foods reads generic inside Amazon. The considered alternative, an all-photography art direction, would look more premium but flatten exactly the friendliness that makes the mission approachable. The bet is that a grocery errand done in a warm system starts to feel like participation rather than penance.",
+   "figure": "b30-crop.jpg",
+   "caption": "A beet parachutes into the footer, so even the sitemap does brand work instead of ending the page on a link dump.",
+   "alt": "Magenta footer with a whimsical illustration of a beet descending by parachute into an open Imperfect Foods box, navigation links arranged around it, and a bottom row with logo, B Corp mark, social icons, and an App Store badge.",
+   "source_blocks": [
+    7,
+    10,
+    24,
+    30
+   ]
+  }
+ ],
+ "pull_quote": "Nobody subscribes to a lecture. The mission has to ride with the groceries, not stand in front of them.",
+ "design": {
+  "claim_h2": "One scroll from skeptic to subscriber",
+  "intro": "The homepage is sequenced as an argument: prove the food is good, prove the model is easy, prove the impact is real, then answer what is left.",
+  "figures": [
+   {
+    "figure": "b21-crop.jpg",
+    "caption": "The hero pairs pitch with proof: a tally of food saved rides above the headline, and the CTA leads with no commitment.",
+    "alt": "Homepage hero with the headline Groceries that help you fight food waste, a green badge showing total pounds of food saved, a magenta Get started for free button, and a yellow photo of a pink Imperfect Foods box stamped For: Thoughtful Eaters.",
+    "frame": "light"
+   },
+   {
+    "figure": "b22-crop.jpg",
+    "caption": "Categories read like a menu, not a database: six plain words beside appetizing product photography, one CTA to browse.",
+    "alt": "Product section on a pink background listing pantry, produce, snacks, plant-based, dairy, and meat and fish, with meat and fish highlighted beside styled photography of packaged salmon, shrimp, and beef, and a See our food button.",
+    "frame": "light"
+   },
+   {
+    "figure": "b24-crop.jpg",
+    "caption": "ZIP entry lives inside the eco-delivery story, so checking coverage gets answered in place instead of at checkout.",
+    "alt": "Section titled Grocery delivery, done the right way, with copy about one van serving a whole neighborhood, an inline ZIP code field with a Get started button, and an illustration of a delivery van on a looping road past small houses.",
+    "frame": "light"
+   },
+   {
+    "figure": "b25-crop.jpg",
+    "caption": "Familiar partner logos vouch for unfamiliar imperfect produce, borrowing trust the young brand has not yet earned.",
+    "alt": "Partners who share our values section showing product shots of Tillamook cheese, La Croix, Organic Valley milk, Cento beans, and a snack mix, above a row of partner logos including Imperfect Foods, Tillamook, Impossible, and Cento.",
+    "frame": "light"
+   },
+   {
+    "figure": "b28-crop.jpg",
+    "caption": "Customer photos turn the collective impact claim into social proof, with the net-zero pledge as a quiet banner above.",
+    "alt": "Community section headlined with the total pounds of food customers have saved, a Join the movement button, three customer testimonial cards with photos of delivered boxes, and a small banner pledging a net-zero operation.",
+    "frame": "light"
+   },
+   {
+    "figure": "b29-crop.jpg",
+    "caption": "The FAQ leads with the four questions that block signup, collapsed by default so each answer is one tap away.",
+    "alt": "FAQ section titled Hungry for more with a See all FAQs button and four collapsed rows: how Imperfect works, what products exist, what makes food imperfect, and whether signup costs money.",
+    "frame": "light"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Size up the service",
+   "Find a product",
+   "Trace your impact",
+   "Check testimonials",
+   "Start an order"
+  ],
+  "changed": [],
+  "honest_line": "The board carries a complete moderated test script, six scenarios running from first impression to first order, but no recorded sessions, so it establishes that the design is testable against real doubts, not that it resolves them."
+ },
+ "learnings": [
+  "Pre-filling is a promise about control, and the copy has to keep it. The moment the cart starts full, every sentence around it must be an editing verb, because a pre-filled box described in recommendation language flips from convenient to presumptuous. The words are load-bearing infrastructure for the flow, not polish on top of it.",
+  "Mission content converts as proof, not preamble. Sequencing sustainability into the scroll, tally, impact breakdown, slider, testimonials, each with an action beside it, treats the mission as evidence for a purchase decision rather than a values test the visitor must pass first. The discipline is refusing to let any mission moment exist without an adjacent next step.",
+  "A visual system can carry a positioning argument the copy never states. The warmth of the palette, the handwritten notes, and the parachuting beet all make one claim, that imperfect means charming, and they make it continuously, in the background, on every section. Choosing where a brand spends its personality budget is a product decision, and here it was spent reframing the product's supposed flaw."
+ ],
+ "appendix": {
+  "framing": "The system underneath the warmth is strict: a fixed desktop grid, stepped color ramps with named families, and a defined button set. The looseness on the surface is only affordable because the structure below is not loose at all.",
+  "figures": [
+   {
+    "figure": "b18.jpg",
+    "caption": "Desktop grid at 1440 with a 1230px content area: generous margins give the illustrated sections room to breathe.",
+    "alt": "Grid system spec for a 1440px desktop layout showing twelve pink columns with labeled margin, column, and gutter widths and an overall content width of 1230 pixels."
+   },
+   {
+    "figure": "b12.jpg",
+    "caption": "The Bowser Shell greens step from deep to near-white, giving the sustainability register a full working range.",
+    "alt": "Secondary color ramp named Bowser Shell showing eight green swatches from a deep olive 700 down to a pale 50, each labeled with its hex value."
+   },
+   {
+    "figure": "b17.jpg",
+    "caption": "The button set defines filled, outline, text, and icon-only variants in brand magenta, with disabled states specified up front.",
+    "alt": "Button component sheet showing magenta filled, outlined, and text-only label buttons with chevron icons, plus circular icon-only buttons, each in enabled and muted disabled states."
+   }
+  ]
+ },
+ "next": "karma"
+}

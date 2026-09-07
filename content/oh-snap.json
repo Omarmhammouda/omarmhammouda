@@ -1,0 +1,95 @@
+{
+ "slug": "oh-snap",
+ "name": "Oh Snap",
+ "category": "Mobile app and UI kit",
+ "tier": "light",
+ "dek": "Creators plan trips with strangers from the internet. The app has to make that feel organized and safe.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": null,
+  "platform": "iOS mobile app",
+  "scope": "Competitor analysis, user flows, UI kit, hi-fi UI, heuristic evaluation",
+  "industry": "Travel and creator collaboration",
+  "hard_part": "Turning a chat between two strangers into a structured trip with dates, a location, and an accept or decline decision.",
+  "look_for": "How the invite flow, the pending and approved states, and the shared post credit line all reinforce the same collaboration model."
+ },
+ "problem": {
+  "claim_h2": "Collaboration lives in DMs, and DMs lose trips",
+  "thesis": "Creators who want to shoot together have no tool that combines finding a partner, planning the trip, and crediting the result.",
+  "body": "Instagram and TikTok surface creators but stop at tagging. Airbnb and Couchsurfing handle travel and trust but are not social platforms. The plan itself, who, where, when, always falls back to unstructured chat.",
+  "bullets": [
+   "No collaboration tools built for creators, only generic tagging and duets.",
+   "No integrated trip planning to coordinate shared shoots and activities.",
+   "Thin identity and safety signals when deciding whether to travel with someone."
+  ],
+  "research_note": "A competitor analysis of Instagram, TikTok, Airbnb, Couchsurfing, and Klook mapped where social reach, trip planning, and trust features fail to overlap."
+ },
+ "decisions": [],
+ "pull_quote": null,
+ "design": {
+  "claim_h2": "One collaboration model, carried through every screen",
+  "intro": "From the first invite to the published post, the same structure repeats: a named partner, a place, a date, and a visible status.",
+  "figures": [
+   {
+    "figure": "b22-crop.jpg",
+    "caption": "Entry keeps to two actions on a full-bleed travel image, then plain email forms with password visibility and recovery.",
+    "alt": "Three iPhone screens: a splash with an airplane wing photo and Oh Snap wordmark, then log in and sign up forms with teal buttons and open keyboards.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b24.jpg",
+    "caption": "Onboarding teaches the three verbs that matter, add locations, discover, invite, one per screen with a matching pill CTA.",
+    "alt": "Three onboarding screens with travel photos and bold titles reading Add locations, Discover, and Invitations, each with a Next or Got it button.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b26.jpg",
+    "caption": "The feed before and after a first collaboration: generic destinations become posts credited You with @Sabrina, with Direction and Photos actions.",
+    "alt": "Two feed screens side by side, one showing a stranger's Bali post, the other a Mexico Trip post credited You with @Sabrina above a camper van photo.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b28.jpg",
+    "caption": "Collaboration is a form, not a thread: partner, type, date, location, details, then Requests and Invites tracked as approved or pending.",
+    "alt": "Three screens: a collaboration hub listing Requests and Invites, a Create Collaboration form with labeled fields, and an Invites list with approved and pending trip cards.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b32.jpg",
+    "caption": "Chat carries the escalation path: the overflow menu offers Invite collaboration next to Report and Block, so trust and planning sit together.",
+    "alt": "Three messaging screens: a chat list, a conversation about a Japan trip with a shared video, and the same chat with a menu showing Invite collaboration, Report, and Block.",
+    "frame": "dark"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Invite a collaboration from home",
+   "Turn a chat into an invite",
+   "Fill in the collaboration form",
+   "Post the trip and credit your partner"
+  ],
+  "changed": [],
+  "honest_line": "Formal testing with users was out of scope. Heuristic walkthroughs of these scripted tasks caught clarity issues and drove small fixes, but the trust model itself remains unvalidated."
+ },
+ "learnings": [],
+ "appendix": {
+  "framing": "The UI kit is what keeps a five-tab app with this much photography from drifting. Cards, navigation bars, inputs, and buttons were built once and reused across every flow.",
+  "figures": [
+   {
+    "figure": "b21.jpg",
+    "caption": "The kit's working parts: icon set, keyboards, destination cards, profile stats, nav bar variants, and a voice note player.",
+    "alt": "A UI kit sheet on a dark board showing teal icons, number and text keyboards, two destination post cards, a profile stat card, stacked navigation bar variants, and a voice note component.",
+    "frame": null
+   },
+   {
+    "figure": "b19.jpg",
+    "caption": "Buttons pair orange and deep teal across filled, outline, text, and icon variants, with disabled states defined up front.",
+    "alt": "A button component sheet showing orange and teal pill buttons in filled, outlined, text-only, and circular icon variants, including muted disabled states.",
+    "frame": null
+   }
+  ]
+ },
+ "next": "karma"
+}

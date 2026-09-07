@@ -1,0 +1,8188 @@
+[
+ {
+  "i": 0,
+  "file": "b00.jpg",
+  "y0": 117,
+  "y1": 238,
+  "h": 121,
+  "color": 0.0,
+  "density": 0.084,
+  "lines": [
+   {
+    "t": "Sanctify",
+    "x": 0.2224,
+    "y": 0.1017,
+    "w": 0.1235,
+    "h": 0.3729
+   },
+   {
+    "t": "Leading Catholic values investing",
+    "x": 0.2224,
+    "y": 0.6441,
+    "w": 0.3096,
+    "h": 0.274
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "file": "b01.jpg",
+  "y0": 281,
+  "y1": 371,
+  "h": 90,
+  "color": 0.0,
+  "density": 0.192,
+  "lines": [
+   {
+    "t": "The website is designed to communicate the ethical values of investing, while",
+    "x": 0.2224,
+    "y": 0.1395,
+    "w": 0.5116,
+    "h": 0.2827
+   },
+   {
+    "t": "providing a clear, easy to navigate and conversion optimized user experience for",
+    "x": 0.2224,
+    "y": 0.4186,
+    "w": 0.5291,
+    "h": 0.2814
+   },
+   {
+    "t": "anyone",
+    "x": 0.2224,
+    "y": 0.7196,
+    "w": 0.0495,
+    "h": 0.212
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "file": "b02.jpg",
+  "y0": 401,
+  "y1": 1263,
+  "h": 862,
+  "color": 6.72,
+  "density": 0.602,
+  "lines": [
+   {
+    "t": "....",
+    "x": 0.5218,
+    "y": 0.3932,
+    "w": 0.0436,
+    "h": 0.0121
+   },
+   {
+    "t": "890",
+    "x": 0.2863,
+    "y": 0.4345,
+    "w": 0.0116,
+    "h": 0.0097
+   },
+   {
+    "t": "360",
+    "x": 0.4622,
+    "y": 0.4345,
+    "w": 0.0131,
+    "h": 0.0097
+   },
+   {
+    "t": "$118.50",
+    "x": 0.4288,
+    "y": 0.4782,
+    "w": 0.0203,
+    "h": 0.0121
+   },
+   {
+    "t": "CAF\u0130",
+    "x": 0.7137,
+    "y": 0.6748,
+    "w": 0.032,
+    "h": 0.0218
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "file": "b03.jpg",
+  "y0": 1288,
+  "y1": 1843,
+  "h": 555,
+  "color": 0.39,
+  "density": 0.231,
+  "lines": [
+   {
+    "t": "Project Overview",
+    "x": 0.3416,
+    "y": 0.0558,
+    "w": 0.1584,
+    "h": 0.0504
+   },
+   {
+    "t": "The Sanctify platform was developed as a landing and marketing site for a financial screening",
+    "x": 0.3416,
+    "y": 0.1313,
+    "w": 0.4855,
+    "h": 0.0342
+   },
+   {
+    "t": "tool that aligns investments with Catholic moral values. The platform supports two types of",
+    "x": 0.3387,
+    "y": 0.1654,
+    "w": 0.4767,
+    "h": 0.0378
+   },
+   {
+    "t": "access: admin and user. Each role has its own focus, admins can manage and monitor users,",
+    "x": 0.3416,
+    "y": 0.203,
+    "w": 0.4811,
+    "h": 0.0344
+   },
+   {
+    "t": "SANCTIFY",
+    "x": 0.1991,
+    "y": 0.2368,
+    "w": 0.0654,
+    "h": 0.0301
+   },
+   {
+    "t": "while users can easily create and track their investment portfolios. The design emphasizes",
+    "x": 0.3416,
+    "y": 0.2368,
+    "w": 0.4709,
+    "h": 0.0301
+   },
+   {
+    "t": "ethical transparency, intuitive interaction, and data accessibility to help users make faith",
+    "x": 0.3416,
+    "y": 0.2698,
+    "w": 0.4578,
+    "h": 0.031
+   },
+   {
+    "t": "aligned financial decisions with confidence",
+    "x": 0.3416,
+    "y": 0.304,
+    "w": 0.2238,
+    "h": 0.0344
+   },
+   {
+    "t": "Industry",
+    "x": 0.1584,
+    "y": 0.3603,
+    "w": 0.0481,
+    "h": 0.035
+   },
+   {
+    "t": "\u2022 Finance",
+    "x": 0.1657,
+    "y": 0.3939,
+    "w": 0.0538,
+    "h": 0.0309
+   },
+   {
+    "t": "\u2022 Ethical Investment",
+    "x": 0.1657,
+    "y": 0.4281,
+    "w": 0.109,
+    "h": 0.027
+   },
+   {
+    "t": "Problem",
+    "x": 0.3648,
+    "y": 0.4319,
+    "w": 0.0786,
+    "h": 0.0497
+   },
+   {
+    "t": "Solution",
+    "x": 0.6293,
+    "y": 0.4321,
+    "w": 0.0785,
+    "h": 0.0494
+   },
+   {
+    "t": "\u2022 Financial Technology",
+    "x": 0.1642,
+    "y": 0.4622,
+    "w": 0.1235,
+    "h": 0.0378
+   },
+   {
+    "t": "(Fintech)",
+    "x": 0.1759,
+    "y": 0.4962,
+    "w": 0.0494,
+    "h": 0.0338
+   },
+   {
+    "t": "1. Many investors are unaware that their",
+    "x": 0.3445,
+    "y": 0.5108,
+    "w": 0.2122,
+    "h": 0.0343
+   },
+   {
+    "t": "1. Provide a screening platform that",
+    "x": 0.6076,
+    "y": 0.5108,
+    "w": 0.189,
+    "h": 0.0381
+   },
+   {
+    "t": "portfolios may be funding activities that",
+    "x": 0.3576,
+    "y": 0.545,
+    "w": 0.2093,
+    "h": 0.0342
+   },
+   {
+    "t": "evaluates companies based on sectors",
+    "x": 0.6221,
+    "y": 0.5486,
+    "w": 0.2035,
+    "h": 0.027
+   },
+   {
+    "t": "conflict with their moral values.",
+    "x": 0.3576,
+    "y": 0.5827,
+    "w": 0.1642,
+    "h": 0.027
+   },
+   {
+    "t": "such as abortion, gambling, corporate",
+    "x": 0.6221,
+    "y": 0.5827,
+    "w": 0.1977,
+    "h": 0.0306
+   },
+   {
+    "t": "2. There is no simple way to evaluate",
+    "x": 0.3445,
+    "y": 0.6165,
+    "w": 0.1948,
+    "h": 0.0309
+   },
+   {
+    "t": "donations, and more.",
+    "x": 0.6221,
+    "y": 0.6165,
+    "w": 0.1105,
+    "h": 0.0345
+   },
+   {
+    "t": "2. Deliver an intuitive and informative Ul",
+    "x": 0.609,
+    "y": 0.6466,
+    "w": 0.2078,
+    "h": 0.0338
+   },
+   {
+    "t": "companies based on religious ethical",
+    "x": 0.3576,
+    "y": 0.6504,
+    "w": 0.1948,
+    "h": 0.0301
+   },
+   {
+    "t": "Tools",
+    "x": 0.1613,
+    "y": 0.6767,
+    "w": 0.0291,
+    "h": 0.0263
+   },
+   {
+    "t": "standards, such as Catholic teachings.",
+    "x": 0.3576,
+    "y": 0.6835,
+    "w": 0.2035,
+    "h": 0.0346
+   },
+   {
+    "t": "that is easy for both casual and",
+    "x": 0.6221,
+    "y": 0.6835,
+    "w": 0.1642,
+    "h": 0.0308
+   },
+   {
+    "t": "Figma",
+    "x": 0.1599,
+    "y": 0.7105,
+    "w": 0.0334,
+    "h": 0.0338
+   },
+   {
+    "t": "3. Financial platform and tools are often too",
+    "x": 0.3445,
+    "y": 0.7176,
+    "w": 0.2282,
+    "h": 0.0306
+   },
+   {
+    "t": "professional users to understand.",
+    "x": 0.6221,
+    "y": 0.7176,
+    "w": 0.1744,
+    "h": 0.0306
+   },
+   {
+    "t": "complex, filled with jargon and not user",
+    "x": 0.3576,
+    "y": 0.7518,
+    "w": 0.2064,
+    "h": 0.0342
+   },
+   {
+    "t": "3. Offer transparency through data",
+    "x": 0.6076,
+    "y": 0.7518,
+    "w": 0.1831,
+    "h": 0.0342
+   },
+   {
+    "t": "friendly for non professional.",
+    "x": 0.3576,
+    "y": 0.7857,
+    "w": 0.1483,
+    "h": 0.0308
+   },
+   {
+    "t": "visualizations, user testimonials, and a",
+    "x": 0.6221,
+    "y": 0.7857,
+    "w": 0.1991,
+    "h": 0.0344
+   },
+   {
+    "t": "4. Existing investment platforms focus",
+    "x": 0.3445,
+    "y": 0.8195,
+    "w": 0.1991,
+    "h": 0.0338
+   },
+   {
+    "t": "clearly structured pricing system.",
+    "x": 0.6221,
+    "y": 0.8233,
+    "w": 0.1744,
+    "h": 0.0301
+   },
+   {
+    "t": "solely on profitability without considering",
+    "x": 0.3575,
+    "y": 0.8521,
+    "w": 0.2153,
+    "h": 0.0353
+   },
+   {
+    "t": "4. Allow users to try the platform for free for",
+    "x": 0.6076,
+    "y": 0.8525,
+    "w": 0.2311,
+    "h": 0.0309
+   },
+   {
+    "t": "the moral or social impact of investment",
+    "x": 0.3561,
+    "y": 0.8867,
+    "w": 0.2122,
+    "h": 0.0344
+   },
+   {
+    "t": "14 days before committing to a",
+    "x": 0.6206,
+    "y": 0.8867,
+    "w": 0.1628,
+    "h": 0.0344
+   },
+   {
+    "t": "Year",
+    "x": 0.1584,
+    "y": 0.8872,
+    "w": 0.0276,
+    "h": 0.0301
+   },
+   {
+    "t": "2021",
+    "x": 0.1598,
+    "y": 0.9203,
+    "w": 0.0279,
+    "h": 0.0316
+   },
+   {
+    "t": "subscription.",
+    "x": 0.6221,
+    "y": 0.9248,
+    "w": 0.0669,
+    "h": 0.0263
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "file": "b04.jpg",
+  "y0": 1874,
+  "y1": 2056,
+  "h": 182,
+  "color": 0.15,
+  "density": 0.237,
+  "lines": [
+   {
+    "t": "My Role and Responsibility",
+    "x": 0.1773,
+    "y": 0.0549,
+    "w": 0.25,
+    "h": 0.1868
+   },
+   {
+    "t": "As a UX/Ul Designer, I was responsible for designing four main interfaces for this project: the main website, user dashboard, admin",
+    "x": 0.1526,
+    "y": 0.3218,
+    "w": 0.686,
+    "h": 0.1034
+   },
+   {
+    "t": "dashboard, and mobile app all created using Figma.",
+    "x": 0.1526,
+    "y": 0.4231,
+    "w": 0.2718,
+    "h": 0.1172
+   },
+   {
+    "t": "My responsibilities included designing multiple screens and user flows for each platform version to ensure a smooth and intuitive",
+    "x": 0.1526,
+    "y": 0.6319,
+    "w": 0.6759,
+    "h": 0.1044
+   },
+   {
+    "t": "experience. I also built the design foundation by creating a typography system, color palette, layout grid, and several reusable",
+    "x": 0.1526,
+    "y": 0.7471,
+    "w": 0.6599,
+    "h": 0.1045
+   },
+   {
+    "t": "components to support responsive design across different devices.",
+    "x": 0.1526,
+    "y": 0.8506,
+    "w": 0.3547,
+    "h": 0.0945
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "file": "b05.jpg",
+  "y0": 2095,
+  "y1": 2700,
+  "h": 605,
+  "color": 0.0,
+  "density": 0.28,
+  "lines": [
+   {
+    "t": "Process",
+    "x": 0.1526,
+    "y": 0.0172,
+    "w": 0.0756,
+    "h": 0.0379
+   },
+   {
+    "t": "The design process for this project was divided into four key phases to ensure a user centered and results experience:",
+    "x": 0.1526,
+    "y": 0.1069,
+    "w": 0.6235,
+    "h": 0.0276
+   },
+   {
+    "t": "1. Discovery",
+    "x": 0.1555,
+    "y": 0.1682,
+    "w": 0.067,
+    "h": 0.0326
+   },
+   {
+    "t": "In the discovery phase, I began by conducting a competitor analysis to understand how similar platforms approach ethical",
+    "x": 0.1672,
+    "y": 0.1997,
+    "w": 0.6439,
+    "h": 0.0383
+   },
+   {
+    "t": "investing and religious based screening tools. This helped identify design opportunities and areas for differentiation. I also",
+    "x": 0.1686,
+    "y": 0.231,
+    "w": 0.641,
+    "h": 0.0314
+   },
+   {
+    "t": "gathered insights into user pain points, particularly related to complexity in financial tools and the lack of moral transparency in",
+    "x": 0.1672,
+    "y": 0.2655,
+    "w": 0.6701,
+    "h": 0.0315
+   },
+   {
+    "t": "investment platforms. Additionally, I defined the target users and audience, which included faith driven individual investors and",
+    "x": 0.1686,
+    "y": 0.2966,
+    "w": 0.6657,
+    "h": 0.0276
+   },
+   {
+    "t": "administrative users who need to manage ethical investment data efficiently. These early findings shaped the direction for user",
+    "x": 0.1686,
+    "y": 0.3276,
+    "w": 0.6701,
+    "h": 0.0276
+   },
+   {
+    "t": "experience decisions in the next phases.",
+    "x": 0.1686,
+    "y": 0.3548,
+    "w": 0.2166,
+    "h": 0.0349
+   },
+   {
+    "t": "2. Ideation",
+    "x": 0.1554,
+    "y": 0.4188,
+    "w": 0.0584,
+    "h": 0.0313
+   },
+   {
+    "t": "During the ideation phase, I focused on translating user needs into clear pathways by creating the user flow and user journey",
+    "x": 0.1701,
+    "y": 0.4517,
+    "w": 0.657,
+    "h": 0.0318
+   },
+   {
+    "t": "maps. This helped visualize how users would interact with the platform, from discovering the website to monitoring their",
+    "x": 0.1686,
+    "y": 0.4828,
+    "w": 0.6323,
+    "h": 0.031
+   },
+   {
+    "t": "investment portfolios or managing users in the admin panel. These artifacts ensured that each user role - admin and user -",
+    "x": 0.1686,
+    "y": 0.5132,
+    "w": 0.6584,
+    "h": 0.0316
+   },
+   {
+    "t": "had a smooth and logical navigation structure, minimizing friction and enhancing usability across all interfaces.",
+    "x": 0.1686,
+    "y": 0.5479,
+    "w": 0.5828,
+    "h": 0.0315
+   },
+   {
+    "t": "3. Design Process",
+    "x": 0.1555,
+    "y": 0.6103,
+    "w": 0.0959,
+    "h": 0.0283
+   },
+   {
+    "t": "To maintain visual consistency and scalability, 1 developed a design system in Figma that included the core elements such as",
+    "x": 0.17,
+    "y": 0.6321,
+    "w": 0.6542,
+    "h": 0.0438
+   },
+   {
+    "t": "color palette, typography scale, grid system, and a component set consisting of buttons, inputs, cards, and other Ul elements.",
+    "x": 0.1701,
+    "y": 0.6716,
+    "w": 0.6628,
+    "h": 0.0318
+   },
+   {
+    "t": "The system was tailored for both web and mobile use, with responsive behavior in mind. I also built specific component",
+    "x": 0.1701,
+    "y": 0.703,
+    "w": 0.6265,
+    "h": 0.0315
+   },
+   {
+    "t": "variations for different features within the user and admin dashboards, ensuring clarity and ease of reuse throughout the",
+    "x": 0.1686,
+    "y": 0.7343,
+    "w": 0.6337,
+    "h": 0.0314
+   },
+   {
+    "t": "product.",
+    "x": 0.17,
+    "y": 0.7683,
+    "w": 0.0452,
+    "h": 0.0256
+   },
+   {
+    "t": "4. Usability Testing",
+    "x": 0.1541,
+    "y": 0.8276,
+    "w": 0.1032,
+    "h": 0.0345
+   },
+   {
+    "t": "In the usability testing phase, I created a set of task and scenarios to simulate how users would interact with the platform in real",
+    "x": 0.1686,
+    "y": 0.8581,
+    "w": 0.673,
+    "h": 0.0316
+   },
+   {
+    "t": "world contexts. These scenarios were designed to evaluate the clarity of navigation, the effectiveness of information hierarchy,",
+    "x": 0.1686,
+    "y": 0.8927,
+    "w": 0.6686,
+    "h": 0.0314
+   },
+   {
+    "t": "and the intuitiveness of key actions like creating a portfolio or filtering ethical concerns. While the testing was limited to scenario",
+    "x": 0.1686,
+    "y": 0.9241,
+    "w": 0.6759,
+    "h": 0.0281
+   },
+   {
+    "t": "creation, it laid a strong foundation for future validation and iteration with actual users.",
+    "x": 0.1701,
+    "y": 0.9552,
+    "w": 0.4549,
+    "h": 0.0316
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "file": "b06.jpg",
+  "y0": 2739,
+  "y1": 3088,
+  "h": 349,
+  "color": 0.0,
+  "density": 0.207,
+  "lines": [
+   {
+    "t": "Discovery",
+    "x": 0.1524,
+    "y": 0.0221,
+    "w": 0.0949,
+    "h": 0.0805
+   },
+   {
+    "t": "Discover and Understanding",
+    "x": 0.1512,
+    "y": 0.2086,
+    "w": 0.1904,
+    "h": 0.0669
+   },
+   {
+    "t": "Before diving into design, I started by understanding the purpose and values behind the platform. Sanctify was developed as a",
+    "x": 0.1526,
+    "y": 0.3343,
+    "w": 0.6642,
+    "h": 0.0609
+   },
+   {
+    "t": "solution for investors who want their financial portfolios to align with Catholic moral principles. This meant not only building a",
+    "x": 0.1526,
+    "y": 0.3943,
+    "w": 0.6555,
+    "h": 0.0488
+   },
+   {
+    "t": "functional and trustworthy interface, but also clearly communicating the value of ethical investment screening. My goal during this",
+    "x": 0.1526,
+    "y": 0.4486,
+    "w": 0.6846,
+    "h": 0.0544
+   },
+   {
+    "t": "discovery phase was to understand the unique positioning of the product, uncover common pain points in existing tools, and",
+    "x": 0.1526,
+    "y": 0.5029,
+    "w": 0.6541,
+    "h": 0.0543
+   },
+   {
+    "t": "explore how to design a product that resonates with both faith-driven users and platform admins.",
+    "x": 0.1526,
+    "y": 0.5569,
+    "w": 0.5131,
+    "h": 0.0488
+   },
+   {
+    "t": "Competitor Analysis",
+    "x": 0.1512,
+    "y": 0.6826,
+    "w": 0.1366,
+    "h": 0.0659
+   },
+   {
+    "t": "To gain insights into the current landscape of faith based or ethical investing tools, I analyzed several platforms that offer screening,",
+    "x": 0.1526,
+    "y": 0.8143,
+    "w": 0.6948,
+    "h": 0.0543
+   },
+   {
+    "t": "portfolio monitoring, or ethical investing support. The goal was to identify design patterns, messaging strategies, and opportunities",
+    "x": 0.1526,
+    "y": 0.8683,
+    "w": 0.689,
+    "h": 0.0546
+   },
+   {
+    "t": "where Sanctify could stand out.",
+    "x": 0.1526,
+    "y": 0.9222,
+    "w": 0.1686,
+    "h": 0.055
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "file": "b07.jpg",
+  "y0": 3112,
+  "y1": 3756,
+  "h": 644,
+  "color": 0.29,
+  "density": 0.235,
+  "lines": [
+   {
+    "t": "Competitor",
+    "x": 0.2616,
+    "y": 0.0187,
+    "w": 0.0539,
+    "h": 0.0275
+   },
+   {
+    "t": "Key Focus",
+    "x": 0.3997,
+    "y": 0.019,
+    "w": 0.0495,
+    "h": 0.0269
+   },
+   {
+    "t": "Strengths",
+    "x": 0.5057,
+    "y": 0.0217,
+    "w": 0.0481,
+    "h": 0.0247
+   },
+   {
+    "t": "Weaknesses",
+    "x": 0.6323,
+    "y": 0.0227,
+    "w": 0.061,
+    "h": 0.0195
+   },
+   {
+    "t": "Inspire Investing",
+    "x": 0.2614,
+    "y": 0.0745,
+    "w": 0.0746,
+    "h": 0.0265
+   },
+   {
+    "t": "Simple interface",
+    "x": 0.5058,
+    "y": 0.0745,
+    "w": 0.0756,
+    "h": 0.0233
+   },
+   {
+    "t": "Lack of transparency in",
+    "x": 0.6323,
+    "y": 0.0745,
+    "w": 0.1076,
+    "h": 0.0233
+   },
+   {
+    "t": "Biblically",
+    "x": 0.3997,
+    "y": 0.0774,
+    "w": 0.0408,
+    "h": 0.0238
+   },
+   {
+    "t": "screening",
+    "x": 0.6322,
+    "y": 0.1091,
+    "w": 0.0467,
+    "h": 0.0252
+   },
+   {
+    "t": "Responsible",
+    "x": 0.3997,
+    "y": 0.1098,
+    "w": 0.0568,
+    "h": 0.0238
+   },
+   {
+    "t": "Investing",
+    "x": 0.3997,
+    "y": 0.1424,
+    "w": 0.0437,
+    "h": 0.0237
+   },
+   {
+    "t": "methodology",
+    "x": 0.6323,
+    "y": 0.1429,
+    "w": 0.061,
+    "h": 0.0227
+   },
+   {
+    "t": "Faith based & ESG",
+    "x": 0.3997,
+    "y": 0.1941,
+    "w": 0.0843,
+    "h": 0.0234
+   },
+   {
+    "t": "Clear messaging",
+    "x": 0.5058,
+    "y": 0.1941,
+    "w": 0.077,
+    "h": 0.0267
+   },
+   {
+    "t": "Eventide",
+    "x": 0.2616,
+    "y": 0.1981,
+    "w": 0.0407,
+    "h": 0.0195
+   },
+   {
+    "t": "\u2022 Requires account to",
+    "x": 0.6366,
+    "y": 0.1981,
+    "w": 0.1017,
+    "h": 0.0195
+   },
+   {
+    "t": "view user",
+    "x": 0.6468,
+    "y": 0.23,
+    "w": 0.0466,
+    "h": 0.0205
+   },
+   {
+    "t": "Investing",
+    "x": 0.3997,
+    "y": 0.2301,
+    "w": 0.0422,
+    "h": 0.0236
+   },
+   {
+    "t": "dashboard",
+    "x": 0.6468,
+    "y": 0.2597,
+    "w": 0.0509,
+    "h": 0.0227
+   },
+   {
+    "t": "\u2022 Lack of",
+    "x": 0.6365,
+    "y": 0.2945,
+    "w": 0.0467,
+    "h": 0.0215
+   },
+   {
+    "t": "transparency in",
+    "x": 0.6468,
+    "y": 0.3276,
+    "w": 0.0712,
+    "h": 0.0233
+   },
+   {
+    "t": "screening",
+    "x": 0.6467,
+    "y": 0.3626,
+    "w": 0.0467,
+    "h": 0.0249
+   },
+   {
+    "t": "methodology",
+    "x": 0.6468,
+    "y": 0.3929,
+    "w": 0.0625,
+    "h": 0.0227
+   },
+   {
+    "t": "Investment tools for",
+    "x": 0.3997,
+    "y": 0.4441,
+    "w": 0.0916,
+    "h": 0.0234
+   },
+   {
+    "t": "GuideStone Funds",
+    "x": 0.2616,
+    "y": 0.4481,
+    "w": 0.0843,
+    "h": 0.0195
+   },
+   {
+    "t": "\u2022 Clear messaging",
+    "x": 0.5102,
+    "y": 0.4481,
+    "w": 0.0872,
+    "h": 0.0227
+   },
+   {
+    "t": "\u2022 Lacks basic charts",
+    "x": 0.6366,
+    "y": 0.4481,
+    "w": 0.0959,
+    "h": 0.0227
+   },
+   {
+    "t": "\u2022 Focused on Christian",
+    "x": 0.5102,
+    "y": 0.4798,
+    "w": 0.1076,
+    "h": 0.0234
+   },
+   {
+    "t": "Christians",
+    "x": 0.4011,
+    "y": 0.4801,
+    "w": 0.0466,
+    "h": 0.0236
+   },
+   {
+    "t": "or graphs",
+    "x": 0.6468,
+    "y": 0.4838,
+    "w": 0.0451,
+    "h": 0.0195
+   },
+   {
+    "t": "\u2022 Limited Interaction",
+    "x": 0.6366,
+    "y": 0.5124,
+    "w": 0.0959,
+    "h": 0.0233
+   },
+   {
+    "t": "values",
+    "x": 0.5203,
+    "y": 0.5162,
+    "w": 0.032,
+    "h": 0.0195
+   },
+   {
+    "t": "Design",
+    "x": 0.6468,
+    "y": 0.5455,
+    "w": 0.0334,
+    "h": 0.0292
+   },
+   {
+    "t": "Pain Points",
+    "x": 0.1511,
+    "y": 0.6422,
+    "w": 0.0757,
+    "h": 0.0338
+   },
+   {
+    "t": "1. Lack of transparency in investment screening methods",
+    "x": 0.1555,
+    "y": 0.7045,
+    "w": 0.3023,
+    "h": 0.0299
+   },
+   {
+    "t": "2. Limited user experience due to lack of data visualization such as graphs or charts",
+    "x": 0.1555,
+    "y": 0.737,
+    "w": 0.4433,
+    "h": 0.026
+   },
+   {
+    "t": "3. No dashboard preview before signing up",
+    "x": 0.1541,
+    "y": 0.7624,
+    "w": 0.2297,
+    "h": 0.033
+   },
+   {
+    "t": "4. Limited interaction in design",
+    "x": 0.1555,
+    "y": 0.795,
+    "w": 0.1628,
+    "h": 0.0264
+   },
+   {
+    "t": "User & Audience",
+    "x": 0.1526,
+    "y": 0.8634,
+    "w": 0.1105,
+    "h": 0.0327
+   },
+   {
+    "t": "1. People looking for tools to help align their investments with Catholic teachings",
+    "x": 0.1555,
+    "y": 0.9253,
+    "w": 0.4259,
+    "h": 0.0296
+   },
+   {
+    "t": "2. Beginner investors looking for visual aids and simple explanations",
+    "x": 0.1555,
+    "y": 0.9545,
+    "w": 0.359,
+    "h": 0.0299
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "file": "b08.jpg",
+  "y0": 3795,
+  "y1": 5491,
+  "h": 1696,
+  "color": 2.71,
+  "density": 0.174,
+  "lines": [
+   {
+    "t": "Ideation",
+    "x": 0.1507,
+    "y": 0.0058,
+    "w": 0.0788,
+    "h": 0.0145
+   },
+   {
+    "t": "After gathering key insights from the discovery phase, including competitor analysis, pain points, and user audience, the next step",
+    "x": 0.1524,
+    "y": 0.0407,
+    "w": 0.6849,
+    "h": 0.0118
+   },
+   {
+    "t": "was to transform those findings into actionable concepts. This step focused on exploring how Sanctify could deliver a seamless,",
+    "x": 0.1524,
+    "y": 0.0523,
+    "w": 0.6747,
+    "h": 0.0116
+   },
+   {
+    "t": "transparent, and values aligned investing experience. The primary goal was to map out how users interact with the product from",
+    "x": 0.1524,
+    "y": 0.0637,
+    "w": 0.6747,
+    "h": 0.0106
+   },
+   {
+    "t": "beginning to end while addressing user needs around ethical clarity, ease of understanding, and trust in the platform. This stage",
+    "x": 0.1524,
+    "y": 0.0741,
+    "w": 0.6747,
+    "h": 0.0116
+   },
+   {
+    "t": "resulted in the development of user flows and a comprehensive journey map to ensure alignment between user expectations and",
+    "x": 0.1507,
+    "y": 0.0855,
+    "w": 0.6781,
+    "h": 0.0119
+   },
+   {
+    "t": "system behavior.",
+    "x": 0.1524,
+    "y": 0.0973,
+    "w": 0.0925,
+    "h": 0.0103
+   },
+   {
+    "t": "User Flow",
+    "x": 0.1523,
+    "y": 0.1288,
+    "w": 0.067,
+    "h": 0.0127
+   },
+   {
+    "t": "To ensure a clear and intuitive user experience, I created user flows that reflect the typical paths a user might take, starting from",
+    "x": 0.1524,
+    "y": 0.1568,
+    "w": 0.6764,
+    "h": 0.0103
+   },
+   {
+    "t": "main website, user dashboard, and admin dashboard. Each flow was designed with simplicity in mind, highlighting key interactions",
+    "x": 0.1524,
+    "y": 0.1686,
+    "w": 0.6849,
+    "h": 0.0102
+   },
+   {
+    "t": "such as filtering ethical categories, tracking portfolio performance, and add new user for admin version. The user flow also",
+    "x": 0.1524,
+    "y": 0.1787,
+    "w": 0.6438,
+    "h": 0.0118
+   },
+   {
+    "t": "accounted for both first time visitors and returning users with different goals, whether it's ethical discovery or portfolio optimization",
+    "x": 0.1524,
+    "y": 0.1904,
+    "w": 0.6918,
+    "h": 0.0118
+   },
+   {
+    "t": "User story: As a investor, I want to add a screen set that provides maximum profit potential and minimizes risk, so that I can make more",
+    "x": 0.1524,
+    "y": 0.218,
+    "w": 0.6884,
+    "h": 0.0102
+   },
+   {
+    "t": "profitable investment decisions based on my market research.",
+    "x": 0.1524,
+    "y": 0.2323,
+    "w": 0.3202,
+    "h": 0.0106
+   },
+   {
+    "t": "Research",
+    "x": 0.3253,
+    "y": 0.2718,
+    "w": 0.0377,
+    "h": 0.0073
+   },
+   {
+    "t": "FFV",
+    "x": 0.4709,
+    "y": 0.2718,
+    "w": 0.0171,
+    "h": 0.0073
+   },
+   {
+    "t": "Result of FFV",
+    "x": 0.5771,
+    "y": 0.2718,
+    "w": 0.0497,
+    "h": 0.0073
+   },
+   {
+    "t": "See details of",
+    "x": 0.7106,
+    "y": 0.2718,
+    "w": 0.0514,
+    "h": 0.0073
+   },
+   {
+    "t": "\u2014 Select Screenset \u2192",
+    "x": 0.3801,
+    "y": 0.2759,
+    "w": 0.0685,
+    "h": 0.0077
+   },
+   {
+    "t": "Dasboard",
+    "x": 0.2312,
+    "y": 0.2762,
+    "w": 0.0394,
+    "h": 0.0073
+   },
+   {
+    "t": "Scorecard",
+    "x": 0.5838,
+    "y": 0.2815,
+    "w": 0.0396,
+    "h": 0.0082
+   },
+   {
+    "t": "Screenset",
+    "x": 0.7175,
+    "y": 0.2819,
+    "w": 0.0394,
+    "h": 0.0074
+   },
+   {
+    "t": "Detail",
+    "x": 0.3322,
+    "y": 0.282,
+    "w": 0.0257,
+    "h": 0.0073
+   },
+   {
+    "t": "Scorecard",
+    "x": 0.4606,
+    "y": 0.282,
+    "w": 0.0394,
+    "h": 0.0073
+   },
+   {
+    "t": "Add a",
+    "x": 0.4315,
+    "y": 0.3532,
+    "w": 0.0257,
+    "h": 0.0088
+   },
+   {
+    "t": "Setup Form",
+    "x": 0.5291,
+    "y": 0.3575,
+    "w": 0.0463,
+    "h": 0.0088
+   },
+   {
+    "t": "Screenset",
+    "x": 0.3168,
+    "y": 0.3576,
+    "w": 0.0411,
+    "h": 0.0087
+   },
+   {
+    "t": "Save",
+    "x": 0.6404,
+    "y": 0.3576,
+    "w": 0.0205,
+    "h": 0.0087
+   },
+   {
+    "t": "Screenset",
+    "x": 0.4246,
+    "y": 0.3631,
+    "w": 0.0412,
+    "h": 0.0078
+   },
+   {
+    "t": "User story: As an admin, I want to be able to add other admin users easily, so that I can share the work with my partner",
+    "x": 0.1524,
+    "y": 0.4039,
+    "w": 0.6079,
+    "h": 0.0106
+   },
+   {
+    "t": "User",
+    "x": 0.3938,
+    "y": 0.4433,
+    "w": 0.0205,
+    "h": 0.0087
+   },
+   {
+    "t": "Add New",
+    "x": 0.4949,
+    "y": 0.4433,
+    "w": 0.0394,
+    "h": 0.0089
+   },
+   {
+    "t": "Data",
+    "x": 0.6764,
+    "y": 0.4448,
+    "w": 0.0205,
+    "h": 0.0073
+   },
+   {
+    "t": "Dasboard",
+    "x": 0.2841,
+    "y": 0.4487,
+    "w": 0.0413,
+    "h": 0.0081
+   },
+   {
+    "t": "Management",
+    "x": 0.3784,
+    "y": 0.4548,
+    "w": 0.0548,
+    "h": 0.009
+   },
+   {
+    "t": "Management",
+    "x": 0.6609,
+    "y": 0.4548,
+    "w": 0.0531,
+    "h": 0.009
+   },
+   {
+    "t": "User",
+    "x": 0.5051,
+    "y": 0.4549,
+    "w": 0.0205,
+    "h": 0.0073
+   },
+   {
+    "t": "Invitation",
+    "x": 0.44,
+    "y": 0.5333,
+    "w": 0.0395,
+    "h": 0.0076
+   },
+   {
+    "t": "Manual",
+    "x": 0.5497,
+    "y": 0.5334,
+    "w": 0.0308,
+    "h": 0.0073
+   },
+   {
+    "t": "Save New User",
+    "x": 0.666,
+    "y": 0.5781,
+    "w": 0.043,
+    "h": 0.0081
+   },
+   {
+    "t": "Send",
+    "x": 0.4469,
+    "y": 0.5988,
+    "w": 0.024,
+    "h": 0.0073
+   },
+   {
+    "t": "Personal",
+    "x": 0.5462,
+    "y": 0.5988,
+    "w": 0.0377,
+    "h": 0.0073
+   },
+   {
+    "t": "Invitation",
+    "x": 0.4401,
+    "y": 0.609,
+    "w": 0.0394,
+    "h": 0.0073
+   },
+   {
+    "t": "Information",
+    "x": 0.5428,
+    "y": 0.609,
+    "w": 0.0462,
+    "h": 0.0087
+   },
+   {
+    "t": "Access",
+    "x": 0.5497,
+    "y": 0.6686,
+    "w": 0.0308,
+    "h": 0.0073
+   },
+   {
+    "t": "Level",
+    "x": 0.5531,
+    "y": 0.6788,
+    "w": 0.024,
+    "h": 0.0073
+   },
+   {
+    "t": "Information",
+    "x": 0.5428,
+    "y": 0.6904,
+    "w": 0.0462,
+    "h": 0.0073
+   },
+   {
+    "t": "Accept",
+    "x": 0.5634,
+    "y": 0.7209,
+    "w": 0.0205,
+    "h": 0.0058
+   },
+   {
+    "t": "User story: As a new user, I want to be able to get information easily, so that I can trust Sanctify and feel confident becoming a user",
+    "x": 0.1524,
+    "y": 0.7456,
+    "w": 0.6712,
+    "h": 0.0116
+   },
+   {
+    "t": "Complete",
+    "x": 0.5445,
+    "y": 0.7834,
+    "w": 0.0342,
+    "h": 0.0073
+   },
+   {
+    "t": "User",
+    "x": 0.7192,
+    "y": 0.7834,
+    "w": 0.0188,
+    "h": 0.0073
+   },
+   {
+    "t": "Explore",
+    "x": 0.3339,
+    "y": 0.7849,
+    "w": 0.0257,
+    "h": 0.0044
+   },
+   {
+    "t": "Sign Up",
+    "x": 0.4675,
+    "y": 0.7877,
+    "w": 0.0291,
+    "h": 0.0073
+   },
+   {
+    "t": "Homepage",
+    "x": 0.2449,
+    "y": 0.7878,
+    "w": 0.0394,
+    "h": 0.0073
+   },
+   {
+    "t": "Submit",
+    "x": 0.6284,
+    "y": 0.7878,
+    "w": 0.0274,
+    "h": 0.0073
+   },
+   {
+    "t": "the form",
+    "x": 0.5462,
+    "y": 0.7919,
+    "w": 0.0308,
+    "h": 0.0077
+   },
+   {
+    "t": "Homepage",
+    "x": 0.3288,
+    "y": 0.7922,
+    "w": 0.0394,
+    "h": 0.0073
+   },
+   {
+    "t": "Dashboard",
+    "x": 0.7106,
+    "y": 0.7922,
+    "w": 0.0377,
+    "h": 0.0073
+   },
+   {
+    "t": "Feel Carvinsed",
+    "x": 0.464,
+    "y": 0.8573,
+    "w": 0.036,
+    "h": 0.0061
+   },
+   {
+    "t": "Read",
+    "x": 0.3373,
+    "y": 0.8619,
+    "w": 0.0205,
+    "h": 0.0073
+   },
+   {
+    "t": "How it works",
+    "x": 0.2603,
+    "y": 0.8662,
+    "w": 0.0445,
+    "h": 0.0077
+   },
+   {
+    "t": "Read FAQ",
+    "x": 0.3972,
+    "y": 0.8662,
+    "w": 0.036,
+    "h": 0.0074
+   },
+   {
+    "t": "Testimonial",
+    "x": 0.3287,
+    "y": 0.8705,
+    "w": 0.0395,
+    "h": 0.0076
+   },
+   {
+    "t": "User Journey",
+    "x": 0.1523,
+    "y": 0.9227,
+    "w": 0.0891,
+    "h": 0.0136
+   },
+   {
+    "t": "A user journey map was developed based on a realistic scenario. This journey explores their experience from discovering Sanctify",
+    "x": 0.1524,
+    "y": 0.9505,
+    "w": 0.6815,
+    "h": 0.0103
+   },
+   {
+    "t": "for the first time to using the platform to build a morally responsible portfolio. The map outlines their actions, thoughts, emotional",
+    "x": 0.1507,
+    "y": 0.9622,
+    "w": 0.6815,
+    "h": 0.0102
+   },
+   {
+    "t": "state, and key opportunities to improve their experience at each stage. This helped identify critical moments where Ul clarity,",
+    "x": 0.1524,
+    "y": 0.9723,
+    "w": 0.6592,
+    "h": 0.0118
+   },
+   {
+    "t": "educational content, and interactive elements could influence user trust and decisional making.",
+    "x": 0.1524,
+    "y": 0.984,
+    "w": 0.5,
+    "h": 0.0102
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "file": "b09.jpg",
+  "y0": 5516,
+  "y1": 5987,
+  "h": 471,
+  "color": 0.35,
+  "density": 0.302,
+  "lines": [
+   {
+    "t": "Scenario: A Catholic investor wants to ensure their current investment portfolio aligns with their religious and ethical",
+    "x": 0.1875,
+    "y": 0.0265,
+    "w": 0.6134,
+    "h": 0.0398
+   },
+   {
+    "t": "values.",
+    "x": 0.1875,
+    "y": 0.0747,
+    "w": 0.0393,
+    "h": 0.0276
+   },
+   {
+    "t": "Expectation: A clear, trustworthy, and easy to use platform that helps them quickly evaluate whether their",
+    "x": 0.1875,
+    "y": 0.1504,
+    "w": 0.5581,
+    "h": 0.0403
+   },
+   {
+    "t": "investments align with Catholic values",
+    "x": 0.186,
+    "y": 0.1858,
+    "w": 0.202,
+    "h": 0.0409
+   },
+   {
+    "t": "Discover",
+    "x": 0.343,
+    "y": 0.2874,
+    "w": 0.0422,
+    "h": 0.0314
+   },
+   {
+    "t": "Decide",
+    "x": 0.6351,
+    "y": 0.2916,
+    "w": 0.0321,
+    "h": 0.0274
+   },
+   {
+    "t": "Phase",
+    "x": 0.2616,
+    "y": 0.292,
+    "w": 0.0291,
+    "h": 0.0265
+   },
+   {
+    "t": "Onboard",
+    "x": 0.439,
+    "y": 0.292,
+    "w": 0.0392,
+    "h": 0.0265
+   },
+   {
+    "t": "Explore",
+    "x": 0.5334,
+    "y": 0.292,
+    "w": 0.0349,
+    "h": 0.031
+   },
+   {
+    "t": "Browses Sanctify",
+    "x": 0.3429,
+    "y": 0.3579,
+    "w": 0.0774,
+    "h": 0.0363
+   },
+   {
+    "t": "Signs up and inputs",
+    "x": 0.439,
+    "y": 0.3623,
+    "w": 0.0858,
+    "h": 0.0318
+   },
+   {
+    "t": "Screens their current",
+    "x": 0.5334,
+    "y": 0.3623,
+    "w": 0.093,
+    "h": 0.0275
+   },
+   {
+    "t": "Adjusts their",
+    "x": 0.6352,
+    "y": 0.3625,
+    "w": 0.0567,
+    "h": 0.0317
+   },
+   {
+    "t": "Activity",
+    "x": 0.2602,
+    "y": 0.3628,
+    "w": 0.0349,
+    "h": 0.0354
+   },
+   {
+    "t": "homepage, reads",
+    "x": 0.343,
+    "y": 0.4025,
+    "w": 0.077,
+    "h": 0.036
+   },
+   {
+    "t": "basic information",
+    "x": 0.4375,
+    "y": 0.4068,
+    "w": 0.077,
+    "h": 0.0275
+   },
+   {
+    "t": "portfolio, explores",
+    "x": 0.5334,
+    "y": 0.4068,
+    "w": 0.0799,
+    "h": 0.0318
+   },
+   {
+    "t": "investment choices",
+    "x": 0.6337,
+    "y": 0.4068,
+    "w": 0.0872,
+    "h": 0.0275
+   },
+   {
+    "t": "value proposition",
+    "x": 0.343,
+    "y": 0.4469,
+    "w": 0.077,
+    "h": 0.0319
+   },
+   {
+    "t": "company scores",
+    "x": 0.5334,
+    "y": 0.4513,
+    "w": 0.0727,
+    "h": 0.0275
+   },
+   {
+    "t": "\"Can this platform",
+    "x": 0.3416,
+    "y": 0.5169,
+    "w": 0.0799,
+    "h": 0.0318
+   },
+   {
+    "t": "\"Is this going to be",
+    "x": 0.4375,
+    "y": 0.5169,
+    "w": 0.0814,
+    "h": 0.0361
+   },
+   {
+    "t": "\"Do these companies",
+    "x": 0.532,
+    "y": 0.5169,
+    "w": 0.0959,
+    "h": 0.0318
+   },
+   {
+    "t": "\"Do I trust the data?\"",
+    "x": 0.6323,
+    "y": 0.5169,
+    "w": 0.093,
+    "h": 0.0318
+   },
+   {
+    "t": "Thought",
+    "x": 0.2616,
+    "y": 0.5177,
+    "w": 0.0378,
+    "h": 0.0354
+   },
+   {
+    "t": "help me invest",
+    "x": 0.343,
+    "y": 0.5614,
+    "w": 0.0654,
+    "h": 0.0318
+   },
+   {
+    "t": "complicated or take",
+    "x": 0.4375,
+    "y": 0.5614,
+    "w": 0.0872,
+    "h": 0.0318
+   },
+   {
+    "t": "meet Catholic",
+    "x": 0.532,
+    "y": 0.5614,
+    "w": 0.064,
+    "h": 0.0318
+   },
+   {
+    "t": "values?\"",
+    "x": 0.532,
+    "y": 0.6015,
+    "w": 0.0407,
+    "h": 0.0315
+   },
+   {
+    "t": "more ethically?\"",
+    "x": 0.343,
+    "y": 0.6059,
+    "w": 0.0712,
+    "h": 0.0318
+   },
+   {
+    "t": "too long?\"",
+    "x": 0.4375,
+    "y": 0.6059,
+    "w": 0.0465,
+    "h": 0.0318
+   },
+   {
+    "t": "Emotion",
+    "x": 0.2616,
+    "y": 0.6765,
+    "w": 0.0364,
+    "h": 0.0276
+   },
+   {
+    "t": "Ensure onboarding",
+    "x": 0.4387,
+    "y": 0.7471,
+    "w": 0.0832,
+    "h": 0.0366
+   },
+   {
+    "t": "Visualize scoring",
+    "x": 0.5332,
+    "y": 0.7472,
+    "w": 0.0746,
+    "h": 0.0365
+   },
+   {
+    "t": "Use clear",
+    "x": 0.343,
+    "y": 0.7478,
+    "w": 0.0436,
+    "h": 0.0319
+   },
+   {
+    "t": "Highlight benefits of full",
+    "x": 0.6352,
+    "y": 0.7478,
+    "w": 0.1032,
+    "h": 0.0361
+   },
+   {
+    "t": "Opportunity",
+    "x": 0.2616,
+    "y": 0.752,
+    "w": 0.0523,
+    "h": 0.0313
+   },
+   {
+    "t": "messaging, ethical",
+    "x": 0.343,
+    "y": 0.792,
+    "w": 0.0828,
+    "h": 0.031
+   },
+   {
+    "t": "breakdowns, include",
+    "x": 0.5334,
+    "y": 0.792,
+    "w": 0.0901,
+    "h": 0.031
+   },
+   {
+    "t": "is simple, visual,",
+    "x": 0.439,
+    "y": 0.7965,
+    "w": 0.0712,
+    "h": 0.0265
+   },
+   {
+    "t": "access, show pricing",
+    "x": 0.6337,
+    "y": 0.7965,
+    "w": 0.093,
+    "h": 0.0319
+   },
+   {
+    "t": "indicators, and",
+    "x": 0.3416,
+    "y": 0.8316,
+    "w": 0.0669,
+    "h": 0.0359
+   },
+   {
+    "t": "and has progress",
+    "x": 0.4375,
+    "y": 0.8363,
+    "w": 0.077,
+    "h": 0.031
+   },
+   {
+    "t": "explanations for",
+    "x": 0.5334,
+    "y": 0.8363,
+    "w": 0.0712,
+    "h": 0.031
+   },
+   {
+    "t": "clearly, and encourage",
+    "x": 0.6352,
+    "y": 0.8363,
+    "w": 0.0988,
+    "h": 0.031
+   },
+   {
+    "t": "next steps",
+    "x": 0.6351,
+    "y": 0.8802,
+    "w": 0.0466,
+    "h": 0.0317
+   },
+   {
+    "t": "indicators",
+    "x": 0.4389,
+    "y": 0.8804,
+    "w": 0.0436,
+    "h": 0.0268
+   },
+   {
+    "t": "testimonials to",
+    "x": 0.3416,
+    "y": 0.8805,
+    "w": 0.0669,
+    "h": 0.0265
+   },
+   {
+    "t": "each flagged issue",
+    "x": 0.5334,
+    "y": 0.8805,
+    "w": 0.0828,
+    "h": 0.031
+   },
+   {
+    "t": "build credibility",
+    "x": 0.3416,
+    "y": 0.9195,
+    "w": 0.0683,
+    "h": 0.0318
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "file": "b10.jpg",
+  "y0": 6030,
+  "y1": 6238,
+  "h": 208,
+  "color": 0.0,
+  "density": 0.232,
+  "lines": [
+   {
+    "t": "Design Process",
+    "x": 0.1526,
+    "y": 0.0577,
+    "w": 0.1439,
+    "h": 0.1442
+   },
+   {
+    "t": "To ensure visual consistency and strengthen brand identity, I created a simple yet cohesive design system tailored for W*nder's",
+    "x": 0.1526,
+    "y": 0.25,
+    "w": 0.6701,
+    "h": 0.0817
+   },
+   {
+    "t": "educational and product-focused interface. The color palette combines soft neutrals with energizing accent tones to reflect both",
+    "x": 0.1526,
+    "y": 0.34,
+    "w": 0.6773,
+    "h": 0.08
+   },
+   {
+    "t": "the calm and focus associated with CBD, while also evoking a sense of trust and clarity. For typography, I chose clean and legible",
+    "x": 0.1526,
+    "y": 0.4279,
+    "w": 0.6788,
+    "h": 0.0821
+   },
+   {
+    "t": "typefaces that maintain readability across different screen sizes, aligning with the brand's modern and informative tone. Lastly, 1",
+    "x": 0.1512,
+    "y": 0.5192,
+    "w": 0.6744,
+    "h": 0.0913
+   },
+   {
+    "t": "applied a responsive 12-column grid system that supports flexibility in layout.",
+    "x": 0.1526,
+    "y": 0.61,
+    "w": 0.4055,
+    "h": 0.0919
+   },
+   {
+    "t": "Design System",
+    "x": 0.1526,
+    "y": 0.84,
+    "w": 0.1192,
+    "h": 0.1215
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "file": "b11.jpg",
+  "y0": 6271,
+  "y1": 6498,
+  "h": 227,
+  "color": 4.81,
+  "density": 0.04,
+  "lines": [
+   {
+    "t": "Color",
+    "x": 0.1787,
+    "y": 0.0261,
+    "w": 0.0597,
+    "h": 0.1313
+   },
+   {
+    "t": "Primary Color",
+    "x": 0.1773,
+    "y": 0.367,
+    "w": 0.0916,
+    "h": 0.0936
+   },
+   {
+    "t": "Primary Green",
+    "x": 0.1773,
+    "y": 0.8333,
+    "w": 0.0538,
+    "h": 0.057
+   },
+   {
+    "t": "#008F39",
+    "x": 0.1772,
+    "y": 0.8973,
+    "w": 0.0307,
+    "h": 0.0586
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "file": "b12.jpg",
+  "y0": 6542,
+  "y1": 6735,
+  "h": 193,
+  "color": 21.27,
+  "density": 0.287,
+  "lines": [
+   {
+    "t": "Secondary colors",
+    "x": 0.1788,
+    "y": 0.0515,
+    "w": 0.1148,
+    "h": 0.1097
+   },
+   {
+    "t": "Green",
+    "x": 0.1788,
+    "y": 0.2473,
+    "w": 0.0407,
+    "h": 0.086
+   },
+   {
+    "t": "Green 700",
+    "x": 0.1788,
+    "y": 0.8041,
+    "w": 0.0378,
+    "h": 0.0567
+   },
+   {
+    "t": "Green 600",
+    "x": 0.2587,
+    "y": 0.8041,
+    "w": 0.0392,
+    "h": 0.0567
+   },
+   {
+    "t": "Gre",
+    "x": 0.3387,
+    "y": 0.8065,
+    "w": 0.0116,
+    "h": 0.0538
+   },
+   {
+    "t": "#73AFSS",
+    "x": 0.1773,
+    "y": 0.8809,
+    "w": 0.0306,
+    "h": 0.0555
+   },
+   {
+    "t": "#818766",
+    "x": 0.2573,
+    "y": 0.8817,
+    "w": 0.0305,
+    "h": 0.0538
+   },
+   {
+    "t": "#8R",
+    "x": 0.3387,
+    "y": 0.8817,
+    "w": 0.0116,
+    "h": 0.0538
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "file": "b13.jpg",
+  "y0": 6769,
+  "y1": 6923,
+  "h": 154,
+  "color": 29.74,
+  "density": 0.352,
+  "lines": [
+   {
+    "t": "Orange",
+    "x": 0.1787,
+    "y": 0.0662,
+    "w": 0.0495,
+    "h": 0.1378
+   },
+   {
+    "t": "Orange 400",
+    "x": 0.4185,
+    "y": 0.7511,
+    "w": 0.0438,
+    "h": 0.0923
+   },
+   {
+    "t": "Orange 600",
+    "x": 0.2587,
+    "y": 0.7536,
+    "w": 0.0423,
+    "h": 0.0874
+   },
+   {
+    "t": "Orange 700",
+    "x": 0.1773,
+    "y": 0.7545,
+    "w": 0.0437,
+    "h": 0.0856
+   },
+   {
+    "t": "Orange 500",
+    "x": 0.3386,
+    "y": 0.7546,
+    "w": 0.0437,
+    "h": 0.0853
+   },
+   {
+    "t": "Orange 300",
+    "x": 0.4985,
+    "y": 0.7568,
+    "w": 0.0436,
+    "h": 0.0811
+   },
+   {
+    "t": "Orange 200",
+    "x": 0.5799,
+    "y": 0.7568,
+    "w": 0.0436,
+    "h": 0.0811
+   },
+   {
+    "t": "Orange 100",
+    "x": 0.6599,
+    "y": 0.7568,
+    "w": 0.0422,
+    "h": 0.0811
+   },
+   {
+    "t": "Orange 50",
+    "x": 0.7398,
+    "y": 0.7568,
+    "w": 0.0392,
+    "h": 0.0811
+   },
+   {
+    "t": "#FFCD98",
+    "x": 0.4985,
+    "y": 0.8489,
+    "w": 0.0321,
+    "h": 0.0725
+   },
+   {
+    "t": "#FFDSA8",
+    "x": 0.5785,
+    "y": 0.8499,
+    "w": 0.032,
+    "h": 0.0704
+   },
+   {
+    "t": "#FFA444",
+    "x": 0.2572,
+    "y": 0.8506,
+    "w": 0.0306,
+    "h": 0.0691
+   },
+   {
+    "t": "#FF9422",
+    "x": 0.1773,
+    "y": 0.8514,
+    "w": 0.0305,
+    "h": 0.0676
+   },
+   {
+    "t": "#FFB465",
+    "x": 0.3372,
+    "y": 0.8514,
+    "w": 0.0305,
+    "h": 0.0676
+   },
+   {
+    "t": "#FFC587",
+    "x": 0.4186,
+    "y": 0.8514,
+    "w": 0.0305,
+    "h": 0.0676
+   },
+   {
+    "t": "#FFDD89",
+    "x": 0.6584,
+    "y": 0.8514,
+    "w": 0.032,
+    "h": 0.0676
+   },
+   {
+    "t": "#FFESCA",
+    "x": 0.7398,
+    "y": 0.8514,
+    "w": 0.0305,
+    "h": 0.0676
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "file": "b14.jpg",
+  "y0": 6959,
+  "y1": 7112,
+  "h": 153,
+  "color": 17.9,
+  "density": 0.269,
+  "lines": [
+   {
+    "t": "Blue",
+    "x": 0.1788,
+    "y": 0.0541,
+    "w": 0.0291,
+    "h": 0.1216
+   },
+   {
+    "t": "Blue 400",
+    "x": 0.4186,
+    "y": 0.7403,
+    "w": 0.0334,
+    "h": 0.0844
+   },
+   {
+    "t": "Blue 100",
+    "x": 0.6598,
+    "y": 0.7421,
+    "w": 0.032,
+    "h": 0.0835
+   },
+   {
+    "t": "Blue 300",
+    "x": 0.4985,
+    "y": 0.7424,
+    "w": 0.0335,
+    "h": 0.0827
+   },
+   {
+    "t": "Blue 500",
+    "x": 0.3387,
+    "y": 0.7429,
+    "w": 0.032,
+    "h": 0.0817
+   },
+   {
+    "t": "Blue 600",
+    "x": 0.2586,
+    "y": 0.7526,
+    "w": 0.0336,
+    "h": 0.0759
+   },
+   {
+    "t": "Blue 700",
+    "x": 0.1773,
+    "y": 0.7568,
+    "w": 0.0334,
+    "h": 0.0679
+   },
+   {
+    "t": "Blue 200",
+    "x": 0.5785,
+    "y": 0.7568,
+    "w": 0.0334,
+    "h": 0.0679
+   },
+   {
+    "t": "Blue 50",
+    "x": 0.7398,
+    "y": 0.7568,
+    "w": 0.0291,
+    "h": 0.0679
+   },
+   {
+    "t": "#3F738D",
+    "x": 0.4985,
+    "y": 0.8368,
+    "w": 0.0291,
+    "h": 0.0831
+   },
+   {
+    "t": "#002841",
+    "x": 0.3372,
+    "y": 0.8371,
+    "w": 0.0291,
+    "h": 0.0826
+   },
+   {
+    "t": "#1F4F67",
+    "x": 0.4186,
+    "y": 0.8378,
+    "w": 0.0276,
+    "h": 0.0811
+   },
+   {
+    "t": "#5E9683",
+    "x": 0.5785,
+    "y": 0.8378,
+    "w": 0.0305,
+    "h": 0.0811
+   },
+   {
+    "t": "#6EA8C6",
+    "x": 0.6584,
+    "y": 0.8378,
+    "w": 0.032,
+    "h": 0.0811
+   },
+   {
+    "t": "#002234",
+    "x": 0.2572,
+    "y": 0.8478,
+    "w": 0.0321,
+    "h": 0.0747
+   },
+   {
+    "t": "#001A27",
+    "x": 0.1773,
+    "y": 0.8485,
+    "w": 0.0292,
+    "h": 0.0734
+   },
+   {
+    "t": "#7EBAD9",
+    "x": 0.7398,
+    "y": 0.8514,
+    "w": 0.0305,
+    "h": 0.0676
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "file": "b15.jpg",
+  "y0": 7147,
+  "y1": 7300,
+  "h": 153,
+  "color": 21.76,
+  "density": 0.341,
+  "lines": [
+   {
+    "t": "Red",
+    "x": 0.1773,
+    "y": 0.0541,
+    "w": 0.0276,
+    "h": 0.1216
+   },
+   {
+    "t": "Red 50",
+    "x": 0.7398,
+    "y": 0.7403,
+    "w": 0.0262,
+    "h": 0.0844
+   },
+   {
+    "t": "Red 200",
+    "x": 0.5784,
+    "y": 0.7542,
+    "w": 0.0321,
+    "h": 0.0728
+   },
+   {
+    "t": "Red 600",
+    "x": 0.2572,
+    "y": 0.7553,
+    "w": 0.032,
+    "h": 0.0705
+   },
+   {
+    "t": "Red 500",
+    "x": 0.3386,
+    "y": 0.7556,
+    "w": 0.0306,
+    "h": 0.07
+   },
+   {
+    "t": "Red 300",
+    "x": 0.4985,
+    "y": 0.7562,
+    "w": 0.032,
+    "h": 0.0687
+   },
+   {
+    "t": "Red 700",
+    "x": 0.1773,
+    "y": 0.7568,
+    "w": 0.032,
+    "h": 0.0679
+   },
+   {
+    "t": "Red 400",
+    "x": 0.4186,
+    "y": 0.7568,
+    "w": 0.032,
+    "h": 0.0679
+   },
+   {
+    "t": "Red 100",
+    "x": 0.6599,
+    "y": 0.7568,
+    "w": 0.0305,
+    "h": 0.0679
+   },
+   {
+    "t": "#FCDFDF",
+    "x": 0.7398,
+    "y": 0.8487,
+    "w": 0.0307,
+    "h": 0.0728
+   },
+   {
+    "t": "#F9COCO",
+    "x": 0.5784,
+    "y": 0.8497,
+    "w": 0.0321,
+    "h": 0.0708
+   },
+   {
+    "t": "#F48383",
+    "x": 0.3386,
+    "y": 0.8508,
+    "w": 0.0306,
+    "h": 0.0687
+   },
+   {
+    "t": "#EE4545",
+    "x": 0.1773,
+    "y": 0.8514,
+    "w": 0.0305,
+    "h": 0.0676
+   },
+   {
+    "t": "#F16464",
+    "x": 0.2573,
+    "y": 0.8514,
+    "w": 0.0305,
+    "h": 0.0676
+   },
+   {
+    "t": "#F6A1A1",
+    "x": 0.4186,
+    "y": 0.8514,
+    "w": 0.0276,
+    "h": 0.0676
+   },
+   {
+    "t": "#F88181|",
+    "x": 0.4985,
+    "y": 0.8514,
+    "w": 0.0291,
+    "h": 0.0676
+   },
+   {
+    "t": "#FBDODO",
+    "x": 0.6584,
+    "y": 0.8514,
+    "w": 0.032,
+    "h": 0.0676
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "file": "b16.jpg",
+  "y0": 7334,
+  "y1": 7489,
+  "h": 155,
+  "color": 0.29,
+  "density": 0.333,
+  "lines": [
+   {
+    "t": "Neutral colors",
+    "x": 0.1773,
+    "y": 0.0641,
+    "w": 0.0945,
+    "h": 0.1226
+   },
+   {
+    "t": "Neutral 200",
+    "x": 0.5784,
+    "y": 0.7433,
+    "w": 0.0452,
+    "h": 0.0867
+   },
+   {
+    "t": "Neutral 600",
+    "x": 0.2572,
+    "y": 0.7443,
+    "w": 0.0452,
+    "h": 0.0847
+   },
+   {
+    "t": "Neutral 100",
+    "x": 0.6599,
+    "y": 0.7459,
+    "w": 0.0422,
+    "h": 0.0815
+   },
+   {
+    "t": "Neutral 300",
+    "x": 0.4985,
+    "y": 0.7462,
+    "w": 0.0451,
+    "h": 0.081
+   },
+   {
+    "t": "Neutral 700",
+    "x": 0.1773,
+    "y": 0.76,
+    "w": 0.0436,
+    "h": 0.0669
+   },
+   {
+    "t": "Neutral 500",
+    "x": 0.3387,
+    "y": 0.76,
+    "w": 0.0436,
+    "h": 0.08
+   },
+   {
+    "t": "Neutral 400",
+    "x": 0.4186,
+    "y": 0.76,
+    "w": 0.0436,
+    "h": 0.0669
+   },
+   {
+    "t": "Neutral 50",
+    "x": 0.7398,
+    "y": 0.76,
+    "w": 0.0392,
+    "h": 0.0669
+   },
+   {
+    "t": "#333333",
+    "x": 0.3386,
+    "y": 0.8393,
+    "w": 0.0306,
+    "h": 0.0813
+   },
+   {
+    "t": "#FFFFFF",
+    "x": 0.7398,
+    "y": 0.8507,
+    "w": 0.0292,
+    "h": 0.072
+   },
+   {
+    "t": "#181818",
+    "x": 0.1773,
+    "y": 0.853,
+    "w": 0.0276,
+    "h": 0.0673
+   },
+   {
+    "t": "#303133",
+    "x": 0.2573,
+    "y": 0.8533,
+    "w": 0.0305,
+    "h": 0.0667
+   },
+   {
+    "t": "#606266",
+    "x": 0.4172,
+    "y": 0.8533,
+    "w": 0.032,
+    "h": 0.0667
+   },
+   {
+    "t": "#83B3B3",
+    "x": 0.4985,
+    "y": 0.8533,
+    "w": 0.032,
+    "h": 0.0667
+   },
+   {
+    "t": "#CCCCCC",
+    "x": 0.5785,
+    "y": 0.8533,
+    "w": 0.0349,
+    "h": 0.0667
+   },
+   {
+    "t": "#E6E6E6",
+    "x": 0.6584,
+    "y": 0.8533,
+    "w": 0.0305,
+    "h": 0.0667
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "file": "b17.jpg",
+  "y0": 7585,
+  "y1": 8497,
+  "h": 912,
+  "color": 0.0,
+  "density": 0.052,
+  "lines": [
+   {
+    "t": "Typography",
+    "x": 0.2703,
+    "y": 0.0062,
+    "w": 0.1135,
+    "h": 0.038
+   },
+   {
+    "t": "Product Sans",
+    "x": 0.2703,
+    "y": 0.094,
+    "w": 0.1017,
+    "h": 0.0255
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "x": 0.2703,
+    "y": 0.1353,
+    "w": 0.1613,
+    "h": 0.0138
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.2689,
+    "y": 0.1606,
+    "w": 0.1279,
+    "h": 0.0183
+   },
+   {
+    "t": "1234567890",
+    "x": 0.2689,
+    "y": 0.1881,
+    "w": 0.0552,
+    "h": 0.0138
+   },
+   {
+    "t": "Font size/weight",
+    "x": 0.4869,
+    "y": 0.2588,
+    "w": 0.0916,
+    "h": 0.021
+   },
+   {
+    "t": "Style",
+    "x": 0.2689,
+    "y": 0.2592,
+    "w": 0.0305,
+    "h": 0.0206
+   },
+   {
+    "t": "Title 1",
+    "x": 0.2666,
+    "y": 0.3285,
+    "w": 0.096,
+    "h": 0.0536
+   },
+   {
+    "t": "48/Bold",
+    "x": 0.4941,
+    "y": 0.3322,
+    "w": 0.1251,
+    "h": 0.0442
+   },
+   {
+    "t": "Title 2",
+    "x": 0.2703,
+    "y": 0.4128,
+    "w": 0.0814,
+    "h": 0.039
+   },
+   {
+    "t": "38/Black Reguler",
+    "x": 0.4917,
+    "y": 0.4145,
+    "w": 0.2208,
+    "h": 0.0461
+   },
+   {
+    "t": "34/Medium",
+    "x": 0.494,
+    "y": 0.4871,
+    "w": 0.1268,
+    "h": 0.0372
+   },
+   {
+    "t": "Title 3",
+    "x": 0.2703,
+    "y": 0.4885,
+    "w": 0.0654,
+    "h": 0.0345
+   },
+   {
+    "t": "24/Medium Regular",
+    "x": 0.4942,
+    "y": 0.5614,
+    "w": 0.1512,
+    "h": 0.0285
+   },
+   {
+    "t": "Title 4",
+    "x": 0.2703,
+    "y": 0.5615,
+    "w": 0.0467,
+    "h": 0.0238
+   },
+   {
+    "t": "Title 5",
+    "x": 0.2689,
+    "y": 0.6216,
+    "w": 0.0363,
+    "h": 0.0188
+   },
+   {
+    "t": "18/ Medium Regular",
+    "x": 0.4942,
+    "y": 0.6216,
+    "w": 0.1148,
+    "h": 0.0232
+   },
+   {
+    "t": "Paragraf 1",
+    "x": 0.2688,
+    "y": 0.674,
+    "w": 0.0684,
+    "h": 0.0282
+   },
+   {
+    "t": "22/Regular",
+    "x": 0.4941,
+    "y": 0.6758,
+    "w": 0.0758,
+    "h": 0.0268
+   },
+   {
+    "t": "Paragraf 2",
+    "x": 0.2687,
+    "y": 0.7303,
+    "w": 0.0586,
+    "h": 0.0279
+   },
+   {
+    "t": "18/Regular",
+    "x": 0.4956,
+    "y": 0.7335,
+    "w": 0.0597,
+    "h": 0.0216
+   },
+   {
+    "t": "Paragraf 3",
+    "x": 0.2703,
+    "y": 0.7862,
+    "w": 0.051,
+    "h": 0.0217
+   },
+   {
+    "t": "16/Regular",
+    "x": 0.4942,
+    "y": 0.789,
+    "w": 0.0552,
+    "h": 0.0183
+   },
+   {
+    "t": "Paragraf 4",
+    "x": 0.2702,
+    "y": 0.8363,
+    "w": 0.0424,
+    "h": 0.0201
+   },
+   {
+    "t": "13/Regular",
+    "x": 0.4942,
+    "y": 0.8394,
+    "w": 0.0451,
+    "h": 0.0161
+   },
+   {
+    "t": "Small 1",
+    "x": 0.2703,
+    "y": 0.8805,
+    "w": 0.032,
+    "h": 0.0164
+   },
+   {
+    "t": "14/Bold",
+    "x": 0.4956,
+    "y": 0.8806,
+    "w": 0.0364,
+    "h": 0.0141
+   },
+   {
+    "t": "Small 2",
+    "x": 0.2703,
+    "y": 0.9265,
+    "w": 0.032,
+    "h": 0.0164
+   },
+   {
+    "t": "14/Regular",
+    "x": 0.4942,
+    "y": 0.9266,
+    "w": 0.048,
+    "h": 0.0161
+   },
+   {
+    "t": "12/Regular",
+    "x": 0.4942,
+    "y": 0.9746,
+    "w": 0.0422,
+    "h": 0.0142
+   },
+   {
+    "t": "Small 3",
+    "x": 0.2689,
+    "y": 0.9748,
+    "w": 0.0291,
+    "h": 0.0115
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "file": "b18.jpg",
+  "y0": 8595,
+  "y1": 8971,
+  "h": 376,
+  "color": 4.28,
+  "density": 0.044,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.282,
+    "y": 0.0333,
+    "w": 0.0698,
+    "h": 0.0667
+   },
+   {
+    "t": "< Label",
+    "x": 0.4215,
+    "y": 0.2553,
+    "w": 0.0422,
+    "h": 0.0399
+   },
+   {
+    "t": "Label",
+    "x": 0.5305,
+    "y": 0.2611,
+    "w": 0.032,
+    "h": 0.0333
+   },
+   {
+    "t": "< Label >",
+    "x": 0.4229,
+    "y": 0.4155,
+    "w": 0.0553,
+    "h": 0.0412
+   },
+   {
+    "t": "\u2039 Label >",
+    "x": 0.5233,
+    "y": 0.4167,
+    "w": 0.0552,
+    "h": 0.0389
+   },
+   {
+    "t": "< Label >",
+    "x": 0.5232,
+    "y": 0.571,
+    "w": 0.0554,
+    "h": 0.047
+   },
+   {
+    "t": "< Label >",
+    "x": 0.423,
+    "y": 0.5718,
+    "w": 0.0552,
+    "h": 0.0452
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "file": "b19.jpg",
+  "y0": 9121,
+  "y1": 9521,
+  "h": 400,
+  "color": 2.19,
+  "density": 0.357,
+  "lines": [
+   {
+    "t": "Grid System",
+    "x": 0.1817,
+    "y": 0.031,
+    "w": 0.0756,
+    "h": 0.0532
+   },
+   {
+    "t": "Desktop (1920px)",
+    "x": 0.1817,
+    "y": 0.1414,
+    "w": 0.1105,
+    "h": 0.0586
+   },
+   {
+    "t": "405px",
+    "x": 0.2282,
+    "y": 0.2723,
+    "w": 0.0233,
+    "h": 0.0262
+   },
+   {
+    "t": "65px",
+    "x": 0.3445,
+    "y": 0.2723,
+    "w": 0.0174,
+    "h": 0.0262
+   },
+   {
+    "t": "30px",
+    "x": 0.3939,
+    "y": 0.2723,
+    "w": 0.0174,
+    "h": 0.0262
+   },
+   {
+    "t": "1110px",
+    "x": 0.4898,
+    "y": 0.8901,
+    "w": 0.0203,
+    "h": 0.0314
+   },
+   {
+    "t": "1920px",
+    "x": 0.4884,
+    "y": 0.9686,
+    "w": 0.0247,
+    "h": 0.0262
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "file": "b20.jpg",
+  "y0": 9589,
+  "y1": 11102,
+  "h": 1513,
+  "color": 6.53,
+  "density": 0.485,
+  "lines": [
+   {
+    "t": "Chart",
+    "x": 0.1588,
+    "y": 0.0189,
+    "w": 0.0229,
+    "h": 0.0044
+   },
+   {
+    "t": "Dropdownl",
+    "x": 0.3649,
+    "y": 0.0203,
+    "w": 0.0397,
+    "h": 0.0044
+   },
+   {
+    "t": "Sector Breakdown",
+    "x": 0.171,
+    "y": 0.0462,
+    "w": 0.0672,
+    "h": 0.0046
+   },
+   {
+    "t": "Uroon",
+    "x": 0.513,
+    "y": 0.0596,
+    "w": 0.0214,
+    "h": 0.0029
+   },
+   {
+    "t": "Coten",
+    "x": 0.513,
+    "y": 0.0683,
+    "w": 0.0214,
+    "h": 0.0029
+   },
+   {
+    "t": "M Losel",
+    "x": 0.3725,
+    "y": 0.1017,
+    "w": 0.0244,
+    "h": 0.0046
+   },
+   {
+    "t": "Option 2",
+    "x": 0.513,
+    "y": 0.1017,
+    "w": 0.0214,
+    "h": 0.0046
+   },
+   {
+    "t": "20%",
+    "x": 0.1725,
+    "y": 0.1032,
+    "w": 0.0092,
+    "h": 0.0044
+   },
+   {
+    "t": "PiLb:",
+    "x": 0.3725,
+    "y": 0.1105,
+    "w": 0.0229,
+    "h": 0.0044
+   },
+   {
+    "t": "Chart Pertormance",
+    "x": 0.6595,
+    "y": 0.1352,
+    "w": 0.0733,
+    "h": 0.0044
+   },
+   {
+    "t": "Gotion ?",
+    "x": 0.513,
+    "y": 0.1466,
+    "w": 0.0214,
+    "h": 0.0033
+   },
+   {
+    "t": "Pagination",
+    "x": 0.3649,
+    "y": 0.1497,
+    "w": 0.0443,
+    "h": 0.0087
+   },
+   {
+    "t": "Gotion\"",
+    "x": 0.513,
+    "y": 0.1555,
+    "w": 0.0214,
+    "h": 0.0029
+   },
+   {
+    "t": "Monthl.",
+    "x": 0.7985,
+    "y": 0.1628,
+    "w": 0.0229,
+    "h": 0.0044
+   },
+   {
+    "t": "a Productiye Provious Mont",
+    "x": 0.7069,
+    "y": 0.183,
+    "w": 0.0794,
+    "h": 0.0033
+   },
+   {
+    "t": "Option:",
+    "x": 0.513,
+    "y": 0.189,
+    "w": 0.0198,
+    "h": 0.0044
+   },
+   {
+    "t": "cmedon iecfoom",
+    "x": 0.2107,
+    "y": 0.1902,
+    "w": 0.0397,
+    "h": 0.0033
+   },
+   {
+    "t": "200",
+    "x": 0.6656,
+    "y": 0.1933,
+    "w": 0.0107,
+    "h": 0.0073
+   },
+   {
+    "t": "SCOs",
+    "x": 0.5374,
+    "y": 0.2238,
+    "w": 0.0214,
+    "h": 0.0044
+   },
+   {
+    "t": "Toggle",
+    "x": 0.4565,
+    "y": 0.2427,
+    "w": 0.029,
+    "h": 0.0087
+   },
+   {
+    "t": "Checkbox",
+    "x": 0.3649,
+    "y": 0.2442,
+    "w": 0.0382,
+    "h": 0.0044
+   },
+   {
+    "t": "10e",
+    "x": 0.6656,
+    "y": 0.2587,
+    "w": 0.0092,
+    "h": 0.0058
+   },
+   {
+    "t": "Labe nachive",
+    "x": 0.4763,
+    "y": 0.2747,
+    "w": 0.0336,
+    "h": 0.0047
+   },
+   {
+    "t": "May 19",
+    "x": 0.6794,
+    "y": 0.2747,
+    "w": 0.0183,
+    "h": 0.0073
+   },
+   {
+    "t": "Nag 19",
+    "x": 0.7099,
+    "y": 0.2761,
+    "w": 0.0183,
+    "h": 0.0046
+   },
+   {
+    "t": "Mo. 3",
+    "x": 0.7756,
+    "y": 0.2761,
+    "w": 0.0168,
+    "h": 0.0033
+   },
+   {
+    "t": "June 20",
+    "x": 0.8092,
+    "y": 0.2761,
+    "w": 0.0183,
+    "h": 0.0033
+   },
+   {
+    "t": "Navigation Bar",
+    "x": 0.1588,
+    "y": 0.3197,
+    "w": 0.0565,
+    "h": 0.0088
+   },
+   {
+    "t": "Admin",
+    "x": 0.7847,
+    "y": 0.343,
+    "w": 0.0214,
+    "h": 0.0073
+   },
+   {
+    "t": "* Screcen Sots",
+    "x": 0.3786,
+    "y": 0.3455,
+    "w": 0.0444,
+    "h": 0.0067
+   },
+   {
+    "t": "Dashboard",
+    "x": 0.2153,
+    "y": 0.3459,
+    "w": 0.0397,
+    "h": 0.0044
+   },
+   {
+    "t": "- Users",
+    "x": 0.2763,
+    "y": 0.3459,
+    "w": 0.026,
+    "h": 0.0061
+   },
+   {
+    "t": "e Quick Check",
+    "x": 0.5542,
+    "y": 0.3459,
+    "w": 0.0427,
+    "h": 0.0044
+   },
+   {
+    "t": "\u2022 Portolos",
+    "x": 0.3206,
+    "y": 0.3474,
+    "w": 0.0366,
+    "h": 0.0047
+   },
+   {
+    "t": "kopors",
+    "x": 0.4427,
+    "y": 0.3474,
+    "w": 0.0321,
+    "h": 0.0044
+   },
+   {
+    "t": "e Disclosura",
+    "x": 0.4947,
+    "y": 0.3474,
+    "w": 0.0382,
+    "h": 0.0047
+   },
+   {
+    "t": "SANOTILY",
+    "x": 0.1695,
+    "y": 0.3576,
+    "w": 0.0214,
+    "h": 0.0029
+   },
+   {
+    "t": "Admir",
+    "x": 0.7847,
+    "y": 0.3794,
+    "w": 0.0183,
+    "h": 0.0029
+   },
+   {
+    "t": "Dashboard",
+    "x": 0.2153,
+    "y": 0.3808,
+    "w": 0.0397,
+    "h": 0.0044
+   },
+   {
+    "t": "\u2022Usars",
+    "x": 0.2763,
+    "y": 0.3808,
+    "w": 0.0244,
+    "h": 0.0044
+   },
+   {
+    "t": "r Porttolios",
+    "x": 0.3206,
+    "y": 0.3808,
+    "w": 0.0366,
+    "h": 0.0044
+   },
+   {
+    "t": "Screeen Sets",
+    "x": 0.3786,
+    "y": 0.3808,
+    "w": 0.0443,
+    "h": 0.0044
+   },
+   {
+    "t": "M Roport",
+    "x": 0.4427,
+    "y": 0.3808,
+    "w": 0.0321,
+    "h": 0.0044
+   },
+   {
+    "t": "IC Disclosure",
+    "x": 0.4947,
+    "y": 0.3808,
+    "w": 0.0382,
+    "h": 0.0044
+   },
+   {
+    "t": "\u2022 Quick Chack",
+    "x": 0.5542,
+    "y": 0.3808,
+    "w": 0.0427,
+    "h": 0.0044
+   },
+   {
+    "t": "SANOTIEY",
+    "x": 0.1695,
+    "y": 0.3924,
+    "w": 0.0214,
+    "h": 0.0029
+   },
+   {
+    "t": "Admir",
+    "x": 0.7847,
+    "y": 0.4128,
+    "w": 0.0183,
+    "h": 0.0044
+   },
+   {
+    "t": "\u2022 Quick Check",
+    "x": 0.5542,
+    "y": 0.4141,
+    "w": 0.0427,
+    "h": 0.0059
+   },
+   {
+    "t": "I= Dashboard",
+    "x": 0.2153,
+    "y": 0.4155,
+    "w": 0.0397,
+    "h": 0.0046
+   },
+   {
+    "t": "- Users",
+    "x": 0.2763,
+    "y": 0.4155,
+    "w": 0.0244,
+    "h": 0.0046
+   },
+   {
+    "t": "Screoen Sots",
+    "x": 0.3786,
+    "y": 0.4155,
+    "w": 0.0443,
+    "h": 0.0046
+   },
+   {
+    "t": "M Roports",
+    "x": 0.4427,
+    "y": 0.4155,
+    "w": 0.0321,
+    "h": 0.0046
+   },
+   {
+    "t": "\u2022 Disclosure",
+    "x": 0.4947,
+    "y": 0.4155,
+    "w": 0.0382,
+    "h": 0.0046
+   },
+   {
+    "t": "Porttclos",
+    "x": 0.3206,
+    "y": 0.4156,
+    "w": 0.0367,
+    "h": 0.0046
+   },
+   {
+    "t": "komiln",
+    "x": 0.7847,
+    "y": 0.4477,
+    "w": 0.0183,
+    "h": 0.0029
+   },
+   {
+    "t": "Portfolios",
+    "x": 0.3206,
+    "y": 0.4488,
+    "w": 0.0368,
+    "h": 0.0065
+   },
+   {
+    "t": "IS Dashboard",
+    "x": 0.2153,
+    "y": 0.4491,
+    "w": 0.0397,
+    "h": 0.0046
+   },
+   {
+    "t": "- Users",
+    "x": 0.2763,
+    "y": 0.4491,
+    "w": 0.0244,
+    "h": 0.006
+   },
+   {
+    "t": "Scraoon Sots",
+    "x": 0.3786,
+    "y": 0.4491,
+    "w": 0.0443,
+    "h": 0.0046
+   },
+   {
+    "t": "C Disclosure",
+    "x": 0.4947,
+    "y": 0.4491,
+    "w": 0.0382,
+    "h": 0.0046
+   },
+   {
+    "t": "@ Quick Check",
+    "x": 0.5542,
+    "y": 0.4491,
+    "w": 0.0427,
+    "h": 0.0046
+   },
+   {
+    "t": "Ropor",
+    "x": 0.4427,
+    "y": 0.4506,
+    "w": 0.0321,
+    "h": 0.0029
+   },
+   {
+    "t": "Dashboard",
+    "x": 0.2153,
+    "y": 0.484,
+    "w": 0.0397,
+    "h": 0.0044
+   },
+   {
+    "t": "User",
+    "x": 0.2763,
+    "y": 0.484,
+    "w": 0.0244,
+    "h": 0.0044
+   },
+   {
+    "t": "Porttellos",
+    "x": 0.3206,
+    "y": 0.484,
+    "w": 0.0367,
+    "h": 0.0045
+   },
+   {
+    "t": "Screben Sot i",
+    "x": 0.3786,
+    "y": 0.484,
+    "w": 0.0443,
+    "h": 0.0044
+   },
+   {
+    "t": "a Ronort",
+    "x": 0.4427,
+    "y": 0.484,
+    "w": 0.0321,
+    "h": 0.0044
+   },
+   {
+    "t": "C Disclosura",
+    "x": 0.4947,
+    "y": 0.484,
+    "w": 0.0382,
+    "h": 0.0044
+   },
+   {
+    "t": "\u2022 Quick Chack",
+    "x": 0.5542,
+    "y": 0.484,
+    "w": 0.0427,
+    "h": 0.0044
+   },
+   {
+    "t": "\u2022 Quick Check",
+    "x": 0.5542,
+    "y": 0.5159,
+    "w": 0.0443,
+    "h": 0.0089
+   },
+   {
+    "t": "Admir",
+    "x": 0.7847,
+    "y": 0.516,
+    "w": 0.0183,
+    "h": 0.0044
+   },
+   {
+    "t": "\u2022 Portiolos",
+    "x": 0.3206,
+    "y": 0.5188,
+    "w": 0.0367,
+    "h": 0.0045
+   },
+   {
+    "t": "a Dashboard",
+    "x": 0.2153,
+    "y": 0.5189,
+    "w": 0.0397,
+    "h": 0.0044
+   },
+   {
+    "t": "- User",
+    "x": 0.2763,
+    "y": 0.5189,
+    "w": 0.0244,
+    "h": 0.0044
+   },
+   {
+    "t": "Scraoen Sott",
+    "x": 0.3786,
+    "y": 0.5189,
+    "w": 0.0443,
+    "h": 0.0044
+   },
+   {
+    "t": "L Roport",
+    "x": 0.4427,
+    "y": 0.5189,
+    "w": 0.0321,
+    "h": 0.0044
+   },
+   {
+    "t": "ic Disclosure",
+    "x": 0.4947,
+    "y": 0.5189,
+    "w": 0.0382,
+    "h": 0.0044
+   },
+   {
+    "t": "Samiristrato",
+    "x": 0.7847,
+    "y": 0.5233,
+    "w": 0.029,
+    "h": 0.0029
+   },
+   {
+    "t": "SANCTE",
+    "x": 0.1692,
+    "y": 0.5282,
+    "w": 0.0219,
+    "h": 0.0054
+   },
+   {
+    "t": "samir",
+    "x": 0.7847,
+    "y": 0.5509,
+    "w": 0.0183,
+    "h": 0.0029
+   },
+   {
+    "t": "I= Dashboard",
+    "x": 0.2152,
+    "y": 0.5522,
+    "w": 0.0397,
+    "h": 0.0061
+   },
+   {
+    "t": "\u2022 Users",
+    "x": 0.2763,
+    "y": 0.5522,
+    "w": 0.026,
+    "h": 0.006
+   },
+   {
+    "t": "u Screoen Sete",
+    "x": 0.3786,
+    "y": 0.5522,
+    "w": 0.0443,
+    "h": 0.0061
+   },
+   {
+    "t": "LM Roports",
+    "x": 0.4427,
+    "y": 0.5522,
+    "w": 0.0321,
+    "h": 0.006
+   },
+   {
+    "t": "@ Quick Check",
+    "x": 0.5542,
+    "y": 0.5522,
+    "w": 0.0427,
+    "h": 0.0046
+   },
+   {
+    "t": "Portfolios",
+    "x": 0.3206,
+    "y": 0.5523,
+    "w": 0.0366,
+    "h": 0.0058
+   },
+   {
+    "t": "Tc Bisclosura",
+    "x": 0.4947,
+    "y": 0.5535,
+    "w": 0.0382,
+    "h": 0.0033
+   },
+   {
+    "t": "amin trato",
+    "x": 0.7847,
+    "y": 0.5581,
+    "w": 0.0275,
+    "h": 0.0029
+   },
+   {
+    "t": "Roport Summary - Screening",
+    "x": 0.1618,
+    "y": 0.5971,
+    "w": 0.1115,
+    "h": 0.0092
+   },
+   {
+    "t": "DOOD",
+    "x": 0.7642,
+    "y": 0.6083,
+    "w": 0.0699,
+    "h": 0.1375
+   },
+   {
+    "t": "Methodology",
+    "x": 0.3344,
+    "y": 0.6235,
+    "w": 0.0427,
+    "h": 0.0087
+   },
+   {
+    "t": "Screening Summary",
+    "x": 0.1695,
+    "y": 0.6248,
+    "w": 0.0611,
+    "h": 0.006
+   },
+   {
+    "t": "Breakdown of Fails",
+    "x": 0.2534,
+    "y": 0.6248,
+    "w": 0.0565,
+    "h": 0.0046
+   },
+   {
+    "t": "Disclosure",
+    "x": 0.4,
+    "y": 0.625,
+    "w": 0.0321,
+    "h": 0.0044
+   },
+   {
+    "t": "Methodology",
+    "x": 0.3344,
+    "y": 0.6584,
+    "w": 0.0427,
+    "h": 0.0073
+   },
+   {
+    "t": "Screening Summary",
+    "x": 0.1695,
+    "y": 0.6598,
+    "w": 0.0611,
+    "h": 0.0059
+   },
+   {
+    "t": "Breakdown of Fails",
+    "x": 0.2534,
+    "y": 0.6598,
+    "w": 0.058,
+    "h": 0.0046
+   },
+   {
+    "t": "Disclosure",
+    "x": 0.4,
+    "y": 0.6599,
+    "w": 0.0321,
+    "h": 0.0044
+   },
+   {
+    "t": "Screening Summery",
+    "x": 0.1695,
+    "y": 0.6948,
+    "w": 0.0611,
+    "h": 0.0044
+   },
+   {
+    "t": "kreakdown of rails",
+    "x": 0.2534,
+    "y": 0.6948,
+    "w": 0.058,
+    "h": 0.0044
+   },
+   {
+    "t": "Methocoloay",
+    "x": 0.3344,
+    "y": 0.6948,
+    "w": 0.0412,
+    "h": 0.0044
+   },
+   {
+    "t": "bisclosure",
+    "x": 0.4,
+    "y": 0.6948,
+    "w": 0.0321,
+    "h": 0.0044
+   },
+   {
+    "t": "screening summary",
+    "x": 0.1695,
+    "y": 0.7297,
+    "w": 0.0611,
+    "h": 0.0058
+   },
+   {
+    "t": "Breakdown of ralls",
+    "x": 0.2534,
+    "y": 0.7297,
+    "w": 0.0565,
+    "h": 0.0044
+   },
+   {
+    "t": "Methocolcay",
+    "x": 0.3344,
+    "y": 0.7297,
+    "w": 0.0412,
+    "h": 0.0044
+   },
+   {
+    "t": "Disclosure",
+    "x": 0.4,
+    "y": 0.7297,
+    "w": 0.0321,
+    "h": 0.0044
+   },
+   {
+    "t": "Navigation Bar - Main Page",
+    "x": 0.1588,
+    "y": 0.7747,
+    "w": 0.1008,
+    "h": 0.006
+   },
+   {
+    "t": "Get Started",
+    "x": 0.6595,
+    "y": 0.8023,
+    "w": 0.029,
+    "h": 0.0074
+   },
+   {
+    "t": "Home",
+    "x": 0.3603,
+    "y": 0.8038,
+    "w": 0.0153,
+    "h": 0.0087
+   },
+   {
+    "t": "Contact us",
+    "x": 0.5023,
+    "y": 0.8038,
+    "w": 0.0244,
+    "h": 0.0047
+   },
+   {
+    "t": "6) suppert@unctfycom",
+    "x": 0.5847,
+    "y": 0.8038,
+    "w": 0.0595,
+    "h": 0.0047
+   },
+   {
+    "t": "ADOUT-",
+    "x": 0.3893,
+    "y": 0.8052,
+    "w": 0.0214,
+    "h": 0.0029
+   },
+   {
+    "t": "ecalure",
+    "x": 0.4244,
+    "y": 0.8052,
+    "w": 0.0198,
+    "h": 0.0029
+   },
+   {
+    "t": "HW ICWO0",
+    "x": 0.4595,
+    "y": 0.8052,
+    "w": 0.0275,
+    "h": 0.0033
+   },
+   {
+    "t": "CANCTEY",
+    "x": 0.3023,
+    "y": 0.814,
+    "w": 0.0214,
+    "h": 0.0029
+   },
+   {
+    "t": "About la",
+    "x": 0.3893,
+    "y": 0.8428,
+    "w": 0.0229,
+    "h": 0.0106
+   },
+   {
+    "t": "Got Started",
+    "x": 0.6595,
+    "y": 0.8444,
+    "w": 0.029,
+    "h": 0.0045
+   },
+   {
+    "t": "Home",
+    "x": 0.3603,
+    "y": 0.8445,
+    "w": 0.0153,
+    "h": 0.0044
+   },
+   {
+    "t": "Feoturos",
+    "x": 0.4244,
+    "y": 0.8445,
+    "w": 0.0214,
+    "h": 0.0044
+   },
+   {
+    "t": "Contact ls",
+    "x": 0.5023,
+    "y": 0.8445,
+    "w": 0.026,
+    "h": 0.0044
+   },
+   {
+    "t": "6 succert@schfycom",
+    "x": 0.5817,
+    "y": 0.8445,
+    "w": 0.058,
+    "h": 0.0044
+   },
+   {
+    "t": "CAMENS N",
+    "x": 0.3023,
+    "y": 0.8547,
+    "w": 0.0198,
+    "h": 0.0029
+   },
+   {
+    "t": "Home",
+    "x": 0.3603,
+    "y": 0.8837,
+    "w": 0.0168,
+    "h": 0.0073
+   },
+   {
+    "t": "About Us",
+    "x": 0.3893,
+    "y": 0.8851,
+    "w": 0.0214,
+    "h": 0.0046
+   },
+   {
+    "t": "Festure s",
+    "x": 0.4244,
+    "y": 0.8851,
+    "w": 0.0214,
+    "h": 0.0074
+   },
+   {
+    "t": "Har it mel",
+    "x": 0.4595,
+    "y": 0.8851,
+    "w": 0.0275,
+    "h": 0.0033
+   },
+   {
+    "t": "Contact vi",
+    "x": 0.5023,
+    "y": 0.8851,
+    "w": 0.0244,
+    "h": 0.0046
+   },
+   {
+    "t": "6e support@sonctfy.com",
+    "x": 0.5817,
+    "y": 0.8851,
+    "w": 0.058,
+    "h": 0.0046
+   },
+   {
+    "t": "Got sorted",
+    "x": 0.6595,
+    "y": 0.8851,
+    "w": 0.029,
+    "h": 0.0033
+   },
+   {
+    "t": "Home",
+    "x": 0.3603,
+    "y": 0.9244,
+    "w": 0.0153,
+    "h": 0.0058
+   },
+   {
+    "t": "How it Work",
+    "x": 0.4611,
+    "y": 0.9244,
+    "w": 0.0275,
+    "h": 0.0102
+   },
+   {
+    "t": "Pestures",
+    "x": 0.4244,
+    "y": 0.9259,
+    "w": 0.0214,
+    "h": 0.0044
+   },
+   {
+    "t": "Contact us",
+    "x": 0.5023,
+    "y": 0.9259,
+    "w": 0.026,
+    "h": 0.0044
+   },
+   {
+    "t": "6o support@amrctifycom",
+    "x": 0.5817,
+    "y": 0.9259,
+    "w": 0.0595,
+    "h": 0.0044
+   },
+   {
+    "t": "SANCTIR",
+    "x": 0.3023,
+    "y": 0.936,
+    "w": 0.0198,
+    "h": 0.0029
+   },
+   {
+    "t": "Contact us",
+    "x": 0.5023,
+    "y": 0.965,
+    "w": 0.026,
+    "h": 0.0088
+   },
+   {
+    "t": "Home",
+    "x": 0.3603,
+    "y": 0.9651,
+    "w": 0.0153,
+    "h": 0.0044
+   },
+   {
+    "t": "How tvor",
+    "x": 0.4595,
+    "y": 0.9663,
+    "w": 0.0275,
+    "h": 0.0033
+   },
+   {
+    "t": "be support@sincbifycom",
+    "x": 0.5817,
+    "y": 0.9663,
+    "w": 0.058,
+    "h": 0.0046
+   },
+   {
+    "t": "Gut Starte",
+    "x": 0.658,
+    "y": 0.9663,
+    "w": 0.029,
+    "h": 0.0033
+   },
+   {
+    "t": "bouts",
+    "x": 0.3893,
+    "y": 0.9666,
+    "w": 0.0214,
+    "h": 0.0029
+   },
+   {
+    "t": "XAXLIP T",
+    "x": 0.3023,
+    "y": 0.9767,
+    "w": 0.0214,
+    "h": 0.0029
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "file": "b21.jpg",
+  "y0": 11132,
+  "y1": 11279,
+  "h": 147,
+  "color": 0.0,
+  "density": 0.234,
+  "lines": [
+   {
+    "t": "Final Design",
+    "x": 0.1525,
+    "y": 0.0799,
+    "w": 0.0976,
+    "h": 0.1922
+   },
+   {
+    "t": "This design consists of four main variants: the main website, the user dashboard, the admin dashboard,",
+    "x": 0.1512,
+    "y": 0.4648,
+    "w": 0.689,
+    "h": 0.1703
+   },
+   {
+    "t": "and the application. In this section, I will only showcase the most essential parts, which primarily focus",
+    "x": 0.1512,
+    "y": 0.6338,
+    "w": 0.6817,
+    "h": 0.1703
+   },
+   {
+    "t": "on the main website as it serves as the central access point for the other sections.",
+    "x": 0.1512,
+    "y": 0.7887,
+    "w": 0.5494,
+    "h": 0.1572
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "file": "b22.jpg",
+  "y0": 11313,
+  "y1": 11417,
+  "h": 104,
+  "color": 0.0,
+  "density": 0.061,
+  "lines": [
+   {
+    "t": "Main Website",
+    "x": 0.1526,
+    "y": 0.1154,
+    "w": 0.1076,
+    "h": 0.2246
+   },
+   {
+    "t": "Hero Section: Free Trial CTA",
+    "x": 0.15,
+    "y": 0.6111,
+    "w": 0.2292,
+    "h": 0.2778
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "file": "b23.jpg",
+  "y0": 11448,
+  "y1": 12072,
+  "h": 624,
+  "color": 15.05,
+  "density": 0.46,
+  "lines": [
+   {
+    "t": "f appori@sancily.com",
+    "x": 0.5683,
+    "y": 0.0497,
+    "w": 0.0509,
+    "h": 0.0144
+   },
+   {
+    "t": "Horse",
+    "x": 0.3866,
+    "y": 0.0503,
+    "w": 0.0116,
+    "h": 0.0168
+   },
+   {
+    "t": "14 Days Free Trial",
+    "x": 0.5305,
+    "y": 0.2081,
+    "w": 0.0567,
+    "h": 0.0201
+   },
+   {
+    "t": "We are leading the charge in",
+    "x": 0.3387,
+    "y": 0.2483,
+    "w": 0.1483,
+    "h": 0.0273
+   },
+   {
+    "t": "LEST THaT",
+    "x": 0.5945,
+    "y": 0.2516,
+    "w": 0.0203,
+    "h": 0.0068
+   },
+   {
+    "t": "the area of Catholic Values",
+    "x": 0.3387,
+    "y": 0.2785,
+    "w": 0.1395,
+    "h": 0.0276
+   },
+   {
+    "t": "Investing.",
+    "x": 0.3386,
+    "y": 0.3119,
+    "w": 0.0538,
+    "h": 0.0273
+   },
+   {
+    "t": "Type your business errai",
+    "x": 0.5363,
+    "y": 0.3423,
+    "w": 0.0465,
+    "h": 0.0168
+   },
+   {
+    "t": "Al festures and components of the Database are avalsble during",
+    "x": 0.3387,
+    "y": 0.3557,
+    "w": 0.1337,
+    "h": 0.0168
+   },
+   {
+    "t": "the 14-Day Free Tris! Once your free trial is over, you will be charged",
+    "x": 0.3387,
+    "y": 0.3718,
+    "w": 0.1381,
+    "h": 0.0176
+   },
+   {
+    "t": "Company Name",
+    "x": 0.5305,
+    "y": 0.3792,
+    "w": 0.032,
+    "h": 0.0168
+   },
+   {
+    "t": "Type ytur company name",
+    "x": 0.5363,
+    "y": 0.4087,
+    "w": 0.048,
+    "h": 0.0144
+   },
+   {
+    "t": "You may cancel anytime before your free trial onds, by emailing",
+    "x": 0.3387,
+    "y": 0.4228,
+    "w": 0.1294,
+    "h": 0.0168
+   },
+   {
+    "t": "database iwocapital. com, and your card wil not be charged.",
+    "x": 0.3387,
+    "y": 0.4423,
+    "w": 0.1265,
+    "h": 0.0112
+   },
+   {
+    "t": "Phone Number",
+    "x": 0.5305,
+    "y": 0.4455,
+    "w": 0.0291,
+    "h": 0.0144
+   },
+   {
+    "t": "Free 11-Oays Tre",
+    "x": 0.4012,
+    "y": 0.4966,
+    "w": 0.0334,
+    "h": 0.0168
+   },
+   {
+    "t": "Sigs Up for Free Trial",
+    "x": 0.5392,
+    "y": 0.5235,
+    "w": 0.0407,
+    "h": 0.0168
+   },
+   {
+    "t": "This hero section is the first center of attention when users access the website. With a dark blue background contrasted with white",
+    "x": 0.1526,
+    "y": 0.7276,
+    "w": 0.6904,
+    "h": 0.0308
+   },
+   {
+    "t": "text, this section directly conveys the platform's main mission: to lead the way in Catholic Values Investing. The bold headline",
+    "x": 0.1512,
+    "y": 0.7612,
+    "w": 0.6584,
+    "h": 0.0274
+   },
+   {
+    "t": "reinforces the identity and purpose of the service, while the subtext explains that users can access all features for free during the",
+    "x": 0.1497,
+    "y": 0.7885,
+    "w": 0.6831,
+    "h": 0.0337
+   },
+   {
+    "t": "14-day trial period. On the right-hand side, there is a clean and professional-looking registration form, allowing users to easily fill in",
+    "x": 0.1526,
+    "y": 0.8221,
+    "w": 0.686,
+    "h": 0.0272
+   },
+   {
+    "t": "their details and start the trial. Two action buttons with different labels (\"Sign up for Free Trial\" and \"Free 14-Days Trial\") reinforce",
+    "x": 0.1512,
+    "y": 0.849,
+    "w": 0.6802,
+    "h": 0.0308
+   },
+   {
+    "t": "the urge to convert. The form is strategically placed parallel to the hero text to maintain visual balance and maximize user focus.",
+    "x": 0.1526,
+    "y": 0.8826,
+    "w": 0.6744,
+    "h": 0.0268
+   },
+   {
+    "t": "Feature Introduction",
+    "x": 0.1512,
+    "y": 0.9455,
+    "w": 0.1628,
+    "h": 0.0385
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "file": "b24.jpg",
+  "y0": 12103,
+  "y1": 12642,
+  "h": 539,
+  "color": 1.39,
+  "density": 0.434,
+  "lines": [
+   {
+    "t": "We are leading the charge in",
+    "x": 0.3387,
+    "y": 0.1977,
+    "w": 0.1265,
+    "h": 0.0271
+   },
+   {
+    "t": "the area of Catholic Values",
+    "x": 0.3387,
+    "y": 0.2326,
+    "w": 0.1192,
+    "h": 0.0233
+   },
+   {
+    "t": "Investing.",
+    "x": 0.3387,
+    "y": 0.2674,
+    "w": 0.0451,
+    "h": 0.0271
+   },
+   {
+    "t": "Lorem lpsum is simply dummy tast of the prineng and",
+    "x": 0.3372,
+    "y": 0.3178,
+    "w": 0.1105,
+    "h": 0.0118
+   },
+   {
+    "t": "standard dummy text ever since the 1500d",
+    "x": 0.3387,
+    "y": 0.3566,
+    "w": 0.0858,
+    "h": 0.0119
+   },
+   {
+    "t": "\u00a9 Barking & Lending",
+    "x": 0.3387,
+    "y": 0.3944,
+    "w": 0.0465,
+    "h": 0.0204
+   },
+   {
+    "t": "@ Garbing",
+    "x": 0.4041,
+    "y": 0.3944,
+    "w": 0.0305,
+    "h": 0.0204
+   },
+   {
+    "t": "USAGS",
+    "x": 0.6076,
+    "y": 0.3992,
+    "w": 0.0145,
+    "h": 0.0155
+   },
+   {
+    "t": "$118.50",
+    "x": 0.6076,
+    "y": 0.4186,
+    "w": 0.0247,
+    "h": 0.0194
+   },
+   {
+    "t": "\u00a9 Corporate Donations",
+    "x": 0.3387,
+    "y": 0.4222,
+    "w": 0.0523,
+    "h": 0.0241
+   },
+   {
+    "t": "@ Parmaceuticals",
+    "x": 0.4041,
+    "y": 0.4222,
+    "w": 0.0451,
+    "h": 0.0204
+   },
+   {
+    "t": "Screen Sets",
+    "x": 0.5233,
+    "y": 0.4259,
+    "w": 0.0276,
+    "h": 0.0167
+   },
+   {
+    "t": "\u00a9 Environment",
+    "x": 0.3387,
+    "y": 0.4496,
+    "w": 0.0349,
+    "h": 0.0233
+   },
+   {
+    "t": "\u00a9 Security & Justice",
+    "x": 0.4041,
+    "y": 0.4535,
+    "w": 0.0465,
+    "h": 0.0155
+   },
+   {
+    "t": "260",
+    "x": 0.5233,
+    "y": 0.4535,
+    "w": 0.0174,
+    "h": 0.0233
+   },
+   {
+    "t": "Ost statedfortree",
+    "x": 0.3372,
+    "y": 0.4961,
+    "w": 0.0436,
+    "h": 0.0233
+   },
+   {
+    "t": "The second section continues the introduction of the platform with a more informative and light-hearted look. The layout consists of",
+    "x": 0.1526,
+    "y": 0.6852,
+    "w": 0.6948,
+    "h": 0.0357
+   },
+   {
+    "t": "two columns: on the left, the text displays the company's commitment to Catholic values based investing, while on the right, there",
+    "x": 0.1526,
+    "y": 0.7204,
+    "w": 0.6817,
+    "h": 0.0354
+   },
+   {
+    "t": "are visual illustrations of data related to stock performance and value. Horizontally displayed points of excellence such as \"Banking",
+    "x": 0.1526,
+    "y": 0.7556,
+    "w": 0.686,
+    "h": 0.0352
+   },
+   {
+    "t": "& Lending\", \"Corporate Donations\", \"Environment\", and others reinforce the moral values offered by the platform. This section also",
+    "x": 0.1526,
+    "y": 0.7907,
+    "w": 0.6788,
+    "h": 0.0389
+   },
+   {
+    "t": "introduces some key features in the form of visual data charts, which help users understand the workings, forms, and benefits of",
+    "x": 0.1526,
+    "y": 0.8256,
+    "w": 0.6773,
+    "h": 0.0392
+   },
+   {
+    "t": "the system more concretely.",
+    "x": 0.1512,
+    "y": 0.8643,
+    "w": 0.1541,
+    "h": 0.031
+   },
+   {
+    "t": "Visual Data Preview",
+    "x": 0.1512,
+    "y": 0.9419,
+    "w": 0.1599,
+    "h": 0.0396
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "file": "b25.jpg",
+  "y0": 12673,
+  "y1": 13204,
+  "h": 531,
+  "color": 2.7,
+  "density": 0.432,
+  "lines": [
+   {
+    "t": "We are leading the charge in",
+    "x": 0.532,
+    "y": 0.1969,
+    "w": 0.1265,
+    "h": 0.0276
+   },
+   {
+    "t": "the area of Catholic Values",
+    "x": 0.532,
+    "y": 0.2274,
+    "w": 0.1192,
+    "h": 0.0285
+   },
+   {
+    "t": "Investing.",
+    "x": 0.532,
+    "y": 0.2638,
+    "w": 0.0436,
+    "h": 0.0276
+   },
+   {
+    "t": "Lorem ipsum is simply dummy test of the printing and",
+    "x": 0.5305,
+    "y": 0.315,
+    "w": 0.1119,
+    "h": 0.0197
+   },
+   {
+    "t": "typesetting industry Lorem Ipsum has been the induty s",
+    "x": 0.5305,
+    "y": 0.3383,
+    "w": 0.1192,
+    "h": 0.012
+   },
+   {
+    "t": "standard dummy test ever since the 1500k",
+    "x": 0.532,
+    "y": 0.3543,
+    "w": 0.0887,
+    "h": 0.0197
+   },
+   {
+    "t": "\u00a9 Banking & Lending",
+    "x": 0.532,
+    "y": 0.3976,
+    "w": 0.0465,
+    "h": 0.0197
+   },
+   {
+    "t": "$118.50",
+    "x": 0.3997,
+    "y": 0.4055,
+    "w": 0.0262,
+    "h": 0.0157
+   },
+   {
+    "t": "\u00a9 Corporate Donations",
+    "x": 0.532,
+    "y": 0.4248,
+    "w": 0.0509,
+    "h": 0.0207
+   },
+   {
+    "t": "@ Inkorment",
+    "x": 0.532,
+    "y": 0.4528,
+    "w": 0.0349,
+    "h": 0.0197
+   },
+   {
+    "t": "Get started for free",
+    "x": 0.532,
+    "y": 0.4961,
+    "w": 0.0422,
+    "h": 0.0197
+   },
+   {
+    "t": "In this section, the focus shifts to more complex data visualizations, which illustrate how stock information is displayed on the",
+    "x": 0.1526,
+    "y": 0.6805,
+    "w": 0.6584,
+    "h": 0.0361
+   },
+   {
+    "t": "platform. Components such as the overall score (AA), market value (USD $118.50), as well as the investment sector breakdown",
+    "x": 0.1526,
+    "y": 0.7162,
+    "w": 0.6657,
+    "h": 0.0358
+   },
+   {
+    "t": "provide potential users with a clear picture of the transparency of the data they will be accessing. A clean and uncluttered layout",
+    "x": 0.1526,
+    "y": 0.7519,
+    "w": 0.6773,
+    "h": 0.0357
+   },
+   {
+    "t": "with a soft green color reinforces a professional impression, while maintaining the consistency of the color theme associated with",
+    "x": 0.1526,
+    "y": 0.7913,
+    "w": 0.6802,
+    "h": 0.032
+   },
+   {
+    "t": "growth and trust. The use of bar graphs and card like Ul elements creates a dashboard atmosphere that is user friendly and easy to",
+    "x": 0.1526,
+    "y": 0.8268,
+    "w": 0.6919,
+    "h": 0.0323
+   },
+   {
+    "t": "navigate.",
+    "x": 0.1512,
+    "y": 0.8661,
+    "w": 0.0509,
+    "h": 0.0315
+   },
+   {
+    "t": "Advanced Analytics Display",
+    "x": 0.1526,
+    "y": 0.9361,
+    "w": 0.2209,
+    "h": 0.0526
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "file": "b26.jpg",
+  "y0": 13235,
+  "y1": 14031,
+  "h": 796,
+  "color": 1.0,
+  "density": 0.415,
+  "lines": [
+   {
+    "t": "---",
+    "x": 0.6497,
+    "y": 0.0735,
+    "w": 0.0451,
+    "h": 0.0184
+   },
+   {
+    "t": "We are leading the charge in",
+    "x": 0.3387,
+    "y": 0.1365,
+    "w": 0.125,
+    "h": 0.0184
+   },
+   {
+    "t": "the area of Catholic Values",
+    "x": 0.3387,
+    "y": 0.1595,
+    "w": 0.1192,
+    "h": 0.0163
+   },
+   {
+    "t": "Investing.",
+    "x": 0.3386,
+    "y": 0.1836,
+    "w": 0.0436,
+    "h": 0.0187
+   },
+   {
+    "t": "Lorem Ig",
+    "x": 0.3372,
+    "y": 0.2173,
+    "w": 0.0189,
+    "h": 0.0088
+   },
+   {
+    "t": "Band",
+    "x": 0.3387,
+    "y": 0.2467,
+    "w": 0.0116,
+    "h": 0.0052
+   },
+   {
+    "t": "\u2022 Gorbla",
+    "x": 0.4041,
+    "y": 0.2701,
+    "w": 0.0305,
+    "h": 0.0138
+   },
+   {
+    "t": "\u00a9 Corporate Donations",
+    "x": 0.3387,
+    "y": 0.2887,
+    "w": 0.0509,
+    "h": 0.0157
+   },
+   {
+    "t": "@ Phormiceutical.",
+    "x": 0.4041,
+    "y": 0.2913,
+    "w": 0.0422,
+    "h": 0.0079
+   },
+   {
+    "t": "\u2022 Environment",
+    "x": 0.3387,
+    "y": 0.3065,
+    "w": 0.0334,
+    "h": 0.0163
+   },
+   {
+    "t": "\u00a9 Secunty & Justice",
+    "x": 0.4041,
+    "y": 0.3097,
+    "w": 0.0465,
+    "h": 0.0106
+   },
+   {
+    "t": "Get stered for free",
+    "x": 0.3387,
+    "y": 0.3386,
+    "w": 0.0392,
+    "h": 0.0157
+   },
+   {
+    "t": "This section serves as a narrative reinforcement of the platform's core mission of Catholic values-based investing. While similar in",
+    "x": 0.1526,
+    "y": 0.5013,
+    "w": 0.6802,
+    "h": 0.0214
+   },
+   {
+    "t": "structure to the previous section, this time the content reaffirms the company's commitment to ethics and morality as the",
+    "x": 0.1526,
+    "y": 0.5249,
+    "w": 0.6381,
+    "h": 0.0215
+   },
+   {
+    "t": "foundation for investment screening. The headline remains consistent: \"We are leading the charge in the area of Catholic Values",
+    "x": 0.1497,
+    "y": 0.5486,
+    "w": 0.673,
+    "h": 0.0236
+   },
+   {
+    "t": "Investing.\", but the placement of the visual elements and text is reversed, with the visuals on the right and the text on the left,",
+    "x": 0.1511,
+    "y": 0.5693,
+    "w": 0.6614,
+    "h": 0.0277
+   },
+   {
+    "t": "providing a dynamic visual rhythm and keeping users engaged by design.",
+    "x": 0.1512,
+    "y": 0.5955,
+    "w": 0.3881,
+    "h": 0.0239
+   },
+   {
+    "t": "The focus of the text is to reiterate the platform's uniqueness in evaluating investments based on moral categories that are often",
+    "x": 0.1526,
+    "y": 0.643,
+    "w": 0.6759,
+    "h": 0.0215
+   },
+   {
+    "t": "overlooked by conventional financial systems, such as gambling, pharmaceuticals, and corporate political donations. By presenting",
+    "x": 0.1526,
+    "y": 0.664,
+    "w": 0.686,
+    "h": 0.0262
+   },
+   {
+    "t": "a list of values such as \"Gambling\", \"Pharmaceuticals\", \"Security & Justice\", and \"Corporate Donations\" in a repetitive yet structured",
+    "x": 0.1526,
+    "y": 0.6872,
+    "w": 0.686,
+    "h": 0.0267
+   },
+   {
+    "t": "manner, the platform emphasizes that they do not only have a financial mission, but also carry a social and spiritual vision in their",
+    "x": 0.1526,
+    "y": 0.7136,
+    "w": 0.6773,
+    "h": 0.024
+   },
+   {
+    "t": "operations.",
+    "x": 0.1526,
+    "y": 0.7402,
+    "w": 0.061,
+    "h": 0.0184
+   },
+   {
+    "t": "On the right side, the interface component is a dashboard that displays the sector breakdown and performance data. The",
+    "x": 0.1526,
+    "y": 0.7848,
+    "w": 0.6395,
+    "h": 0.0236
+   },
+   {
+    "t": "performance graph shows data fluctuations over time, demonstrating the transparency and sophistication of the platform's",
+    "x": 0.1526,
+    "y": 0.8078,
+    "w": 0.6468,
+    "h": 0.0242
+   },
+   {
+    "t": "analytics. This shows that the platform is not only based on moral values, but is also supported by a sophisticated data approach.",
+    "x": 0.1526,
+    "y": 0.8342,
+    "w": 0.6817,
+    "h": 0.0241
+   },
+   {
+    "t": "By juxtaposing the value commitment on the text side and the performance visualization on the right side, this section combines the",
+    "x": 0.1526,
+    "y": 0.858,
+    "w": 0.6948,
+    "h": 0.0214
+   },
+   {
+    "t": "two great strengths of the platform: ethics and technology. The end goal is to reinforce users' belief that they do not have to",
+    "x": 0.1526,
+    "y": 0.8793,
+    "w": 0.6541,
+    "h": 0.024
+   },
+   {
+    "t": "sacrifice their moral values for credible data and strategic investments.",
+    "x": 0.1526,
+    "y": 0.9055,
+    "w": 0.3735,
+    "h": 0.0216
+   },
+   {
+    "t": "FAQ - General Question",
+    "x": 0.1526,
+    "y": 0.958,
+    "w": 0.1875,
+    "h": 0.0294
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "file": "b27.jpg",
+  "y0": 14062,
+  "y1": 14591,
+  "h": 529,
+  "color": 1.51,
+  "density": 0.437,
+  "lines": [
+   {
+    "t": "FAQ's",
+    "x": 0.4869,
+    "y": 0.1025,
+    "w": 0.0277,
+    "h": 0.0281
+   },
+   {
+    "t": "amity dummy wat of the printing and typeering industry|",
+    "x": 0.4564,
+    "y": 0.1581,
+    "w": 0.1177,
+    "h": 0.0119
+   },
+   {
+    "t": "May i cancel anytime before your free frisi ends?",
+    "x": 0.3459,
+    "y": 0.3241,
+    "w": 0.0988,
+    "h": 0.0198
+   },
+   {
+    "t": "Are al composents of the Database are availicle?",
+    "x": 0.5102,
+    "y": 0.3241,
+    "w": 0.1003,
+    "h": 0.0198
+   },
+   {
+    "t": "Are al components of ehe Database are avalablo?",
+    "x": 0.3459,
+    "y": 0.3943,
+    "w": 0.1017,
+    "h": 0.0208
+   },
+   {
+    "t": "Hey i cancel anytime before your free trial ends",
+    "x": 0.3459,
+    "y": 0.4736,
+    "w": 0.0974,
+    "h": 0.0132
+   },
+   {
+    "t": "Are al features available during the 14- Day Free Trial?",
+    "x": 0.5102,
+    "y": 0.4736,
+    "w": 0.109,
+    "h": 0.0132
+   },
+   {
+    "t": "The FAQ section is designed in a minimalist and clean style, reinforcing the professional feel and providing breathing space between",
+    "x": 0.1526,
+    "y": 0.7151,
+    "w": 0.6933,
+    "h": 0.0398
+   },
+   {
+    "t": "the previously dense visuals. The opening text explains that this section is aimed at answering common questions, with an",
+    "x": 0.1526,
+    "y": 0.7547,
+    "w": 0.6424,
+    "h": 0.0321
+   },
+   {
+    "t": "accordion format that allows users to access answers quickly without the need for long scrolls. Questions such as feature",
+    "x": 0.1526,
+    "y": 0.7905,
+    "w": 0.6381,
+    "h": 0.0321
+   },
+   {
+    "t": "availability during the trial period and cancellation policy are answered in a brief but informative manner. The \"More Questions?\"",
+    "x": 0.1526,
+    "y": 0.8221,
+    "w": 0.6701,
+    "h": 0.0364
+   },
+   {
+    "t": "button signals that this page only contains basic FAQs, and users can get more information if needed.",
+    "x": 0.1526,
+    "y": 0.8617,
+    "w": 0.5334,
+    "h": 0.0365
+   },
+   {
+    "t": "Testimonial",
+    "x": 0.151,
+    "y": 0.935,
+    "w": 0.0947,
+    "h": 0.051
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "file": "b28.jpg",
+  "y0": 14623,
+  "y1": 15078,
+  "h": 455,
+  "color": 0.88,
+  "density": 0.433,
+  "lines": [
+   {
+    "t": "It's really good.",
+    "x": 0.4665,
+    "y": 0.1278,
+    "w": 0.0684,
+    "h": 0.038
+   },
+   {
+    "t": "Theis a mushence themal The",
+    "x": 0.2369,
+    "y": 0.3114,
+    "w": 0.0741,
+    "h": 0.0097
+   },
+   {
+    "t": "This is a true swcterior there The",
+    "x": 0.4564,
+    "y": 0.3114,
+    "w": 0.0756,
+    "h": 0.0097
+   },
+   {
+    "t": "This is a trupy spectaculer themel The",
+    "x": 0.5669,
+    "y": 0.3114,
+    "w": 0.0741,
+    "h": 0.0154
+   },
+   {
+    "t": "This a a inarene tarina shamel re",
+    "x": 0.6773,
+    "y": 0.3114,
+    "w": 0.0741,
+    "h": 0.0097
+   },
+   {
+    "t": "custom page builder is definitely one of",
+    "x": 0.3474,
+    "y": 0.3303,
+    "w": 0.0814,
+    "h": 0.0229
+   },
+   {
+    "t": "custom pege brulder is defritely one of",
+    "x": 0.4564,
+    "y": 0.3303,
+    "w": 0.0828,
+    "h": 0.0229
+   },
+   {
+    "t": "cuetom page bolder is deFinitely one of",
+    "x": 0.5669,
+    "y": 0.3303,
+    "w": 0.0814,
+    "h": 0.0229
+   },
+   {
+    "t": "custom page builder is definitely one of",
+    "x": 0.6773,
+    "y": 0.3303,
+    "w": 0.0814,
+    "h": 0.0229
+   },
+   {
+    "t": "custom page buider is dennisty one of",
+    "x": 0.2369,
+    "y": 0.3349,
+    "w": 0.0799,
+    "h": 0.0138
+   },
+   {
+    "t": "the most intulive and user-friendy pege",
+    "x": 0.6773,
+    "y": 0.3531,
+    "w": 0.0828,
+    "h": 0.0241
+   },
+   {
+    "t": "the treat where wear rory c",
+    "x": 0.3474,
+    "y": 0.3618,
+    "w": 0.0814,
+    "h": 0.0097
+   },
+   {
+    "t": "****",
+    "x": 0.2369,
+    "y": 0.4174,
+    "w": 0.0276,
+    "h": 0.0229
+   },
+   {
+    "t": "****\u2022",
+    "x": 0.4578,
+    "y": 0.4174,
+    "w": 0.0262,
+    "h": 0.0229
+   },
+   {
+    "t": "****",
+    "x": 0.6773,
+    "y": 0.4174,
+    "w": 0.0262,
+    "h": 0.0183
+   },
+   {
+    "t": "Devid sidoik",
+    "x": 0.2369,
+    "y": 0.4495,
+    "w": 0.0291,
+    "h": 0.0229
+   },
+   {
+    "t": "Devid siddik",
+    "x": 0.3474,
+    "y": 0.4495,
+    "w": 0.0291,
+    "h": 0.0229
+   },
+   {
+    "t": "Johns doe",
+    "x": 0.4578,
+    "y": 0.4495,
+    "w": 0.0233,
+    "h": 0.0229
+   },
+   {
+    "t": "John doe",
+    "x": 0.6773,
+    "y": 0.4495,
+    "w": 0.0233,
+    "h": 0.0229
+   },
+   {
+    "t": "DESCEN",
+    "x": 0.4564,
+    "y": 0.4771,
+    "w": 0.0218,
+    "h": 0.0229
+   },
+   {
+    "t": "DESONER",
+    "x": 0.6773,
+    "y": 0.4771,
+    "w": 0.0218,
+    "h": 0.0229
+   },
+   {
+    "t": "The testimonial section provides important social proof to build trust. Using a card layout, this section features comments from",
+    "x": 0.1526,
+    "y": 0.7105,
+    "w": 0.6657,
+    "h": 0.0418
+   },
+   {
+    "t": "fictitious users but with a convincing and consistent writing style. Usernames and professions (such as \"Designer\") are displayed",
+    "x": 0.1526,
+    "y": 0.7522,
+    "w": 0.6759,
+    "h": 0.0417
+   },
+   {
+    "t": "alongside star ratings and positive comments, reinforcing the impression that the platform is used and appreciated by many. The",
+    "x": 0.1526,
+    "y": 0.7936,
+    "w": 0.6759,
+    "h": 0.0463
+   },
+   {
+    "t": "horizontal and consistent arrangement makes this section easy to read and creates a sense of repetition that is not boring.",
+    "x": 0.1526,
+    "y": 0.8394,
+    "w": 0.6453,
+    "h": 0.0377
+   },
+   {
+    "t": "Pricing",
+    "x": 0.1526,
+    "y": 0.9266,
+    "w": 0.0552,
+    "h": 0.0596
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "file": "b29.jpg",
+  "y0": 15110,
+  "y1": 15589,
+  "h": 479,
+  "color": 2.55,
+  "density": 0.463,
+  "lines": [
+   {
+    "t": "Fair Prices",
+    "x": 0.4767,
+    "y": 0.1344,
+    "w": 0.048,
+    "h": 0.0312
+   },
+   {
+    "t": "\u043c\u0443\u0442\u043d\u0456\u0445 \u043c\u0456\u0441\u0438\u0430\u0442\u0438",
+    "x": 0.3517,
+    "y": 0.3125,
+    "w": 0.0451,
+    "h": 0.0092
+   },
+   {
+    "t": "Tan van sins airth",
+    "x": 0.516,
+    "y": 0.3125,
+    "w": 0.0509,
+    "h": 0.0092
+   },
+   {
+    "t": "$2,880/ayr",
+    "x": 0.5188,
+    "y": 0.3559,
+    "w": 0.0466,
+    "h": 0.036
+   },
+   {
+    "t": "$3,780/\u0437\u0443\u0433",
+    "x": 0.6017,
+    "y": 0.3561,
+    "w": 0.0451,
+    "h": 0.0356
+   },
+   {
+    "t": "$150/mo",
+    "x": 0.359,
+    "y": 0.3565,
+    "w": 0.0349,
+    "h": 0.0304
+   },
+   {
+    "t": "$1,620",
+    "x": 0.439,
+    "y": 0.3565,
+    "w": 0.0407,
+    "h": 0.0348
+   },
+   {
+    "t": "Cans can isance tel",
+    "x": 0.5131,
+    "y": 0.4083,
+    "w": 0.0523,
+    "h": 0.0091
+   },
+   {
+    "t": "The final section of the homepage is the pricing section, which transparently displays the various subscription plan options. There",
+    "x": 0.1526,
+    "y": 0.7435,
+    "w": 0.6817,
+    "h": 0.0399
+   },
+   {
+    "t": "are four pricing cards, ranging from monthly plans to three year subscriptions, each with a brief explanation of the fees and",
+    "x": 0.1526,
+    "y": 0.7826,
+    "w": 0.6468,
+    "h": 0.0391
+   },
+   {
+    "t": "discounts offered. Each card has a prominent green action button that reads \"Choose Plan\", encouraging users to make an",
+    "x": 0.1526,
+    "y": 0.8208,
+    "w": 0.6424,
+    "h": 0.0444
+   },
+   {
+    "t": "immediate decision. Additional text at the bottom explains that the price includes sales tax, which adds a professional and clear feel",
+    "x": 0.1512,
+    "y": 0.8646,
+    "w": 0.6948,
+    "h": 0.0354
+   },
+   {
+    "t": "to the pricing communication. This section closes the homepage with a call to subscribe, completing the flow from awareness to",
+    "x": 0.1512,
+    "y": 0.9042,
+    "w": 0.6759,
+    "h": 0.0396
+   },
+   {
+    "t": "conversion.",
+    "x": 0.1526,
+    "y": 0.9478,
+    "w": 0.064,
+    "h": 0.0261
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "file": "b30.jpg",
+  "y0": 15820,
+  "y1": 16853,
+  "h": 1033,
+  "color": 5.13,
+  "density": 0.618,
+  "lines": [
+   {
+    "t": "Joshua",
+    "x": 0.7631,
+    "y": 0.0243,
+    "w": 0.0203,
+    "h": 0.0101
+   },
+   {
+    "t": "a Portfolios",
+    "x": 0.3357,
+    "y": 0.0259,
+    "w": 0.0365,
+    "h": 0.013
+   },
+   {
+    "t": "IF Dothboard",
+    "x": 0.2384,
+    "y": 0.0261,
+    "w": 0.0378,
+    "h": 0.0106
+   },
+   {
+    "t": "- UBere",
+    "x": 0.2951,
+    "y": 0.0261,
+    "w": 0.0247,
+    "h": 0.0126
+   },
+   {
+    "t": "\u2022 Screen Sets l Reports",
+    "x": 0.3881,
+    "y": 0.0261,
+    "w": 0.0916,
+    "h": 0.0126
+   },
+   {
+    "t": "\u00a9 Disclosure \u2022 Ouick Check",
+    "x": 0.4956,
+    "y": 0.0261,
+    "w": 0.0959,
+    "h": 0.0126
+   },
+   {
+    "t": "e Screans",
+    "x": 0.4477,
+    "y": 0.0745,
+    "w": 0.0349,
+    "h": 0.0106
+   },
+   {
+    "t": "-",
+    "x": 0.2078,
+    "y": 0.0769,
+    "w": 0.0087,
+    "h": 0.0101
+   },
+   {
+    "t": "Portfolios",
+    "x": 0.218,
+    "y": 0.0769,
+    "w": 0.0291,
+    "h": 0.0081
+   },
+   {
+    "t": "f Screen Sets",
+    "x": 0.327,
+    "y": 0.0769,
+    "w": 0.0451,
+    "h": 0.0101
+   },
+   {
+    "t": "e Reports",
+    "x": 0.5654,
+    "y": 0.0769,
+    "w": 0.0349,
+    "h": 0.0101
+   },
+   {
+    "t": "- Screensat Intol",
+    "x": 0.6831,
+    "y": 0.083,
+    "w": 0.0494,
+    "h": 0.0061
+   },
+   {
+    "t": "690",
+    "x": 0.2209,
+    "y": 0.0931,
+    "w": 0.0203,
+    "h": 0.0142
+   },
+   {
+    "t": "260",
+    "x": 0.3372,
+    "y": 0.0931,
+    "w": 0.0218,
+    "h": 0.0162
+   },
+   {
+    "t": "398",
+    "x": 0.4593,
+    "y": 0.0951,
+    "w": 0.0189,
+    "h": 0.0121
+   },
+   {
+    "t": "360",
+    "x": 0.577,
+    "y": 0.0951,
+    "w": 0.0203,
+    "h": 0.0121
+   },
+   {
+    "t": "Pv ocorocore",
+    "x": 0.6904,
+    "y": 0.119,
+    "w": 0.0305,
+    "h": 0.0048
+   },
+   {
+    "t": "N\u00ba Add Screenset",
+    "x": 0.2078,
+    "y": 0.1576,
+    "w": 0.0538,
+    "h": 0.0106
+   },
+   {
+    "t": "$118.50 \u2022",
+    "x": 0.5086,
+    "y": 0.1694,
+    "w": 0.0409,
+    "h": 0.0155
+   },
+   {
+    "t": "AA",
+    "x": 0.7326,
+    "y": 0.1721,
+    "w": 0.0131,
+    "h": 0.0101
+   },
+   {
+    "t": "Select Category",
+    "x": 0.2064,
+    "y": 0.1779,
+    "w": 0.0349,
+    "h": 0.0087
+   },
+   {
+    "t": "Screen",
+    "x": 0.3198,
+    "y": 0.1781,
+    "w": 0.0174,
+    "h": 0.0081
+   },
+   {
+    "t": "Select Category",
+    "x": 0.2122,
+    "y": 0.1963,
+    "w": 0.0349,
+    "h": 0.0102
+   },
+   {
+    "t": "Selct Scroen",
+    "x": 0.3241,
+    "y": 0.1963,
+    "w": 0.032,
+    "h": 0.0102
+   },
+   {
+    "t": "Add Screenset",
+    "x": 0.4404,
+    "y": 0.1963,
+    "w": 0.032,
+    "h": 0.0102
+   },
+   {
+    "t": "Maning Siar Rating",
+    "x": 0.5116,
+    "y": 0.2002,
+    "w": 0.0378,
+    "h": 0.0087
+   },
+   {
+    "t": "****",
+    "x": 0.5131,
+    "y": 0.2105,
+    "w": 0.0262,
+    "h": 0.0101
+   },
+   {
+    "t": "Adie Contert",
+    "x": 0.6831,
+    "y": 0.2205,
+    "w": 0.0291,
+    "h": 0.0087
+   },
+   {
+    "t": "c Acut Cortent Provian",
+    "x": 0.3256,
+    "y": 0.2224,
+    "w": 0.0509,
+    "h": 0.0068
+   },
+   {
+    "t": "C Adit Costent Disabutio",
+    "x": 0.3256,
+    "y": 0.2348,
+    "w": 0.0567,
+    "h": 0.0061
+   },
+   {
+    "t": "Alcorci",
+    "x": 0.6802,
+    "y": 0.247,
+    "w": 0.016,
+    "h": 0.004
+   },
+   {
+    "t": "17 Kesearch Details",
+    "x": 0.2078,
+    "y": 0.2571,
+    "w": 0.0567,
+    "h": 0.0061
+   },
+   {
+    "t": "Salsot Sorense",
+    "x": 0.343,
+    "y": 0.2591,
+    "w": 0.0334,
+    "h": 0.0061
+   },
+   {
+    "t": "TrY bOCCHO/",
+    "x": 0.391,
+    "y": 0.2611,
+    "w": 0.0305,
+    "h": 0.0041
+   },
+   {
+    "t": "* Portfolio Summary",
+    "x": 0.5102,
+    "y": 0.2631,
+    "w": 0.0625,
+    "h": 0.0106
+   },
+   {
+    "t": "Banting & Lorido",
+    "x": 0.6817,
+    "y": 0.2669,
+    "w": 0.0363,
+    "h": 0.0106
+   },
+   {
+    "t": "Ada Portfolio",
+    "x": 0.6148,
+    "y": 0.2689,
+    "w": 0.0334,
+    "h": 0.0048
+   },
+   {
+    "t": "LO DOO LOUG",
+    "x": 0.6802,
+    "y": 0.2935,
+    "w": 0.0407,
+    "h": 0.0044
+   },
+   {
+    "t": "\u2022 General Information",
+    "x": 0.5102,
+    "y": 0.3016,
+    "w": 0.061,
+    "h": 0.0101
+   },
+   {
+    "t": "Adur Content Provider",
+    "x": 0.2471,
+    "y": 0.3114,
+    "w": 0.0451,
+    "h": 0.0087
+   },
+   {
+    "t": "/hwmoceficais",
+    "x": 0.6817,
+    "y": 0.3138,
+    "w": 0.032,
+    "h": 0.004
+   },
+   {
+    "t": "NO QE SOLD",
+    "x": 0.5087,
+    "y": 0.3239,
+    "w": 0.0276,
+    "h": 0.004
+   },
+   {
+    "t": "-R6.5",
+    "x": 0.3169,
+    "y": 0.3259,
+    "w": 0.016,
+    "h": 0.0121
+   },
+   {
+    "t": "Tesorod naw Ae30e-112l",
+    "x": 0.5596,
+    "y": 0.3381,
+    "w": 0.061,
+    "h": 0.004
+   },
+   {
+    "t": "Lis Ledeed",
+    "x": 0.5087,
+    "y": 0.352,
+    "w": 0.0276,
+    "h": 0.0042
+   },
+   {
+    "t": "RugvM 06, 2020 0733 PM UTC",
+    "x": 0.561,
+    "y": 0.352,
+    "w": 0.0654,
+    "h": 0.0063
+   },
+   {
+    "t": "\u2022 Note",
+    "x": 0.6831,
+    "y": 0.3743,
+    "w": 0.0262,
+    "h": 0.0106
+   },
+   {
+    "t": "Banking & Lending",
+    "x": 0.2122,
+    "y": 0.3806,
+    "w": 0.0465,
+    "h": 0.0101
+   },
+   {
+    "t": "Corporate Donations",
+    "x": 0.3547,
+    "y": 0.3806,
+    "w": 0.0509,
+    "h": 0.0082
+   },
+   {
+    "t": "\u2022 PR51",
+    "x": 0.3169,
+    "y": 0.4028,
+    "w": 0.0145,
+    "h": 0.0063
+   },
+   {
+    "t": "orporole Donati",
+    "x": 0.3968,
+    "y": 0.4069,
+    "w": 0.0305,
+    "h": 0.0061
+   },
+   {
+    "t": "Dofw Cuetom",
+    "x": 0.5291,
+    "y": 0.4089,
+    "w": 0.0305,
+    "h": 0.0101
+   },
+   {
+    "t": "AIScroens",
+    "x": 0.5887,
+    "y": 0.4089,
+    "w": 0.0247,
+    "h": 0.0081
+   },
+   {
+    "t": "a wensmilhhun nr-in the neimam.",
+    "x": 0.7006,
+    "y": 0.4168,
+    "w": 0.0799,
+    "h": 0.0042
+   },
+   {
+    "t": "970%",
+    "x": 0.3183,
+    "y": 0.4211,
+    "w": 0.0145,
+    "h": 0.0101
+   },
+   {
+    "t": "Colection Operoions",
+    "x": 0.2515,
+    "y": 0.4226,
+    "w": 0.0422,
+    "h": 0.0106
+   },
+   {
+    "t": "sporate Donatior",
+    "x": 0.3968,
+    "y": 0.4251,
+    "w": 0.0334,
+    "h": 0.0082
+   },
+   {
+    "t": "Predatory Lending",
+    "x": 0.2544,
+    "y": 0.4352,
+    "w": 0.0392,
+    "h": 0.0101
+   },
+   {
+    "t": "\u2022 PR7%",
+    "x": 0.3183,
+    "y": 0.4352,
+    "w": 0.0145,
+    "h": 0.0101
+   },
+   {
+    "t": "John Smith",
+    "x": 0.7005,
+    "y": 0.4391,
+    "w": 0.0277,
+    "h": 0.0105
+   },
+   {
+    "t": "Leoon-Can Betaling",
+    "x": 0.25,
+    "y": 0.4474,
+    "w": 0.0436,
+    "h": 0.0101
+   },
+   {
+    "t": "PRT%",
+    "x": 0.3198,
+    "y": 0.4474,
+    "w": 0.0131,
+    "h": 0.0101
+   },
+   {
+    "t": "I need to ado al the detal in portfolo",
+    "x": 0.7006,
+    "y": 0.4514,
+    "w": 0.0698,
+    "h": 0.0081
+   },
+   {
+    "t": "Merchan Coh Atman",
+    "x": 0.2471,
+    "y": 0.4613,
+    "w": 0.0465,
+    "h": 0.0164
+   },
+   {
+    "t": "Envirorment",
+    "x": 0.3532,
+    "y": 0.4615,
+    "w": 0.032,
+    "h": 0.0101
+   },
+   {
+    "t": "97.0%",
+    "x": 0.3183,
+    "y": 0.4636,
+    "w": 0.0145,
+    "h": 0.0101
+   },
+   {
+    "t": "You",
+    "x": 0.7006,
+    "y": 0.4757,
+    "w": 0.0116,
+    "h": 0.0121
+   },
+   {
+    "t": "Coel Mirieg 1909",
+    "x": 0.4113,
+    "y": 0.4816,
+    "w": 0.061,
+    "h": 0.0106
+   },
+   {
+    "t": "ul Sector Breakdown",
+    "x": 0.5102,
+    "y": 0.498,
+    "w": 0.0625,
+    "h": 0.0101
+   },
+   {
+    "t": "Const Fuel Markatig",
+    "x": 0.3939,
+    "y": 0.5162,
+    "w": 0.0422,
+    "h": 0.0121
+   },
+   {
+    "t": "Genting Operuten 1",
+    "x": 0.2529,
+    "y": 0.5242,
+    "w": 0.0436,
+    "h": 0.0106
+   },
+   {
+    "t": "Fossl Fue Retining",
+    "x": 0.3939,
+    "y": 0.5261,
+    "w": 0.0422,
+    "h": 0.0126
+   },
+   {
+    "t": "Jonn Smith",
+    "x": 0.7006,
+    "y": 0.5319,
+    "w": 0.0276,
+    "h": 0.0048
+   },
+   {
+    "t": "Fosse Fusi Services",
+    "x": 0.3968,
+    "y": 0.5445,
+    "w": 0.0363,
+    "h": 0.0061
+   },
+   {
+    "t": "Fome fue Trempertien",
+    "x": 0.3852,
+    "y": 0.5522,
+    "w": 0.048,
+    "h": 0.0106
+   },
+   {
+    "t": "D Changes",
+    "x": 0.6831,
+    "y": 0.589,
+    "w": 0.0363,
+    "h": 0.0106
+   },
+   {
+    "t": "Sedical Ethice",
+    "x": 0.3576,
+    "y": 0.5928,
+    "w": 0.0305,
+    "h": 0.0087
+   },
+   {
+    "t": "berton Provided",
+    "x": 0.4026,
+    "y": 0.6093,
+    "w": 0.0305,
+    "h": 0.0126
+   },
+   {
+    "t": "- 992%",
+    "x": 0.3183,
+    "y": 0.6112,
+    "w": 0.0145,
+    "h": 0.0106
+   },
+   {
+    "t": "Devon Lane",
+    "x": 0.7006,
+    "y": 0.6151,
+    "w": 0.0291,
+    "h": 0.0106
+   },
+   {
+    "t": "* n\u1ec1n N\u1ea1",
+    "x": 0.7674,
+    "y": 0.6151,
+    "w": 0.016,
+    "h": 0.0106
+   },
+   {
+    "t": "PR3N",
+    "x": 0.3183,
+    "y": 0.6215,
+    "w": 0.0145,
+    "h": 0.0101
+   },
+   {
+    "t": "Scute Care Fochty",
+    "x": 0.3983,
+    "y": 0.6215,
+    "w": 0.0349,
+    "h": 0.0101
+   },
+   {
+    "t": "97.09",
+    "x": 0.3183,
+    "y": 0.6336,
+    "w": 0.0131,
+    "h": 0.0101
+   },
+   {
+    "t": "Besnor Pono",
+    "x": 0.702,
+    "y": 0.6457,
+    "w": 0.0291,
+    "h": 0.0101
+   },
+   {
+    "t": "Opfokt Production",
+    "x": 0.2573,
+    "y": 0.6498,
+    "w": 0.0349,
+    "h": 0.0101
+   },
+   {
+    "t": "8.09",
+    "x": 0.3212,
+    "y": 0.6498,
+    "w": 0.0116,
+    "h": 0.0101
+   },
+   {
+    "t": "Opicia Distributisn",
+    "x": 0.2573,
+    "y": 0.6615,
+    "w": 0.0349,
+    "h": 0.0106
+   },
+   {
+    "t": "6229",
+    "x": 0.3198,
+    "y": 0.6619,
+    "w": 0.0116,
+    "h": 0.0081
+   },
+   {
+    "t": "It Performance",
+    "x": 0.5073,
+    "y": 0.67,
+    "w": 0.048,
+    "h": 0.0101
+   },
+   {
+    "t": "eman tenl",
+    "x": 0.4041,
+    "y": 0.6818,
+    "w": 0.0247,
+    "h": 0.0186
+   },
+   {
+    "t": "Humen Enteren San -",
+    "x": 0.3866,
+    "y": 0.7085,
+    "w": 0.0552,
+    "h": 0.0207
+   },
+   {
+    "t": "Cannabis Product",
+    "x": 0.2587,
+    "y": 0.7146,
+    "w": 0.0349,
+    "h": 0.0081
+   },
+   {
+    "t": "12.21",
+    "x": 0.3212,
+    "y": 0.7186,
+    "w": 0.0102,
+    "h": 0.0081
+   },
+   {
+    "t": "Production",
+    "x": 0.2703,
+    "y": 0.7247,
+    "w": 0.0218,
+    "h": 0.004
+   },
+   {
+    "t": "Haman Fetal Tlasue Usage",
+    "x": 0.3823,
+    "y": 0.7287,
+    "w": 0.0509,
+    "h": 0.0101
+   },
+   {
+    "t": "* PR6%",
+    "x": 0.3169,
+    "y": 0.7328,
+    "w": 0.016,
+    "h": 0.0101
+   },
+   {
+    "t": "Aber Hitn",
+    "x": 0.702,
+    "y": 0.7389,
+    "w": 0.0262,
+    "h": 0.004
+   },
+   {
+    "t": "Tenesa Webb",
+    "x": 0.702,
+    "y": 0.765,
+    "w": 0.032,
+    "h": 0.0106
+   },
+   {
+    "t": "Ane 28 D00er",
+    "x": 0.7573,
+    "y": 0.7689,
+    "w": 0.0247,
+    "h": 0.0048
+   },
+   {
+    "t": "Devon Lans",
+    "x": 0.7006,
+    "y": 0.7976,
+    "w": 0.0262,
+    "h": 0.0061
+   },
+   {
+    "t": "-97.0%",
+    "x": 0.3154,
+    "y": 0.836,
+    "w": 0.0174,
+    "h": 0.0081
+   },
+   {
+    "t": "Lobor Rights",
+    "x": 0.3532,
+    "y": 0.854,
+    "w": 0.032,
+    "h": 0.0106
+   },
+   {
+    "t": "- 99.25)",
+    "x": 0.3154,
+    "y": 0.8578,
+    "w": 0.016,
+    "h": 0.0048
+   },
+   {
+    "t": "422%",
+    "x": 0.4608,
+    "y": 0.8725,
+    "w": 0.0131,
+    "h": 0.0101
+   },
+   {
+    "t": "- 99.73",
+    "x": 0.3154,
+    "y": 0.8743,
+    "w": 0.016,
+    "h": 0.0106
+   },
+   {
+    "t": "CHal taber Lege",
+    "x": 0.3997,
+    "y": 0.8826,
+    "w": 0.0349,
+    "h": 0.0121
+   },
+   {
+    "t": "\u2022 PRA",
+    "x": 0.3169,
+    "y": 0.8985,
+    "w": 0.0131,
+    "h": 0.0048
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "file": "b31.jpg",
+  "y0": 16886,
+  "y1": 18350,
+  "h": 1464,
+  "color": 0.0,
+  "density": 0.249,
+  "lines": [
+   {
+    "t": "Key Metrics Summary",
+    "x": 0.1521,
+    "y": 0.0087,
+    "w": 0.1743,
+    "h": 0.0189
+   },
+   {
+    "t": "The topmost part of the dashboard presents four key indicators in the form of metric cards: Total Portfolios (690), Screen Sets",
+    "x": 0.1521,
+    "y": 0.032,
+    "w": 0.6647,
+    "h": 0.0131
+   },
+   {
+    "t": "(260), Screens (398), and Reports (360). These metrics serve as a summary of the performance and scope of user activity on the",
+    "x": 0.1521,
+    "y": 0.0451,
+    "w": 0.6824,
+    "h": 0.0131
+   },
+   {
+    "t": "platform. Each number is accompanied by a small icon and bar graph, providing quantitative information as well as an intuitive",
+    "x": 0.1521,
+    "y": 0.0594,
+    "w": 0.6603,
+    "h": 0.0118
+   },
+   {
+    "t": "visualization of progress. With a white background and minimalist look, users can instantly capture their activity status without",
+    "x": 0.1521,
+    "y": 0.0711,
+    "w": 0.6647,
+    "h": 0.0154
+   },
+   {
+    "t": "having to dig deeper.",
+    "x": 0.1521,
+    "y": 0.084,
+    "w": 0.1123,
+    "h": 0.0137
+   },
+   {
+    "t": "Add Screenset",
+    "x": 0.1521,
+    "y": 0.1161,
+    "w": 0.1196,
+    "h": 0.015
+   },
+   {
+    "t": "Below the main metrics, there is an interactive form titled \"Add Screenset\". Users can select the desired category and screen type,",
+    "x": 0.1521,
+    "y": 0.1393,
+    "w": 0.6854,
+    "h": 0.0133
+   },
+   {
+    "t": "and then choose whether they want to include adult content or not. The green \"Add Screenset\" button is a strong and direct TA.",
+    "x": 0.1521,
+    "y": 0.1523,
+    "w": 0.6809,
+    "h": 0.0119
+   },
+   {
+    "t": "This element supports the workflow of users who want to build or customize a screenset quickly and efficiently.",
+    "x": 0.1536,
+    "y": 0.1657,
+    "w": 0.5864,
+    "h": 0.0133
+   },
+   {
+    "t": "Research Details",
+    "x": 0.1521,
+    "y": 0.196,
+    "w": 0.1344,
+    "h": 0.0164
+   },
+   {
+    "t": "Below the main metrics, there is an interactive form titled \"Add Screenset\". Users can select the desired category and screen type,",
+    "x": 0.1521,
+    "y": 0.2193,
+    "w": 0.6854,
+    "h": 0.0133
+   },
+   {
+    "t": "and then choose whether they want to include adult content or not. The green \"Add Screenset\" button is a strong and direct CTA.",
+    "x": 0.1521,
+    "y": 0.2322,
+    "w": 0.6809,
+    "h": 0.0137
+   },
+   {
+    "t": "This element supports the workflow of users who want to build or customize a screenset quickly and efficiently.",
+    "x": 0.1521,
+    "y": 0.2456,
+    "w": 0.5879,
+    "h": 0.0119
+   },
+   {
+    "t": "USAGG",
+    "x": 0.1521,
+    "y": 0.2761,
+    "w": 0.0606,
+    "h": 0.0161
+   },
+   {
+    "t": "On the top right side of the add screenset, you can see USAGG is worth \"$118.50\", which reflects the current market price of the",
+    "x": 0.1521,
+    "y": 0.2992,
+    "w": 0.6736,
+    "h": 0.015
+   },
+   {
+    "t": "portfolio. This gives users a real time reference of the asset's financial performance. There is also a \"Moral Star Rating\" label with a",
+    "x": 0.1521,
+    "y": 0.314,
+    "w": 0.6854,
+    "h": 0.0119
+   },
+   {
+    "t": "star icon and a star score, reflecting how compatible this investment is with certain Catholic or moral values. Users can quickly tell if",
+    "x": 0.1507,
+    "y": 0.3256,
+    "w": 0.6957,
+    "h": 0.0146
+   },
+   {
+    "t": "a portfolio is considered ethically high or low. To the right of the score and rating, there are three risk indicator boxes labeled \"Low\",",
+    "x": 0.1507,
+    "y": 0.3387,
+    "w": 0.6928,
+    "h": 0.016
+   },
+   {
+    "t": "\"Mid\", and \"Ext\". This gives a visual representation of how much moral or perhaps financial risk is associated with the portfolio.",
+    "x": 0.1521,
+    "y": 0.3517,
+    "w": 0.6632,
+    "h": 0.0131
+   },
+   {
+    "t": "Portfolio Summary",
+    "x": 0.1519,
+    "y": 0.382,
+    "w": 0.1497,
+    "h": 0.0194
+   },
+   {
+    "t": "This card displays general information about the active portfolio, including the number of groups, number of contracts, and time last",
+    "x": 0.1521,
+    "y": 0.407,
+    "w": 0.6942,
+    "h": 0.0131
+   },
+   {
+    "t": "updated. At the bottom, there are comparisons between screen sets such as \"Catholic Values\" and \"FFV Scorecard\", helping users",
+    "x": 0.1521,
+    "y": 0.4201,
+    "w": 0.6824,
+    "h": 0.0131
+   },
+   {
+    "t": "see the differences between screening methods. This view allows for quick analysis of the ethical quality of portfolios held or being",
+    "x": 0.1521,
+    "y": 0.4331,
+    "w": 0.6898,
+    "h": 0.0117
+   },
+   {
+    "t": "Sector Breakdown",
+    "x": 0.1521,
+    "y": 0.4767,
+    "w": 0.1462,
+    "h": 0.016
+   },
+   {
+    "t": "The bar chart displays the distribution of data by industry sector, such as Energy, Consumer Discretionary, and Real Estate. With a",
+    "x": 0.1521,
+    "y": 0.5,
+    "w": 0.6854,
+    "h": 0.0131
+   },
+   {
+    "t": "dominant green color and soft contrast, it conveys quantitative information in a clean manner. It is helpful in understanding the",
+    "x": 0.1521,
+    "y": 0.513,
+    "w": 0.6632,
+    "h": 0.0132
+   },
+   {
+    "t": "extent to which certain sectors dominate or influence the ethical screening results.",
+    "x": 0.1521,
+    "y": 0.526,
+    "w": 0.4372,
+    "h": 0.0118
+   },
+   {
+    "t": "Performance Graph",
+    "x": 0.1521,
+    "y": 0.5567,
+    "w": 0.1566,
+    "h": 0.0178
+   },
+   {
+    "t": "Located at the bottom center, this line graph shows a comparison of performance across three timeframes: today, this week, and",
+    "x": 0.1521,
+    "y": 0.5813,
+    "w": 0.678,
+    "h": 0.0132
+   },
+   {
+    "t": "monthly. The orange and green lines represent the comparison between productivity and the previous month, providing insight into",
+    "x": 0.1521,
+    "y": 0.5943,
+    "w": 0.6883,
+    "h": 0.0118
+   },
+   {
+    "t": "work efficiency and platform usage. This graph is suitable for users who want to monitor activity or significant changes in their",
+    "x": 0.1521,
+    "y": 0.6059,
+    "w": 0.6647,
+    "h": 0.0133
+   },
+   {
+    "t": "analytics performance. This information can also be viewed continuously in real time to keep users up to date.",
+    "x": 0.1521,
+    "y": 0.6189,
+    "w": 0.579,
+    "h": 0.0137
+   },
+   {
+    "t": "Screenset Info",
+    "x": 0.1521,
+    "y": 0.6496,
+    "w": 0.1167,
+    "h": 0.0164
+   },
+   {
+    "t": "The top right side displays graphical information about the morale score of a particular screenset. The rating is displayed as a circle",
+    "x": 0.1521,
+    "y": 0.6742,
+    "w": 0.6898,
+    "h": 0.0119
+   },
+   {
+    "t": "with the \"AA\" label in the center, as well as indicator bars for specific categories such as Adult Content, Alcohol, Banking & Lending,",
+    "x": 0.1521,
+    "y": 0.6875,
+    "w": 0.6898,
+    "h": 0.0133
+   },
+   {
+    "t": "and more. This visualization emphasizes transparency and is easily understood by users who want to quickly assess the ethical",
+    "x": 0.1521,
+    "y": 0.7006,
+    "w": 0.6706,
+    "h": 0.0119
+   },
+   {
+    "t": "worthiness of an entity.",
+    "x": 0.1521,
+    "y": 0.7137,
+    "w": 0.127,
+    "h": 0.0117
+   },
+   {
+    "t": "Note",
+    "x": 0.1521,
+    "y": 0.7442,
+    "w": 0.0384,
+    "h": 0.016
+   },
+   {
+    "t": "On the right side there is a notes feature, which serves as a communication or collaboration space between users. There are",
+    "x": 0.1521,
+    "y": 0.7674,
+    "w": 0.6529,
+    "h": 0.0133
+   },
+   {
+    "t": "conversations from several users such as \"John Smith\" and \"You\", showing that this dashboard is not only individual, but supports",
+    "x": 0.1521,
+    "y": 0.7805,
+    "w": 0.6795,
+    "h": 0.0132
+   },
+   {
+    "t": "teamwork. The timestamp system and the name of the sender make the information structured and easily searchable. This feature",
+    "x": 0.1521,
+    "y": 0.7936,
+    "w": 0.6854,
+    "h": 0.0117
+   },
+   {
+    "t": "adds a human-centric dimension to an otherwise largely data based dashboard.",
+    "x": 0.1521,
+    "y": 0.8067,
+    "w": 0.421,
+    "h": 0.0116
+   },
+   {
+    "t": "Changes",
+    "x": 0.1516,
+    "y": 0.8391,
+    "w": 0.0732,
+    "h": 0.0171
+   },
+   {
+    "t": "The card lists recent changes made by users such as \"Devon Lane\", \"Theresa Webb\",",
+    "x": 0.1521,
+    "y": 0.8605,
+    "w": 0.4431,
+    "h": 0.0132
+   },
+   {
+    "t": "\"and others. With timestamps and short",
+    "x": 0.5908,
+    "y": 0.8619,
+    "w": 0.2142,
+    "h": 0.0117
+   },
+   {
+    "t": "descriptions, users can track who made what changes and when. This feature is essential for transparency and audit trails,",
+    "x": 0.1521,
+    "y": 0.8735,
+    "w": 0.647,
+    "h": 0.0145
+   },
+   {
+    "t": "especially in collaborative work or multi-user use.",
+    "x": 0.1521,
+    "y": 0.888,
+    "w": 0.2614,
+    "h": 0.0117
+   },
+   {
+    "t": "General Conclusions User Dashboard",
+    "x": 0.1521,
+    "y": 0.9186,
+    "w": 0.2969,
+    "h": 0.0145
+   },
+   {
+    "t": "Overall, the user dashboard is very systematically designed and informative. Consistent visual elements, a combination of numbers,",
+    "x": 0.1521,
+    "y": 0.9419,
+    "w": 0.6913,
+    "h": 0.0131
+   },
+   {
+    "t": "graphics, text, and communication, make this dashboard not only powerful in terms of analytics, but also user friendly in terms of",
+    "x": 0.1521,
+    "y": 0.9549,
+    "w": 0.678,
+    "h": 0.0117
+   },
+   {
+    "t": "functionality and collaboration. The grid layout is neat, navigation is clear, and the use of color manages to guide the user's",
+    "x": 0.1521,
+    "y": 0.9679,
+    "w": 0.6455,
+    "h": 0.0132
+   },
+   {
+    "t": "attention to important information without being overwhelming.",
+    "x": 0.1521,
+    "y": 0.9809,
+    "w": 0.3338,
+    "h": 0.0119
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "file": "b32.jpg",
+  "y0": 18383,
+  "y1": 18491,
+  "h": 108,
+  "color": 0.0,
+  "density": 0.106,
+  "lines": [
+   {
+    "t": "User Dashboard",
+    "x": 0.1526,
+    "y": 0.1111,
+    "w": 0.1294,
+    "h": 0.2158
+   },
+   {
+    "t": "This page comes from one user dashk",
+    "x": 0.1526,
+    "y": 0.5741,
+    "w": 0.1977,
+    "h": 0.1574
+   },
+   {
+    "t": "can understand this project.",
+    "x": 0.1526,
+    "y": 0.75,
+    "w": 0.1483,
+    "h": 0.1574
+   }
+  ]
+ },
+ {
+  "i": 33,
+  "file": "b33.jpg",
+  "y0": 18520,
+  "y1": 19240,
+  "h": 720,
+  "color": 3.02,
+  "density": 0.537,
+  "lines": [
+   {
+    "t": "Ir* Dashboard",
+    "x": 0.2659,
+    "y": 0.0342,
+    "w": 0.0365,
+    "h": 0.016
+   },
+   {
+    "t": "\u00bf Uners ~",
+    "x": 0.3125,
+    "y": 0.0347,
+    "w": 0.0291,
+    "h": 0.0153
+   },
+   {
+    "t": "\u2022 Security \"",
+    "x": 0.3517,
+    "y": 0.0347,
+    "w": 0.0334,
+    "h": 0.0153
+   },
+   {
+    "t": "Ea Screom Setr -",
+    "x": 0.4448,
+    "y": 0.0347,
+    "w": 0.0436,
+    "h": 0.0153
+   },
+   {
+    "t": "\u2022 Portfolio ~",
+    "x": 0.5,
+    "y": 0.0347,
+    "w": 0.0349,
+    "h": 0.0153
+   },
+   {
+    "t": "L- Proxy Voting \"",
+    "x": 0.5945,
+    "y": 0.0347,
+    "w": 0.0436,
+    "h": 0.0153
+   },
+   {
+    "t": "Screnens v",
+    "x": 0.3968,
+    "y": 0.0375,
+    "w": 0.0334,
+    "h": 0.009
+   },
+   {
+    "t": "* Scraning\"",
+    "x": 0.5465,
+    "y": 0.0375,
+    "w": 0.0349,
+    "h": 0.009
+   },
+   {
+    "t": "All Users",
+    "x": 0.2515,
+    "y": 0.0986,
+    "w": 0.0218,
+    "h": 0.0125
+   },
+   {
+    "t": "New Users",
+    "x": 0.359,
+    "y": 0.0986,
+    "w": 0.0276,
+    "h": 0.0153
+   },
+   {
+    "t": "Scroen Sets",
+    "x": 0.577,
+    "y": 0.0986,
+    "w": 0.032,
+    "h": 0.0153
+   },
+   {
+    "t": "Screens",
+    "x": 0.689,
+    "y": 0.0988,
+    "w": 0.0203,
+    "h": 0.0116
+   },
+   {
+    "t": "nhl",
+    "x": 0.3081,
+    "y": 0.1105,
+    "w": 0.0189,
+    "h": 0.032
+   },
+   {
+    "t": "398",
+    "x": 0.2515,
+    "y": 0.1221,
+    "w": 0.0174,
+    "h": 0.0174
+   },
+   {
+    "t": "50",
+    "x": 0.3605,
+    "y": 0.1221,
+    "w": 0.0131,
+    "h": 0.0145
+   },
+   {
+    "t": "690",
+    "x": 0.4695,
+    "y": 0.1221,
+    "w": 0.0189,
+    "h": 0.0174
+   },
+   {
+    "t": "260",
+    "x": 0.5785,
+    "y": 0.1221,
+    "w": 0.0189,
+    "h": 0.0174
+   },
+   {
+    "t": "398",
+    "x": 0.689,
+    "y": 0.1221,
+    "w": 0.0174,
+    "h": 0.0174
+   },
+   {
+    "t": "1 Users",
+    "x": 0.2384,
+    "y": 0.2,
+    "w": 0.0247,
+    "h": 0.0153
+   },
+   {
+    "t": "in Company Statistic",
+    "x": 0.5,
+    "y": 0.2035,
+    "w": 0.0552,
+    "h": 0.0146
+   },
+   {
+    "t": "\u2022 Note",
+    "x": 0.6628,
+    "y": 0.2035,
+    "w": 0.0233,
+    "h": 0.0146
+   },
+   {
+    "t": "cooneSmith",
+    "x": 0.6759,
+    "y": 0.2907,
+    "w": 0.0262,
+    "h": 0.0058
+   },
+   {
+    "t": "Johe Smith",
+    "x": 0.6773,
+    "y": 0.4012,
+    "w": 0.0276,
+    "h": 0.0145
+   },
+   {
+    "t": "Adduser",
+    "x": 0.609,
+    "y": 0.468,
+    "w": 0.0189,
+    "h": 0.0116
+   },
+   {
+    "t": "Roke 1",
+    "x": 0.3358,
+    "y": 0.5083,
+    "w": 0.0174,
+    "h": 0.0153
+   },
+   {
+    "t": "Email t",
+    "x": 0.3823,
+    "y": 0.5083,
+    "w": 0.0189,
+    "h": 0.0125
+   },
+   {
+    "t": "Phone timber It",
+    "x": 0.4898,
+    "y": 0.5083,
+    "w": 0.0349,
+    "h": 0.0153
+   },
+   {
+    "t": "Kamee",
+    "x": 0.2456,
+    "y": 0.5116,
+    "w": 0.0203,
+    "h": 0.0058
+   },
+   {
+    "t": "\u2022 Changes",
+    "x": 0.6628,
+    "y": 0.5347,
+    "w": 0.032,
+    "h": 0.0153
+   },
+   {
+    "t": "(amesevengoleta@amyspy.com",
+    "x": 0.3837,
+    "y": 0.5465,
+    "w": 0.0581,
+    "h": 0.0116
+   },
+   {
+    "t": "ASYm",
+    "x": 0.3358,
+    "y": 0.5494,
+    "w": 0.0131,
+    "h": 0.0058
+   },
+   {
+    "t": "+10624534",
+    "x": 0.4913,
+    "y": 0.5494,
+    "w": 0.0291,
+    "h": 0.0058
+   },
+   {
+    "t": "Jerome Bet",
+    "x": 0.2558,
+    "y": 0.5872,
+    "w": 0.0262,
+    "h": 0.0116
+   },
+   {
+    "t": "Admin",
+    "x": 0.3358,
+    "y": 0.5872,
+    "w": 0.0145,
+    "h": 0.0145
+   },
+   {
+    "t": "jomesvongefeta@amespy.com",
+    "x": 0.3823,
+    "y": 0.5872,
+    "w": 0.0596,
+    "h": 0.0145
+   },
+   {
+    "t": "+56784424654",
+    "x": 0.4898,
+    "y": 0.5872,
+    "w": 0.032,
+    "h": 0.0116
+   },
+   {
+    "t": "Robert Fov",
+    "x": 0.2573,
+    "y": 0.6278,
+    "w": 0.0218,
+    "h": 0.0153
+   },
+   {
+    "t": "+58 784424654",
+    "x": 0.4913,
+    "y": 0.6278,
+    "w": 0.0291,
+    "h": 0.0153
+   },
+   {
+    "t": "Admin",
+    "x": 0.3358,
+    "y": 0.6279,
+    "w": 0.0145,
+    "h": 0.0145
+   },
+   {
+    "t": "ismewvenge/etstamysay.com",
+    "x": 0.3823,
+    "y": 0.6279,
+    "w": 0.0596,
+    "h": 0.0174
+   },
+   {
+    "t": "\u2022Ain.-",
+    "x": 0.5596,
+    "y": 0.6308,
+    "w": 0.0233,
+    "h": 0.0087
+   },
+   {
+    "t": "e.",
+    "x": 0.2471,
+    "y": 0.6686,
+    "w": 0.0087,
+    "h": 0.0174
+   },
+   {
+    "t": "Admin",
+    "x": 0.3358,
+    "y": 0.6715,
+    "w": 0.0145,
+    "h": 0.0116
+   },
+   {
+    "t": "Abert Fores",
+    "x": 0.6788,
+    "y": 0.686,
+    "w": 0.0262,
+    "h": 0.0116
+   },
+   {
+    "t": "Admin",
+    "x": 0.3358,
+    "y": 0.7122,
+    "w": 0.0145,
+    "h": 0.0116
+   },
+   {
+    "t": "Ralph Edwards i",
+    "x": 0.2558,
+    "y": 0.7151,
+    "w": 0.0305,
+    "h": 0.0087
+   },
+   {
+    "t": "18 to",
+    "x": 0.5727,
+    "y": 0.7151,
+    "w": 0.016,
+    "h": 0.0145
+   },
+   {
+    "t": "L Dow",
+    "x": 0.5741,
+    "y": 0.7384,
+    "w": 0.016,
+    "h": 0.0089
+   },
+   {
+    "t": "+56 7844 24654",
+    "x": 0.4913,
+    "y": 0.7528,
+    "w": 0.0291,
+    "h": 0.0153
+   },
+   {
+    "t": "Admin",
+    "x": 0.3358,
+    "y": 0.7529,
+    "w": 0.0145,
+    "h": 0.0145
+   },
+   {
+    "t": "S NOT FONOS",
+    "x": 0.2471,
+    "y": 0.7931,
+    "w": 0.0363,
+    "h": 0.0181
+   },
+   {
+    "t": "+58784424654",
+    "x": 0.4913,
+    "y": 0.7936,
+    "w": 0.0291,
+    "h": 0.0145
+   },
+   {
+    "t": "Admin",
+    "x": 0.3358,
+    "y": 0.7965,
+    "w": 0.0145,
+    "h": 0.0145
+   },
+   {
+    "t": "\u00ae LesieNoande",
+    "x": 0.2471,
+    "y": 0.8343,
+    "w": 0.0422,
+    "h": 0.0174
+   },
+   {
+    "t": "Admin",
+    "x": 0.3358,
+    "y": 0.8372,
+    "w": 0.0145,
+    "h": 0.0145
+   },
+   {
+    "t": "-567844 24554",
+    "x": 0.4913,
+    "y": 0.8372,
+    "w": 0.0291,
+    "h": 0.0116
+   },
+   {
+    "t": "Active",
+    "x": 0.564,
+    "y": 0.8372,
+    "w": 0.016,
+    "h": 0.0116
+   },
+   {
+    "t": "\u2022 Activ",
+    "x": 0.5625,
+    "y": 0.8778,
+    "w": 0.0145,
+    "h": 0.0153
+   },
+   {
+    "t": "Admin",
+    "x": 0.3358,
+    "y": 0.8779,
+    "w": 0.0145,
+    "h": 0.0145
+   }
+  ]
+ },
+ {
+  "i": 34,
+  "file": "b34.jpg",
+  "y0": 19273,
+  "y1": 20227,
+  "h": 954,
+  "color": 0.0,
+  "density": 0.262,
+  "lines": [
+   {
+    "t": "Key Metrics Summary",
+    "x": 0.1526,
+    "y": 0.0132,
+    "w": 0.1744,
+    "h": 0.0288
+   },
+   {
+    "t": "volume, giving administrators quick access to overall system pertormance.",
+    "x": 0.1526,
+    "y": 0.1118,
+    "w": 0.3939,
+    "h": 0.0175
+   },
+   {
+    "t": "Users Chart",
+    "x": 0.1526,
+    "y": 0.1579,
+    "w": 0.0974,
+    "h": 0.0245
+   },
+   {
+    "t": "This section displays a line graph depicting user activity trends for a full year, from January to December. Users can filter the view",
+    "x": 0.1526,
+    "y": 0.195,
+    "w": 0.6817,
+    "h": 0.0178
+   },
+   {
+    "t": "based on daily, weekly, and monthly options, allowing for granular analysis of fluctuations in system usage. This data is important",
+    "x": 0.1526,
+    "y": 0.2127,
+    "w": 0.6802,
+    "h": 0.02
+   },
+   {
+    "t": "for admins to understand patterns of growth or decline in activity, and can inform strategic decisions, such as increasing",
+    "x": 0.1512,
+    "y": 0.2346,
+    "w": 0.6337,
+    "h": 0.0201
+   },
+   {
+    "t": "engagement or customizing features.",
+    "x": 0.1526,
+    "y": 0.2544,
+    "w": 0.1977,
+    "h": 0.0175
+   },
+   {
+    "t": "Company Statistic",
+    "x": 0.1526,
+    "y": 0.3026,
+    "w": 0.1468,
+    "h": 0.0265
+   },
+   {
+    "t": "This section presents an interactive doughnut diagram that shows the total number of companies that have passed or failed the",
+    "x": 0.1526,
+    "y": 0.3375,
+    "w": 0.6715,
+    "h": 0.0178
+   },
+   {
+    "t": "screening process. With a total of 6,929 companies passing (Pass) and 919 companies failing (Fail), admins can understand how",
+    "x": 0.1526,
+    "y": 0.3553,
+    "w": 0.6744,
+    "h": 0.0221
+   },
+   {
+    "t": "many companies match certain moral values or criteria. Green and red colors are used to distinguish these two statuses intuitively.",
+    "x": 0.1526,
+    "y": 0.3772,
+    "w": 0.686,
+    "h": 0.0201
+   },
+   {
+    "t": "This information provides a macro overview of the integrity of the portfolio analyzed in the system.",
+    "x": 0.1526,
+    "y": 0.3969,
+    "w": 0.5189,
+    "h": 0.0175
+   },
+   {
+    "t": "Recent Added User",
+    "x": 0.1526,
+    "y": 0.4452,
+    "w": 0.1555,
+    "h": 0.0223
+   },
+   {
+    "t": "The main part of this page is a table of recent users who have been added to the system. This table contains important data such",
+    "x": 0.1526,
+    "y": 0.4801,
+    "w": 0.6817,
+    "h": 0.0199
+   },
+   {
+    "t": "as: username, admin role (in the example page), email, phone number, active/nonactive status, and actions with three dots",
+    "x": 0.1526,
+    "y": 0.5,
+    "w": 0.6439,
+    "h": 0.0199
+   },
+   {
+    "t": "containing view details, edit, and delete.",
+    "x": 0.1525,
+    "y": 0.5195,
+    "w": 0.2138,
+    "h": 0.0237
+   },
+   {
+    "t": "The table design is clean and scalable, suitable for managing large amounts of data. Actions are available via a vertical three dots",
+    "x": 0.1526,
+    "y": 0.5614,
+    "w": 0.6802,
+    "h": 0.0175
+   },
+   {
+    "t": "icon that opens a context (dropdown) menu, providing a safer and less confusing user experience.",
+    "x": 0.1512,
+    "y": 0.5807,
+    "w": 0.5203,
+    "h": 0.0202
+   },
+   {
+    "t": "Note",
+    "x": 0.1526,
+    "y": 0.6294,
+    "w": 0.0392,
+    "h": 0.0219
+   },
+   {
+    "t": "Changes (Activity Log)",
+    "x": 0.1526,
+    "y": 0.75,
+    "w": 0.1831,
+    "h": 0.0288
+   },
+   {
+    "t": "when, and to what objects. This is essential for systems that require transparency and access control.",
+    "x": 0.1526,
+    "y": 0.8268,
+    "w": 0.5363,
+    "h": 0.0202
+   },
+   {
+    "t": "General Conclusions Admin Dashboard",
+    "x": 0.1526,
+    "y": 0.8728,
+    "w": 0.311,
+    "h": 0.0266
+   },
+   {
+    "t": "Overall, the Admin Dashboard is designed with a focus on managing the system and users efficiently. Each section has a clear",
+    "x": 0.1526,
+    "y": 0.9099,
+    "w": 0.6628,
+    "h": 0.0222
+   },
+   {
+    "t": "purpose: to present concise yet critical data, make it easy to monitor user activity, and ensure full control over incoming and",
+    "x": 0.1526,
+    "y": 0.9319,
+    "w": 0.6497,
+    "h": 0.0178
+   },
+   {
+    "t": "outgoing information. The layout is grid-based and responsive, with a good visual hierarchy between metric elements, graphs, and",
+    "x": 0.1526,
+    "y": 0.9518,
+    "w": 0.6846,
+    "h": 0.0199
+   },
+   {
+    "t": "data tables. This makes the dashboard not only informative, but also easy to use in administrative decision-making.",
+    "x": 0.1526,
+    "y": 0.9715,
+    "w": 0.6076,
+    "h": 0.0201
+   }
+  ]
+ },
+ {
+  "i": 35,
+  "file": "b35.jpg",
+  "y0": 20264,
+  "y1": 20421,
+  "h": 157,
+  "color": 0.0,
+  "density": 0.136,
+  "lines": [
+   {
+    "t": "Application",
+    "x": 0.1511,
+    "y": 0.0517,
+    "w": 0.0916,
+    "h": 0.1729
+   },
+   {
+    "t": "In the application section, I will show some of the pages that are featured on this platform, starting from sign up/login and",
+    "x": 0.1511,
+    "y": 0.3435,
+    "w": 0.6396,
+    "h": 0.15
+   },
+   {
+    "t": "continuing with how the featured features can be used.",
+    "x": 0.1526,
+    "y": 0.4868,
+    "w": 0.2922,
+    "h": 0.1081
+   },
+   {
+    "t": "Authentication Pages: Login & Sign Up",
+    "x": 0.1512,
+    "y": 0.75,
+    "w": 0.3081,
+    "h": 0.1741
+   }
+  ]
+ },
+ {
+  "i": 36,
+  "file": "b36.jpg",
+  "y0": 20448,
+  "y1": 20967,
+  "h": 519,
+  "color": 4.16,
+  "density": 0.275,
+  "lines": [
+   {
+    "t": "4:20",
+    "x": 0.5203,
+    "y": 0.0442,
+    "w": 0.0145,
+    "h": 0.012
+   },
+   {
+    "t": "4:20",
+    "x": 0.3576,
+    "y": 0.0884,
+    "w": 0.0145,
+    "h": 0.012
+   },
+   {
+    "t": "SANCTIFY",
+    "x": 0.5625,
+    "y": 0.2289,
+    "w": 0.0422,
+    "h": 0.0201
+   },
+   {
+    "t": "SANCTIFY",
+    "x": 0.3996,
+    "y": 0.3161,
+    "w": 0.0423,
+    "h": 0.0264
+   },
+   {
+    "t": "Email Addres:",
+    "x": 0.3547,
+    "y": 0.4288,
+    "w": 0.0349,
+    "h": 0.0135
+   },
+   {
+    "t": "Dahsng@email.com",
+    "x": 0.3619,
+    "y": 0.4779,
+    "w": 0.0509,
+    "h": 0.012
+   },
+   {
+    "t": "Businots Emal",
+    "x": 0.5174,
+    "y": 0.5096,
+    "w": 0.0363,
+    "h": 0.0125
+   },
+   {
+    "t": "Tuna waur husinees amal",
+    "x": 0.5247,
+    "y": 0.5538,
+    "w": 0.0596,
+    "h": 0.0124
+   },
+   {
+    "t": "Comnany flane",
+    "x": 0.5174,
+    "y": 0.6185,
+    "w": 0.0407,
+    "h": 0.0084
+   },
+   {
+    "t": "\u2022 Remember me",
+    "x": 0.3561,
+    "y": 0.6538,
+    "w": 0.0407,
+    "h": 0.0173
+   },
+   {
+    "t": "Tyne your company name",
+    "x": 0.5262,
+    "y": 0.6627,
+    "w": 0.061,
+    "h": 0.0123
+   },
+   {
+    "t": "Login",
+    "x": 0.4041,
+    "y": 0.7108,
+    "w": 0.048,
+    "h": 0.0321
+   },
+   {
+    "t": "Dhana Alinha",
+    "x": 0.5174,
+    "y": 0.7229,
+    "w": 0.0363,
+    "h": 0.008
+   },
+   {
+    "t": "Tune wout nheee rumbat",
+    "x": 0.5247,
+    "y": 0.7671,
+    "w": 0.0596,
+    "h": 0.012
+   },
+   {
+    "t": "Sign Ub",
+    "x": 0.5581,
+    "y": 0.8385,
+    "w": 0.0363,
+    "h": 0.0212
+   },
+   {
+    "t": "Stal don't hawe account? Sian up",
+    "x": 0.3735,
+    "y": 0.8673,
+    "w": 0.0901,
+    "h": 0.0162
+   },
+   {
+    "t": "Atenh, ha opani?Sian ta",
+    "x": 0.5334,
+    "y": 0.9115,
+    "w": 0.0858,
+    "h": 0.0122
+   }
+  ]
+ },
+ {
+  "i": 37,
+  "file": "b37.jpg",
+  "y0": 20998,
+  "y1": 21429,
+  "h": 431,
+  "color": 0.0,
+  "density": 0.337,
+  "lines": [
+   {
+    "t": "The Login page of the Sanctify app is designed with a minimalist and clean approach, emphasizing speed of access and an intuitive",
+    "x": 0.1526,
+    "y": 0.029,
+    "w": 0.6904,
+    "h": 0.0435
+   },
+   {
+    "t": "user experience. At the top, the Sanctify logo serves as an instantly recognizable brand identity, reinforcing the brand's visual",
+    "x": 0.1526,
+    "y": 0.0718,
+    "w": 0.6613,
+    "h": 0.0442
+   },
+   {
+    "t": "consistency throughout the app. The login form consists of two main fields, namely email address and password. Below the form is",
+    "x": 0.1526,
+    "y": 0.1204,
+    "w": 0.6875,
+    "h": 0.0394
+   },
+   {
+    "t": "a \"Remember me\" feature as an additional option to keep the user session active without re logging in, as well as a \"Reset",
+    "x": 0.1526,
+    "y": 0.1594,
+    "w": 0.6395,
+    "h": 0.0443
+   },
+   {
+    "t": "Password?\" link on the right side as an account recovery path if the user forgets their password. The lower part closes with a solid",
+    "x": 0.1526,
+    "y": 0.2077,
+    "w": 0.6831,
+    "h": 0.0386
+   },
+   {
+    "t": "green action button that reads \"Log In\" which becomes the main element of the CTA. For new users, there is an informative link \"Still",
+    "x": 0.1526,
+    "y": 0.2454,
+    "w": 0.6948,
+    "h": 0.0445
+   },
+   {
+    "t": "don't have an account? Sign up\" written in a light style and emphasizing the green color on the 'Sign up' text to show interactivity.",
+    "x": 0.1526,
+    "y": 0.2894,
+    "w": 0.6802,
+    "h": 0.044
+   },
+   {
+    "t": "The Sign Up page provides a more comprehensive registration form for new users who want to create an account on the Sanctify",
+    "x": 0.1526,
+    "y": 0.3816,
+    "w": 0.6788,
+    "h": 0.0397
+   },
+   {
+    "t": "platform. Its layout maintains a simple yet functional and business oriented approach, as the platform appears to target professional",
+    "x": 0.1526,
+    "y": 0.4251,
+    "w": 0.6919,
+    "h": 0.0435
+   },
+   {
+    "t": "or corporate users. The form includes input fields for first name and last name, business email, company name, and phone number.",
+    "x": 0.1526,
+    "y": 0.4676,
+    "w": 0.6875,
+    "h": 0.0445
+   },
+   {
+    "t": "A green \"Sign Up\" button serves as the primary CTA to complete the registration process. Similar to the login page, the bottom",
+    "x": 0.1526,
+    "y": 0.5116,
+    "w": 0.6657,
+    "h": 0.044
+   },
+   {
+    "t": "section offers a prompt for existing users with the text \"Already have an account? Sign In,\" with emphasis on \"Sign In\" to indicate",
+    "x": 0.1526,
+    "y": 0.5556,
+    "w": 0.6744,
+    "h": 0.0486
+   },
+   {
+    "t": "interactivity.",
+    "x": 0.1523,
+    "y": 0.598,
+    "w": 0.0661,
+    "h": 0.0423
+   },
+   {
+    "t": "In conclusion, both authentication pages are designed with a clean, user-friendly, and professional structure. The use of green as",
+    "x": 0.1526,
+    "y": 0.6852,
+    "w": 0.6788,
+    "h": 0.0443
+   },
+   {
+    "t": "the primary color reinforces the brand identity of Sanctify, which reflects values of sustainability and ethics. The placement of",
+    "x": 0.1526,
+    "y": 0.7294,
+    "w": 0.6614,
+    "h": 0.0506
+   },
+   {
+    "t": "elements, color contrast, and clear language all contribute to an efficient and easy to understand entry flow, suitable for both new",
+    "x": 0.1526,
+    "y": 0.7778,
+    "w": 0.6817,
+    "h": 0.0394
+   },
+   {
+    "t": "and returning users.",
+    "x": 0.1526,
+    "y": 0.8213,
+    "w": 0.1076,
+    "h": 0.0386
+   },
+   {
+    "t": "Add Screenset",
+    "x": 0.1512,
+    "y": 0.9227,
+    "w": 0.1206,
+    "h": 0.0483
+   }
+  ]
+ },
+ {
+  "i": 38,
+  "file": "b38.jpg",
+  "y0": 21460,
+  "y1": 22759,
+  "h": 1299,
+  "color": 1.82,
+  "density": 0.412,
+  "lines": [
+   {
+    "t": "4:20",
+    "x": 0.5203,
+    "y": 0.0322,
+    "w": 0.016,
+    "h": 0.0081
+   },
+   {
+    "t": "Add Screen Sets",
+    "x": 0.5596,
+    "y": 0.0499,
+    "w": 0.0494,
+    "h": 0.0081
+   },
+   {
+    "t": "4:20",
+    "x": 0.3576,
+    "y": 0.0628,
+    "w": 0.016,
+    "h": 0.0081
+   },
+   {
+    "t": "Solect Screenset",
+    "x": 0.6802,
+    "y": 0.0628,
+    "w": 0.0422,
+    "h": 0.0064
+   },
+   {
+    "t": "\u2039Back",
+    "x": 0.3561,
+    "y": 0.0789,
+    "w": 0.0218,
+    "h": 0.0097
+   },
+   {
+    "t": "Add Screenset Sets Value",
+    "x": 0.391,
+    "y": 0.0805,
+    "w": 0.0756,
+    "h": 0.0081
+   },
+   {
+    "t": "Enter screen set name",
+    "x": 0.5247,
+    "y": 0.0998,
+    "w": 0.0538,
+    "h": 0.0048
+   },
+   {
+    "t": "4:20",
+    "x": 0.1962,
+    "y": 0.1014,
+    "w": 0.0145,
+    "h": 0.0081
+   },
+   {
+    "t": "Selected Screens",
+    "x": 0.3561,
+    "y": 0.1127,
+    "w": 0.0552,
+    "h": 0.0081
+   },
+   {
+    "t": "\u2039Back",
+    "x": 0.1933,
+    "y": 0.1176,
+    "w": 0.0218,
+    "h": 0.0081
+   },
+   {
+    "t": "Add Screen",
+    "x": 0.234,
+    "y": 0.1192,
+    "w": 0.0363,
+    "h": 0.0081
+   },
+   {
+    "t": "Select Screens",
+    "x": 0.5174,
+    "y": 0.1254,
+    "w": 0.048,
+    "h": 0.0085
+   },
+   {
+    "t": "Environment",
+    "x": 0.3547,
+    "y": 0.1353,
+    "w": 0.0334,
+    "h": 0.0081
+   },
+   {
+    "t": "Chilan Fiream",
+    "x": 0.6904,
+    "y": 0.1415,
+    "w": 0.0363,
+    "h": 0.0085
+   },
+   {
+    "t": "99.5%",
+    "x": 0.7805,
+    "y": 0.1449,
+    "w": 0.0174,
+    "h": 0.0081
+   },
+   {
+    "t": "Production",
+    "x": 0.6904,
+    "y": 0.1498,
+    "w": 0.0247,
+    "h": 0.0048
+   },
+   {
+    "t": "Select Category",
+    "x": 0.1919,
+    "y": 0.1514,
+    "w": 0.0422,
+    "h": 0.0081
+   },
+   {
+    "t": "Coal Means",
+    "x": 0.3547,
+    "y": 0.1546,
+    "w": 0.0276,
+    "h": 0.0048
+   },
+   {
+    "t": "Communiat Chinese",
+    "x": 0.6904,
+    "y": 0.1608,
+    "w": 0.0451,
+    "h": 0.0085
+   },
+   {
+    "t": ") Adult Cortant Providor",
+    "x": 0.5203,
+    "y": 0.1623,
+    "w": 0.0596,
+    "h": 0.0085
+   },
+   {
+    "t": "970%",
+    "x": 0.7805,
+    "y": 0.1643,
+    "w": 0.0174,
+    "h": 0.0081
+   },
+   {
+    "t": "Select Category",
+    "x": 0.2006,
+    "y": 0.1691,
+    "w": 0.0407,
+    "h": 0.0081
+   },
+   {
+    "t": "minoyerest",
+    "x": 0.6904,
+    "y": 0.1707,
+    "w": 0.0392,
+    "h": 0.0032
+   },
+   {
+    "t": "FrOSTON",
+    "x": 0.3547,
+    "y": 0.1787,
+    "w": 0.0262,
+    "h": 0.0032
+   },
+   {
+    "t": "UNAcul Cornere Citribution",
+    "x": 0.5203,
+    "y": 0.18,
+    "w": 0.0654,
+    "h": 0.0038
+   },
+   {
+    "t": "controversis hoopor",
+    "x": 0.6904,
+    "y": 0.1836,
+    "w": 0.0509,
+    "h": 0.0049
+   },
+   {
+    "t": "\u00b7 99,7%",
+    "x": 0.7791,
+    "y": 0.1868,
+    "w": 0.0174,
+    "h": 0.0048
+   },
+   {
+    "t": "Production",
+    "x": 0.6904,
+    "y": 0.1884,
+    "w": 0.0291,
+    "h": 0.0064
+   },
+   {
+    "t": "Posse Fuel Marketing",
+    "x": 0.3547,
+    "y": 0.1931,
+    "w": 0.0465,
+    "h": 0.005
+   },
+   {
+    "t": "Screen",
+    "x": 0.1933,
+    "y": 0.1948,
+    "w": 0.0203,
+    "h": 0.0081
+   },
+   {
+    "t": "Environment",
+    "x": 0.5174,
+    "y": 0.1965,
+    "w": 0.0334,
+    "h": 0.0064
+   },
+   {
+    "t": "pastory wonpor",
+    "x": 0.6904,
+    "y": 0.2045,
+    "w": 0.0378,
+    "h": 0.0048
+   },
+   {
+    "t": "Production",
+    "x": 0.6904,
+    "y": 0.2093,
+    "w": 0.0276,
+    "h": 0.0064
+   },
+   {
+    "t": "Fossil Fuel Refining",
+    "x": 0.3547,
+    "y": 0.2108,
+    "w": 0.0436,
+    "h": 0.0085
+   },
+   {
+    "t": "485%",
+    "x": 0.4419,
+    "y": 0.2126,
+    "w": 0.0203,
+    "h": 0.0032
+   },
+   {
+    "t": "Select Screen",
+    "x": 0.2006,
+    "y": 0.2138,
+    "w": 0.032,
+    "h": 0.0038
+   },
+   {
+    "t": "Coal Mining",
+    "x": 0.5262,
+    "y": 0.2138,
+    "w": 0.0291,
+    "h": 0.0054
+   },
+   {
+    "t": "near verone",
+    "x": 0.6904,
+    "y": 0.2254,
+    "w": 0.0392,
+    "h": 0.0033
+   },
+   {
+    "t": "Fossil Fuel Exploration & Production",
+    "x": 0.5276,
+    "y": 0.2269,
+    "w": 0.0785,
+    "h": 0.0085
+   },
+   {
+    "t": "Fossil Fuel Sorvices",
+    "x": 0.3547,
+    "y": 0.23,
+    "w": 0.0451,
+    "h": 0.0085
+   },
+   {
+    "t": "Production",
+    "x": 0.6904,
+    "y": 0.2319,
+    "w": 0.0262,
+    "h": 0.0032
+   },
+   {
+    "t": "MAckit Content Provider",
+    "x": 0.2006,
+    "y": 0.2351,
+    "w": 0.061,
+    "h": 0.0081
+   },
+   {
+    "t": "Fossil Fuel Marketing",
+    "x": 0.5276,
+    "y": 0.2415,
+    "w": 0.048,
+    "h": 0.0081
+   },
+   {
+    "t": "Adit Conten Discibution",
+    "x": 0.2006,
+    "y": 0.2492,
+    "w": 0.0669,
+    "h": 0.0085
+   },
+   {
+    "t": "Fossil Fuel Transportation",
+    "x": 0.3547,
+    "y": 0.2492,
+    "w": 0.0581,
+    "h": 0.0085
+   },
+   {
+    "t": "55.0M",
+    "x": 0.4419,
+    "y": 0.2512,
+    "w": 0.0203,
+    "h": 0.0048
+   },
+   {
+    "t": "Smoking",
+    "x": 0.3561,
+    "y": 0.2738,
+    "w": 0.0233,
+    "h": 0.0081
+   },
+   {
+    "t": "020 Solves",
+    "x": 0.5262,
+    "y": 0.2738,
+    "w": 0.0451,
+    "h": 0.0032
+   },
+   {
+    "t": "Environment",
+    "x": 0.6904,
+    "y": 0.277,
+    "w": 0.0378,
+    "h": 0.0064
+   },
+   {
+    "t": "Add Screen",
+    "x": 0.202,
+    "y": 0.2831,
+    "w": 0.0334,
+    "h": 0.01
+   },
+   {
+    "t": "Posal Post Trapornor",
+    "x": 0.5218,
+    "y": 0.2882,
+    "w": 0.061,
+    "h": 0.0048
+   },
+   {
+    "t": "78.9%",
+    "x": 0.4419,
+    "y": 0.2899,
+    "w": 0.0218,
+    "h": 0.0081
+   },
+   {
+    "t": "Coal Minico",
+    "x": 0.6904,
+    "y": 0.3008,
+    "w": 0.0276,
+    "h": 0.0085
+   },
+   {
+    "t": "99.5%",
+    "x": 0.7805,
+    "y": 0.3011,
+    "w": 0.0174,
+    "h": 0.0081
+   },
+   {
+    "t": "Medical Ethics",
+    "x": 0.5174,
+    "y": 0.3043,
+    "w": 0.0378,
+    "h": 0.0081
+   },
+   {
+    "t": "E-Cigerette Production",
+    "x": 0.3547,
+    "y": 0.3092,
+    "w": 0.0523,
+    "h": 0.0081
+   },
+   {
+    "t": "79.79",
+    "x": 0.4419,
+    "y": 0.3108,
+    "w": 0.0203,
+    "h": 0.0048
+   },
+   {
+    "t": "Fossi Pue exprotons",
+    "x": 0.6904,
+    "y": 0.3169,
+    "w": 0.0523,
+    "h": 0.0038
+   },
+   {
+    "t": "Abortion Provider",
+    "x": 0.5276,
+    "y": 0.3205,
+    "w": 0.0407,
+    "h": 0.0081
+   },
+   {
+    "t": "Production",
+    "x": 0.6904,
+    "y": 0.3205,
+    "w": 0.0262,
+    "h": 0.0081
+   },
+   {
+    "t": "Tobacco Product Production",
+    "x": 0.3547,
+    "y": 0.33,
+    "w": 0.0654,
+    "h": 0.0085
+   },
+   {
+    "t": "Acute Care Faclity Operations",
+    "x": 0.5262,
+    "y": 0.3346,
+    "w": 0.0698,
+    "h": 0.0085
+   },
+   {
+    "t": "Fosst Fuel Rafiring",
+    "x": 0.6904,
+    "y": 0.3477,
+    "w": 0.0465,
+    "h": 0.0085
+   },
+   {
+    "t": "99.7%",
+    "x": 0.7805,
+    "y": 0.3478,
+    "w": 0.0174,
+    "h": 0.0081
+   },
+   {
+    "t": "\u2022 Human Reproductive Material Storage",
+    "x": 0.5188,
+    "y": 0.3638,
+    "w": 0.0932,
+    "h": 0.0099
+   },
+   {
+    "t": "Foss Pue transportation",
+    "x": 0.689,
+    "y": 0.3638,
+    "w": 0.0567,
+    "h": 0.0049
+   },
+   {
+    "t": "98.2",
+    "x": 0.4419,
+    "y": 0.3704,
+    "w": 0.0145,
+    "h": 0.0081
+   },
+   {
+    "t": "\u2022 Embryo Testing",
+    "x": 0.5189,
+    "y": 0.38,
+    "w": 0.0451,
+    "h": 0.0085
+   },
+   {
+    "t": "Communist Chinete Mlitary",
+    "x": 0.3547,
+    "y": 0.3881,
+    "w": 0.064,
+    "h": 0.0081
+   },
+   {
+    "t": "Human Cloning Research",
+    "x": 0.5276,
+    "y": 0.3945,
+    "w": 0.0567,
+    "h": 0.0081
+   },
+   {
+    "t": "Company",
+    "x": 0.3561,
+    "y": 0.3961,
+    "w": 0.0233,
+    "h": 0.0081
+   },
+   {
+    "t": "For More Access Buy Our",
+    "x": 0.7035,
+    "y": 0.3992,
+    "w": 0.0799,
+    "h": 0.01
+   },
+   {
+    "t": "\u2192 Human Embryonic Stem Cell Usage",
+    "x": 0.5218,
+    "y": 0.409,
+    "w": 0.0843,
+    "h": 0.0081
+   },
+   {
+    "t": "Contraversial Weapon Production",
+    "x": 0.3547,
+    "y": 0.4106,
+    "w": 0.0756,
+    "h": 0.0064
+   },
+   {
+    "t": "Subsciption Plan",
+    "x": 0.718,
+    "y": 0.4106,
+    "w": 0.0523,
+    "h": 0.0081
+   },
+   {
+    "t": "Puman row taste Usage",
+    "x": 0.5262,
+    "y": 0.4267,
+    "w": 0.0581,
+    "h": 0.0048
+   },
+   {
+    "t": "Sawe Screen Set",
+    "x": 0.4128,
+    "y": 0.4392,
+    "w": 0.0392,
+    "h": 0.0085
+   },
+   {
+    "t": "aalbole duning the 14-by Hee Inal: Once your fred",
+    "x": 0.6817,
+    "y": 0.4392,
+    "w": 0.1221,
+    "h": 0.0054
+   },
+   {
+    "t": "DUCH",
+    "x": 0.3692,
+    "y": 0.4428,
+    "w": 0.0116,
+    "h": 0.0032
+   },
+   {
+    "t": "trial is over, you will be charged the subscription",
+    "x": 0.6875,
+    "y": 0.4461,
+    "w": 0.1119,
+    "h": 0.0081
+   },
+   {
+    "t": "Save and Continue",
+    "x": 0.5727,
+    "y": 0.4538,
+    "w": 0.0451,
+    "h": 0.0085
+   },
+   {
+    "t": "Concol",
+    "x": 0.5291,
+    "y": 0.4541,
+    "w": 0.0189,
+    "h": 0.0064
+   },
+   {
+    "t": "View Pricing Plan",
+    "x": 0.7224,
+    "y": 0.4799,
+    "w": 0.0422,
+    "h": 0.0081
+   },
+   {
+    "t": "This section showcases the Add Screenset flow on the Sanctify platform. Although this feature is also available on the desktop",
+    "x": 0.1526,
+    "y": 0.5523,
+    "w": 0.6657,
+    "h": 0.0146
+   },
+   {
+    "t": "version, only the mobile version is presented here due to its simpler and more compact layout, which allows all four pages to be",
+    "x": 0.1526,
+    "y": 0.5684,
+    "w": 0.6686,
+    "h": 0.0146
+   },
+   {
+    "t": "displayed within a single section. The following is a walkthrough of how the Add Screenset process works in Sanctify, starting from",
+    "x": 0.1526,
+    "y": 0.5829,
+    "w": 0.6875,
+    "h": 0.0148
+   },
+   {
+    "t": "the leftmost page and progressing to the right.",
+    "x": 0.1526,
+    "y": 0.5974,
+    "w": 0.2471,
+    "h": 0.0145
+   },
+   {
+    "t": "Users begin the process on the first screen, Add Screen, where they can select a category and relevant screener through dropdown",
+    "x": 0.1526,
+    "y": 0.6262,
+    "w": 0.6948,
+    "h": 0.0147
+   },
+   {
+    "t": "menus. The clean and minimalist interface allows users to focus on selecting the appropriate screening content, such as \"Adult",
+    "x": 0.1526,
+    "y": 0.6408,
+    "w": 0.6657,
+    "h": 0.0146
+   },
+   {
+    "t": "Content Provider\" or \"Adult Content Distribution.\" Once a screener is selected, users can tap the green \"Add Screen\" button to",
+    "x": 0.1526,
+    "y": 0.6554,
+    "w": 0.6613,
+    "h": 0.0162
+   },
+   {
+    "t": "proceed to the next step.",
+    "x": 0.1526,
+    "y": 0.6715,
+    "w": 0.1352,
+    "h": 0.0131
+   },
+   {
+    "t": "After the screener has been added, users are directed to the second screen, Add Screenset Sets Value. In this stage, all previously",
+    "x": 0.1526,
+    "y": 0.7005,
+    "w": 0.6875,
+    "h": 0.0145
+   },
+   {
+    "t": "selected screeners are displayed and grouped under categories such as Environment, Smoking, and Weapons. Each screener is",
+    "x": 0.1526,
+    "y": 0.7146,
+    "w": 0.6701,
+    "h": 0.0165
+   },
+   {
+    "t": "accompanied by a percentage field that allows users to assign a weight or impact value based on their specific ethical policies. A",
+    "x": 0.1512,
+    "y": 0.7292,
+    "w": 0.6788,
+    "h": 0.0147
+   },
+   {
+    "t": "delete icon is available next to each item, offering flexibility in managing the list. This screen provides granular control, enabling",
+    "x": 0.1526,
+    "y": 0.7413,
+    "w": 0.6687,
+    "h": 0.0173
+   },
+   {
+    "t": "users to fine tune the screening values before tapping the \"Save Screen Set\" button to save their configuration.",
+    "x": 0.1526,
+    "y": 0.7585,
+    "w": 0.5858,
+    "h": 0.0146
+   },
+   {
+    "t": "Next, users move on to the third screen, Add Screenset, where they name the set of screeners they've just configured. A",
+    "x": 0.1526,
+    "y": 0.7874,
+    "w": 0.6337,
+    "h": 0.0149
+   },
+   {
+    "t": "comprehensive list of available screeners is shown, again grouped by categories such as Adult Content, Environment, and Medical",
+    "x": 0.1526,
+    "y": 0.8019,
+    "w": 0.6846,
+    "h": 0.0145
+   },
+   {
+    "t": "Ethics. Users can make further selections or revisions at this stage. Once finalized, they can press the \"Save and Continue\" button",
+    "x": 0.1526,
+    "y": 0.8162,
+    "w": 0.6831,
+    "h": 0.0148
+   },
+   {
+    "t": "to move forward.",
+    "x": 0.1526,
+    "y": 0.8308,
+    "w": 0.0916,
+    "h": 0.0131
+   },
+   {
+    "t": "Finally, users arrive at the fourth screen, Research Details, which presents a detailed report of the screenset they created. At the",
+    "x": 0.1526,
+    "y": 0.8615,
+    "w": 0.6759,
+    "h": 0.0146
+   },
+   {
+    "t": "top, users can select which screenset to review (e.g., \"FFV Scorecard\") using a dropdown. The report is visually organized into",
+    "x": 0.1512,
+    "y": 0.8744,
+    "w": 0.6642,
+    "h": 0.0164
+   },
+   {
+    "t": "separate cards by category, like Weapons and Environment, each displaying a letter grade (such as A or D) along with progress bars",
+    "x": 0.1526,
+    "y": 0.8905,
+    "w": 0.6933,
+    "h": 0.0129
+   },
+   {
+    "t": "that reflect specific percentage scores. This layout allows for quick and intuitive assessment of ethical and sustainability",
+    "x": 0.1512,
+    "y": 0.9046,
+    "w": 0.6323,
+    "h": 0.0133
+   },
+   {
+    "t": "performance. At the bottom of the screen, users are prompted to upgrade to a paid plan once their 14 day free trial ends, with a",
+    "x": 0.1526,
+    "y": 0.9192,
+    "w": 0.6701,
+    "h": 0.0147
+   },
+   {
+    "t": "green \"View Pricing Plan\" button leading to subscription options.",
+    "x": 0.1526,
+    "y": 0.9323,
+    "w": 0.3401,
+    "h": 0.0146
+   },
+   {
+    "t": "Overall, this four step flow is designed to guide users through the process of building, customizing, and analyzing ethical screensets",
+    "x": 0.1526,
+    "y": 0.963,
+    "w": 0.6948,
+    "h": 0.0147
+   },
+   {
+    "t": "with precision and ease, especially in a mobile context that emphasizes simplicity and usability",
+    "x": 0.1526,
+    "y": 0.9775,
+    "w": 0.4971,
+    "h": 0.0149
+   }
+  ]
+ },
+ {
+  "i": 39,
+  "file": "b39.jpg",
+  "y0": 22790,
+  "y1": 23093,
+  "h": 303,
+  "color": 0.0,
+  "density": 0.318,
+  "lines": [
+   {
+    "t": "Usability Testing",
+    "x": 0.1526,
+    "y": 0.0414,
+    "w": 0.1323,
+    "h": 0.0902
+   },
+   {
+    "t": "For this usability testing, I crafted a series of task based scenarios that simulate real user interactions flow on Sanctify's platform.",
+    "x": 0.1526,
+    "y": 0.1579,
+    "w": 0.6802,
+    "h": 0.0559
+   },
+   {
+    "t": "The purpose of this testing session was to observe how users understand and navigate through each step of the flow. The tasks",
+    "x": 0.1526,
+    "y": 0.2204,
+    "w": 0.6759,
+    "h": 0.0625
+   },
+   {
+    "t": "and scenarios were designed to reflect realistic goals and decision making contexts, allowing participants to engage with the",
+    "x": 0.1526,
+    "y": 0.2828,
+    "w": 0.657,
+    "h": 0.0626
+   },
+   {
+    "t": "prototype as if they were using the live product. By placing users in relevant scenarios, I was able to collect authentic feedback on",
+    "x": 0.1526,
+    "y": 0.3448,
+    "w": 0.6846,
+    "h": 0.0631
+   },
+   {
+    "t": "usability, comprehension, and overall interaction quality.",
+    "x": 0.1526,
+    "y": 0.4138,
+    "w": 0.2965,
+    "h": 0.0632
+   },
+   {
+    "t": "This testing was not limited to identifying surface level issues like button placements or visual clarity, but also aimed to uncover",
+    "x": 0.1526,
+    "y": 0.5379,
+    "w": 0.6701,
+    "h": 0.0552
+   },
+   {
+    "t": "deeper usability challenges such as flow continuity, language clarity, and user confidence in decision making.",
+    "x": 0.1526,
+    "y": 0.5987,
+    "w": 0.5712,
+    "h": 0.0634
+   },
+   {
+    "t": "The usability testing was conducted using a high fidelity prototype, and participants were asked to think aloud while performing the",
+    "x": 0.1526,
+    "y": 0.7237,
+    "w": 0.6919,
+    "h": 0.0559
+   },
+   {
+    "t": "tasks. Their input, behaviors, and pain points were carefully observed and documented. Insights gained from this phase informed",
+    "x": 0.1512,
+    "y": 0.7862,
+    "w": 0.6788,
+    "h": 0.0625
+   },
+   {
+    "t": "the next iteration of the design. So, this process ensured that each design decision was rooted in real user behavior and contributed",
+    "x": 0.1526,
+    "y": 0.8483,
+    "w": 0.6948,
+    "h": 0.0629
+   },
+   {
+    "t": "to building a more intuitive and accessible product.",
+    "x": 0.1512,
+    "y": 0.9103,
+    "w": 0.2703,
+    "h": 0.0633
+   }
+  ]
+ },
+ {
+  "i": 40,
+  "file": "b40.jpg",
+  "y0": 23127,
+  "y1": 23447,
+  "h": 320,
+  "color": 0.0,
+  "density": 0.332,
+  "lines": [
+   {
+    "t": "Reflection",
+    "x": 0.1526,
+    "y": 0.0387,
+    "w": 0.08,
+    "h": 0.0729
+   },
+   {
+    "t": "If given more time, I would further refine Sanctify by taking the following steps:",
+    "x": 0.1526,
+    "y": 0.1437,
+    "w": 0.4157,
+    "h": 0.0594
+   },
+   {
+    "t": "1. Conducting additional user research to uncover deeper usability concerns or ethical decision making behaviors that may not",
+    "x": 0.1555,
+    "y": 0.2092,
+    "w": 0.6672,
+    "h": 0.0533
+   },
+   {
+    "t": "have surfaced in the initial phase. This would allow me to gain more meaningful insights from users, particularly in how they",
+    "x": 0.1686,
+    "y": 0.268,
+    "w": 0.6483,
+    "h": 0.0602
+   },
+   {
+    "t": "interpret and interact with Sanctify's screening and scoring features.",
+    "x": 0.1686,
+    "y": 0.3188,
+    "w": 0.3605,
+    "h": 0.0603
+   },
+   {
+    "t": "2. Carry out usability testing based on the predefined tasks and scenarios developed for the \"Add Screenset\" flow. This testing",
+    "x": 0.1555,
+    "y": 0.3781,
+    "w": 0.6657,
+    "h": 0.0598
+   },
+   {
+    "t": "would help evaluate the clarity of information hierarchy, the ease of navigation across multiple steps, and the overall confidence",
+    "x": 0.1686,
+    "y": 0.4437,
+    "w": 0.6715,
+    "h": 0.0595
+   },
+   {
+    "t": "users feel when configuring and reviewing ethical screeners.",
+    "x": 0.1686,
+    "y": 0.5031,
+    "w": 0.3198,
+    "h": 0.0531
+   },
+   {
+    "t": "3. Based on findings from evaluations, I would identify pain points or areas of friction, then prioritize solving them to enhance",
+    "x": 0.1555,
+    "y": 0.5621,
+    "w": 0.6555,
+    "h": 0.0535
+   },
+   {
+    "t": "usability. Improvements would be directed toward making the experience more seamless, intuitive, and aligned with the",
+    "x": 0.1686,
+    "y": 0.6209,
+    "w": 0.6279,
+    "h": 0.0523
+   },
+   {
+    "t": "expectations of users who are likely to approach the platform with a professional or analytical mindset.",
+    "x": 0.1686,
+    "y": 0.6797,
+    "w": 0.5407,
+    "h": 0.0523
+   },
+   {
+    "t": "4. Continue iterating on both the visual and functional aspects of the design, refining the interface to ensure consistency, improving",
+    "x": 0.1555,
+    "y": 0.7375,
+    "w": 0.6919,
+    "h": 0.0533
+   },
+   {
+    "t": "microinteractions, and strengthening the platform's ability to deliver complex screening data in a digestible, user centered way.",
+    "x": 0.1701,
+    "y": 0.7969,
+    "w": 0.6657,
+    "h": 0.0594
+   },
+   {
+    "t": "These iterations would ensure that Sanctify not only functions well but also effectively communicates its value to users with",
+    "x": 0.1701,
+    "y": 0.8562,
+    "w": 0.6512,
+    "h": 0.0532
+   },
+   {
+    "t": "clarity and confidence.",
+    "x": 0.1701,
+    "y": 0.915,
+    "w": 0.1206,
+    "h": 0.0537
+   }
+  ]
+ }
+]

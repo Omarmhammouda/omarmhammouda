@@ -1,0 +1,140 @@
+{
+ "slug": "karma",
+ "name": "Karma",
+ "category": "Web3 reputation",
+ "tier": "full",
+ "dek": "Scattered DAO contributions, assembled into one reputation score contributors can actually trust.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": "2022",
+  "platform": "Responsive web",
+  "scope": "Desk research, competitor analysis, user journey, design system, hi-fi UI, usability testing",
+  "industry": "Web3 reputation",
+  "hard_part": "Making a synthetic score feel legible and fair enough that contributors would stake their reputation on it.",
+  "look_for": "How the score explainer and the cross-DAO profile turn an abstract number into something a contributor can inspect."
+ },
+ "problem": {
+  "claim_h2": "Active everywhere, visible nowhere",
+  "thesis": "DAO contributors do real work in proposals, votes, and discussions, but no system records any of it in one legible place.",
+  "body": "Activity scatters across Snapshot, forums, Discord, and on-chain voting, so the people holding a community together leave almost no verifiable trace. Karma's premise is a single score, which only works if the score itself is designed to be trusted.",
+  "bullets": [
+   "Contributions scatter across tools, so most participation is never documented anywhere.",
+   "Without a shared scoring standard, recognition and rewards stay arbitrary and demotivating.",
+   "Reputation dies at each DAO's border, so proven contributors restart from zero in every new community."
+  ],
+  "research_note": "Desk research compared six DAO tools, including SourceCred, DAOhaus, Colony, Guild.xyz, DeepDAO, and Station, across scoring, profiles, rewards, and cross-DAO reputation."
+ },
+ "decisions": [
+  {
+   "title": "A score you can audit, not just admire",
+   "thesis": "The Karma Score is itemized activity by activity, because a number nobody can verify is a number nobody will build a reputation on.",
+   "rationale": "The score is synthetic: it converts proposals, votes, and forum discussion into points, and any synthetic number invites suspicion. So the homepage spends a full section on the math itself, presenting example weights for creating proposals, voting, and discussing as oversized green numerals on white cards. I considered keeping the formula behind the interface and presenting the score as a polished badge, which is how most reputation products behave. The competitor analysis argued against it: SourceCred's automated scoring was powerful but opaque, and non-technical users struggled to adopt it. Publishing the itemization trades some mystique for auditability, and auditability is what turns a metric into a credential.",
+   "figure": "b17.jpg",
+   "caption": "Example weights in the open: creating proposals, voting, and discussing each carry a visible point value.",
+   "alt": "Karma Score explainer section on a pale green gradient. Left side defines the score in text; right side shows three white rounded cards with large green numerals 20, 10, and 10 for creating proposals, voting, and discussing proposals.",
+   "source_blocks": [
+    4,
+    17,
+    18
+   ]
+  },
+  {
+   "title": "One profile that crosses DAO borders",
+   "thesis": "Reputation only becomes an asset when it travels, so the profile aggregates every DAO a contributor touches into one shareable record.",
+   "rationale": "The journey mapping surfaced the payoff moment: joining a new DAO where people already know your track record. That pointed away from per-DAO dashboards, the DeepDAO-style framing where each community gets its own analytics view, and toward a single profile that stacks one row per DAO with its own Karma Score, voting activity, and proposal counts. A share action sits at the top level because the profile is meant to leave the platform, and a source filter scopes the view to a single tool like Snapshot without splitting the product apart. The tradeoff is a denser table than any single-DAO view would need, which the usability tasks specifically probed with per-DAO checking and filtering scenarios. Aggregation won because fragmented reputation was the original pain point, not a display preference.",
+   "figure": "b14-crop.jpg",
+   "caption": "One profile, four DAOs: per-DAO score rows with a share action keep reputation a single portable record.",
+   "alt": "Karma homepage hero on a soft green gradient, headline reading Build and Maintain Better Communities, above a dark browser mockup of the frogmonkee.eth profile listing Bankless DAO, ENS DAO, BitDAO, and Star Atlas DAO as rows with individual Karma Scores and activity columns.",
+   "source_blocks": [
+    1,
+    6,
+    14,
+    24
+   ]
+  },
+  {
+   "title": "Mechanics first, interface second",
+   "thesis": "For an audience primed to distrust black boxes, the homepage teaches how Karma works before it shows what Karma looks like.",
+   "rationale": "The page order is an argument: the hero states the promise, then three step cards explain the pipeline, then the score math, then the benefits. The step cards name the actual inputs, integrations with Discourse, Snapshot, on-chain voting, Discord, and DaoHaus, and walk from visibility to compensation to hiring in three short beats. I considered leading with a feature tour, the standard product-site move, but screens of an unfamiliar mechanic mean nothing until the mechanic itself lands. New DAO members were an explicit audience, and the step narrative exists so they grasp where the data comes from and what it produces before any interface asks for their attention. It is the cheapest section on the page and it carries the most explanatory weight.",
+   "figure": "b15.jpg",
+   "caption": "Three step cards compress the pipeline: integrate DAO tools, surface contributors, compensate and hire.",
+   "alt": "How it Works section on a pale green background with a ghosted outline wordmark, a subtitle listing integrated DAO tools, and three white cards labeled Step 01, Step 02, and Step 03 with green icons and one-line descriptions.",
+   "source_blocks": [
+    3,
+    15,
+    16
+   ]
+  }
+ ],
+ "pull_quote": "Trust in the score is the product. The interface is just where you verify the math.",
+ "design": {
+  "claim_h2": "Bright and systematic where crypto goes dark",
+  "intro": "The visual system runs against Web3's dark-UI default: white cards, soft green gradients, and oversized numerals that put the data in plain daylight.",
+  "figures": [
+   {
+    "figure": "b20-crop.jpg",
+    "caption": "Benefit cards state the payoff in the contributor's own terms: improve on metrics, prove work, get discovered.",
+    "alt": "Benefits section titled How Karma score is beneficial to DAO contributors, with a ghosted BENEFICIAL wordmark behind the heading and three white cards with green icons describing improvement, proof of work, and discovery.",
+    "frame": "light"
+   },
+   {
+    "figure": "b19-crop.jpg",
+    "caption": "Green-tinted portraits keep the team cards on brand while signaling there are humans behind the score.",
+    "alt": "Team section titled The Super People behind Karma, showing three portrait cards with green-toned photos, bold names, and lighter job titles beneath each.",
+    "frame": "light"
+   },
+   {
+    "figure": "b21-crop.jpg",
+    "caption": "A supported-DAOs wall borrows credibility, with the ghosted SUPPORT wordmark carrying the section typography system.",
+    "alt": "Supported DAOs section with a large outlined SUPPORT wordmark behind the bold title and two rows of placeholder partner logos on a pale green gradient.",
+    "frame": "light"
+   },
+   {
+    "figure": "b22-crop.jpg",
+    "caption": "The footer stays quiet: centered wordmark, a short description slot, and four social icons on the fading gradient.",
+    "alt": "Karma footer with the green logomark and wordmark centered at top, placeholder description text beneath, and four circular social icons in a horizontal row on a light green to white gradient.",
+    "frame": "light"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Check your Karma Score per DAO",
+   "Explore a DAO's details",
+   "Share your profile",
+   "Filter to Snapshot activity"
+  ],
+  "changed": [],
+  "honest_line": "Task-based sessions could confirm that people can find, read, filter, and share the score; whether they would trust it enough to change behavior inside a live DAO is beyond what a concept can establish."
+ },
+ "learnings": [
+  "Transparency is a design deliverable, not a policy statement. The section that did the most for the product's credibility was not a screen at all, it was the published point weights. When the core of a product is a synthetic number, showing the math is interface work, and it deserves the same layout attention as any hero.",
+  "Aggregation is where reputation gains its value. The moment the profile stacked four DAOs into one record with a share action, the product stopped reading as an analytics dashboard and started reading as a credential. That reframing came from the journey map, not the UI: the emotional peak was arriving somewhere new already known.",
+  "The order of explanation is itself an interface decision. Sequencing the homepage as promise, mechanic, math, benefit meant each section only asked for trust the previous one had earned. Leading with screens would have shown more product and communicated less, especially to the new contributors the platform most needs to convert."
+ ],
+ "appendix": {
+  "framing": "The system underneath the screens: a two-green palette with full neutral ramps, a 12-column desktop grid, and cards built once and reused across sections.",
+  "figures": [
+   {
+    "figure": "b09.jpg",
+    "caption": "Two green ramps plus a neutral scale give the light UI its full range without leaving the brand family.",
+    "alt": "Color specification sheet showing Dangerously Green and Channel Marker Green ramps from 700 down to 50 with hex values, plus a neutral scale from black to white.",
+    "frame": null
+   },
+   {
+    "figure": "b13.jpg",
+    "caption": "A 12-column desktop grid with fixed margins and gutters keeps the card-heavy sections aligned.",
+    "alt": "Grid system spec for a 1440px desktop layout showing twelve pink columns with labeled margin, column, and gutter widths.",
+    "frame": null
+   },
+   {
+    "figure": "b12-crop.jpg",
+    "caption": "Profile cards, general cards, and the logo wall exist as components, so sections share one construction.",
+    "alt": "Component sheet showing three labeled groups: green-tinted profile cards with names and titles, white general cards with green icons, and a grid of placeholder support logos.",
+    "frame": null
+   }
+  ]
+ },
+ "next": "hm"
+}

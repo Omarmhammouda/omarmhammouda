@@ -1,0 +1,5116 @@
+[
+ {
+  "i": 0,
+  "file": "b00.jpg",
+  "y0": 117,
+  "y1": 372,
+  "h": 255,
+  "color": 0.0,
+  "density": 0.131,
+  "lines": [
+   {
+    "t": "OH SNAP",
+    "x": 0.2207,
+    "y": 0.0426,
+    "w": 0.142,
+    "h": 0.194
+   },
+   {
+    "t": "Mark, Set, and Snap Location",
+    "x": 0.2238,
+    "y": 0.3086,
+    "w": 0.2703,
+    "h": 0.1386
+   },
+   {
+    "t": "A social media app built for content creators to discover, plan, and share",
+    "x": 0.2224,
+    "y": 0.6911,
+    "w": 0.4753,
+    "h": 0.0902
+   },
+   {
+    "t": "collaborative trips. Designed to simplify travel coordination and creative",
+    "x": 0.2224,
+    "y": 0.7805,
+    "w": 0.4724,
+    "h": 0.0906
+   },
+   {
+    "t": "collaboration, the app enables creators to connect and create with confidence.",
+    "x": 0.2223,
+    "y": 0.8689,
+    "w": 0.5204,
+    "h": 0.1083
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "file": "b01.jpg",
+  "y0": 453,
+  "y1": 936,
+  "h": 483,
+  "color": 5.03,
+  "density": 0.351,
+  "lines": [
+   {
+    "t": "9:41",
+    "x": 0.381,
+    "y": 0.0958,
+    "w": 0.0266,
+    "h": 0.0333
+   },
+   {
+    "t": "Just now",
+    "x": 0.5798,
+    "y": 0.1625,
+    "w": 0.028,
+    "h": 0.0214
+   },
+   {
+    "t": "You with @Sabrina",
+    "x": 0.4098,
+    "y": 0.1759,
+    "w": 0.1005,
+    "h": 0.0506
+   },
+   {
+    "t": "Still dreaming of the butterfly conservatory, tropical",
+    "x": 0.4019,
+    "y": 0.7229,
+    "w": 0.1992,
+    "h": 0.1517
+   },
+   {
+    "t": "Mexico Trip",
+    "x": 0.4018,
+    "y": 0.7556,
+    "w": 0.0604,
+    "h": 0.0645
+   },
+   {
+    "t": "gardens, and tacos on-site",
+    "x": 0.4021,
+    "y": 0.8048,
+    "w": 0.1147,
+    "h": 0.1077
+   },
+   {
+    "t": "Photos",
+    "x": 0.528,
+    "y": 0.8801,
+    "w": 0.0348,
+    "h": 0.0453
+   },
+   {
+    "t": "action",
+    "x": 0.4457,
+    "y": 0.9375,
+    "w": 0.036,
+    "h": 0.0477
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "file": "b02.jpg",
+  "y0": 961,
+  "y1": 1459,
+  "h": 498,
+  "color": 3.38,
+  "density": 0.201,
+  "lines": [
+   {
+    "t": "Project Overview",
+    "x": 0.3401,
+    "y": 0.0622,
+    "w": 0.1599,
+    "h": 0.0586
+   },
+   {
+    "t": "OH SNAP!",
+    "x": 0.1729,
+    "y": 0.1042,
+    "w": 0.1268,
+    "h": 0.0926
+   },
+   {
+    "t": "OH SNAP! is designed to enable content creators by simplifying collaboration and trip planning.",
+    "x": 0.3415,
+    "y": 0.15,
+    "w": 0.4942,
+    "h": 0.0333
+   },
+   {
+    "t": "Users can organize collaborative trips, document shared experiences, and build meaningful",
+    "x": 0.3414,
+    "y": 0.1809,
+    "w": 0.4742,
+    "h": 0.0458
+   },
+   {
+    "t": "connections on one platform.",
+    "x": 0.3415,
+    "y": 0.2249,
+    "w": 0.1527,
+    "h": 0.0341
+   },
+   {
+    "t": "With features that support efficient planning and content sharing, the app creates a space",
+    "x": 0.3401,
+    "y": 0.2992,
+    "w": 0.4697,
+    "h": 0.0383
+   },
+   {
+    "t": "Industry",
+    "x": 0.1585,
+    "y": 0.3375,
+    "w": 0.0461,
+    "h": 0.0375
+   },
+   {
+    "t": "where content creators can connect, create and grow their network through real world",
+    "x": 0.3401,
+    "y": 0.3414,
+    "w": 0.4496,
+    "h": 0.0341
+   },
+   {
+    "t": "collaboration. A social media app built for content creators to discover, plan and share",
+    "x": 0.3415,
+    "y": 0.3792,
+    "w": 0.4452,
+    "h": 0.0385
+   },
+   {
+    "t": "Social Media, Travel,",
+    "x": 0.1599,
+    "y": 0.4116,
+    "w": 0.1081,
+    "h": 0.0425
+   },
+   {
+    "t": "collaborative trips with ease.",
+    "x": 0.3415,
+    "y": 0.4167,
+    "w": 0.1513,
+    "h": 0.0333
+   },
+   {
+    "t": "Content Creator",
+    "x": 0.1614,
+    "y": 0.4498,
+    "w": 0.085,
+    "h": 0.0301
+   },
+   {
+    "t": "Solution",
+    "x": 0.6282,
+    "y": 0.5577,
+    "w": 0.0794,
+    "h": 0.0554
+   },
+   {
+    "t": "Problem",
+    "x": 0.3646,
+    "y": 0.5625,
+    "w": 0.0793,
+    "h": 0.05
+   },
+   {
+    "t": "Tools",
+    "x": 0.1614,
+    "y": 0.5958,
+    "w": 0.0288,
+    "h": 0.0292
+   },
+   {
+    "t": "1. Difficult to find reliable collaborators in",
+    "x": 0.3444,
+    "y": 0.6458,
+    "w": 0.2147,
+    "h": 0.0375
+   },
+   {
+    "t": "1. Creators can discover and join",
+    "x": 0.6042,
+    "y": 0.6506,
+    "w": 0.175,
+    "h": 0.0361
+   },
+   {
+    "t": "Adobe XD",
+    "x": 0.1599,
+    "y": 0.6747,
+    "w": 0.0533,
+    "h": 0.0341
+   },
+   {
+    "t": "the creator space",
+    "x": 0.3573,
+    "y": 0.6867,
+    "w": 0.0937,
+    "h": 0.0341
+   },
+   {
+    "t": "collaborations via feed or page search.",
+    "x": 0.6225,
+    "y": 0.6867,
+    "w": 0.2017,
+    "h": 0.0341
+   },
+   {
+    "t": "2. No centralized platform to plan and share",
+    "x": 0.3444,
+    "y": 0.7249,
+    "w": 0.2291,
+    "h": 0.0341
+   },
+   {
+    "t": "2. Oh Snap provides trip planning, shared",
+    "x": 0.6081,
+    "y": 0.7249,
+    "w": 0.2147,
+    "h": 0.0382
+   },
+   {
+    "t": "itineraries and shared posts.",
+    "x": 0.621,
+    "y": 0.7625,
+    "w": 0.1484,
+    "h": 0.0333
+   },
+   {
+    "t": "content trips.",
+    "x": 0.3573,
+    "y": 0.7667,
+    "w": 0.0706,
+    "h": 0.0292
+   },
+   {
+    "t": "3. Safety risks when meeting or traveling",
+    "x": 0.3444,
+    "y": 0.7992,
+    "w": 0.2133,
+    "h": 0.0383
+   },
+   {
+    "t": "3. Users can view verified profiles and",
+    "x": 0.6081,
+    "y": 0.7992,
+    "w": 0.1988,
+    "h": 0.0341
+   },
+   {
+    "t": "Year",
+    "x": 0.1599,
+    "y": 0.8208,
+    "w": 0.0259,
+    "h": 0.0333
+   },
+   {
+    "t": "with unfamiliar people.",
+    "x": 0.3573,
+    "y": 0.8414,
+    "w": 0.1196,
+    "h": 0.0341
+   },
+   {
+    "t": "activity history before collaborating.",
+    "x": 0.621,
+    "y": 0.8414,
+    "w": 0.1888,
+    "h": 0.0341
+   },
+   {
+    "t": "4. Lack of tools to reflect and document",
+    "x": 0.3444,
+    "y": 0.8792,
+    "w": 0.2104,
+    "h": 0.0333
+   },
+   {
+    "t": "4. Post trip posts build history and",
+    "x": 0.6081,
+    "y": 0.8792,
+    "w": 0.1787,
+    "h": 0.0333
+   },
+   {
+    "t": "2020",
+    "x": 0.1599,
+    "y": 0.8958,
+    "w": 0.0288,
+    "h": 0.0333
+   },
+   {
+    "t": "collaboration experiences after the trip.",
+    "x": 0.3573,
+    "y": 0.9167,
+    "w": 0.2061,
+    "h": 0.0333
+   },
+   {
+    "t": "accountability.",
+    "x": 0.621,
+    "y": 0.9167,
+    "w": 0.0778,
+    "h": 0.0333
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "file": "b03.jpg",
+  "y0": 1490,
+  "y1": 1677,
+  "h": 187,
+  "color": 0.15,
+  "density": 0.226,
+  "lines": [
+   {
+    "t": "My Role and Responsibility",
+    "x": 0.1773,
+    "y": 0.0532,
+    "w": 0.2515,
+    "h": 0.1809
+   },
+   {
+    "t": "In this case study, I took on the role of UX/Ul Designer to explore how a platform could better support content creators in planning",
+    "x": 0.1526,
+    "y": 0.3444,
+    "w": 0.6831,
+    "h": 0.1024
+   },
+   {
+    "t": "safe and meaningful collaborations.",
+    "x": 0.1526,
+    "y": 0.4444,
+    "w": 0.1875,
+    "h": 0.1
+   },
+   {
+    "t": "I was responsible for the entire design process, from defining the problem, conducting research, designing wireframes, high fidelity",
+    "x": 0.1512,
+    "y": 0.6436,
+    "w": 0.6904,
+    "h": 0.1011
+   },
+   {
+    "t": "mockups, and prototyping. My focus was on creating an intuitive experience that balances functionality with safety, while also",
+    "x": 0.1526,
+    "y": 0.7553,
+    "w": 0.6613,
+    "h": 0.0904
+   },
+   {
+    "t": "addressing the unique needs of the creator community.",
+    "x": 0.1526,
+    "y": 0.8556,
+    "w": 0.2922,
+    "h": 0.0913
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "file": "b04.jpg",
+  "y0": 1716,
+  "y1": 2169,
+  "h": 453,
+  "color": 0.0,
+  "density": 0.234,
+  "lines": [
+   {
+    "t": "Process",
+    "x": 0.1526,
+    "y": 0.023,
+    "w": 0.0756,
+    "h": 0.0507
+   },
+   {
+    "t": "1. Discovery",
+    "x": 0.1555,
+    "y": 0.142,
+    "w": 0.067,
+    "h": 0.0432
+   },
+   {
+    "t": "At this phase, I explored the core concept of the app: facilitating collaboration among content creators while ensuring a safe",
+    "x": 0.1701,
+    "y": 0.1843,
+    "w": 0.6512,
+    "h": 0.0425
+   },
+   {
+    "t": "community through reviews. I analyzed competitor apps and market trends to understand user expectations around social",
+    "x": 0.1701,
+    "y": 0.2258,
+    "w": 0.641,
+    "h": 0.0369
+   },
+   {
+    "t": "collaboration and trust building features. This helped identify key user needs and issues related to trip planning and collaborator",
+    "x": 0.1686,
+    "y": 0.2665,
+    "w": 0.6744,
+    "h": 0.0422
+   },
+   {
+    "t": "checking.",
+    "x": 0.1685,
+    "y": 0.3115,
+    "w": 0.054,
+    "h": 0.0407
+   },
+   {
+    "t": "2. Ideation",
+    "x": 0.1554,
+    "y": 0.3948,
+    "w": 0.0583,
+    "h": 0.04
+   },
+   {
+    "t": "Based on the insights from this discovery, I brainstormed features that address collaboration and safety issues. Key ideas",
+    "x": 0.1701,
+    "y": 0.4378,
+    "w": 0.6366,
+    "h": 0.0369
+   },
+   {
+    "t": "included a trip collaboration planner and a content sharing feed for shared experiences. Wireframes and flowcharts were created",
+    "x": 0.1686,
+    "y": 0.4736,
+    "w": 0.6773,
+    "h": 0.0426
+   },
+   {
+    "t": "to visualize these concepts and establish the user journey.",
+    "x": 0.1686,
+    "y": 0.5198,
+    "w": 0.3096,
+    "h": 0.0378
+   },
+   {
+    "t": "3. Design Process",
+    "x": 0.1555,
+    "y": 0.6035,
+    "w": 0.0959,
+    "h": 0.0374
+   },
+   {
+    "t": "I translated the wireframes into a high fidelity Ul design that focuses on usability and trust. The design incorporates clear",
+    "x": 0.1686,
+    "y": 0.6452,
+    "w": 0.6366,
+    "h": 0.0421
+   },
+   {
+    "t": "collaboration tools, visible review indicators, and intuitive navigation optimized for mobile devices. Visual consistency is",
+    "x": 0.1701,
+    "y": 0.6866,
+    "w": 0.6265,
+    "h": 0.0424
+   },
+   {
+    "t": "maintained through a clearly visible color scheme, typography, and component reuse.",
+    "x": 0.1686,
+    "y": 0.7281,
+    "w": 0.452,
+    "h": 0.0415
+   },
+   {
+    "t": "4. Usability Testing",
+    "x": 0.1541,
+    "y": 0.815,
+    "w": 0.1032,
+    "h": 0.0422
+   },
+   {
+    "t": "Although formal user testing was not part of the project scope, I conducted internal heuristic evaluations to identify potential",
+    "x": 0.1701,
+    "y": 0.8524,
+    "w": 0.6555,
+    "h": 0.0419
+   },
+   {
+    "t": "usability issues. I also created test scenarios that simulated typical user interactions such as creating travel invitations and",
+    "x": 0.1686,
+    "y": 0.8986,
+    "w": 0.6439,
+    "h": 0.0375
+   },
+   {
+    "t": "posting collaborators. These activities informed small fixes to improve clarity and overall user experience.",
+    "x": 0.1686,
+    "y": 0.9401,
+    "w": 0.5552,
+    "h": 0.0379
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "file": "b05.jpg",
+  "y0": 2208,
+  "y1": 2540,
+  "h": 332,
+  "color": 0.0,
+  "density": 0.193,
+  "lines": [
+   {
+    "t": "Discovery",
+    "x": 0.1523,
+    "y": 0.0226,
+    "w": 0.0951,
+    "h": 0.0857
+   },
+   {
+    "t": "Discover and Understanding",
+    "x": 0.1512,
+    "y": 0.2199,
+    "w": 0.1904,
+    "h": 0.0694
+   },
+   {
+    "t": "The first step I took was to understand the purpose and target users of this app. I started by studying existing social media",
+    "x": 0.1526,
+    "y": 0.3522,
+    "w": 0.6468,
+    "h": 0.0574
+   },
+   {
+    "t": "platforms and collaboration tools used by content creators. From this research, I identified gaps in existing solutions, especially",
+    "x": 0.1526,
+    "y": 0.4088,
+    "w": 0.6672,
+    "h": 0.0581
+   },
+   {
+    "t": "around trip planning and safety features, which helped shape the design direction. This app is a new product developed to address",
+    "x": 0.1526,
+    "y": 0.4717,
+    "w": 0.689,
+    "h": 0.0503
+   },
+   {
+    "t": "unmet needs in the social collaboration space for content creators.",
+    "x": 0.1526,
+    "y": 0.5271,
+    "w": 0.3532,
+    "h": 0.0515
+   },
+   {
+    "t": "Competitor Analysis",
+    "x": 0.1512,
+    "y": 0.6536,
+    "w": 0.1366,
+    "h": 0.0759
+   },
+   {
+    "t": "To better understand the market landscape and identify differentiation opportunities, I conducted a competitor analysis focusing on",
+    "x": 0.1526,
+    "y": 0.7922,
+    "w": 0.6919,
+    "h": 0.0572
+   },
+   {
+    "t": "platforms related to social collaboration, trip planning, and community safety for content creators. This analysis highlighted their",
+    "x": 0.1526,
+    "y": 0.8553,
+    "w": 0.6744,
+    "h": 0.0573
+   },
+   {
+    "t": "core features, strengths, and limitations relevant to my project objectives.",
+    "x": 0.1526,
+    "y": 0.9119,
+    "w": 0.3881,
+    "h": 0.0503
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "file": "b06.jpg",
+  "y0": 2564,
+  "y1": 3361,
+  "h": 797,
+  "color": 0.3,
+  "density": 0.279,
+  "lines": [
+   {
+    "t": "Trip Planning/",
+    "x": 0.4985,
+    "y": 0.0153,
+    "w": 0.0568,
+    "h": 0.0191
+   },
+   {
+    "t": "Limitations",
+    "x": 0.6438,
+    "y": 0.0153,
+    "w": 0.0451,
+    "h": 0.0191
+   },
+   {
+    "t": "Competitor",
+    "x": 0.2631,
+    "y": 0.0157,
+    "w": 0.0465,
+    "h": 0.0183
+   },
+   {
+    "t": "Collaboration",
+    "x": 0.4084,
+    "y": 0.0157,
+    "w": 0.0538,
+    "h": 0.0157
+   },
+   {
+    "t": "Strengths",
+    "x": 0.5712,
+    "y": 0.0157,
+    "w": 0.0407,
+    "h": 0.0183
+   },
+   {
+    "t": "Main Focus",
+    "x": 0.3343,
+    "y": 0.0183,
+    "w": 0.048,
+    "h": 0.0131
+   },
+   {
+    "t": "Event Features",
+    "x": 0.4985,
+    "y": 0.0388,
+    "w": 0.061,
+    "h": 0.0163
+   },
+   {
+    "t": "Features",
+    "x": 0.4084,
+    "y": 0.0393,
+    "w": 0.0363,
+    "h": 0.0157
+   },
+   {
+    "t": "Not focused on",
+    "x": 0.6439,
+    "y": 0.0759,
+    "w": 0.061,
+    "h": 0.0157
+   },
+   {
+    "t": "Instagram",
+    "x": 0.263,
+    "y": 0.0782,
+    "w": 0.0393,
+    "h": 0.0164
+   },
+   {
+    "t": "\u2022 Content",
+    "x": 0.3387,
+    "y": 0.0785,
+    "w": 0.0422,
+    "h": 0.0157
+   },
+   {
+    "t": "\u2022 Tagging",
+    "x": 0.4113,
+    "y": 0.0785,
+    "w": 0.0422,
+    "h": 0.0157
+   },
+   {
+    "t": "\u2022 Large user",
+    "x": 0.5741,
+    "y": 0.0785,
+    "w": 0.0523,
+    "h": 0.0157
+   },
+   {
+    "t": "\u2022 Collaboration",
+    "x": 0.4113,
+    "y": 0.099,
+    "w": 0.0625,
+    "h": 0.0163
+   },
+   {
+    "t": "collaboration &",
+    "x": 0.6439,
+    "y": 0.099,
+    "w": 0.0581,
+    "h": 0.0163
+   },
+   {
+    "t": "sharing",
+    "x": 0.3474,
+    "y": 0.0995,
+    "w": 0.0305,
+    "h": 0.0183
+   },
+   {
+    "t": "base",
+    "x": 0.5828,
+    "y": 0.0995,
+    "w": 0.0218,
+    "h": 0.0157
+   },
+   {
+    "t": "safety reviews.",
+    "x": 0.6439,
+    "y": 0.1203,
+    "w": 0.0582,
+    "h": 0.0187
+   },
+   {
+    "t": "\u2022 Social media",
+    "x": 0.3387,
+    "y": 0.1228,
+    "w": 0.0596,
+    "h": 0.0163
+   },
+   {
+    "t": "\u2022 Reels video",
+    "x": 0.4113,
+    "y": 0.1228,
+    "w": 0.0552,
+    "h": 0.0163
+   },
+   {
+    "t": "\u2022 Creative",
+    "x": 0.5741,
+    "y": 0.1228,
+    "w": 0.0436,
+    "h": 0.0138
+   },
+   {
+    "t": "tools",
+    "x": 0.5828,
+    "y": 0.1466,
+    "w": 0.0218,
+    "h": 0.0131
+   },
+   {
+    "t": "Short video",
+    "x": 0.3357,
+    "y": 0.1799,
+    "w": 0.0466,
+    "h": 0.0171
+   },
+   {
+    "t": "Tiktok",
+    "x": 0.2616,
+    "y": 0.1802,
+    "w": 0.0278,
+    "h": 0.0166
+   },
+   {
+    "t": "\u2022 Viral content",
+    "x": 0.5741,
+    "y": 0.1805,
+    "w": 0.061,
+    "h": 0.0163
+   },
+   {
+    "t": "\u2022 Duet",
+    "x": 0.4113,
+    "y": 0.183,
+    "w": 0.0305,
+    "h": 0.0138
+   },
+   {
+    "t": "Not focused on",
+    "x": 0.6439,
+    "y": 0.183,
+    "w": 0.061,
+    "h": 0.0138
+   },
+   {
+    "t": "\u2022 Collaboration",
+    "x": 0.4113,
+    "y": 0.2042,
+    "w": 0.0625,
+    "h": 0.0157
+   },
+   {
+    "t": "\u2022 High",
+    "x": 0.5741,
+    "y": 0.2042,
+    "w": 0.0291,
+    "h": 0.0157
+   },
+   {
+    "t": "collaboration &",
+    "x": 0.6439,
+    "y": 0.2042,
+    "w": 0.0581,
+    "h": 0.0157
+   },
+   {
+    "t": "videos",
+    "x": 0.4201,
+    "y": 0.2277,
+    "w": 0.0291,
+    "h": 0.0131
+   },
+   {
+    "t": "engagement",
+    "x": 0.5828,
+    "y": 0.2277,
+    "w": 0.0523,
+    "h": 0.0157
+   },
+   {
+    "t": "safety reviews.",
+    "x": 0.6439,
+    "y": 0.2277,
+    "w": 0.0581,
+    "h": 0.0157
+   },
+   {
+    "t": "Not a social",
+    "x": 0.6438,
+    "y": 0.2634,
+    "w": 0.0467,
+    "h": 0.0178
+   },
+   {
+    "t": "Airbnb",
+    "x": 0.2631,
+    "y": 0.2644,
+    "w": 0.0262,
+    "h": 0.0157
+   },
+   {
+    "t": "\u2022 Experience",
+    "x": 0.3387,
+    "y": 0.2644,
+    "w": 0.0538,
+    "h": 0.0163
+   },
+   {
+    "t": "\u2022 Trusted",
+    "x": 0.5741,
+    "y": 0.2644,
+    "w": 0.0407,
+    "h": 0.0163
+   },
+   {
+    "t": "Experiences",
+    "x": 0.2631,
+    "y": 0.288,
+    "w": 0.048,
+    "h": 0.0157
+   },
+   {
+    "t": "booking",
+    "x": 0.3474,
+    "y": 0.288,
+    "w": 0.0334,
+    "h": 0.0157
+   },
+   {
+    "t": "reviews",
+    "x": 0.5828,
+    "y": 0.288,
+    "w": 0.032,
+    "h": 0.0131
+   },
+   {
+    "t": "media",
+    "x": 0.6439,
+    "y": 0.288,
+    "w": 0.0262,
+    "h": 0.0131
+   },
+   {
+    "t": "\u2022 Reviews",
+    "x": 0.3387,
+    "y": 0.3088,
+    "w": 0.0436,
+    "h": 0.0158
+   },
+   {
+    "t": "\u2022 Booking",
+    "x": 0.5741,
+    "y": 0.3089,
+    "w": 0.0422,
+    "h": 0.0183
+   },
+   {
+    "t": "collaboration",
+    "x": 0.6439,
+    "y": 0.3115,
+    "w": 0.0523,
+    "h": 0.0131
+   },
+   {
+    "t": "platform",
+    "x": 0.6438,
+    "y": 0.3319,
+    "w": 0.035,
+    "h": 0.0167
+   },
+   {
+    "t": "system",
+    "x": 0.5828,
+    "y": 0.3351,
+    "w": 0.0305,
+    "h": 0.0131
+   },
+   {
+    "t": "Not a social",
+    "x": 0.6423,
+    "y": 0.3681,
+    "w": 0.0482,
+    "h": 0.0177
+   },
+   {
+    "t": "Couchsurfing",
+    "x": 0.2631,
+    "y": 0.3689,
+    "w": 0.0538,
+    "h": 0.0188
+   },
+   {
+    "t": "Traveler social",
+    "x": 0.3358,
+    "y": 0.3691,
+    "w": 0.0567,
+    "h": 0.0157
+   },
+   {
+    "t": "Connect with host/",
+    "x": 0.4128,
+    "y": 0.3691,
+    "w": 0.0756,
+    "h": 0.0157
+   },
+   {
+    "t": "Informal trip",
+    "x": 0.5058,
+    "y": 0.3691,
+    "w": 0.0494,
+    "h": 0.0157
+   },
+   {
+    "t": "Focus on trust",
+    "x": 0.5698,
+    "y": 0.3691,
+    "w": 0.0581,
+    "h": 0.0157
+   },
+   {
+    "t": "networking",
+    "x": 0.3343,
+    "y": 0.3922,
+    "w": 0.0466,
+    "h": 0.0167
+   },
+   {
+    "t": "and safety",
+    "x": 0.5712,
+    "y": 0.3922,
+    "w": 0.0422,
+    "h": 0.0163
+   },
+   {
+    "t": "guests",
+    "x": 0.436,
+    "y": 0.3927,
+    "w": 0.0276,
+    "h": 0.0157
+   },
+   {
+    "t": "planning",
+    "x": 0.5145,
+    "y": 0.3927,
+    "w": 0.0349,
+    "h": 0.0157
+   },
+   {
+    "t": "media",
+    "x": 0.6439,
+    "y": 0.3927,
+    "w": 0.0262,
+    "h": 0.0131
+   },
+   {
+    "t": "collaboration",
+    "x": 0.6439,
+    "y": 0.4162,
+    "w": 0.0523,
+    "h": 0.0131
+   },
+   {
+    "t": "platform",
+    "x": 0.6439,
+    "y": 0.4372,
+    "w": 0.0349,
+    "h": 0.0157
+   },
+   {
+    "t": "Booking",
+    "x": 0.3357,
+    "y": 0.4735,
+    "w": 0.0335,
+    "h": 0.019
+   },
+   {
+    "t": "Strong in Asia,",
+    "x": 0.5712,
+    "y": 0.4736,
+    "w": 0.0567,
+    "h": 0.0188
+   },
+   {
+    "t": "Limited collaboration",
+    "x": 0.4084,
+    "y": 0.4737,
+    "w": 0.0814,
+    "h": 0.0163
+   },
+   {
+    "t": "\u2022 Still growing",
+    "x": 0.6468,
+    "y": 0.4737,
+    "w": 0.061,
+    "h": 0.0188
+   },
+   {
+    "t": "Klook",
+    "x": 0.2616,
+    "y": 0.4738,
+    "w": 0.0247,
+    "h": 0.0157
+   },
+   {
+    "t": "features",
+    "x": 0.4328,
+    "y": 0.4955,
+    "w": 0.0354,
+    "h": 0.0169
+   },
+   {
+    "t": "presence in",
+    "x": 0.6555,
+    "y": 0.4969,
+    "w": 0.0481,
+    "h": 0.0193
+   },
+   {
+    "t": "activities &",
+    "x": 0.3343,
+    "y": 0.4973,
+    "w": 0.0436,
+    "h": 0.0158
+   },
+   {
+    "t": "expanding",
+    "x": 0.5712,
+    "y": 0.4974,
+    "w": 0.0422,
+    "h": 0.0157
+   },
+   {
+    "t": "US market",
+    "x": 0.6555,
+    "y": 0.5181,
+    "w": 0.0437,
+    "h": 0.0162
+   },
+   {
+    "t": "experiences",
+    "x": 0.3343,
+    "y": 0.5209,
+    "w": 0.0509,
+    "h": 0.0157
+   },
+   {
+    "t": "globally",
+    "x": 0.5712,
+    "y": 0.5209,
+    "w": 0.032,
+    "h": 0.0157
+   },
+   {
+    "t": "\u2022 Limited",
+    "x": 0.6468,
+    "y": 0.5414,
+    "w": 0.0407,
+    "h": 0.0163
+   },
+   {
+    "t": "collaboration",
+    "x": 0.6555,
+    "y": 0.5654,
+    "w": 0.0538,
+    "h": 0.0131
+   },
+   {
+    "t": "features",
+    "x": 0.6555,
+    "y": 0.5863,
+    "w": 0.0349,
+    "h": 0.0159
+   },
+   {
+    "t": "Pain Points",
+    "x": 0.151,
+    "y": 0.6528,
+    "w": 0.0759,
+    "h": 0.0295
+   },
+   {
+    "t": "From the competitor analysis, I identified key pain points related to features that users need but are currently lacking:",
+    "x": 0.1526,
+    "y": 0.7068,
+    "w": 0.6148,
+    "h": 0.0238
+   },
+   {
+    "t": "1. Lack of specialized collaboration tools designed for content creators.",
+    "x": 0.1555,
+    "y": 0.7304,
+    "w": 0.3779,
+    "h": 0.0215
+   },
+   {
+    "t": "2. No integrated trip planning features to coordinate shared activities.",
+    "x": 0.1555,
+    "y": 0.7539,
+    "w": 0.3677,
+    "h": 0.0236
+   },
+   {
+    "t": "3. Limited identity verification and safety measures to build trust in the app and collaboration.",
+    "x": 0.1555,
+    "y": 0.7769,
+    "w": 0.4927,
+    "h": 0.0241
+   },
+   {
+    "t": "4. Limited focus on combining content creation with secure and organized collaboration in one platform.",
+    "x": 0.1555,
+    "y": 0.8008,
+    "w": 0.5494,
+    "h": 0.0239
+   },
+   {
+    "t": "User & Audience",
+    "x": 0.1526,
+    "y": 0.8559,
+    "w": 0.1105,
+    "h": 0.0263
+   },
+   {
+    "t": "1. Content creators active on social media who frequently collaborate with others creator.",
+    "x": 0.1555,
+    "y": 0.9135,
+    "w": 0.4724,
+    "h": 0.0238
+   },
+   {
+    "t": "2. Need tools for smooth trip planning and secure collaboration.",
+    "x": 0.1555,
+    "y": 0.9372,
+    "w": 0.3372,
+    "h": 0.024
+   },
+   {
+    "t": "3. Want ways to verify potential partners before collaborating, to feel safe and confident.",
+    "x": 0.1555,
+    "y": 0.9607,
+    "w": 0.468,
+    "h": 0.0236
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "file": "b07.jpg",
+  "y0": 3398,
+  "y1": 3593,
+  "h": 195,
+  "color": 0.0,
+  "density": 0.138,
+  "lines": [
+   {
+    "t": "Ideation",
+    "x": 0.1512,
+    "y": 0.0319,
+    "w": 0.0785,
+    "h": 0.1383
+   },
+   {
+    "t": "User Flow",
+    "x": 0.1512,
+    "y": 0.3723,
+    "w": 0.0683,
+    "h": 0.097
+   },
+   {
+    "t": "I created this user flow to outline the main steps that content creators take to plan collaborative journeys and publish posts. It",
+    "x": 0.1512,
+    "y": 0.648,
+    "w": 0.6613,
+    "h": 0.0969
+   },
+   {
+    "t": "illustrates how the app facilitates smooth coordination between users, from inviting collaboration to sharing the final content while",
+    "x": 0.1512,
+    "y": 0.7551,
+    "w": 0.6846,
+    "h": 0.0867
+   },
+   {
+    "t": "emphasizing trust and organization throughout the process.",
+    "x": 0.1526,
+    "y": 0.8511,
+    "w": 0.3154,
+    "h": 0.0851
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "file": "b08.jpg",
+  "y0": 3666,
+  "y1": 4108,
+  "h": 442,
+  "color": 0.86,
+  "density": 0.114,
+  "lines": [
+   {
+    "t": "User story: As a user, I want to be able to collaborate with other creators, so that I can travel together with someone",
+    "x": 0.1875,
+    "y": 0.0284,
+    "w": 0.6105,
+    "h": 0.0485
+   },
+   {
+    "t": "who shares similar interests",
+    "x": 0.1875,
+    "y": 0.0701,
+    "w": 0.1468,
+    "h": 0.0341
+   },
+   {
+    "t": "Upload photo",
+    "x": 0.6962,
+    "y": 0.1896,
+    "w": 0.0407,
+    "h": 0.0237
+   },
+   {
+    "t": "Have an",
+    "x": 0.3009,
+    "y": 0.2036,
+    "w": 0.0262,
+    "h": 0.0249
+   },
+   {
+    "t": "Splash",
+    "x": 0.1977,
+    "y": 0.2038,
+    "w": 0.0218,
+    "h": 0.0237
+   },
+   {
+    "t": "Create",
+    "x": 0.548,
+    "y": 0.2038,
+    "w": 0.0218,
+    "h": 0.0237
+   },
+   {
+    "t": "Submit",
+    "x": 0.6206,
+    "y": 0.2038,
+    "w": 0.0233,
+    "h": 0.0237
+   },
+   {
+    "t": "Homepage",
+    "x": 0.391,
+    "y": 0.218,
+    "w": 0.032,
+    "h": 0.0284
+   },
+   {
+    "t": "Collaboration",
+    "x": 0.4651,
+    "y": 0.218,
+    "w": 0.0392,
+    "h": 0.0237
+   },
+   {
+    "t": "with",
+    "x": 0.7093,
+    "y": 0.218,
+    "w": 0.0145,
+    "h": 0.0237
+   },
+   {
+    "t": "Succes",
+    "x": 0.7791,
+    "y": 0.218,
+    "w": 0.0233,
+    "h": 0.0237
+   },
+   {
+    "t": "account?",
+    "x": 0.2994,
+    "y": 0.2322,
+    "w": 0.0291,
+    "h": 0.0237
+   },
+   {
+    "t": "Collaboration",
+    "x": 0.5407,
+    "y": 0.2322,
+    "w": 0.0392,
+    "h": 0.0237
+   },
+   {
+    "t": "Invitation",
+    "x": 0.6177,
+    "y": 0.2322,
+    "w": 0.0291,
+    "h": 0.0237
+   },
+   {
+    "t": "Screen",
+    "x": 0.1977,
+    "y": 0.237,
+    "w": 0.0218,
+    "h": 0.0142
+   },
+   {
+    "t": "collaboration",
+    "x": 0.6991,
+    "y": 0.2464,
+    "w": 0.0378,
+    "h": 0.0237
+   },
+   {
+    "t": "Message",
+    "x": 0.3939,
+    "y": 0.436,
+    "w": 0.0262,
+    "h": 0.0284
+   },
+   {
+    "t": "Sign Up",
+    "x": 0.266,
+    "y": 0.4593,
+    "w": 0.0247,
+    "h": 0.0294
+   },
+   {
+    "t": "Login",
+    "x": 0.327,
+    "y": 0.4645,
+    "w": 0.0203,
+    "h": 0.0237
+   },
+   {
+    "t": "Create",
+    "x": 0.2674,
+    "y": 0.6303,
+    "w": 0.0218,
+    "h": 0.0237
+   },
+   {
+    "t": "Account",
+    "x": 0.266,
+    "y": 0.6588,
+    "w": 0.0247,
+    "h": 0.0237
+   },
+   {
+    "t": "Success create new account",
+    "x": 0.2384,
+    "y": 0.767,
+    "w": 0.0814,
+    "h": 0.0249
+   },
+   {
+    "t": "Guide",
+    "x": 0.2689,
+    "y": 0.872,
+    "w": 0.0189,
+    "h": 0.0237
+   },
+   {
+    "t": "Screen",
+    "x": 0.2674,
+    "y": 0.9052,
+    "w": 0.0218,
+    "h": 0.019
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "file": "b09.jpg",
+  "y0": 4185,
+  "y1": 4307,
+  "h": 122,
+  "color": 0.0,
+  "density": 0.234,
+  "lines": [
+   {
+    "t": "User Journey",
+    "x": 0.1511,
+    "y": 0.0783,
+    "w": 0.0903,
+    "h": 0.1993
+   },
+   {
+    "t": "This section illustrates the typical experience of a content creator using the app, from finding potential collaborators to completing",
+    "x": 0.1526,
+    "y": 0.4407,
+    "w": 0.686,
+    "h": 0.1525
+   },
+   {
+    "t": "the journey and sharing content. Based on the pain points identified through competitor analysis, this journey highlights real user",
+    "x": 0.1512,
+    "y": 0.5902,
+    "w": 0.6788,
+    "h": 0.1557
+   },
+   {
+    "t": "frustrations and expectations, helping to shape features that prioritize safety, trust, and seamless collaboration.",
+    "x": 0.1512,
+    "y": 0.7458,
+    "w": 0.5887,
+    "h": 0.1559
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "file": "b10.jpg",
+  "y0": 4335,
+  "y1": 4896,
+  "h": 561,
+  "color": 0.38,
+  "density": 0.339,
+  "lines": [
+   {
+    "t": "User Journey",
+    "x": 0.2354,
+    "y": 0.0175,
+    "w": 0.0815,
+    "h": 0.0393
+   },
+   {
+    "t": "Scenario: Alex wants to collaborate with other creators to create content in new destinations.",
+    "x": 0.2369,
+    "y": 0.089,
+    "w": 0.4869,
+    "h": 0.0267
+   },
+   {
+    "t": "Expectation: The invited content creators have the same background and carry out the collaboration",
+    "x": 0.2355,
+    "y": 0.119,
+    "w": 0.5247,
+    "h": 0.0376
+   },
+   {
+    "t": "as planned.",
+    "x": 0.2354,
+    "y": 0.1555,
+    "w": 0.0626,
+    "h": 0.0311
+   },
+   {
+    "t": "Phase",
+    "x": 0.2412,
+    "y": 0.2414,
+    "w": 0.0291,
+    "h": 0.0228
+   },
+   {
+    "t": "Initation",
+    "x": 0.4099,
+    "y": 0.2414,
+    "w": 0.0393,
+    "h": 0.0228
+   },
+   {
+    "t": "Planning",
+    "x": 0.5145,
+    "y": 0.2414,
+    "w": 0.0407,
+    "h": 0.0265
+   },
+   {
+    "t": "Discovery",
+    "x": 0.3241,
+    "y": 0.2416,
+    "w": 0.048,
+    "h": 0.026
+   },
+   {
+    "t": "Collaboration",
+    "x": 0.5988,
+    "y": 0.2416,
+    "w": 0.0625,
+    "h": 0.0223
+   },
+   {
+    "t": "Post & Review",
+    "x": 0.6831,
+    "y": 0.2416,
+    "w": 0.0654,
+    "h": 0.0223
+   },
+   {
+    "t": "Sends a",
+    "x": 0.4098,
+    "y": 0.2998,
+    "w": 0.0381,
+    "h": 0.0286
+   },
+   {
+    "t": "Publishes post",
+    "x": 0.6831,
+    "y": 0.3007,
+    "w": 0.0683,
+    "h": 0.0302
+   },
+   {
+    "t": "Discusses trip",
+    "x": 0.5144,
+    "y": 0.302,
+    "w": 0.0643,
+    "h": 0.0279
+   },
+   {
+    "t": "Opens the app",
+    "x": 0.3241,
+    "y": 0.3043,
+    "w": 0.0683,
+    "h": 0.0267
+   },
+   {
+    "t": "Goes on trip and",
+    "x": 0.5988,
+    "y": 0.3043,
+    "w": 0.077,
+    "h": 0.0267
+   },
+   {
+    "t": "Activity",
+    "x": 0.2398,
+    "y": 0.3048,
+    "w": 0.0349,
+    "h": 0.0297
+   },
+   {
+    "t": "to find creators",
+    "x": 0.3241,
+    "y": 0.3381,
+    "w": 0.0712,
+    "h": 0.0267
+   },
+   {
+    "t": "collaboration invite",
+    "x": 0.4099,
+    "y": 0.3416,
+    "w": 0.0858,
+    "h": 0.0231
+   },
+   {
+    "t": "location, date,",
+    "x": 0.5145,
+    "y": 0.3416,
+    "w": 0.064,
+    "h": 0.0267
+   },
+   {
+    "t": "creates content",
+    "x": 0.5988,
+    "y": 0.3416,
+    "w": 0.0727,
+    "h": 0.0231
+   },
+   {
+    "t": "and gives review",
+    "x": 0.6831,
+    "y": 0.3416,
+    "w": 0.0756,
+    "h": 0.0267
+   },
+   {
+    "t": "to collaborate",
+    "x": 0.3241,
+    "y": 0.3754,
+    "w": 0.064,
+    "h": 0.0267
+   },
+   {
+    "t": "for collaborator.",
+    "x": 0.6831,
+    "y": 0.3754,
+    "w": 0.0712,
+    "h": 0.0267
+   },
+   {
+    "t": "and trip proposal.",
+    "x": 0.4099,
+    "y": 0.379,
+    "w": 0.0799,
+    "h": 0.0267
+   },
+   {
+    "t": "and content",
+    "x": 0.5145,
+    "y": 0.379,
+    "w": 0.0552,
+    "h": 0.0231
+   },
+   {
+    "t": "together.",
+    "x": 0.5988,
+    "y": 0.3792,
+    "w": 0.0422,
+    "h": 0.026
+   },
+   {
+    "t": "ideas with",
+    "x": 0.5145,
+    "y": 0.4161,
+    "w": 0.048,
+    "h": 0.0228
+   },
+   {
+    "t": "with.",
+    "x": 0.3241,
+    "y": 0.4164,
+    "w": 0.0262,
+    "h": 0.0223
+   },
+   {
+    "t": "collaborator.",
+    "x": 0.5145,
+    "y": 0.4535,
+    "w": 0.0567,
+    "h": 0.0223
+   },
+   {
+    "t": "\"This should",
+    "x": 0.6831,
+    "y": 0.512,
+    "w": 0.0568,
+    "h": 0.0281
+   },
+   {
+    "t": "\"I hope I can find",
+    "x": 0.3241,
+    "y": 0.5125,
+    "w": 0.077,
+    "h": 0.0267
+   },
+   {
+    "t": "\"I want this to be",
+    "x": 0.4084,
+    "y": 0.5125,
+    "w": 0.077,
+    "h": 0.0231
+   },
+   {
+    "t": "\"We need to be",
+    "x": 0.516,
+    "y": 0.5125,
+    "w": 0.0698,
+    "h": 0.0231
+   },
+   {
+    "t": "\"I hope",
+    "x": 0.5974,
+    "y": 0.5125,
+    "w": 0.0349,
+    "h": 0.0267
+   },
+   {
+    "t": "Thought",
+    "x": 0.2398,
+    "y": 0.513,
+    "w": 0.0407,
+    "h": 0.0297
+   },
+   {
+    "t": "on the same",
+    "x": 0.5232,
+    "y": 0.5495,
+    "w": 0.0568,
+    "h": 0.0273
+   },
+   {
+    "t": "someone with",
+    "x": 0.3241,
+    "y": 0.5498,
+    "w": 0.0654,
+    "h": 0.0267
+   },
+   {
+    "t": "smooth and clear for",
+    "x": 0.4099,
+    "y": 0.5498,
+    "w": 0.093,
+    "h": 0.0267
+   },
+   {
+    "t": "help others trust",
+    "x": 0.6831,
+    "y": 0.5498,
+    "w": 0.0756,
+    "h": 0.0267
+   },
+   {
+    "t": "everything goes",
+    "x": 0.5988,
+    "y": 0.5534,
+    "w": 0.0741,
+    "h": 0.0267
+   },
+   {
+    "t": "both of us.\"",
+    "x": 0.4098,
+    "y": 0.583,
+    "w": 0.0524,
+    "h": 0.0273
+   },
+   {
+    "t": "the same",
+    "x": 0.3241,
+    "y": 0.5872,
+    "w": 0.0436,
+    "h": 0.0267
+   },
+   {
+    "t": "boat before we",
+    "x": 0.5174,
+    "y": 0.5872,
+    "w": 0.0683,
+    "h": 0.0231
+   },
+   {
+    "t": "as planned and",
+    "x": 0.5988,
+    "y": 0.5872,
+    "w": 0.0698,
+    "h": 0.0267
+   },
+   {
+    "t": "who they work",
+    "x": 0.6831,
+    "y": 0.5872,
+    "w": 0.0683,
+    "h": 0.0267
+   },
+   {
+    "t": "content goals.\"",
+    "x": 0.324,
+    "y": 0.6194,
+    "w": 0.0699,
+    "h": 0.0326
+   },
+   {
+    "t": "feels safe.\"",
+    "x": 0.5988,
+    "y": 0.6208,
+    "w": 0.0509,
+    "h": 0.0269
+   },
+   {
+    "t": "with.\"",
+    "x": 0.6831,
+    "y": 0.6208,
+    "w": 0.0276,
+    "h": 0.026
+   },
+   {
+    "t": "travel.\"",
+    "x": 0.5363,
+    "y": 0.6239,
+    "w": 0.0336,
+    "h": 0.0236
+   },
+   {
+    "t": "Emotion",
+    "x": 0.2413,
+    "y": 0.6877,
+    "w": 0.0378,
+    "h": 0.0223
+   },
+   {
+    "t": "Opportunity",
+    "x": 0.2397,
+    "y": 0.7461,
+    "w": 0.0554,
+    "h": 0.0356
+   },
+   {
+    "t": "Offer safety",
+    "x": 0.5988,
+    "y": 0.7465,
+    "w": 0.0539,
+    "h": 0.0311
+   },
+   {
+    "t": "Add a shared",
+    "x": 0.5145,
+    "y": 0.7467,
+    "w": 0.0597,
+    "h": 0.027
+   },
+   {
+    "t": "Show curated",
+    "x": 0.3241,
+    "y": 0.7472,
+    "w": 0.064,
+    "h": 0.0268
+   },
+   {
+    "t": "Provide structured",
+    "x": 0.4099,
+    "y": 0.7472,
+    "w": 0.0828,
+    "h": 0.0268
+   },
+   {
+    "t": "Build trust with a",
+    "x": 0.6831,
+    "y": 0.7472,
+    "w": 0.077,
+    "h": 0.0268
+   },
+   {
+    "t": "trip planner and",
+    "x": 0.5145,
+    "y": 0.7837,
+    "w": 0.0713,
+    "h": 0.031
+   },
+   {
+    "t": "collab templates and",
+    "x": 0.4099,
+    "y": 0.7844,
+    "w": 0.093,
+    "h": 0.026
+   },
+   {
+    "t": "tools (location",
+    "x": 0.5988,
+    "y": 0.7844,
+    "w": 0.0654,
+    "h": 0.026
+   },
+   {
+    "t": "creator",
+    "x": 0.3241,
+    "y": 0.7881,
+    "w": 0.0349,
+    "h": 0.0223
+   },
+   {
+    "t": "mutual review",
+    "x": 0.6831,
+    "y": 0.7881,
+    "w": 0.064,
+    "h": 0.0223
+   },
+   {
+    "t": "system and",
+    "x": 0.6831,
+    "y": 0.8213,
+    "w": 0.0538,
+    "h": 0.0265
+   },
+   {
+    "t": "recommendati",
+    "x": 0.3241,
+    "y": 0.8216,
+    "w": 0.0669,
+    "h": 0.026
+   },
+   {
+    "t": "clear availability",
+    "x": 0.4099,
+    "y": 0.8216,
+    "w": 0.0727,
+    "h": 0.0297
+   },
+   {
+    "t": "editable notes to",
+    "x": 0.5145,
+    "y": 0.8216,
+    "w": 0.0756,
+    "h": 0.026
+   },
+   {
+    "t": "sharing, check",
+    "x": 0.5988,
+    "y": 0.8216,
+    "w": 0.0669,
+    "h": 0.0297
+   },
+   {
+    "t": "in), and content",
+    "x": 0.5988,
+    "y": 0.8584,
+    "w": 0.0713,
+    "h": 0.0305
+   },
+   {
+    "t": "ons with filters",
+    "x": 0.3241,
+    "y": 0.8587,
+    "w": 0.0683,
+    "h": 0.026
+   },
+   {
+    "t": "collab history",
+    "x": 0.6831,
+    "y": 0.8587,
+    "w": 0.061,
+    "h": 0.026
+   },
+   {
+    "t": "status.",
+    "x": 0.4099,
+    "y": 0.8625,
+    "w": 0.0334,
+    "h": 0.0223
+   },
+   {
+    "t": "align",
+    "x": 0.5145,
+    "y": 0.8625,
+    "w": 0.0233,
+    "h": 0.0223
+   },
+   {
+    "t": "for style, niche,",
+    "x": 0.3241,
+    "y": 0.8947,
+    "w": 0.0714,
+    "h": 0.0321
+   },
+   {
+    "t": "tagging",
+    "x": 0.5983,
+    "y": 0.8953,
+    "w": 0.036,
+    "h": 0.0313
+   },
+   {
+    "t": "expectations.",
+    "x": 0.5145,
+    "y": 0.8959,
+    "w": 0.061,
+    "h": 0.026
+   },
+   {
+    "t": "log.",
+    "x": 0.6831,
+    "y": 0.8996,
+    "w": 0.0174,
+    "h": 0.0223
+   },
+   {
+    "t": "and rating.",
+    "x": 0.3241,
+    "y": 0.9324,
+    "w": 0.0509,
+    "h": 0.0304
+   },
+   {
+    "t": "features.",
+    "x": 0.5985,
+    "y": 0.9325,
+    "w": 0.0414,
+    "h": 0.0271
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "file": "b11.jpg",
+  "y0": 4939,
+  "y1": 5157,
+  "h": 218,
+  "color": 0.0,
+  "density": 0.181,
+  "lines": [
+   {
+    "t": "Design Process",
+    "x": 0.1526,
+    "y": 0.0577,
+    "w": 0.1439,
+    "h": 0.1442
+   },
+   {
+    "t": "After identifying the problem and analyzing the pain points at each stage of the user journey, I started designing the core features",
+    "x": 0.1526,
+    "y": 0.2294,
+    "w": 0.6831,
+    "h": 0.0879
+   },
+   {
+    "t": "that would address those needs. The design process was focused on creating an experience that was intuitive, secure, and",
+    "x": 0.1512,
+    "y": 0.3257,
+    "w": 0.6497,
+    "h": 0.0878
+   },
+   {
+    "t": "effectively supported creator collaboration.",
+    "x": 0.1526,
+    "y": 0.4128,
+    "w": 0.2297,
+    "h": 0.078
+   },
+   {
+    "t": "Design System",
+    "x": 0.1526,
+    "y": 0.633,
+    "w": 0.1192,
+    "h": 0.117
+   },
+   {
+    "t": "Teusale components ike lion, oreg, and ere.",
+    "x": 0.1458,
+    "y": 0.7294,
+    "w": 0.2833,
+    "h": 0.2436
+   },
+   {
+    "t": "ament created a desian system including color style tungaranhy and",
+    "x": 0.4208,
+    "y": 0.7838,
+    "w": 0.3792,
+    "h": 0.0557
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "file": "b12.jpg",
+  "y0": 5205,
+  "y1": 5424,
+  "h": 219,
+  "color": 5.78,
+  "density": 0.062,
+  "lines": [
+   {
+    "t": "Color",
+    "x": 0.1946,
+    "y": 0.0261,
+    "w": 0.0584,
+    "h": 0.1288
+   },
+   {
+    "t": "Primary Color",
+    "x": 0.1933,
+    "y": 0.3619,
+    "w": 0.0887,
+    "h": 0.0972
+   },
+   {
+    "t": "Deep Teal",
+    "x": 0.2703,
+    "y": 0.8372,
+    "w": 0.0379,
+    "h": 0.059
+   },
+   {
+    "t": "Light Orange",
+    "x": 0.1933,
+    "y": 0.8376,
+    "w": 0.0465,
+    "h": 0.0581
+   },
+   {
+    "t": "#FB9334",
+    "x": 0.1933,
+    "y": 0.9038,
+    "w": 0.0306,
+    "h": 0.0495
+   },
+   {
+    "t": "#167070",
+    "x": 0.2703,
+    "y": 0.9048,
+    "w": 0.0276,
+    "h": 0.0476
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "file": "b13.jpg",
+  "y0": 5465,
+  "y1": 5651,
+  "h": 186,
+  "color": 9.47,
+  "density": 0.267,
+  "lines": [
+   {
+    "t": "Secondary colors",
+    "x": 0.1933,
+    "y": 0.0538,
+    "w": 0.1134,
+    "h": 0.1148
+   },
+   {
+    "t": "Deep Teal",
+    "x": 0.1932,
+    "y": 0.2434,
+    "w": 0.0627,
+    "h": 0.1199
+   },
+   {
+    "t": "Deep Teal 700",
+    "x": 0.1933,
+    "y": 0.7957,
+    "w": 0.0509,
+    "h": 0.0699
+   },
+   {
+    "t": "Deep Teal 600",
+    "x": 0.2703,
+    "y": 0.7957,
+    "w": 0.0523,
+    "h": 0.0699
+   },
+   {
+    "t": "Deep Teal 500",
+    "x": 0.3474,
+    "y": 0.7957,
+    "w": 0.0523,
+    "h": 0.0699
+   },
+   {
+    "t": "Deep Teal 400",
+    "x": 0.4259,
+    "y": 0.7957,
+    "w": 0.0509,
+    "h": 0.0699
+   },
+   {
+    "t": "Deep Teal 300",
+    "x": 0.5029,
+    "y": 0.7957,
+    "w": 0.0523,
+    "h": 0.0699
+   },
+   {
+    "t": "Deep Teal 200",
+    "x": 0.5799,
+    "y": 0.7957,
+    "w": 0.0523,
+    "h": 0.0699
+   },
+   {
+    "t": "Deep Teal 100",
+    "x": 0.657,
+    "y": 0.7957,
+    "w": 0.0523,
+    "h": 0.0699
+   },
+   {
+    "t": "Deep Teal 50",
+    "x": 0.734,
+    "y": 0.7957,
+    "w": 0.048,
+    "h": 0.0699
+   },
+   {
+    "t": "#ESF8F6",
+    "x": 0.6555,
+    "y": 0.8652,
+    "w": 0.0305,
+    "h": 0.0674
+   },
+   {
+    "t": "#187070",
+    "x": 0.1933,
+    "y": 0.8764,
+    "w": 0.0291,
+    "h": 0.0562
+   },
+   {
+    "t": "#468570",
+    "x": 0.2703,
+    "y": 0.8764,
+    "w": 0.0305,
+    "h": 0.0562
+   },
+   {
+    "t": "#98CFC7",
+    "x": 0.4259,
+    "y": 0.8764,
+    "w": 0.0291,
+    "h": 0.0562
+   },
+   {
+    "t": "#ABDCDS",
+    "x": 0.5015,
+    "y": 0.8764,
+    "w": 0.032,
+    "h": 0.0562
+   },
+   {
+    "t": "#CAE954",
+    "x": 0.5799,
+    "y": 0.8764,
+    "w": 0.0305,
+    "h": 0.0562
+   },
+   {
+    "t": "#FIFOFB",
+    "x": 0.734,
+    "y": 0.8764,
+    "w": 0.0276,
+    "h": 0.0562
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "file": "b14.jpg",
+  "y0": 5680,
+  "y1": 5829,
+  "h": 149,
+  "color": 18.32,
+  "density": 0.33,
+  "lines": [
+   {
+    "t": "Orange",
+    "x": 0.1933,
+    "y": 0.0685,
+    "w": 0.0451,
+    "h": 0.1268
+   },
+   {
+    "t": "Orange 50",
+    "x": 0.7339,
+    "y": 0.7453,
+    "w": 0.038,
+    "h": 0.0928
+   },
+   {
+    "t": "Orange 200",
+    "x": 0.5799,
+    "y": 0.7475,
+    "w": 0.0423,
+    "h": 0.0884
+   },
+   {
+    "t": "Orange 500",
+    "x": 0.3488,
+    "y": 0.7479,
+    "w": 0.0422,
+    "h": 0.0875
+   },
+   {
+    "t": "Orange 100",
+    "x": 0.6569,
+    "y": 0.7482,
+    "w": 0.0422,
+    "h": 0.087
+   },
+   {
+    "t": "Orange 600",
+    "x": 0.2718,
+    "y": 0.7487,
+    "w": 0.0422,
+    "h": 0.086
+   },
+   {
+    "t": "Orange 700",
+    "x": 0.1947,
+    "y": 0.7489,
+    "w": 0.0407,
+    "h": 0.0854
+   },
+   {
+    "t": "Orange 300",
+    "x": 0.5029,
+    "y": 0.7491,
+    "w": 0.0422,
+    "h": 0.0851
+   },
+   {
+    "t": "Orange 400",
+    "x": 0.4259,
+    "y": 0.75,
+    "w": 0.0422,
+    "h": 0.0833
+   },
+   {
+    "t": "#FE632F",
+    "x": 0.1933,
+    "y": 0.8472,
+    "w": 0.0291,
+    "h": 0.0694
+   },
+   {
+    "t": "#FF8156",
+    "x": 0.2703,
+    "y": 0.8472,
+    "w": 0.0291,
+    "h": 0.0694
+   },
+   {
+    "t": "#FFA487",
+    "x": 0.3488,
+    "y": 0.8472,
+    "w": 0.0276,
+    "h": 0.0694
+   },
+   {
+    "t": "#FFC886",
+    "x": 0.4244,
+    "y": 0.8472,
+    "w": 0.0305,
+    "h": 0.0694
+   },
+   {
+    "t": "#FFE106",
+    "x": 0.5029,
+    "y": 0.8472,
+    "w": 0.0291,
+    "h": 0.0694
+   },
+   {
+    "t": "#FFF2EE",
+    "x": 0.5799,
+    "y": 0.8472,
+    "w": 0.0276,
+    "h": 0.0694
+   },
+   {
+    "t": "#FFF6F3",
+    "x": 0.657,
+    "y": 0.8472,
+    "w": 0.0291,
+    "h": 0.0694
+   },
+   {
+    "t": "#FFFCFC",
+    "x": 0.734,
+    "y": 0.8472,
+    "w": 0.0305,
+    "h": 0.0694
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "file": "b15.jpg",
+  "y0": 5863,
+  "y1": 6007,
+  "h": 144,
+  "color": 13.1,
+  "density": 0.319,
+  "lines": [
+   {
+    "t": "Blue",
+    "x": 0.1917,
+    "y": -0.0,
+    "w": 0.025,
+    "h": 0.1667
+   },
+   {
+    "t": "BLe 700",
+    "x": 0.1917,
+    "y": 0.7083,
+    "w": 0.0333,
+    "h": 0.2083
+   },
+   {
+    "t": "Blue 500",
+    "x": 0.3488,
+    "y": 0.7361,
+    "w": 0.032,
+    "h": 0.0903
+   },
+   {
+    "t": "Blue 400",
+    "x": 0.4259,
+    "y": 0.7361,
+    "w": 0.032,
+    "h": 0.0903
+   },
+   {
+    "t": "Blue 200",
+    "x": 0.5799,
+    "y": 0.7361,
+    "w": 0.032,
+    "h": 0.0903
+   },
+   {
+    "t": "Blue 50",
+    "x": 0.734,
+    "y": 0.7361,
+    "w": 0.0276,
+    "h": 0.0903
+   },
+   {
+    "t": "Blue 300",
+    "x": 0.5028,
+    "y": 0.737,
+    "w": 0.0321,
+    "h": 0.0913
+   },
+   {
+    "t": "Blue 600",
+    "x": 0.2718,
+    "y": 0.7386,
+    "w": 0.032,
+    "h": 0.088
+   },
+   {
+    "t": "Blue 100",
+    "x": 0.657,
+    "y": 0.7536,
+    "w": 0.0305,
+    "h": 0.0728
+   },
+   {
+    "t": "#20827A",
+    "x": 0.2703,
+    "y": 0.8406,
+    "w": 0.0291,
+    "h": 0.0725
+   },
+   {
+    "t": "#588798",
+    "x": 0.3474,
+    "y": 0.8406,
+    "w": 0.0305,
+    "h": 0.0725
+   },
+   {
+    "t": "#88ACBD",
+    "x": 0.4259,
+    "y": 0.8406,
+    "w": 0.0291,
+    "h": 0.0725
+   },
+   {
+    "t": "#OFBFCO",
+    "x": 0.5029,
+    "y": 0.8406,
+    "w": 0.0305,
+    "h": 0.0725
+   },
+   {
+    "t": "#36D105",
+    "x": 0.5799,
+    "y": 0.8406,
+    "w": 0.0291,
+    "h": 0.0725
+   },
+   {
+    "t": "#CCE4EE",
+    "x": 0.657,
+    "y": 0.8406,
+    "w": 0.0305,
+    "h": 0.087
+   },
+   {
+    "t": "#E3F8FF",
+    "x": 0.734,
+    "y": 0.8406,
+    "w": 0.0276,
+    "h": 0.0725
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "file": "b16.jpg",
+  "y0": 6048,
+  "y1": 6198,
+  "h": 150,
+  "color": 0.0,
+  "density": 0.302,
+  "lines": [
+   {
+    "t": "Neutral colors",
+    "x": 0.1933,
+    "y": 0.0667,
+    "w": 0.0901,
+    "h": 0.1278
+   },
+   {
+    "t": "Neutral 700",
+    "x": 0.1933,
+    "y": 0.75,
+    "w": 0.0422,
+    "h": 0.07
+   },
+   {
+    "t": "Neutral 600",
+    "x": 0.2703,
+    "y": 0.75,
+    "w": 0.0422,
+    "h": 0.0833
+   },
+   {
+    "t": "#080808",
+    "x": 0.1947,
+    "y": 0.8465,
+    "w": 0.0277,
+    "h": 0.0708
+   },
+   {
+    "t": "#484B48",
+    "x": 0.2703,
+    "y": 0.8472,
+    "w": 0.0305,
+    "h": 0.0694
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "file": "b17.jpg",
+  "y0": 6224,
+  "y1": 6376,
+  "h": 152,
+  "color": 20.64,
+  "density": 0.328,
+  "lines": [
+   {
+    "t": "Warning",
+    "x": 0.1933,
+    "y": 0.067,
+    "w": 0.0539,
+    "h": 0.14
+   },
+   {
+    "t": "Warning 300",
+    "x": 0.5014,
+    "y": 0.7496,
+    "w": 0.0467,
+    "h": 0.0898
+   },
+   {
+    "t": "Warning 700",
+    "x": 0.1933,
+    "y": 0.7534,
+    "w": 0.0451,
+    "h": 0.0959
+   },
+   {
+    "t": "Warning 600",
+    "x": 0.2703,
+    "y": 0.7534,
+    "w": 0.0465,
+    "h": 0.0822
+   },
+   {
+    "t": "Warning 500",
+    "x": 0.3488,
+    "y": 0.7534,
+    "w": 0.0451,
+    "h": 0.0822
+   },
+   {
+    "t": "Warning 400",
+    "x": 0.4244,
+    "y": 0.7534,
+    "w": 0.0465,
+    "h": 0.0822
+   },
+   {
+    "t": "Warning 200",
+    "x": 0.5799,
+    "y": 0.7534,
+    "w": 0.0451,
+    "h": 0.0822
+   },
+   {
+    "t": "Warning 100",
+    "x": 0.657,
+    "y": 0.7534,
+    "w": 0.0451,
+    "h": 0.0822
+   },
+   {
+    "t": "Warning 50",
+    "x": 0.734,
+    "y": 0.7534,
+    "w": 0.0407,
+    "h": 0.0822
+   },
+   {
+    "t": "HF49898",
+    "x": 0.4243,
+    "y": 0.8449,
+    "w": 0.0307,
+    "h": 0.0774
+   },
+   {
+    "t": "#FFEBEE",
+    "x": 0.5799,
+    "y": 0.8479,
+    "w": 0.0277,
+    "h": 0.0714
+   },
+   {
+    "t": "#E86F70",
+    "x": 0.3474,
+    "y": 0.8486,
+    "w": 0.0291,
+    "h": 0.0699
+   },
+   {
+    "t": "#FFF8FB",
+    "x": 0.734,
+    "y": 0.8488,
+    "w": 0.0291,
+    "h": 0.0695
+   },
+   {
+    "t": "#FE0000",
+    "x": 0.1933,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#FE5F5F",
+    "x": 0.2703,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#FFCCD2",
+    "x": 0.5015,
+    "y": 0.8493,
+    "w": 0.032,
+    "h": 0.0685
+   },
+   {
+    "t": "#FEF2F2",
+    "x": 0.6555,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "file": "b18.jpg",
+  "y0": 6471,
+  "y1": 7125,
+  "h": 654,
+  "color": 0.0,
+  "density": 0.039,
+  "lines": [
+   {
+    "t": "Typography",
+    "x": 0.2701,
+    "y": 0.0065,
+    "w": 0.1139,
+    "h": 0.0573
+   },
+   {
+    "t": "Poppins",
+    "x": 0.2688,
+    "y": 0.1302,
+    "w": 0.0685,
+    "h": 0.0431
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "x": 0.2703,
+    "y": 0.1853,
+    "w": 0.1715,
+    "h": 0.0224
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.2703,
+    "y": 0.2236,
+    "w": 0.1366,
+    "h": 0.0224
+   },
+   {
+    "t": "1234567890",
+    "x": 0.2689,
+    "y": 0.2524,
+    "w": 0.061,
+    "h": 0.0288
+   },
+   {
+    "t": "Font size/weight",
+    "x": 0.4869,
+    "y": 0.3578,
+    "w": 0.0916,
+    "h": 0.0321
+   },
+   {
+    "t": "Style",
+    "x": 0.2689,
+    "y": 0.361,
+    "w": 0.0305,
+    "h": 0.0288
+   },
+   {
+    "t": "Heading",
+    "x": 0.2665,
+    "y": 0.4756,
+    "w": 0.0962,
+    "h": 0.0579
+   },
+   {
+    "t": "40/Extrabold",
+    "x": 0.4956,
+    "y": 0.4792,
+    "w": 0.1395,
+    "h": 0.0479
+   },
+   {
+    "t": "20/Bold",
+    "x": 0.4941,
+    "y": 0.5907,
+    "w": 0.0568,
+    "h": 0.0327
+   },
+   {
+    "t": "Title",
+    "x": 0.2689,
+    "y": 0.5911,
+    "w": 0.0334,
+    "h": 0.0319
+   },
+   {
+    "t": "Large Body",
+    "x": 0.2689,
+    "y": 0.6897,
+    "w": 0.0713,
+    "h": 0.0327
+   },
+   {
+    "t": "14/Semibold",
+    "x": 0.4942,
+    "y": 0.6901,
+    "w": 0.0785,
+    "h": 0.0288
+   },
+   {
+    "t": "14/Regular",
+    "x": 0.4942,
+    "y": 0.7825,
+    "w": 0.0596,
+    "h": 0.026
+   },
+   {
+    "t": "Body",
+    "x": 0.2703,
+    "y": 0.7827,
+    "w": 0.0276,
+    "h": 0.0256
+   },
+   {
+    "t": "12/Regular",
+    "x": 0.4941,
+    "y": 0.8738,
+    "w": 0.0526,
+    "h": 0.0255
+   },
+   {
+    "t": "Secondary Body",
+    "x": 0.2703,
+    "y": 0.8754,
+    "w": 0.077,
+    "h": 0.0224
+   },
+   {
+    "t": "14/Bold",
+    "x": 0.4942,
+    "y": 0.9585,
+    "w": 0.0392,
+    "h": 0.0224
+   },
+   {
+    "t": "Button",
+    "x": 0.2703,
+    "y": 0.9617,
+    "w": 0.0334,
+    "h": 0.0192
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "file": "b19.jpg",
+  "y0": 7249,
+  "y1": 7647,
+  "h": 398,
+  "color": 5.8,
+  "density": 0.074,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.2805,
+    "y": 0.0312,
+    "w": 0.0713,
+    "h": 0.0692
+   },
+   {
+    "t": "< Label",
+    "x": 0.2994,
+    "y": 0.299,
+    "w": 0.0436,
+    "h": 0.0431
+   },
+   {
+    "t": "\u2022 Label",
+    "x": 0.4142,
+    "y": 0.299,
+    "w": 0.0422,
+    "h": 0.0378
+   },
+   {
+    "t": "<",
+    "x": 0.5276,
+    "y": 0.3,
+    "w": 0.0073,
+    "h": 0.0316
+   },
+   {
+    "t": "Label",
+    "x": 0.5407,
+    "y": 0.3,
+    "w": 0.0305,
+    "h": 0.0316
+   },
+   {
+    "t": "Label",
+    "x": 0.6555,
+    "y": 0.3,
+    "w": 0.0276,
+    "h": 0.0316
+   },
+   {
+    "t": "< Label >",
+    "x": 0.4156,
+    "y": 0.4462,
+    "w": 0.0553,
+    "h": 0.0392
+   },
+   {
+    "t": "Label >",
+    "x": 0.3154,
+    "y": 0.4472,
+    "w": 0.0422,
+    "h": 0.0377
+   },
+   {
+    "t": "< Label",
+    "x": 0.5291,
+    "y": 0.4472,
+    "w": 0.0494,
+    "h": 0.0377
+   },
+   {
+    "t": "< Label >",
+    "x": 0.6439,
+    "y": 0.4472,
+    "w": 0.0538,
+    "h": 0.0377
+   },
+   {
+    "t": ">",
+    "x": 0.6904,
+    "y": 0.5947,
+    "w": 0.0073,
+    "h": 0.0368
+   },
+   {
+    "t": "Label >",
+    "x": 0.3154,
+    "y": 0.6,
+    "w": 0.0422,
+    "h": 0.0368
+   },
+   {
+    "t": "< Label >",
+    "x": 0.4157,
+    "y": 0.6,
+    "w": 0.0552,
+    "h": 0.0368
+   },
+   {
+    "t": "< Label >",
+    "x": 0.5291,
+    "y": 0.6,
+    "w": 0.0552,
+    "h": 0.0368
+   },
+   {
+    "t": "< Label",
+    "x": 0.6439,
+    "y": 0.6,
+    "w": 0.0407,
+    "h": 0.0368
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "file": "b20.jpg",
+  "y0": 7780,
+  "y1": 8240,
+  "h": 460,
+  "color": 0.95,
+  "density": 0.548,
+  "lines": [
+   {
+    "t": "Sliders",
+    "x": 0.1948,
+    "y": 0.0227,
+    "w": 0.0363,
+    "h": 0.0273
+   },
+   {
+    "t": "Radio",
+    "x": 0.2602,
+    "y": 0.1,
+    "w": 0.0334,
+    "h": 0.0409
+   },
+   {
+    "t": "Normal",
+    "x": 0.4564,
+    "y": 0.1045,
+    "w": 0.0305,
+    "h": 0.0227
+   },
+   {
+    "t": "Disable",
+    "x": 0.6788,
+    "y": 0.1045,
+    "w": 0.032,
+    "h": 0.0273
+   },
+   {
+    "t": "Track",
+    "x": 0.218,
+    "y": 0.2455,
+    "w": 0.0247,
+    "h": 0.0227
+   },
+   {
+    "t": "Active Track",
+    "x": 0.218,
+    "y": 0.3172,
+    "w": 0.0524,
+    "h": 0.0337
+   },
+   {
+    "t": "Thumb",
+    "x": 0.218,
+    "y": 0.4,
+    "w": 0.0305,
+    "h": 0.0227
+   },
+   {
+    "t": "22",
+    "x": 0.4448,
+    "y": 0.8,
+    "w": 0.0131,
+    "h": 0.0318
+   },
+   {
+    "t": "51",
+    "x": 0.5494,
+    "y": 0.8,
+    "w": 0.0131,
+    "h": 0.0364
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "file": "b21.jpg",
+  "y0": 8345,
+  "y1": 9841,
+  "h": 1496,
+  "color": 3.67,
+  "density": 0.237,
+  "lines": [
+   {
+    "t": "Icon",
+    "x": 0.2659,
+    "y": 0.0203,
+    "w": 0.0166,
+    "h": 0.0073
+   },
+   {
+    "t": "2 hours ago",
+    "x": 0.6858,
+    "y": 0.0435,
+    "w": 0.0318,
+    "h": 0.0076
+   },
+   {
+    "t": "Jennifer",
+    "x": 0.5619,
+    "y": 0.0436,
+    "w": 0.0332,
+    "h": 0.0073
+   },
+   {
+    "t": "A C",
+    "x": 0.3369,
+    "y": 0.0929,
+    "w": 0.0332,
+    "h": 0.0103
+   },
+   {
+    "t": "\u2022",
+    "x": 0.3792,
+    "y": 0.141,
+    "w": 0.0136,
+    "h": 0.0116
+   },
+   {
+    "t": "<",
+    "x": 0.4713,
+    "y": 0.1686,
+    "w": 0.0106,
+    "h": 0.0116
+   },
+   {
+    "t": "\u2022\u2022.",
+    "x": 0.3792,
+    "y": 0.1701,
+    "w": 0.0151,
+    "h": 0.0073
+   },
+   {
+    "t": "Bali Blue Lagoon",
+    "x": 0.5529,
+    "y": 0.1771,
+    "w": 0.0619,
+    "h": 0.0089
+   },
+   {
+    "t": "Conservatory with thousands of butterflies,",
+    "x": 0.5529,
+    "y": 0.1904,
+    "w": 0.1314,
+    "h": 0.0075
+   },
+   {
+    "t": "A O",
+    "x": 0.3369,
+    "y": 0.1962,
+    "w": 0.0332,
+    "h": 0.0103
+   },
+   {
+    "t": "plus an on-site food court, gift shop &",
+    "x": 0.5529,
+    "y": 0.1991,
+    "w": 0.1163,
+    "h": 0.0074
+   },
+   {
+    "t": "outdoor gardens.",
+    "x": 0.5529,
+    "y": 0.2078,
+    "w": 0.0544,
+    "h": 0.0087
+   },
+   {
+    "t": "Direction",
+    "x": 0.574,
+    "y": 0.2355,
+    "w": 0.0378,
+    "h": 0.0073
+   },
+   {
+    "t": "Photos",
+    "x": 0.6495,
+    "y": 0.2355,
+    "w": 0.0287,
+    "h": 0.0087
+   },
+   {
+    "t": "Keyboard",
+    "x": 0.2674,
+    "y": 0.2573,
+    "w": 0.0423,
+    "h": 0.0087
+   },
+   {
+    "t": "2",
+    "x": 0.3686,
+    "y": 0.2849,
+    "w": 0.0106,
+    "h": 0.0131
+   },
+   {
+    "t": "3",
+    "x": 0.4396,
+    "y": 0.2849,
+    "w": 0.0091,
+    "h": 0.0116
+   },
+   {
+    "t": "ABC",
+    "x": 0.3656,
+    "y": 0.298,
+    "w": 0.0181,
+    "h": 0.0073
+   },
+   {
+    "t": "4",
+    "x": 0.2976,
+    "y": 0.314,
+    "w": 0.0106,
+    "h": 0.0116
+   },
+   {
+    "t": "5",
+    "x": 0.3701,
+    "y": 0.314,
+    "w": 0.0091,
+    "h": 0.0102
+   },
+   {
+    "t": "6",
+    "x": 0.4396,
+    "y": 0.314,
+    "w": 0.0091,
+    "h": 0.0116
+   },
+   {
+    "t": "GHI",
+    "x": 0.2961,
+    "y": 0.327,
+    "w": 0.0151,
+    "h": 0.0058
+   },
+   {
+    "t": "JKL",
+    "x": 0.3656,
+    "y": 0.327,
+    "w": 0.0166,
+    "h": 0.0073
+   },
+   {
+    "t": "MNO",
+    "x": 0.4335,
+    "y": 0.327,
+    "w": 0.0196,
+    "h": 0.0058
+   },
+   {
+    "t": "8",
+    "x": 0.3686,
+    "y": 0.3416,
+    "w": 0.0106,
+    "h": 0.0131
+   },
+   {
+    "t": "7",
+    "x": 0.2976,
+    "y": 0.343,
+    "w": 0.0106,
+    "h": 0.0116
+   },
+   {
+    "t": "9",
+    "x": 0.4366,
+    "y": 0.343,
+    "w": 0.0121,
+    "h": 0.0116
+   },
+   {
+    "t": "PGRS",
+    "x": 0.293,
+    "y": 0.3545,
+    "w": 0.0228,
+    "h": 0.0076
+   },
+   {
+    "t": "TUV",
+    "x": 0.3656,
+    "y": 0.3547,
+    "w": 0.0181,
+    "h": 0.0073
+   },
+   {
+    "t": "WXYZ",
+    "x": 0.432,
+    "y": 0.3547,
+    "w": 0.0242,
+    "h": 0.0073
+   },
+   {
+    "t": "Magic Wings Butterfly Conservatory",
+    "x": 0.5544,
+    "y": 0.3808,
+    "w": 0.1329,
+    "h": 0.0089
+   },
+   {
+    "t": "Conservatory with thousands of butterflies.",
+    "x": 0.5529,
+    "y": 0.3937,
+    "w": 0.1329,
+    "h": 0.0074
+   },
+   {
+    "t": "plus an on-site food court, gift shop &",
+    "x": 0.5544,
+    "y": 0.4024,
+    "w": 0.1163,
+    "h": 0.0089
+   },
+   {
+    "t": "outdoor gardens.",
+    "x": 0.5529,
+    "y": 0.4111,
+    "w": 0.0559,
+    "h": 0.009
+   },
+   {
+    "t": "Direction",
+    "x": 0.5754,
+    "y": 0.4385,
+    "w": 0.0364,
+    "h": 0.0081
+   },
+   {
+    "t": "Photos",
+    "x": 0.6511,
+    "y": 0.439,
+    "w": 0.0272,
+    "h": 0.0087
+   },
+   {
+    "t": "\"Helli\"",
+    "x": 0.287,
+    "y": 0.4491,
+    "w": 0.0317,
+    "h": 0.0102
+   },
+   {
+    "t": "Hello",
+    "x": 0.3625,
+    "y": 0.4506,
+    "w": 0.0242,
+    "h": 0.0087
+   },
+   {
+    "t": "Hellos",
+    "x": 0.4305,
+    "y": 0.4506,
+    "w": 0.0317,
+    "h": 0.0087
+   },
+   {
+    "t": "Q",
+    "x": 0.2719,
+    "y": 0.4782,
+    "w": 0.0121,
+    "h": 0.0131
+   },
+   {
+    "t": "W",
+    "x": 0.2915,
+    "y": 0.4782,
+    "w": 0.0136,
+    "h": 0.0116
+   },
+   {
+    "t": "T",
+    "x": 0.3565,
+    "y": 0.4782,
+    "w": 0.0121,
+    "h": 0.0131
+   },
+   {
+    "t": "Y",
+    "x": 0.3807,
+    "y": 0.4782,
+    "w": 0.0091,
+    "h": 0.0102
+   },
+   {
+    "t": "U",
+    "x": 0.4003,
+    "y": 0.4782,
+    "w": 0.0106,
+    "h": 0.0116
+   },
+   {
+    "t": "P",
+    "x": 0.4668,
+    "y": 0.4782,
+    "w": 0.0091,
+    "h": 0.0102
+   },
+   {
+    "t": "Alex",
+    "x": 0.5574,
+    "y": 0.4869,
+    "w": 0.0453,
+    "h": 0.0174
+   },
+   {
+    "t": "F",
+    "x": 0.3489,
+    "y": 0.5073,
+    "w": 0.0091,
+    "h": 0.0116
+   },
+   {
+    "t": "G",
+    "x": 0.3686,
+    "y": 0.5073,
+    "w": 0.0106,
+    "h": 0.0131
+   },
+   {
+    "t": "K",
+    "x": 0.432,
+    "y": 0.5073,
+    "w": 0.0121,
+    "h": 0.0131
+   },
+   {
+    "t": "Very Experienced",
+    "x": 0.5559,
+    "y": 0.5073,
+    "w": 0.0468,
+    "h": 0.0074
+   },
+   {
+    "t": "A",
+    "x": 0.2825,
+    "y": 0.5087,
+    "w": 0.0121,
+    "h": 0.0116
+   },
+   {
+    "t": "S",
+    "x": 0.3036,
+    "y": 0.5087,
+    "w": 0.0121,
+    "h": 0.0116
+   },
+   {
+    "t": "D",
+    "x": 0.3278,
+    "y": 0.5087,
+    "w": 0.0091,
+    "h": 0.0102
+   },
+   {
+    "t": "H",
+    "x": 0.3897,
+    "y": 0.5087,
+    "w": 0.0106,
+    "h": 0.0116
+   },
+   {
+    "t": "J",
+    "x": 0.4124,
+    "y": 0.5087,
+    "w": 0.0091,
+    "h": 0.0102
+   },
+   {
+    "t": "L",
+    "x": 0.4532,
+    "y": 0.5087,
+    "w": 0.0106,
+    "h": 0.0116
+   },
+   {
+    "t": "125",
+    "x": 0.571,
+    "y": 0.5247,
+    "w": 0.0181,
+    "h": 0.0087
+   },
+   {
+    "t": "150",
+    "x": 0.6269,
+    "y": 0.5247,
+    "w": 0.0181,
+    "h": 0.0087
+   },
+   {
+    "t": "321",
+    "x": 0.6858,
+    "y": 0.5247,
+    "w": 0.0166,
+    "h": 0.0087
+   },
+   {
+    "t": "Followers",
+    "x": 0.565,
+    "y": 0.5349,
+    "w": 0.0317,
+    "h": 0.0073
+   },
+   {
+    "t": "Likes",
+    "x": 0.6843,
+    "y": 0.5349,
+    "w": 0.0181,
+    "h": 0.0073
+   },
+   {
+    "t": "X",
+    "x": 0.3248,
+    "y": 0.5363,
+    "w": 0.0121,
+    "h": 0.0131
+   },
+   {
+    "t": "Z",
+    "x": 0.3036,
+    "y": 0.5378,
+    "w": 0.0121,
+    "h": 0.0116
+   },
+   {
+    "t": "V",
+    "x": 0.3701,
+    "y": 0.5378,
+    "w": 0.0091,
+    "h": 0.0102
+   },
+   {
+    "t": "B",
+    "x": 0.3912,
+    "y": 0.5378,
+    "w": 0.0091,
+    "h": 0.0102
+   },
+   {
+    "t": "N",
+    "x": 0.4109,
+    "y": 0.5378,
+    "w": 0.0121,
+    "h": 0.0116
+   },
+   {
+    "t": "M",
+    "x": 0.4305,
+    "y": 0.5378,
+    "w": 0.0151,
+    "h": 0.0116
+   },
+   {
+    "t": "POROWITS",
+    "x": 0.6208,
+    "y": 0.5378,
+    "w": 0.0302,
+    "h": 0.0044
+   },
+   {
+    "t": "+",
+    "x": 0.2749,
+    "y": 0.5392,
+    "w": 0.0121,
+    "h": 0.0102
+   },
+   {
+    "t": "123",
+    "x": 0.2704,
+    "y": 0.5669,
+    "w": 0.0196,
+    "h": 0.0102
+   },
+   {
+    "t": "return",
+    "x": 0.4381,
+    "y": 0.5669,
+    "w": 0.0302,
+    "h": 0.0073
+   },
+   {
+    "t": "space",
+    "x": 0.3716,
+    "y": 0.5683,
+    "w": 0.0272,
+    "h": 0.0073
+   },
+   {
+    "t": "Navigation Bar - Top",
+    "x": 0.5438,
+    "y": 0.5869,
+    "w": 0.077,
+    "h": 0.0094
+   },
+   {
+    "t": "9:41",
+    "x": 0.5604,
+    "y": 0.6148,
+    "w": 0.0181,
+    "h": 0.0073
+   },
+   {
+    "t": "Title",
+    "x": 0.5574,
+    "y": 0.6352,
+    "w": 0.0242,
+    "h": 0.0102
+   },
+   {
+    "t": "Status Bar",
+    "x": 0.2719,
+    "y": 0.6598,
+    "w": 0.0453,
+    "h": 0.0074
+   },
+   {
+    "t": "9:41",
+    "x": 0.5589,
+    "y": 0.6686,
+    "w": 0.0181,
+    "h": 0.0073
+   },
+   {
+    "t": "9:41",
+    "x": 0.2855,
+    "y": 0.6904,
+    "w": 0.0196,
+    "h": 0.0073
+   },
+   {
+    "t": "< back",
+    "x": 0.5574,
+    "y": 0.6918,
+    "w": 0.0317,
+    "h": 0.0102
+   },
+   {
+    "t": "Title",
+    "x": 0.6994,
+    "y": 0.6933,
+    "w": 0.0257,
+    "h": 0.0102
+   },
+   {
+    "t": "9:41",
+    "x": 0.2855,
+    "y": 0.7209,
+    "w": 0.0181,
+    "h": 0.0073
+   },
+   {
+    "t": "9:41",
+    "x": 0.5604,
+    "y": 0.7238,
+    "w": 0.0166,
+    "h": 0.0073
+   },
+   {
+    "t": "< back",
+    "x": 0.5589,
+    "y": 0.7471,
+    "w": 0.0287,
+    "h": 0.0103
+   },
+   {
+    "t": "Home Indicator",
+    "x": 0.2674,
+    "y": 0.7687,
+    "w": 0.065,
+    "h": 0.0089
+   },
+   {
+    "t": "9:41",
+    "x": 0.5604,
+    "y": 0.7791,
+    "w": 0.0166,
+    "h": 0.0073
+   },
+   {
+    "t": "Navigation Bar - Bottom",
+    "x": 0.5438,
+    "y": 0.8314,
+    "w": 0.0906,
+    "h": 0.0088
+   },
+   {
+    "t": "Input Field",
+    "x": 0.2704,
+    "y": 0.8603,
+    "w": 0.0559,
+    "h": 0.012
+   },
+   {
+    "t": "Email",
+    "x": 0.2704,
+    "y": 0.8939,
+    "w": 0.0287,
+    "h": 0.0102
+   },
+   {
+    "t": "Voice Note",
+    "x": 0.5483,
+    "y": 0.9125,
+    "w": 0.0575,
+    "h": 0.0108
+   },
+   {
+    "t": "yourname@gmail.com",
+    "x": 0.2704,
+    "y": 0.9244,
+    "w": 0.1178,
+    "h": 0.0116
+   },
+   {
+    "t": "00:12",
+    "x": 0.6934,
+    "y": 0.9549,
+    "w": 0.0242,
+    "h": 0.0073
+   },
+   {
+    "t": "\u2022\u2022\u2022",
+    "x": 0.3127,
+    "y": 0.9564,
+    "w": 0.0302,
+    "h": 0.0087
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "file": "b22.jpg",
+  "y0": 9929,
+  "y1": 10524,
+  "h": 595,
+  "color": 5.63,
+  "density": 0.316,
+  "lines": [
+   {
+    "t": "Final Design",
+    "x": 0.1523,
+    "y": 0.0216,
+    "w": 0.0979,
+    "h": 0.0427
+   },
+   {
+    "t": "Splash and Sign up/Login Screen",
+    "x": 0.1512,
+    "y": 0.1191,
+    "w": 0.2645,
+    "h": 0.0458
+   },
+   {
+    "t": "9:47",
+    "x": 0.439,
+    "y": 0.2456,
+    "w": 0.0116,
+    "h": 0.007
+   },
+   {
+    "t": "9,47",
+    "x": 0.6017,
+    "y": 0.2456,
+    "w": 0.0116,
+    "h": 0.007
+   },
+   {
+    "t": "Sign up",
+    "x": 0.6497,
+    "y": 0.2667,
+    "w": 0.0305,
+    "h": 0.0253
+   },
+   {
+    "t": "< Back",
+    "x": 0.4375,
+    "y": 0.2701,
+    "w": 0.0203,
+    "h": 0.0176
+   },
+   {
+    "t": "Log in",
+    "x": 0.4869,
+    "y": 0.2701,
+    "w": 0.0247,
+    "h": 0.0218
+   },
+   {
+    "t": "Name",
+    "x": 0.6061,
+    "y": 0.3439,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "Email",
+    "x": 0.4462,
+    "y": 0.3509,
+    "w": 0.0174,
+    "h": 0.0175
+   },
+   {
+    "t": "OH SNAP!",
+    "x": 0.295,
+    "y": 0.4068,
+    "w": 0.0858,
+    "h": 0.0531
+   },
+   {
+    "t": "Emoll",
+    "x": 0.6061,
+    "y": 0.4105,
+    "w": 0.0174,
+    "h": 0.0175
+   },
+   {
+    "t": "Password",
+    "x": 0.4462,
+    "y": 0.4175,
+    "w": 0.0276,
+    "h": 0.0175
+   },
+   {
+    "t": "forgot Password?",
+    "x": 0.5116,
+    "y": 0.4561,
+    "w": 0.0422,
+    "h": 0.0175
+   },
+   {
+    "t": "Password",
+    "x": 0.6061,
+    "y": 0.4772,
+    "w": 0.0291,
+    "h": 0.0175
+   },
+   {
+    "t": "Sign up",
+    "x": 0.6483,
+    "y": 0.5754,
+    "w": 0.0291,
+    "h": 0.0252
+   },
+   {
+    "t": "Log in",
+    "x": 0.4869,
+    "y": 0.5856,
+    "w": 0.0262,
+    "h": 0.0252
+   },
+   {
+    "t": "\"Hell\"",
+    "x": 0.4433,
+    "y": 0.6772,
+    "w": 0.0218,
+    "h": 0.0211
+   },
+   {
+    "t": "\"Holl\"",
+    "x": 0.6061,
+    "y": 0.6772,
+    "w": 0.0218,
+    "h": 0.0211
+   },
+   {
+    "t": "Hello",
+    "x": 0.4898,
+    "y": 0.6807,
+    "w": 0.0203,
+    "h": 0.0175
+   },
+   {
+    "t": "Hellos",
+    "x": 0.5349,
+    "y": 0.6807,
+    "w": 0.0218,
+    "h": 0.0175
+   },
+   {
+    "t": "Hello",
+    "x": 0.6526,
+    "y": 0.6807,
+    "w": 0.0189,
+    "h": 0.0175
+   },
+   {
+    "t": "Hellos",
+    "x": 0.6977,
+    "y": 0.6807,
+    "w": 0.0218,
+    "h": 0.0175
+   },
+   {
+    "t": "R",
+    "x": 0.4724,
+    "y": 0.7263,
+    "w": 0.0102,
+    "h": 0.0246
+   },
+   {
+    "t": "Q",
+    "x": 0.5945,
+    "y": 0.7263,
+    "w": 0.0073,
+    "h": 0.0246
+   },
+   {
+    "t": "Log in",
+    "x": 0.3227,
+    "y": 0.7649,
+    "w": 0.0276,
+    "h": 0.0287
+   },
+   {
+    "t": "G",
+    "x": 0.4942,
+    "y": 0.7754,
+    "w": 0.0102,
+    "h": 0.0281
+   },
+   {
+    "t": "A",
+    "x": 0.439,
+    "y": 0.7789,
+    "w": 0.0073,
+    "h": 0.0211
+   },
+   {
+    "t": "D",
+    "x": 0.6279,
+    "y": 0.7789,
+    "w": 0.0102,
+    "h": 0.0246
+   },
+   {
+    "t": "F",
+    "x": 0.6424,
+    "y": 0.7789,
+    "w": 0.0102,
+    "h": 0.0246
+   },
+   {
+    "t": "Sign up",
+    "x": 0.3227,
+    "y": 0.8171,
+    "w": 0.0305,
+    "h": 0.0218
+   },
+   {
+    "t": "C",
+    "x": 0.4797,
+    "y": 0.8281,
+    "w": 0.0102,
+    "h": 0.0246
+   },
+   {
+    "t": "M",
+    "x": 0.5378,
+    "y": 0.8281,
+    "w": 0.0102,
+    "h": 0.0211
+   },
+   {
+    "t": "M",
+    "x": 0.7006,
+    "y": 0.8281,
+    "w": 0.0102,
+    "h": 0.0211
+   },
+   {
+    "t": "123",
+    "x": 0.4317,
+    "y": 0.8772,
+    "w": 0.0116,
+    "h": 0.0175
+   },
+   {
+    "t": "space",
+    "x": 0.4971,
+    "y": 0.8772,
+    "w": 0.0203,
+    "h": 0.0175
+   },
+   {
+    "t": "relum.",
+    "x": 0.5436,
+    "y": 0.8772,
+    "w": 0.0203,
+    "h": 0.0175
+   },
+   {
+    "t": "123",
+    "x": 0.593,
+    "y": 0.8772,
+    "w": 0.0131,
+    "h": 0.0175
+   },
+   {
+    "t": "fetum",
+    "x": 0.7064,
+    "y": 0.8772,
+    "w": 0.0189,
+    "h": 0.0175
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "file": "b23.jpg",
+  "y0": 10562,
+  "y1": 10706,
+  "h": 144,
+  "color": 0.0,
+  "density": 0.244,
+  "lines": [
+   {
+    "t": "This section features the entrance into the application experience. The splash screen sets the tone with striking travel themed",
+    "x": 0.1526,
+    "y": 0.087,
+    "w": 0.6628,
+    "h": 0.1159
+   },
+   {
+    "t": "visuals and a bold title that grabs attention. It invites users to log in or register with prominent CTA buttons. The login and",
+    "x": 0.1526,
+    "y": 0.2153,
+    "w": 0.6366,
+    "h": 0.1325
+   },
+   {
+    "t": "registration screens follow a consistent and clean layout that prioritizes ease of use with intuitive input fields, password visibility",
+    "x": 0.1512,
+    "y": 0.3472,
+    "w": 0.673,
+    "h": 0.1319
+   },
+   {
+    "t": "firects, and a \"Forgot Password?\" link to support accessibility and usability.",
+    "x": 0.1667,
+    "y": 0.4167,
+    "w": 0.3917,
+    "h": 0.1667
+   },
+   {
+    "t": "Onboarding Guide",
+    "x": 0.1526,
+    "y": 0.7681,
+    "w": 0.1453,
+    "h": 0.1763
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "file": "b24.jpg",
+  "y0": 10733,
+  "y1": 11207,
+  "h": 474,
+  "color": 3.87,
+  "density": 0.425,
+  "lines": [
+   {
+    "t": "Skip",
+    "x": 0.7064,
+    "y": 0.1189,
+    "w": 0.0116,
+    "h": 0.022
+   },
+   {
+    "t": "Join",
+    "x": 0.4898,
+    "y": 0.5727,
+    "w": 0.0189,
+    "h": 0.022
+   },
+   {
+    "t": "Invite",
+    "x": 0.6497,
+    "y": 0.5727,
+    "w": 0.0262,
+    "h": 0.022
+   },
+   {
+    "t": "Add locations",
+    "x": 0.2834,
+    "y": 0.6432,
+    "w": 0.1061,
+    "h": 0.0446
+   },
+   {
+    "t": "Invitations",
+    "x": 0.6177,
+    "y": 0.6432,
+    "w": 0.0858,
+    "h": 0.0441
+   },
+   {
+    "t": "Discover",
+    "x": 0.4651,
+    "y": 0.6472,
+    "w": 0.0698,
+    "h": 0.0403
+   },
+   {
+    "t": "Easily add a location, and",
+    "x": 0.3023,
+    "y": 0.7089,
+    "w": 0.0698,
+    "h": 0.0232
+   },
+   {
+    "t": "Discover where paopia are shpoting, and",
+    "x": 0.4462,
+    "y": 0.7089,
+    "w": 0.1076,
+    "h": 0.0232
+   },
+   {
+    "t": "Ask poople ta join you en",
+    "x": 0.6279,
+    "y": 0.7089,
+    "w": 0.0669,
+    "h": 0.0232
+   },
+   {
+    "t": "nin them on thair nhurtran",
+    "x": 0.4608,
+    "y": 0.7401,
+    "w": 0.0756,
+    "h": 0.0089
+   },
+   {
+    "t": "Got it",
+    "x": 0.6497,
+    "y": 0.8186,
+    "w": 0.0262,
+    "h": 0.0232
+   },
+   {
+    "t": "Next",
+    "x": 0.3256,
+    "y": 0.8194,
+    "w": 0.0247,
+    "h": 0.022
+   },
+   {
+    "t": "Next",
+    "x": 0.4898,
+    "y": 0.8194,
+    "w": 0.0203,
+    "h": 0.022
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "file": "b25.jpg",
+  "y0": 11245,
+  "y1": 11408,
+  "h": 163,
+  "color": 0.0,
+  "density": 0.293,
+  "lines": [
+   {
+    "t": "As a new app that focuses on collaboration between content creators, Oh Snap presents an onboarding guide to introduce key",
+    "x": 0.1526,
+    "y": 0.0732,
+    "w": 0.6657,
+    "h": 0.1167
+   },
+   {
+    "t": "features in a brief and engaging manner. Consisting of three screens, users are invited to understand how they can add visited",
+    "x": 0.1512,
+    "y": 0.189,
+    "w": 0.6657,
+    "h": 0.1159
+   },
+   {
+    "t": "locations, discover popular locations from other users, and invite others to join their adventure. Each screen is designed with",
+    "x": 0.1512,
+    "y": 0.3165,
+    "w": 0.6555,
+    "h": 0.1043
+   },
+   {
+    "t": "relevant visuals, clear CAs and concise messaging so that new users can immediately understand the key value of the app. This",
+    "x": 0.1512,
+    "y": 0.4177,
+    "w": 0.6788,
+    "h": 0.1139
+   },
+   {
+    "t": "approach aims to create a pleasant first experience while building a spirit of collaboration from the start.",
+    "x": 0.1526,
+    "y": 0.5427,
+    "w": 0.548,
+    "h": 0.1037
+   },
+   {
+    "t": "Feed or Homepage",
+    "x": 0.1522,
+    "y": 0.7682,
+    "w": 0.1533,
+    "h": 0.1905
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "file": "b26.jpg",
+  "y0": 11446,
+  "y1": 11920,
+  "h": 474,
+  "color": 8.21,
+  "density": 0.287,
+  "lines": [
+   {
+    "t": "Ball Blue Lagoon",
+    "x": 0.3576,
+    "y": 0.4051,
+    "w": 0.0436,
+    "h": 0.0134
+   },
+   {
+    "t": "Mexico Trip",
+    "x": 0.5276,
+    "y": 0.4051,
+    "w": 0.032,
+    "h": 0.0134
+   },
+   {
+    "t": "Corventiory with tousnes of buttere",
+    "x": 0.3576,
+    "y": 0.4361,
+    "w": 0.0945,
+    "h": 0.0132
+   },
+   {
+    "t": "Suf dreaming of the butterly comerytary, toppal",
+    "x": 0.5291,
+    "y": 0.4361,
+    "w": 0.1134,
+    "h": 0.0132
+   },
+   {
+    "t": "garden and tacos on-site",
+    "x": 0.5276,
+    "y": 0.4536,
+    "w": 0.0625,
+    "h": 0.0134
+   },
+   {
+    "t": "chator",
+    "x": 0.4258,
+    "y": 0.5349,
+    "w": 0.0208,
+    "h": 0.0165
+   },
+   {
+    "t": "Direction",
+    "x": 0.3735,
+    "y": 0.5374,
+    "w": 0.0247,
+    "h": 0.0132
+   },
+   {
+    "t": "Popular destinations",
+    "x": 0.3503,
+    "y": 0.6476,
+    "w": 0.0814,
+    "h": 0.0264
+   },
+   {
+    "t": "Popular destinations",
+    "x": 0.5218,
+    "y": 0.6519,
+    "w": 0.0785,
+    "h": 0.0177
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "file": "b27.jpg",
+  "y0": 11947,
+  "y1": 12129,
+  "h": 182,
+  "color": 0.0,
+  "density": 0.283,
+  "lines": [
+   {
+    "t": "On the homepage/feed page, there are two versions of the display to show the difference in user experience before and after they",
+    "x": 0.1526,
+    "y": 0.069,
+    "w": 0.6846,
+    "h": 0.1034
+   },
+   {
+    "t": "interact with the app. In the first version (left, users just see popular destination content shared by other users without any",
+    "x": 0.1526,
+    "y": 0.1703,
+    "w": 0.6497,
+    "h": 0.1055
+   },
+   {
+    "t": "personal engagement. The aim is to provide initial inspiration and encourage exploration. Once users start collaborating and sharing",
+    "x": 0.1526,
+    "y": 0.2747,
+    "w": 0.6919,
+    "h": 0.1046
+   },
+   {
+    "t": "their journeys (right), the feed will show more personalized posts, such as travel content with friends, complete with location",
+    "x": 0.1526,
+    "y": 0.3791,
+    "w": 0.657,
+    "h": 0.1044
+   },
+   {
+    "t": "information and navigation options. This change not only reflects user activity, but also reinforces the app's core value of",
+    "x": 0.1526,
+    "y": 0.4828,
+    "w": 0.6352,
+    "h": 0.1052
+   },
+   {
+    "t": "collaboration in sharing vacation experiences.",
+    "x": 0.1526,
+    "y": 0.5977,
+    "w": 0.2413,
+    "h": 0.0946
+   },
+   {
+    "t": "Collaboration",
+    "x": 0.1526,
+    "y": 0.8161,
+    "w": 0.1076,
+    "h": 0.1264
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "file": "b28.jpg",
+  "y0": 12167,
+  "y1": 12641,
+  "h": 474,
+  "color": 3.36,
+  "density": 0.424,
+  "lines": [
+   {
+    "t": "Collaboration",
+    "x": 0.3081,
+    "y": 0.0837,
+    "w": 0.0538,
+    "h": 0.022
+   },
+   {
+    "t": "Invites",
+    "x": 0.657,
+    "y": 0.0837,
+    "w": 0.0276,
+    "h": 0.022
+   },
+   {
+    "t": "- Back",
+    "x": 0.2674,
+    "y": 0.0881,
+    "w": 0.0174,
+    "h": 0.0132
+   },
+   {
+    "t": "- Back",
+    "x": 0.439,
+    "y": 0.0881,
+    "w": 0.0233,
+    "h": 0.0132
+   },
+   {
+    "t": "Create collaboration",
+    "x": 0.4622,
+    "y": 0.0881,
+    "w": 0.0799,
+    "h": 0.0132
+   },
+   {
+    "t": "MEXICO",
+    "x": 0.6308,
+    "y": 0.2555,
+    "w": 0.0305,
+    "h": 0.0264
+   },
+   {
+    "t": "wed 22 APi",
+    "x": 0.6962,
+    "y": 0.2598,
+    "w": 0.0276,
+    "h": 0.0134
+   },
+   {
+    "t": "APPROVE",
+    "x": 0.6991,
+    "y": 0.2952,
+    "w": 0.0247,
+    "h": 0.0088
+   },
+   {
+    "t": "Requests",
+    "x": 0.266,
+    "y": 0.3877,
+    "w": 0.0349,
+    "h": 0.0132
+   },
+   {
+    "t": "BALI",
+    "x": 0.2878,
+    "y": 0.4537,
+    "w": 0.0189,
+    "h": 0.022
+   },
+   {
+    "t": "Invites",
+    "x": 0.2645,
+    "y": 0.5374,
+    "w": 0.0291,
+    "h": 0.022
+   },
+   {
+    "t": "Coperaton cutel",
+    "x": 0.4419,
+    "y": 0.5771,
+    "w": 0.048,
+    "h": 0.0094
+   },
+   {
+    "t": "MEXICO",
+    "x": 0.2878,
+    "y": 0.5988,
+    "w": 0.032,
+    "h": 0.0315
+   },
+   {
+    "t": "ITAIV",
+    "x": 0.6991,
+    "y": 0.6828,
+    "w": 0.0233,
+    "h": 0.0132
+   },
+   {
+    "t": "hone",
+    "x": 0.4927,
+    "y": 0.8018,
+    "w": 0.0131,
+    "h": 0.0088
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "file": "b29.jpg",
+  "y0": 12667,
+  "y1": 12975,
+  "h": 308,
+  "color": 0.0,
+  "density": 0.304,
+  "lines": [
+   {
+    "t": "The Collaboration feature allows users to plan trips with others in an easy and structured way. Users can access the main",
+    "x": 0.1526,
+    "y": 0.0408,
+    "w": 0.6381,
+    "h": 0.0544
+   },
+   {
+    "t": "collaboration page which displays a list of Requests (collaboration requests from other users) and Invites (collaboration invitations",
+    "x": 0.1526,
+    "y": 0.1006,
+    "w": 0.6831,
+    "h": 0.0626
+   },
+   {
+    "t": "they have received). To create a new collaboration, users can simply tap the \"Create Collaboration\" button, then fill in information",
+    "x": 0.1526,
+    "y": 0.1623,
+    "w": 0.6788,
+    "h": 0.0622
+   },
+   {
+    "t": "such as the collaborator's name, collaboration type, date, location, and activity details. Once the invitation is sent, users can monitor",
+    "x": 0.1512,
+    "y": 0.224,
+    "w": 0.6977,
+    "h": 0.0685
+   },
+   {
+    "t": "the status of the collaboration on the Invites page. For example, whether it has been approved, is still pending, or needs to be",
+    "x": 0.1526,
+    "y": 0.2922,
+    "w": 0.6599,
+    "h": 0.0552
+   },
+   {
+    "t": "rejected. This flow is designed to make collaboration between users seamless and interactive, while giving users full control over",
+    "x": 0.1512,
+    "y": 0.3537,
+    "w": 0.6788,
+    "h": 0.0553
+   },
+   {
+    "t": "their travel activities.",
+    "x": 0.1526,
+    "y": 0.415,
+    "w": 0.1119,
+    "h": 0.0476
+   },
+   {
+    "t": "Post Collaboration Content",
+    "x": 0.1526,
+    "y": 0.5442,
+    "w": 0.2166,
+    "h": 0.0759
+   },
+   {
+    "t": "After content creators agree to the collaboration, they can start creating content by pressing the \"+\" button located in the center of",
+    "x": 0.1526,
+    "y": 0.7007,
+    "w": 0.692,
+    "h": 0.0893
+   },
+   {
+    "t": "the navbar. This button is the main door to creating new posts, including collaborative content. After pressing the button, users will",
+    "x": 0.1526,
+    "y": 0.7823,
+    "w": 0.689,
+    "h": 0.0618
+   },
+   {
+    "t": "be directed to the camera view to take pictures/video or mobile gallery. Once the content is successfully created, the user goes to",
+    "x": 0.1526,
+    "y": 0.8435,
+    "w": 0.6846,
+    "h": 0.0623
+   },
+   {
+    "t": "the upload page to add details such as captions, location, hashtags, and tag the collaborators involved.",
+    "x": 0.1526,
+    "y": 0.9048,
+    "w": 0.5422,
+    "h": 0.0693
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "file": "b30.jpg",
+  "y0": 12999,
+  "y1": 13473,
+  "h": 474,
+  "color": 12.52,
+  "density": 0.56,
+  "lines": [
+   {
+    "t": "Invites",
+    "x": 0.25,
+    "y": 0.0837,
+    "w": 0.0291,
+    "h": 0.022
+   },
+   {
+    "t": "Back",
+    "x": 0.202,
+    "y": 0.0881,
+    "w": 0.0189,
+    "h": 0.0132
+   },
+   {
+    "t": "hack",
+    "x": 0.516,
+    "y": 0.1057,
+    "w": 0.0233,
+    "h": 0.0132
+   },
+   {
+    "t": "Search",
+    "x": 0.2064,
+    "y": 0.1718,
+    "w": 0.0174,
+    "h": 0.0088
+   },
+   {
+    "t": "MEXICO",
+    "x": 0.2238,
+    "y": 0.2555,
+    "w": 0.032,
+    "h": 0.022
+   },
+   {
+    "t": "Wed. 22 APR",
+    "x": 0.2907,
+    "y": 0.2595,
+    "w": 0.0276,
+    "h": 0.0136
+   },
+   {
+    "t": "Mexico Trip",
+    "x": 0.6788,
+    "y": 0.4051,
+    "w": 0.0305,
+    "h": 0.0134
+   },
+   {
+    "t": "SuE dreaming of the buctely comervotary, stoppal",
+    "x": 0.6788,
+    "y": 0.4361,
+    "w": 0.1134,
+    "h": 0.0132
+   },
+   {
+    "t": "\u043a\u0440\u0430\u043d\u043e\u043c",
+    "x": 0.5189,
+    "y": 0.5771,
+    "w": 0.0203,
+    "h": 0.0088
+   },
+   {
+    "t": "Popular destinations",
+    "x": 0.6715,
+    "y": 0.6476,
+    "w": 0.0799,
+    "h": 0.0264
+   },
+   {
+    "t": "ITALY",
+    "x": 0.2936,
+    "y": 0.6784,
+    "w": 0.0233,
+    "h": 0.022
+   },
+   {
+    "t": "Ton Poonid",
+    "x": 0.5174,
+    "y": 0.7215,
+    "w": 0.0262,
+    "h": 0.0105
+   },
+   {
+    "t": "none",
+    "x": 0.5721,
+    "y": 0.8576,
+    "w": 0.0124,
+    "h": 0.0174
+   },
+   {
+    "t": "12",
+    "x": 0.2355,
+    "y": 0.8987,
+    "w": 0.0087,
+    "h": 0.022
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "file": "b31.jpg",
+  "y0": 13499,
+  "y1": 13700,
+  "h": 201,
+  "color": 0.0,
+  "density": 0.217,
+  "lines": [
+   {
+    "t": "When the content is published, the system automatically displays the collaborator at the top of the post, for example \"You with",
+    "x": 0.1512,
+    "y": 0.0495,
+    "w": 0.6672,
+    "h": 0.1051
+   },
+   {
+    "t": "@Sabrina\", to indicate that the content is the result of collaboration. The addition of this information aims to recognize collaborators",
+    "x": 0.1526,
+    "y": 0.1535,
+    "w": 0.6919,
+    "h": 0.0941
+   },
+   {
+    "t": "while increasing credibility and interaction between users.",
+    "x": 0.1526,
+    "y": 0.2574,
+    "w": 0.3067,
+    "h": 0.0842
+   },
+   {
+    "t": "At the end of the post, users can also find buttons such as \"Direction\" to get to the location in question and \"Photos\" to view travel",
+    "x": 0.1526,
+    "y": 0.4242,
+    "w": 0.6861,
+    "h": 0.1151
+   },
+   {
+    "t": "documentation. This feature not only eases the collaboration process, but is also designed to create a more interactive and",
+    "x": 0.1526,
+    "y": 0.5347,
+    "w": 0.6453,
+    "h": 0.0942
+   },
+   {
+    "t": "authentic sharing experience.",
+    "x": 0.1526,
+    "y": 0.6287,
+    "w": 0.1555,
+    "h": 0.0941
+   },
+   {
+    "t": "Message",
+    "x": 0.1509,
+    "y": 0.8423,
+    "w": 0.0747,
+    "h": 0.1211
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "file": "b32.jpg",
+  "y0": 13728,
+  "y1": 14202,
+  "h": 474,
+  "color": 3.12,
+  "density": 0.426,
+  "lines": [
+   {
+    "t": "9:41",
+    "x": 0.282,
+    "y": 0.0485,
+    "w": 0.0131,
+    "h": 0.0132
+   },
+   {
+    "t": "Sandra",
+    "x": 0.4913,
+    "y": 0.0837,
+    "w": 0.0291,
+    "h": 0.022
+   },
+   {
+    "t": "Sandra",
+    "x": 0.6483,
+    "y": 0.0837,
+    "w": 0.0291,
+    "h": 0.022
+   },
+   {
+    "t": "- Back",
+    "x": 0.439,
+    "y": 0.0881,
+    "w": 0.0174,
+    "h": 0.0132
+   },
+   {
+    "t": "- Back",
+    "x": 0.5959,
+    "y": 0.0881,
+    "w": 0.0174,
+    "h": 0.0132
+   },
+   {
+    "t": "Chats",
+    "x": 0.2805,
+    "y": 0.1145,
+    "w": 0.0218,
+    "h": 0.0176
+   },
+   {
+    "t": "View prolle",
+    "x": 0.6686,
+    "y": 0.141,
+    "w": 0.032,
+    "h": 0.0132
+   },
+   {
+    "t": "JAPAN",
+    "x": 0.4331,
+    "y": 0.1674,
+    "w": 0.0291,
+    "h": 0.0264
+   },
+   {
+    "t": "JAPAN",
+    "x": 0.5871,
+    "y": 0.1704,
+    "w": 0.0307,
+    "h": 0.0204
+   },
+   {
+    "t": "HIUX",
+    "x": 0.3038,
+    "y": 0.1762,
+    "w": 0.0116,
+    "h": 0.0088
+   },
+   {
+    "t": "Invite collaboration",
+    "x": 0.6686,
+    "y": 0.185,
+    "w": 0.0465,
+    "h": 0.0133
+   },
+   {
+    "t": "Hey Where You coins",
+    "x": 0.3038,
+    "y": 0.2025,
+    "w": 0.0567,
+    "h": 0.0089
+   },
+   {
+    "t": "Kenyan",
+    "x": 0.6686,
+    "y": 0.2291,
+    "w": 0.0189,
+    "h": 0.0088
+   },
+   {
+    "t": "CARAPA",
+    "x": 0.3052,
+    "y": 0.2643,
+    "w": 0.016,
+    "h": 0.0088
+   },
+   {
+    "t": "Riack",
+    "x": 0.6686,
+    "y": 0.2731,
+    "w": 0.0145,
+    "h": 0.0088
+   },
+   {
+    "t": "would love to tato this trip with.",
+    "x": 0.3067,
+    "y": 0.3038,
+    "w": 0.0712,
+    "h": 0.0134
+   },
+   {
+    "t": "Hey when ore you going?",
+    "x": 0.4622,
+    "y": 0.3122,
+    "w": 0.0552,
+    "h": 0.0148
+   },
+   {
+    "t": "Hey when ore you go",
+    "x": 0.6177,
+    "y": 0.3122,
+    "w": 0.048,
+    "h": 0.0148
+   },
+   {
+    "t": "Clear Chal",
+    "x": 0.6686,
+    "y": 0.3162,
+    "w": 0.0263,
+    "h": 0.0152
+   },
+   {
+    "t": "flen",
+    "x": 0.3038,
+    "y": 0.3744,
+    "w": 0.0102,
+    "h": 0.0088
+   },
+   {
+    "t": "Wednesday. Next week",
+    "x": 0.4782,
+    "y": 0.3877,
+    "w": 0.061,
+    "h": 0.0132
+   },
+   {
+    "t": "Wednesday. Next week",
+    "x": 0.6352,
+    "y": 0.3877,
+    "w": 0.061,
+    "h": 0.0132
+   },
+   {
+    "t": "Sure nix to it.",
+    "x": 0.3052,
+    "y": 0.4051,
+    "w": 0.032,
+    "h": 0.009
+   },
+   {
+    "t": "VIkE",
+    "x": 0.3052,
+    "y": 0.4758,
+    "w": 0.0102,
+    "h": 0.0088
+   },
+   {
+    "t": "et twas on amazing exparionce",
+    "x": 0.3038,
+    "y": 0.5021,
+    "w": 0.077,
+    "h": 0.0133
+   },
+   {
+    "t": "Sounds cerfect I have to an",
+    "x": 0.4622,
+    "y": 0.5063,
+    "w": 0.0712,
+    "h": 0.0135
+   },
+   {
+    "t": "Sounds cartest have to on",
+    "x": 0.6177,
+    "y": 0.5063,
+    "w": 0.0727,
+    "h": 0.0135
+   },
+   {
+    "t": "thraugh a few things then tom",
+    "x": 0.4608,
+    "y": 0.5286,
+    "w": 0.0814,
+    "h": 0.0136
+   },
+   {
+    "t": "thraugh @ few thens than tam",
+    "x": 0.6177,
+    "y": 0.5286,
+    "w": 0.0814,
+    "h": 0.0136
+   },
+   {
+    "t": "lanese",
+    "x": 0.3052,
+    "y": 0.5727,
+    "w": 0.0189,
+    "h": 0.0088
+   },
+   {
+    "t": "Soircu",
+    "x": 0.3895,
+    "y": 0.5727,
+    "w": 0.016,
+    "h": 0.0088
+   },
+   {
+    "t": "Tenuie",
+    "x": 0.3052,
+    "y": 0.674,
+    "w": 0.0145,
+    "h": 0.0088
+   },
+   {
+    "t": "Write a messace",
+    "x": 0.4419,
+    "y": 0.8767,
+    "w": 0.0465,
+    "h": 0.0136
+   },
+   {
+    "t": "shan manne",
+    "x": 0.5988,
+    "y": 0.8767,
+    "w": 0.0465,
+    "h": 0.0094
+   }
+  ]
+ },
+ {
+  "i": 33,
+  "file": "b33.jpg",
+  "y0": 14228,
+  "y1": 14343,
+  "h": 115,
+  "color": 0.0,
+  "density": 0.307,
+  "lines": [
+   {
+    "t": "Not only a place to exchange messages, the Message page also serves as a discussion space between content creators who want",
+    "x": 0.1526,
+    "y": 0.1034,
+    "w": 0.6875,
+    "h": 0.1644
+   },
+   {
+    "t": "to plan or talk about further collaboration. This is where conversations can develop into real opportunities. Through the options",
+    "x": 0.1512,
+    "y": 0.2672,
+    "w": 0.6686,
+    "h": 0.1638
+   },
+   {
+    "t": "menu on the top right corner, users can directly invite their interlocutors to collaborate through the Invite collaboration feature. Once",
+    "x": 0.1526,
+    "y": 0.4464,
+    "w": 0.6948,
+    "h": 0.1429
+   },
+   {
+    "t": "an agreement is reached, users can continue to create collaborative posts by pressing the \"+\" button in the center of the main",
+    "x": 0.1526,
+    "y": 0.5739,
+    "w": 0.6614,
+    "h": 0.2016
+   },
+   {
+    "t": "navbar.",
+    "x": 0.1526,
+    "y": 0.7673,
+    "w": 0.0422,
+    "h": 0.1439
+   }
+  ]
+ },
+ {
+  "i": 34,
+  "file": "b34.jpg",
+  "y0": 14377,
+  "y1": 14626,
+  "h": 249,
+  "color": 0.0,
+  "density": 0.273,
+  "lines": [
+   {
+    "t": "Usability Testing",
+    "x": 0.1526,
+    "y": 0.05,
+    "w": 0.1323,
+    "h": 0.11
+   },
+   {
+    "t": "After completing the overall design, I planned a usability testing session to validate the interaction flow with real users.",
+    "x": 0.1526,
+    "y": 0.1917,
+    "w": 0.6235,
+    "h": 0.0763
+   },
+   {
+    "t": "The primary goal was to identify any usability issues and uncover opportunities to improve the experience further.",
+    "x": 0.1526,
+    "y": 0.34,
+    "w": 0.5988,
+    "h": 0.0767
+   },
+   {
+    "t": "To achieve this, I prepared several task based scenarios to simulate realistic user behavior within the app:",
+    "x": 0.1526,
+    "y": 0.4917,
+    "w": 0.5552,
+    "h": 0.0763
+   },
+   {
+    "t": "1. Now you're on your homepage. You want to invite collaboration with other content creators. How do you do that?",
+    "x": 0.1555,
+    "y": 0.5667,
+    "w": 0.6076,
+    "h": 0.075
+   },
+   {
+    "t": "2. Currently you are chatting via message page with another content creator and you are planning a vacation to a new destination",
+    "x": 0.1555,
+    "y": 0.65,
+    "w": 0.6831,
+    "h": 0.0667
+   },
+   {
+    "t": "together. How would you invite a collaboration through the Oh Snap! app?",
+    "x": 0.1686,
+    "y": 0.724,
+    "w": 0.3895,
+    "h": 0.068
+   },
+   {
+    "t": "3. You are required to fill in some information when inviting another content creator. How do you fill it in?",
+    "x": 0.1555,
+    "y": 0.7917,
+    "w": 0.548,
+    "h": 0.0763
+   },
+   {
+    "t": "4. After you go on a trip with your partner, you want to upload the documentation you have during your vacation. What should you",
+    "x": 0.1555,
+    "y": 0.875,
+    "w": 0.6831,
+    "h": 0.077
+   }
+  ]
+ },
+ {
+  "i": 35,
+  "file": "b35.jpg",
+  "y0": 14676,
+  "y1": 14809,
+  "h": 133,
+  "color": 0.0,
+  "density": 0.232,
+  "lines": [
+   {
+    "t": "Reflection",
+    "x": 0.1526,
+    "y": 0.0937,
+    "w": 0.0799,
+    "h": 0.1719
+   },
+   {
+    "t": "If I had more time to continue this project, the following steps would be my priorities:",
+    "x": 0.1526,
+    "y": 0.3582,
+    "w": 0.4448,
+    "h": 0.1269
+   },
+   {
+    "t": "1. Conduct additional user research to uncover deeper pain points and gather broader insights from potential users.",
+    "x": 0.1555,
+    "y": 0.5,
+    "w": 0.609,
+    "h": 0.1269
+   },
+   {
+    "t": "2. Run usability testing based on the planned scenarios to validate the user flow and identify friction points.",
+    "x": 0.1555,
+    "y": 0.6406,
+    "w": 0.5654,
+    "h": 0.128
+   },
+   {
+    "t": "3. Iterate on the design by addressing usability issues and refining features to enhance the overall experience.",
+    "x": 0.1555,
+    "y": 0.7812,
+    "w": 0.5799,
+    "h": 0.1441
+   }
+  ]
+ }
+]

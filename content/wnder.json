@@ -1,0 +1,102 @@
+{
+ "slug": "wnder",
+ "name": "W*nder",
+ "category": "Brand site",
+ "tier": "light",
+ "dek": "A CBD brand site that teaches before it sells.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": "2020",
+  "platform": "Responsive web",
+  "scope": "Competitor analysis, flows, design system, hi-fi UI, usability scenarios",
+  "industry": "CBD wellness beverages",
+  "hard_part": "Selling a product some visitors still associate with a stigma, where every screen has to earn trust before it can ask for a purchase.",
+  "look_for": "How lab-test transparency is treated as a first-class navigation destination, not a compliance footnote."
+ },
+ "problem": {
+  "claim_h2": "You cannot sell CBD to someone who does not trust it",
+  "thesis": "For a first-time CBD buyer, the real barrier is not price or flavor, it is doubt, so the site has to educate and prove safety before it pitches.",
+  "body": "W*nder is a sparkling CBD beverage brand built around transparency, with every batch tested by an independent lab. The site's job was to turn that testing into something a hesitant visitor can actually find, read, and believe.",
+  "bullets": [
+   "Lab results on competitor sites are buried or missing, so shoppers cannot verify what they are drinking.",
+   "New users lack basic education on what CBD is, what it does, and whether it is safe.",
+   "Lingering cannabis stigma means conventional weed-adjacent branding actively undermines credibility."
+  ],
+  "research_note": "Desk research compared Charlotte's Web, Medterra, and Joy Organics on lab-result transparency, educational depth, and navigation clarity to locate the gaps W*nder could own."
+ },
+ "decisions": [],
+ "pull_quote": null,
+ "design": {
+  "claim_h2": "Proof, then education, then the sale",
+  "intro": "The homepage and lab-results page run the same sequence: a warm, un-cannabis identity up front, evidence in the middle, and every call to action pointing toward learning or verifying before buying.",
+  "figures": [
+   {
+    "figure": "b18-crop.jpg",
+    "caption": "The hero leads with the four cans and a plain-language promise; Drink Up is the only CTA, so the first read stays uncluttered.",
+    "alt": "W*nder homepage hero with four brightly colored CBD cans floating around the headline Works like a w*nder and a Drink Up button.",
+    "frame": "light"
+   },
+   {
+    "figure": "b20-crop.jpg",
+    "caption": "Dosage and purity sit in circled callouts beside a See the Proof CTA, turning the trust claim into a link a skeptic can follow.",
+    "alt": "Trust section with the headline Trust us, it works, circular badges for CBD content, zero THC, and purity, and a See the Proof button.",
+    "frame": "light"
+   },
+   {
+    "figure": "b21-crop.jpg",
+    "caption": "Repeating We know CBD in four type treatments sets up the beginner's question and routes it to the education page, not the shop.",
+    "alt": "Educational section with the phrase We know CBD stacked in four typographic styles next to the question But what exactly is it and a Get to Know CBD button.",
+    "frame": "light"
+   },
+   {
+    "figure": "b22-crop.jpg",
+    "caption": "The 420 Rule gives the brand a social mission tied to cannabis prohibition, with a restrained leaf mark that avoids weed-culture cliches.",
+    "alt": "Brand mission section titled The 420 Rule with copy about reinvesting profits in affected communities and a green cannabis leaf inside a thin circle.",
+    "frame": "light"
+   },
+   {
+    "figure": "b26-crop.jpg",
+    "caption": "The lab-results page opens by naming the industry's problem, the wild west of CBD, so publishing every batch reads as the answer.",
+    "alt": "Lab results page hero on a burnt orange background with outlined type asking Is your CBD legitimate and safe and the subhead It's the wild west in CBD.",
+    "frame": null
+   },
+   {
+    "figure": "b28-crop.jpg",
+    "caption": "Every variant carries its own View Test link, so proof is per product, one click from the can, not a generic quality page.",
+    "alt": "Four W*nder can variants in orange, yellow, green, and navy, each with a View Test link underneath.",
+    "frame": "light"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Find the lab results",
+   "Learn what CBD is",
+   "Check what a batch is tested for",
+   "Pick a variant for your need",
+   "Buy with confidence"
+  ],
+  "changed": [],
+  "honest_line": "Moderated scenarios were scripted around a skeptical first-time buyer moving from doubt to purchase, but as a concept project the board records the test design rather than measured outcomes, so it shows how trust would be evaluated, not that it was won."
+ },
+ "learnings": [],
+ "appendix": {
+  "framing": "The system underneath the pages: a palette built to feel calm rather than clinical, and the grid that keeps educational content readable.",
+  "figures": [
+   {
+    "figure": "b12.jpg",
+    "caption": "Blue Metallic, Bronze Satin, and Viridis ramps in eight steps each give the warm-but-credible range every section draws from.",
+    "alt": "Color sheet showing the Squid's Ink primary and three secondary ramps, Blue Metallic, Bronze Satin, and Viridis, each in eight tonal steps with hex values, plus neutrals.",
+    "frame": null
+   },
+   {
+    "figure": "b15.jpg",
+    "caption": "A 12-column desktop grid with generous margins keeps long educational copy from sprawling edge to edge.",
+    "alt": "Grid system spec for a 1440px desktop layout showing 12 pink columns with labeled margin, column, and gutter widths.",
+    "frame": null
+   }
+  ]
+ },
+ "next": "karma"
+}

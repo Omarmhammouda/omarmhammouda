@@ -1,0 +1,6081 @@
+[
+ {
+  "i": 0,
+  "file": "b00.jpg",
+  "y0": 117,
+  "y1": 234,
+  "h": 117,
+  "color": 0.0,
+  "density": 0.129,
+  "lines": [
+   {
+    "t": "MockQuestions",
+    "x": 0.2238,
+    "y": 0.0877,
+    "w": 0.2253,
+    "h": 0.3509
+   },
+   {
+    "t": "Your shortcut to success in interviews",
+    "x": 0.2208,
+    "y": 0.65,
+    "w": 0.3542,
+    "h": 0.25
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "file": "b01.jpg",
+  "y0": 281,
+  "y1": 372,
+  "h": 91,
+  "color": 0.0,
+  "density": 0.22,
+  "lines": [
+   {
+    "t": "Get professional and relevant interview answers for your dream career. Find the",
+    "x": 0.2224,
+    "y": 0.1364,
+    "w": 0.5233,
+    "h": 0.2549
+   },
+   {
+    "t": "right position, learn about common questions in the workplace, and prepare with",
+    "x": 0.2224,
+    "y": 0.4091,
+    "w": 0.5291,
+    "h": 0.2757
+   },
+   {
+    "t": "confidence for your next interview.",
+    "x": 0.2224,
+    "y": 0.6591,
+    "w": 0.2311,
+    "h": 0.254
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "file": "b02.jpg",
+  "y0": 413,
+  "y1": 1007,
+  "h": 594,
+  "color": 10.01,
+  "density": 0.649,
+  "lines": [
+   {
+    "t": "Job-Winning",
+    "x": 0.244,
+    "y": 0.3687,
+    "w": 0.0466,
+    "h": 0.0713
+   },
+   {
+    "t": "Interview Answers",
+    "x": 0.2471,
+    "y": 0.3711,
+    "w": 0.0616,
+    "h": 0.0916
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "file": "b03.jpg",
+  "y0": 1044,
+  "y1": 1504,
+  "h": 460,
+  "color": 0.3,
+  "density": 0.177,
+  "lines": [
+   {
+    "t": "Project Overview",
+    "x": 0.3416,
+    "y": 0.0674,
+    "w": 0.1584,
+    "h": 0.0609
+   },
+   {
+    "t": "This project is a web and mobile based platform designed to help job seekers prepare for job",
+    "x": 0.3416,
+    "y": 0.1587,
+    "w": 0.4811,
+    "h": 0.0413
+   },
+   {
+    "t": "MockQuestions",
+    "x": 0.1991,
+    "y": 0.1636,
+    "w": 0.1105,
+    "h": 0.0455
+   },
+   {
+    "t": "interviews. Users can search for career positions by industry, filter by company, and access a",
+    "x": 0.3401,
+    "y": 0.2043,
+    "w": 0.4855,
+    "h": 0.037
+   },
+   {
+    "t": "list of interview questions categorized by role type or profession. The system also provides",
+    "x": 0.3401,
+    "y": 0.2409,
+    "w": 0.4738,
+    "h": 0.0417
+   },
+   {
+    "t": "sample answers and guidance from experts to help users improve their chances of success in",
+    "x": 0.3416,
+    "y": 0.2818,
+    "w": 0.4855,
+    "h": 0.0409
+   },
+   {
+    "t": "the job selection process.",
+    "x": 0.3401,
+    "y": 0.3273,
+    "w": 0.1366,
+    "h": 0.0364
+   },
+   {
+    "t": "Industry",
+    "x": 0.1599,
+    "y": 0.4182,
+    "w": 0.0465,
+    "h": 0.0318
+   },
+   {
+    "t": "\u2022 Career Development",
+    "x": 0.1657,
+    "y": 0.4543,
+    "w": 0.1206,
+    "h": 0.037
+   },
+   {
+    "t": "Solution",
+    "x": 0.6278,
+    "y": 0.4805,
+    "w": 0.0801,
+    "h": 0.0616
+   },
+   {
+    "t": "Problem",
+    "x": 0.3648,
+    "y": 0.4818,
+    "w": 0.0785,
+    "h": 0.0591
+   },
+   {
+    "t": "\u2022 Job Preparation",
+    "x": 0.1657,
+    "y": 0.4955,
+    "w": 0.0945,
+    "h": 0.0372
+   },
+   {
+    "t": "\u2022 HR Tech",
+    "x": 0.1657,
+    "y": 0.536,
+    "w": 0.0567,
+    "h": 0.0326
+   },
+   {
+    "t": "\u2022 Recruitment Support",
+    "x": 0.1657,
+    "y": 0.5773,
+    "w": 0.1221,
+    "h": 0.0364
+   },
+   {
+    "t": "1. Candidates struggle to find interview",
+    "x": 0.3445,
+    "y": 0.5773,
+    "w": 0.2064,
+    "h": 0.0409
+   },
+   {
+    "t": "1. Provides a database of interview",
+    "x": 0.609,
+    "y": 0.5773,
+    "w": 0.1846,
+    "h": 0.0364
+   },
+   {
+    "t": "questions based on specific professions",
+    "x": 0.6221,
+    "y": 0.613,
+    "w": 0.2093,
+    "h": 0.0415
+   },
+   {
+    "t": "questions relevant to the positions they",
+    "x": 0.3576,
+    "y": 0.6174,
+    "w": 0.2078,
+    "h": 0.0417
+   },
+   {
+    "t": "are applying for.",
+    "x": 0.3576,
+    "y": 0.6587,
+    "w": 0.0858,
+    "h": 0.0413
+   },
+   {
+    "t": "and roles.",
+    "x": 0.6221,
+    "y": 0.663,
+    "w": 0.0538,
+    "h": 0.0283
+   },
+   {
+    "t": "Tools",
+    "x": 0.1613,
+    "y": 0.7,
+    "w": 0.0291,
+    "h": 0.0318
+   },
+   {
+    "t": "2. Information about the interview process",
+    "x": 0.3445,
+    "y": 0.7,
+    "w": 0.2209,
+    "h": 0.037
+   },
+   {
+    "t": "2. Offers a career search feature with",
+    "x": 0.6076,
+    "y": 0.7,
+    "w": 0.1962,
+    "h": 0.037
+   },
+   {
+    "t": "at various companies is scattered and",
+    "x": 0.3576,
+    "y": 0.7409,
+    "w": 0.1977,
+    "h": 0.0374
+   },
+   {
+    "t": "company filters for more specific results.",
+    "x": 0.6221,
+    "y": 0.7409,
+    "w": 0.2122,
+    "h": 0.0374
+   },
+   {
+    "t": "Figma",
+    "x": 0.1599,
+    "y": 0.7455,
+    "w": 0.0334,
+    "h": 0.0409
+   },
+   {
+    "t": "3. Displays professional sample answers",
+    "x": 0.6076,
+    "y": 0.7818,
+    "w": 0.2122,
+    "h": 0.0409
+   },
+   {
+    "t": "unstructured",
+    "x": 0.3576,
+    "y": 0.7864,
+    "w": 0.0683,
+    "h": 0.0273
+   },
+   {
+    "t": "3. Candidates lack confidence because",
+    "x": 0.3445,
+    "y": 0.8217,
+    "w": 0.2064,
+    "h": 0.0374
+   },
+   {
+    "t": "and tips from HR experts to help users",
+    "x": 0.6221,
+    "y": 0.8217,
+    "w": 0.2006,
+    "h": 0.0374
+   },
+   {
+    "t": "Year",
+    "x": 0.1598,
+    "y": 0.8625,
+    "w": 0.0279,
+    "h": 0.0342
+   },
+   {
+    "t": "they don't know how to answer questions",
+    "x": 0.3576,
+    "y": 0.8674,
+    "w": 0.218,
+    "h": 0.0372
+   },
+   {
+    "t": "respond accurately.",
+    "x": 0.6206,
+    "y": 0.8674,
+    "w": 0.1061,
+    "h": 0.0372
+   },
+   {
+    "t": "2023",
+    "x": 0.1599,
+    "y": 0.9045,
+    "w": 0.0291,
+    "h": 0.0409
+   },
+   {
+    "t": "correctly.",
+    "x": 0.3575,
+    "y": 0.9084,
+    "w": 0.051,
+    "h": 0.0378
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "file": "b04.jpg",
+  "y0": 1535,
+  "y1": 1796,
+  "h": 261,
+  "color": 0.11,
+  "density": 0.237,
+  "lines": [
+   {
+    "t": "2 My Role and Responsibility",
+    "x": 0.1542,
+    "y": 0.0227,
+    "w": 0.275,
+    "h": 0.1376
+   },
+   {
+    "t": "As a UX/Ul Designer on this project, I was responsible for designing the user flow based on two main scenarios: career search and",
+    "x": 0.1526,
+    "y": 0.232,
+    "w": 0.6831,
+    "h": 0.0657
+   },
+   {
+    "t": "interview question list exploration.",
+    "x": 0.1526,
+    "y": 0.304,
+    "w": 0.1817,
+    "h": 0.064
+   },
+   {
+    "t": "I designed an intuitive, responsive, and user friendly interface, ensuring an optimal user experience across various devices.",
+    "x": 0.1512,
+    "y": 0.4466,
+    "w": 0.6483,
+    "h": 0.0734
+   },
+   {
+    "t": "Throughout the process, I created wireframes, high fidelity mockups, and interactive prototypes in Figma to illustrate efficient",
+    "x": 0.1526,
+    "y": 0.5191,
+    "w": 0.6599,
+    "h": 0.0809
+   },
+   {
+    "t": "search flows and information access.",
+    "x": 0.1526,
+    "y": 0.5916,
+    "w": 0.1977,
+    "h": 0.0649
+   },
+   {
+    "t": "Additionally, I organized the information structure systematically to make it easy for users to navigate features such as company",
+    "x": 0.1526,
+    "y": 0.736,
+    "w": 0.673,
+    "h": 0.0732
+   },
+   {
+    "t": "filters and professional categories. I applied principles of visual hierarchy and usability to help users stay focused on their primary",
+    "x": 0.1526,
+    "y": 0.816,
+    "w": 0.6802,
+    "h": 0.0657
+   },
+   {
+    "t": "goals: finding the right position and preparing well for job interviews.",
+    "x": 0.1526,
+    "y": 0.888,
+    "w": 0.3619,
+    "h": 0.064
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "file": "b05.jpg",
+  "y0": 1832,
+  "y1": 2285,
+  "h": 453,
+  "color": 0.0,
+  "density": 0.218,
+  "lines": [
+   {
+    "t": "Process",
+    "x": 0.1526,
+    "y": 0.0225,
+    "w": 0.0757,
+    "h": 0.0518
+   },
+   {
+    "t": "The design process for this project was divided into four key phases to ensure a user centered and results experience:",
+    "x": 0.1526,
+    "y": 0.1429,
+    "w": 0.6235,
+    "h": 0.0378
+   },
+   {
+    "t": "1. Discovery",
+    "x": 0.1555,
+    "y": 0.2248,
+    "w": 0.067,
+    "h": 0.0434
+   },
+   {
+    "t": "At this step, I analyzed competitors to understand existing approaches in the market. In addition, I identified pain points that",
+    "x": 0.1701,
+    "y": 0.2665,
+    "w": 0.6512,
+    "h": 0.0468
+   },
+   {
+    "t": "users often experience in the job search and interview preparation process. A deep understanding of user needs and target",
+    "x": 0.1686,
+    "y": 0.3128,
+    "w": 0.6512,
+    "h": 0.0375
+   },
+   {
+    "t": "audiences is an important foundation before entering the design phase.",
+    "x": 0.1701,
+    "y": 0.3502,
+    "w": 0.3765,
+    "h": 0.0419
+   },
+   {
+    "t": "2. Ideation",
+    "x": 0.1555,
+    "y": 0.4373,
+    "w": 0.0582,
+    "h": 0.0378
+   },
+   {
+    "t": "In this step, I began to develop user flows and user journeys to illustrate how users would interact with the product as a whole.",
+    "x": 0.1686,
+    "y": 0.4793,
+    "w": 0.6672,
+    "h": 0.0415
+   },
+   {
+    "t": "The goal was to ensure that each step felt logical, efficient, and aligned with users' needs in achieving their objectives.",
+    "x": 0.1701,
+    "y": 0.5198,
+    "w": 0.6235,
+    "h": 0.0424
+   },
+   {
+    "t": "3. Design Process",
+    "x": 0.1555,
+    "y": 0.6035,
+    "w": 0.0959,
+    "h": 0.0374
+   },
+   {
+    "t": "This stage includes developing a design system to maintain visual and functional consistency across all interface elements.",
+    "x": 0.1701,
+    "y": 0.6452,
+    "w": 0.6468,
+    "h": 0.0421
+   },
+   {
+    "t": "Based on the defined structure and flow, I designed a responsive and user friendly final design, focusing on ease of navigation",
+    "x": 0.1701,
+    "y": 0.6866,
+    "w": 0.6628,
+    "h": 0.0424
+   },
+   {
+    "t": "and information readability.",
+    "x": 0.1685,
+    "y": 0.7233,
+    "w": 0.1457,
+    "h": 0.047
+   },
+   {
+    "t": "4. Usability Testing",
+    "x": 0.1541,
+    "y": 0.815,
+    "w": 0.1032,
+    "h": 0.0422
+   },
+   {
+    "t": "Once the final design is complete, I create scenarios and tasks to test the usability and effectiveness of the interface. This",
+    "x": 0.1701,
+    "y": 0.8524,
+    "w": 0.641,
+    "h": 0.0419
+   },
+   {
+    "t": "testing helps identify friction points and areas that need improvement to ensure the user experience is truly optimal and aligned",
+    "x": 0.1686,
+    "y": 0.8986,
+    "w": 0.6701,
+    "h": 0.0375
+   },
+   {
+    "t": "with the platform's objectives.",
+    "x": 0.1686,
+    "y": 0.9401,
+    "w": 0.1613,
+    "h": 0.0379
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "file": "b06.jpg",
+  "y0": 2324,
+  "y1": 2611,
+  "h": 287,
+  "color": 0.0,
+  "density": 0.163,
+  "lines": [
+   {
+    "t": "Discovery",
+    "x": 0.1523,
+    "y": 0.0248,
+    "w": 0.0951,
+    "h": 0.1012
+   },
+   {
+    "t": "Discover and Understanding",
+    "x": 0.1512,
+    "y": 0.2535,
+    "w": 0.1904,
+    "h": 0.0799
+   },
+   {
+    "t": "Before moving on to the design, it is important to understand the context of the problem, user behavior, and how similar solutions",
+    "x": 0.1512,
+    "y": 0.4058,
+    "w": 0.6817,
+    "h": 0.0803
+   },
+   {
+    "t": "have been implemented in the industry. This step helps ensure that the design is relevant and truly addresses user needs.",
+    "x": 0.1526,
+    "y": 0.4783,
+    "w": 0.641,
+    "h": 0.058
+   },
+   {
+    "t": "Competitor Analysis",
+    "x": 0.1526,
+    "y": 0.6304,
+    "w": 0.1352,
+    "h": 0.0814
+   },
+   {
+    "t": "maths, and weaknesses to search and job",
+    "x": 0.5958,
+    "y": 0.75,
+    "w": 0.2208,
+    "h": 0.1667
+   },
+   {
+    "t": "To gain deeper insights into existing approaches, I conducted an analysis of several platforms that offer career search and job",
+    "x": 0.1526,
+    "y": 0.7674,
+    "w": 0.6613,
+    "h": 0.066
+   },
+   {
+    "t": "interview preparation features. From this analysis, I compared the main features, strengths, and weaknesses to identify",
+    "x": 0.1511,
+    "y": 0.8183,
+    "w": 0.6266,
+    "h": 0.0949
+   },
+   {
+    "t": "opportunities for improvement in the solution I designed.",
+    "x": 0.1526,
+    "y": 0.9058,
+    "w": 0.298,
+    "h": 0.0595
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "file": "b07.jpg",
+  "y0": 2639,
+  "y1": 3576,
+  "h": 937,
+  "color": 0.7,
+  "density": 0.377,
+  "lines": [
+   {
+    "t": "Competitor",
+    "x": 0.1758,
+    "y": 0.013,
+    "w": 0.0684,
+    "h": 0.0254
+   },
+   {
+    "t": "Key Features",
+    "x": 0.2834,
+    "y": 0.0131,
+    "w": 0.0771,
+    "h": 0.0228
+   },
+   {
+    "t": "Role Specific",
+    "x": 0.5509,
+    "y": 0.0133,
+    "w": 0.0785,
+    "h": 0.0226
+   },
+   {
+    "t": "Job Search +",
+    "x": 0.4172,
+    "y": 0.0134,
+    "w": 0.0785,
+    "h": 0.0201
+   },
+   {
+    "t": "Weaknesses",
+    "x": 0.6715,
+    "y": 0.0134,
+    "w": 0.0814,
+    "h": 0.0201
+   },
+   {
+    "t": "Interview",
+    "x": 0.5494,
+    "y": 0.0422,
+    "w": 0.0596,
+    "h": 0.0205
+   },
+   {
+    "t": "Company Filter",
+    "x": 0.4172,
+    "y": 0.0424,
+    "w": 0.0901,
+    "h": 0.0226
+   },
+   {
+    "t": "Questions",
+    "x": 0.5523,
+    "y": 0.0713,
+    "w": 0.0611,
+    "h": 0.0182
+   },
+   {
+    "t": "Glassdoor",
+    "x": 0.1758,
+    "y": 0.1179,
+    "w": 0.0597,
+    "h": 0.0209
+   },
+   {
+    "t": "\u2022 Dense Ul",
+    "x": 0.6802,
+    "y": 0.1179,
+    "w": 0.0684,
+    "h": 0.0208
+   },
+   {
+    "t": "\u2022 Company reviews",
+    "x": 0.2863,
+    "y": 0.1183,
+    "w": 0.1192,
+    "h": 0.0224
+   },
+   {
+    "t": "V",
+    "x": 0.6017,
+    "y": 0.1183,
+    "w": 0.0131,
+    "h": 0.0179
+   },
+   {
+    "t": "\u2022 Salary insights",
+    "x": 0.2878,
+    "y": 0.1471,
+    "w": 0.0988,
+    "h": 0.0225
+   },
+   {
+    "t": "\u2022 Inconsistent depth",
+    "x": 0.6802,
+    "y": 0.1471,
+    "w": 0.1221,
+    "h": 0.0225
+   },
+   {
+    "t": "\u2022 Interview reviews",
+    "x": 0.2863,
+    "y": 0.1738,
+    "w": 0.1177,
+    "h": 0.0227
+   },
+   {
+    "t": "across job types",
+    "x": 0.6933,
+    "y": 0.1759,
+    "w": 0.0959,
+    "h": 0.0228
+   },
+   {
+    "t": "M",
+    "x": 0.4709,
+    "y": 0.2187,
+    "w": 0.0174,
+    "h": 0.0246
+   },
+   {
+    "t": "\u2022 Job listings",
+    "x": 0.2862,
+    "y": 0.2223,
+    "w": 0.0816,
+    "h": 0.0242
+   },
+   {
+    "t": "Indeed",
+    "x": 0.1743,
+    "y": 0.2227,
+    "w": 0.0423,
+    "h": 0.0188
+   },
+   {
+    "t": "\u2022 Lacks detailed prep",
+    "x": 0.6817,
+    "y": 0.2228,
+    "w": 0.125,
+    "h": 0.0205
+   },
+   {
+    "t": "\u2022 Employer ratings",
+    "x": 0.2863,
+    "y": 0.2522,
+    "w": 0.1134,
+    "h": 0.0228
+   },
+   {
+    "t": "\u2022 Not tailored to specific",
+    "x": 0.6802,
+    "y": 0.2522,
+    "w": 0.1439,
+    "h": 0.0201
+   },
+   {
+    "t": "roles",
+    "x": 0.6933,
+    "y": 0.281,
+    "w": 0.0306,
+    "h": 0.0183
+   },
+   {
+    "t": "\u2022 Resume upload",
+    "x": 0.2863,
+    "y": 0.2813,
+    "w": 0.1047,
+    "h": 0.0205
+   },
+   {
+    "t": "X",
+    "x": 0.4709,
+    "y": 0.3237,
+    "w": 0.016,
+    "h": 0.0246
+   },
+   {
+    "t": "Prepfully",
+    "x": 0.1743,
+    "y": 0.3253,
+    "w": 0.0525,
+    "h": 0.0257
+   },
+   {
+    "t": "\u2022 Mock interviews",
+    "x": 0.2878,
+    "y": 0.3281,
+    "w": 0.109,
+    "h": 0.0205
+   },
+   {
+    "t": "\u2022 Login required",
+    "x": 0.6802,
+    "y": 0.3281,
+    "w": 0.0974,
+    "h": 0.0205
+   },
+   {
+    "t": "\u2022 Paywall limits access",
+    "x": 0.6802,
+    "y": 0.3549,
+    "w": 0.1352,
+    "h": 0.0225
+   },
+   {
+    "t": "\u2022 User contributed",
+    "x": 0.2863,
+    "y": 0.3571,
+    "w": 0.1134,
+    "h": 0.0203
+   },
+   {
+    "t": "Q&A",
+    "x": 0.3023,
+    "y": 0.3839,
+    "w": 0.0262,
+    "h": 0.0201
+   },
+   {
+    "t": "CareerCup",
+    "x": 0.1759,
+    "y": 0.4307,
+    "w": 0.0625,
+    "h": 0.0225
+   },
+   {
+    "t": "\u2022 Tech interview",
+    "x": 0.2878,
+    "y": 0.4307,
+    "w": 0.0988,
+    "h": 0.0224
+   },
+   {
+    "t": "\u2022 Text heavy layout",
+    "x": 0.6802,
+    "y": 0.4307,
+    "w": 0.1163,
+    "h": 0.0224
+   },
+   {
+    "t": "Q&A from users",
+    "x": 0.3009,
+    "y": 0.4595,
+    "w": 0.093,
+    "h": 0.0204
+   },
+   {
+    "t": "\u2022 Outdated Ul",
+    "x": 0.6802,
+    "y": 0.4595,
+    "w": 0.0858,
+    "h": 0.0204
+   },
+   {
+    "t": "\u2022 Company search",
+    "x": 0.2863,
+    "y": 0.4888,
+    "w": 0.1134,
+    "h": 0.0223
+   },
+   {
+    "t": "\u2022 Narrow focus on tech",
+    "x": 0.6759,
+    "y": 0.4888,
+    "w": 0.1424,
+    "h": 0.0201
+   },
+   {
+    "t": "Levels.fyi",
+    "x": 0.1743,
+    "y": 0.535,
+    "w": 0.0569,
+    "h": 0.0238
+   },
+   {
+    "t": "\u2022 Salary",
+    "x": 0.2878,
+    "y": 0.5357,
+    "w": 0.0509,
+    "h": 0.0223
+   },
+   {
+    "t": "V",
+    "x": 0.4709,
+    "y": 0.5357,
+    "w": 0.0145,
+    "h": 0.0201
+   },
+   {
+    "t": "\u2022 Limited to tech",
+    "x": 0.6802,
+    "y": 0.5357,
+    "w": 0.1017,
+    "h": 0.0223
+   },
+   {
+    "t": "industry",
+    "x": 0.6914,
+    "y": 0.5643,
+    "w": 0.0517,
+    "h": 0.0233
+   },
+   {
+    "t": "comparison",
+    "x": 0.3023,
+    "y": 0.5646,
+    "w": 0.0683,
+    "h": 0.0225
+   },
+   {
+    "t": "\u2022 Interview prep for",
+    "x": 0.2878,
+    "y": 0.5937,
+    "w": 0.1163,
+    "h": 0.0225
+   },
+   {
+    "t": "\u2022 Lacks broader role",
+    "x": 0.6817,
+    "y": 0.5938,
+    "w": 0.1192,
+    "h": 0.0182
+   },
+   {
+    "t": "tech roles",
+    "x": 0.3008,
+    "y": 0.6223,
+    "w": 0.0597,
+    "h": 0.0188
+   },
+   {
+    "t": "coverage",
+    "x": 0.6933,
+    "y": 0.625,
+    "w": 0.0552,
+    "h": 0.0201
+   },
+   {
+    "t": "Pain Points",
+    "x": 0.1511,
+    "y": 0.6937,
+    "w": 0.0757,
+    "h": 0.0233
+   },
+   {
+    "t": "1. Interview question databases are often too general or not tailored to specific roles.",
+    "x": 0.1555,
+    "y": 0.7388,
+    "w": 0.4506,
+    "h": 0.0181
+   },
+   {
+    "t": "2. Many platforms separate job search from interview preparation, forcing users to switch between tools.",
+    "x": 0.1555,
+    "y": 0.7589,
+    "w": 0.5523,
+    "h": 0.0204
+   },
+   {
+    "t": "3. Interfaces are sometimes outdated or unintuitive for first time users.",
+    "x": 0.1555,
+    "y": 0.779,
+    "w": 0.3721,
+    "h": 0.0179
+   },
+   {
+    "t": "4. Users lack confidence due to absence of structured, step by step interview preparation.",
+    "x": 0.1555,
+    "y": 0.7964,
+    "w": 0.4767,
+    "h": 0.0228
+   },
+   {
+    "t": "User & Audience",
+    "x": 0.1512,
+    "y": 0.846,
+    "w": 0.1119,
+    "h": 0.0223
+   },
+   {
+    "t": "1. Recent graduates seeking their first job and needing structured interview preparation.",
+    "x": 0.1555,
+    "y": 0.8902,
+    "w": 0.4666,
+    "h": 0.0183
+   },
+   {
+    "t": "2. Job switchers looking for insights into new industries or companies.",
+    "x": 0.1555,
+    "y": 0.9104,
+    "w": 0.3706,
+    "h": 0.0181
+   },
+   {
+    "t": "3. Candidates aiming to understand specific expectations from different roles.",
+    "x": 0.1555,
+    "y": 0.9307,
+    "w": 0.4113,
+    "h": 0.0181
+   },
+   {
+    "t": "4. Users who prefer simple, task focused platforms without clutter.",
+    "x": 0.1555,
+    "y": 0.9509,
+    "w": 0.3517,
+    "h": 0.0203
+   },
+   {
+    "t": "5. Individuals who want quick access to frequently asked interview questions filtered by role or company.",
+    "x": 0.1555,
+    "y": 0.971,
+    "w": 0.5552,
+    "h": 0.0184
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "file": "b08.jpg",
+  "y0": 3615,
+  "y1": 3851,
+  "h": 236,
+  "color": 0.0,
+  "density": 0.149,
+  "lines": [
+   {
+    "t": "Ideation",
+    "x": 0.1512,
+    "y": 0.0265,
+    "w": 0.0785,
+    "h": 0.115
+   },
+   {
+    "t": "After understanding user needs and competitor gaps, the ideation stage focuses on designing the overall user flow and experience.",
+    "x": 0.1526,
+    "y": 0.292,
+    "w": 0.6919,
+    "h": 0.0808
+   },
+   {
+    "t": "Here, 1 put together user flows and user journeys to make sure users can reach their goals smoothly, efficiently, and intuitively.",
+    "x": 0.1526,
+    "y": 0.3717,
+    "w": 0.6657,
+    "h": 0.0902
+   },
+   {
+    "t": "User Flow",
+    "x": 0.1526,
+    "y": 0.6098,
+    "w": 0.0669,
+    "h": 0.0814
+   },
+   {
+    "t": "User flows help map the steps users take when using the product, from the initial page to reaching a specific goal. With these flows,",
+    "x": 0.1526,
+    "y": 0.8051,
+    "w": 0.6948,
+    "h": 0.0805
+   },
+   {
+    "t": "I ensure that every interaction is logical and minimizes obstacles.",
+    "x": 0.1512,
+    "y": 0.8761,
+    "w": 0.3445,
+    "h": 0.0815
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "file": "b09.jpg",
+  "y0": 3926,
+  "y1": 4293,
+  "h": 367,
+  "color": 14.34,
+  "density": 0.289,
+  "lines": [
+   {
+    "t": "User Story: As a user, I want to easily access job listings so that I can quickly find relevant opportunities.",
+    "x": 0.1875,
+    "y": 0.0341,
+    "w": 0.548,
+    "h": 0.0511
+   },
+   {
+    "t": "See more",
+    "x": 0.3241,
+    "y": 0.1869,
+    "w": 0.0509,
+    "h": 0.0409
+   },
+   {
+    "t": "Expand to",
+    "x": 0.7413,
+    "y": 0.1872,
+    "w": 0.0509,
+    "h": 0.0461
+   },
+   {
+    "t": "View curated",
+    "x": 0.5741,
+    "y": 0.2216,
+    "w": 0.0654,
+    "h": 0.0341
+   },
+   {
+    "t": "interview",
+    "x": 0.3226,
+    "y": 0.2437,
+    "w": 0.051,
+    "h": 0.0524
+   },
+   {
+    "t": "Select Role",
+    "x": 0.4447,
+    "y": 0.2488,
+    "w": 0.0582,
+    "h": 0.0423
+   },
+   {
+    "t": "Homepage",
+    "x": 0.1991,
+    "y": 0.2489,
+    "w": 0.0553,
+    "h": 0.0476
+   },
+   {
+    "t": "see answers/",
+    "x": 0.7326,
+    "y": 0.25,
+    "w": 0.0683,
+    "h": 0.0408
+   },
+   {
+    "t": "question list",
+    "x": 0.577,
+    "y": 0.2841,
+    "w": 0.061,
+    "h": 0.0398
+   },
+   {
+    "t": "questions",
+    "x": 0.3241,
+    "y": 0.3116,
+    "w": 0.0524,
+    "h": 0.0472
+   },
+   {
+    "t": "tips",
+    "x": 0.7544,
+    "y": 0.3125,
+    "w": 0.0218,
+    "h": 0.0511
+   },
+   {
+    "t": "User Story: As a user, I want to view interview questions and answers for specific roles so that I can prepare more",
+    "x": 0.1875,
+    "y": 0.5217,
+    "w": 0.5974,
+    "h": 0.0521
+   },
+   {
+    "t": "effectively for upcoming interviews.",
+    "x": 0.186,
+    "y": 0.5734,
+    "w": 0.1904,
+    "h": 0.0573
+   },
+   {
+    "t": "View filtered",
+    "x": 0.4491,
+    "y": 0.7609,
+    "w": 0.064,
+    "h": 0.0462
+   },
+   {
+    "t": "View job",
+    "x": 0.7471,
+    "y": 0.7609,
+    "w": 0.0436,
+    "h": 0.0516
+   },
+   {
+    "t": "Search job",
+    "x": 0.3227,
+    "y": 0.7611,
+    "w": 0.0553,
+    "h": 0.0518
+   },
+   {
+    "t": "Filter by",
+    "x": 0.6032,
+    "y": 0.7612,
+    "w": 0.0407,
+    "h": 0.0515
+   },
+   {
+    "t": "Homepage",
+    "x": 0.1991,
+    "y": 0.7892,
+    "w": 0.0553,
+    "h": 0.0465
+   },
+   {
+    "t": "job listings",
+    "x": 0.4506,
+    "y": 0.8235,
+    "w": 0.0582,
+    "h": 0.0519
+   },
+   {
+    "t": "title",
+    "x": 0.3387,
+    "y": 0.8239,
+    "w": 0.0218,
+    "h": 0.0455
+   },
+   {
+    "t": "detail",
+    "x": 0.7544,
+    "y": 0.8239,
+    "w": 0.0305,
+    "h": 0.0455
+   },
+   {
+    "t": "company",
+    "x": 0.5988,
+    "y": 0.8291,
+    "w": 0.048,
+    "h": 0.0464
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "file": "b10.jpg",
+  "y0": 4370,
+  "y1": 4473,
+  "h": 103,
+  "color": 0.0,
+  "density": 0.141,
+  "lines": [
+   {
+    "t": "User Journey",
+    "x": 0.1512,
+    "y": 0.0962,
+    "w": 0.0901,
+    "h": 0.2238
+   },
+   {
+    "t": "\u2039tual way. By mapping each step, I",
+    "x": 0.6483,
+    "y": 0.5192,
+    "w": 0.1802,
+    "h": 0.2019
+   },
+   {
+    "t": "User journey maps are used to unders",
+    "x": 0.1526,
+    "y": 0.5385,
+    "w": 0.1977,
+    "h": 0.1635
+   },
+   {
+    "t": "can identify opportunities for improve",
+    "x": 0.1526,
+    "y": 0.7,
+    "w": 0.1977,
+    "h": 0.1846
+   },
+   {
+    "t": "pective.",
+    "x": 0.6497,
+    "y": 0.7182,
+    "w": 0.0437,
+    "h": 0.1437
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "file": "b11.jpg",
+  "y0": 4496,
+  "y1": 4950,
+  "h": 454,
+  "color": 0.49,
+  "density": 0.421,
+  "lines": [
+   {
+    "t": "Scenario: I want to see which companies are hiring for a Product Manager position.",
+    "x": 0.1875,
+    "y": 0.0276,
+    "w": 0.439,
+    "h": 0.0415
+   },
+   {
+    "t": "Expectation: To view relevant job postings through a simple and easy to follow flow.",
+    "x": 0.1875,
+    "y": 0.0683,
+    "w": 0.4419,
+    "h": 0.0423
+   },
+   {
+    "t": "Search",
+    "x": 0.3865,
+    "y": 0.1786,
+    "w": 0.0409,
+    "h": 0.0391
+   },
+   {
+    "t": "Result",
+    "x": 0.6075,
+    "y": 0.1793,
+    "w": 0.0364,
+    "h": 0.0332
+   },
+   {
+    "t": "Job Detail",
+    "x": 0.7209,
+    "y": 0.1793,
+    "w": 0.0553,
+    "h": 0.0377
+   },
+   {
+    "t": "Phase",
+    "x": 0.1918,
+    "y": 0.1794,
+    "w": 0.0335,
+    "h": 0.0329
+   },
+   {
+    "t": "Homepage",
+    "x": 0.2892,
+    "y": 0.1794,
+    "w": 0.0611,
+    "h": 0.0374
+   },
+   {
+    "t": "Filter",
+    "x": 0.5087,
+    "y": 0.1797,
+    "w": 0.0305,
+    "h": 0.0369
+   },
+   {
+    "t": "Views list of",
+    "x": 0.6061,
+    "y": 0.267,
+    "w": 0.0669,
+    "h": 0.0421
+   },
+   {
+    "t": "Enters",
+    "x": 0.2892,
+    "y": 0.2673,
+    "w": 0.0349,
+    "h": 0.0369
+   },
+   {
+    "t": "Types \"Product",
+    "x": 0.3866,
+    "y": 0.2709,
+    "w": 0.0828,
+    "h": 0.0424
+   },
+   {
+    "t": "Clicks one",
+    "x": 0.7209,
+    "y": 0.2715,
+    "w": 0.0553,
+    "h": 0.0376
+   },
+   {
+    "t": "Applies",
+    "x": 0.5087,
+    "y": 0.2717,
+    "w": 0.0407,
+    "h": 0.0419
+   },
+   {
+    "t": "Activity",
+    "x": 0.1904,
+    "y": 0.2719,
+    "w": 0.0407,
+    "h": 0.0415
+   },
+   {
+    "t": "posting to see",
+    "x": 0.7223,
+    "y": 0.3214,
+    "w": 0.0728,
+    "h": 0.0439
+   },
+   {
+    "t": "homepage and",
+    "x": 0.2892,
+    "y": 0.3216,
+    "w": 0.0785,
+    "h": 0.0425
+   },
+   {
+    "t": "Manager\" in the",
+    "x": 0.3866,
+    "y": 0.3216,
+    "w": 0.0843,
+    "h": 0.0425
+   },
+   {
+    "t": "company filter to",
+    "x": 0.5102,
+    "y": 0.3216,
+    "w": 0.0872,
+    "h": 0.0379
+   },
+   {
+    "t": "Product Manager",
+    "x": 0.6076,
+    "y": 0.3216,
+    "w": 0.0916,
+    "h": 0.0425
+   },
+   {
+    "t": "job postings",
+    "x": 0.6045,
+    "y": 0.371,
+    "w": 0.0686,
+    "h": 0.0506
+   },
+   {
+    "t": "search bar",
+    "x": 0.3881,
+    "y": 0.3774,
+    "w": 0.0567,
+    "h": 0.0332
+   },
+   {
+    "t": "full details",
+    "x": 0.7195,
+    "y": 0.3776,
+    "w": 0.0553,
+    "h": 0.0375
+   },
+   {
+    "t": "sees a search",
+    "x": 0.2892,
+    "y": 0.3779,
+    "w": 0.0727,
+    "h": 0.0323
+   },
+   {
+    "t": "narrow results",
+    "x": 0.5087,
+    "y": 0.3779,
+    "w": 0.0756,
+    "h": 0.0323
+   },
+   {
+    "t": "bar",
+    "x": 0.2892,
+    "y": 0.4286,
+    "w": 0.0203,
+    "h": 0.0323
+   },
+   {
+    "t": "\"Okay, where do",
+    "x": 0.2878,
+    "y": 0.5154,
+    "w": 0.0872,
+    "h": 0.0422
+   },
+   {
+    "t": "\"Let's see what roles",
+    "x": 0.3866,
+    "y": 0.5154,
+    "w": 0.1076,
+    "h": 0.0376
+   },
+   {
+    "t": "\"Great, looks like",
+    "x": 0.6047,
+    "y": 0.5154,
+    "w": 0.0901,
+    "h": 0.0468
+   },
+   {
+    "t": "\"Does this fit my",
+    "x": 0.7209,
+    "y": 0.5154,
+    "w": 0.0858,
+    "h": 0.0422
+   },
+   {
+    "t": "\"I want to focus",
+    "x": 0.5102,
+    "y": 0.5198,
+    "w": 0.0814,
+    "h": 0.0332
+   },
+   {
+    "t": "Thought",
+    "x": 0.1904,
+    "y": 0.5207,
+    "w": 0.0465,
+    "h": 0.0415
+   },
+   {
+    "t": "I start?\"",
+    "x": 0.2878,
+    "y": 0.5661,
+    "w": 0.0436,
+    "h": 0.0376
+   },
+   {
+    "t": "are out there.\"",
+    "x": 0.3881,
+    "y": 0.5661,
+    "w": 0.0741,
+    "h": 0.0376
+   },
+   {
+    "t": "only on certain",
+    "x": 0.5102,
+    "y": 0.5705,
+    "w": 0.077,
+    "h": 0.0378
+   },
+   {
+    "t": "background and",
+    "x": 0.7224,
+    "y": 0.5705,
+    "w": 0.0843,
+    "h": 0.0378
+   },
+   {
+    "t": "some relevant",
+    "x": 0.6076,
+    "y": 0.576,
+    "w": 0.0756,
+    "h": 0.0276
+   },
+   {
+    "t": "goals?\"",
+    "x": 0.7203,
+    "y": 0.621,
+    "w": 0.0422,
+    "h": 0.0471
+   },
+   {
+    "t": "openings.\"",
+    "x": 0.6061,
+    "y": 0.6221,
+    "w": 0.0581,
+    "h": 0.0461
+   },
+   {
+    "t": "companies.\"",
+    "x": 0.5099,
+    "y": 0.6249,
+    "w": 0.0645,
+    "h": 0.0392
+   },
+   {
+    "t": "Emotion",
+    "x": 0.1919,
+    "y": 0.7143,
+    "w": 0.0422,
+    "h": 0.0323
+   },
+   {
+    "t": "Prioritize clarity",
+    "x": 0.5087,
+    "y": 0.8007,
+    "w": 0.0815,
+    "h": 0.0483
+   },
+   {
+    "t": "Highlight search",
+    "x": 0.2878,
+    "y": 0.8018,
+    "w": 0.0872,
+    "h": 0.0463
+   },
+   {
+    "t": "Provide auto",
+    "x": 0.3881,
+    "y": 0.8018,
+    "w": 0.0654,
+    "h": 0.0374
+   },
+   {
+    "t": "Provide accurate",
+    "x": 0.6076,
+    "y": 0.8018,
+    "w": 0.0887,
+    "h": 0.0374
+   },
+   {
+    "t": "Use clean layout",
+    "x": 0.7224,
+    "y": 0.8018,
+    "w": 0.0858,
+    "h": 0.0419
+   },
+   {
+    "t": "Opportunity",
+    "x": 0.1904,
+    "y": 0.8065,
+    "w": 0.064,
+    "h": 0.0415
+   },
+   {
+    "t": "bar as primary",
+    "x": 0.2878,
+    "y": 0.8524,
+    "w": 0.077,
+    "h": 0.0463
+   },
+   {
+    "t": "suggestions, real",
+    "x": 0.3881,
+    "y": 0.8568,
+    "w": 0.0901,
+    "h": 0.0419
+   },
+   {
+    "t": "and role details",
+    "x": 0.5073,
+    "y": 0.8568,
+    "w": 0.0828,
+    "h": 0.0374
+   },
+   {
+    "t": "and relevant filter",
+    "x": 0.6061,
+    "y": 0.8568,
+    "w": 0.0945,
+    "h": 0.0374
+   },
+   {
+    "t": "with role",
+    "x": 0.7195,
+    "y": 0.8568,
+    "w": 0.048,
+    "h": 0.0374
+   },
+   {
+    "t": "time UX",
+    "x": 0.385,
+    "y": 0.9063,
+    "w": 0.0453,
+    "h": 0.0445
+   },
+   {
+    "t": "CTA",
+    "x": 0.2878,
+    "y": 0.9078,
+    "w": 0.0247,
+    "h": 0.0415
+   },
+   {
+    "t": "results",
+    "x": 0.6076,
+    "y": 0.9124,
+    "w": 0.0363,
+    "h": 0.0323
+   },
+   {
+    "t": "highlights",
+    "x": 0.7195,
+    "y": 0.9124,
+    "w": 0.0538,
+    "h": 0.0415
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "file": "b12.jpg",
+  "y0": 4993,
+  "y1": 5163,
+  "h": 170,
+  "color": 0.0,
+  "density": 0.166,
+  "lines": [
+   {
+    "t": "Design Process",
+    "x": 0.1526,
+    "y": 0.0741,
+    "w": 0.1439,
+    "h": 0.1852
+   },
+   {
+    "t": "To maintain visual consistency and efficiency in the design process, I created a design system that includes key Ul components",
+    "x": 0.1526,
+    "y": 0.2941,
+    "w": 0.6701,
+    "h": 0.1133
+   },
+   {
+    "t": "such as buttons, cards, color systems, and typography. This design system is designed to be easy to reuse and support responsive",
+    "x": 0.1526,
+    "y": 0.4176,
+    "w": 0.6904,
+    "h": 0.1132
+   },
+   {
+    "t": "interface development, especially for mobile and desktop needs.",
+    "x": 0.1526,
+    "y": 0.5294,
+    "w": 0.3416,
+    "h": 0.1002
+   },
+   {
+    "t": "Design System",
+    "x": 0.1526,
+    "y": 0.8016,
+    "w": 0.1192,
+    "h": 0.1623
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "file": "b13.jpg",
+  "y0": 5194,
+  "y1": 5411,
+  "h": 217,
+  "color": 4.78,
+  "density": 0.038,
+  "lines": [
+   {
+    "t": "Color",
+    "x": 0.1772,
+    "y": 0.036,
+    "w": 0.0569,
+    "h": 0.1203
+   },
+   {
+    "t": "Primary Color",
+    "x": 0.1759,
+    "y": 0.3654,
+    "w": 0.0872,
+    "h": 0.0979
+   },
+   {
+    "t": "Highlighter Green",
+    "x": 0.1773,
+    "y": 0.8349,
+    "w": 0.0596,
+    "h": 0.0596
+   },
+   {
+    "t": "#2DA229",
+    "x": 0.1758,
+    "y": 0.9017,
+    "w": 0.0307,
+    "h": 0.0523
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "file": "b14.jpg",
+  "y0": 5451,
+  "y1": 5635,
+  "h": 184,
+  "color": 22.84,
+  "density": 0.27,
+  "lines": [
+   {
+    "t": "Secondary colors",
+    "x": 0.1773,
+    "y": 0.0543,
+    "w": 0.109,
+    "h": 0.1047
+   },
+   {
+    "t": "Dark Shamrock",
+    "x": 0.1773,
+    "y": 0.25,
+    "w": 0.0901,
+    "h": 0.0815
+   },
+   {
+    "t": "Dark Shamrock 600",
+    "x": 0.2529,
+    "y": 0.7935,
+    "w": 0.0683,
+    "h": 0.0707
+   },
+   {
+    "t": "Dark Shamrock 200",
+    "x": 0.5567,
+    "y": 0.7935,
+    "w": 0.0683,
+    "h": 0.0707
+   },
+   {
+    "t": "Dark Shamrock 700",
+    "x": 0.1759,
+    "y": 0.8043,
+    "w": 0.0683,
+    "h": 0.0598
+   },
+   {
+    "t": "Dark Shamrock 500",
+    "x": 0.3285,
+    "y": 0.8043,
+    "w": 0.0683,
+    "h": 0.0598
+   },
+   {
+    "t": "Dark Shamrock 400",
+    "x": 0.4055,
+    "y": 0.8043,
+    "w": 0.0683,
+    "h": 0.0598
+   },
+   {
+    "t": "Dark Shamrock 300",
+    "x": 0.4811,
+    "y": 0.8043,
+    "w": 0.0683,
+    "h": 0.0598
+   },
+   {
+    "t": "Dark Shamrock 100",
+    "x": 0.6337,
+    "y": 0.8043,
+    "w": 0.0669,
+    "h": 0.0598
+   },
+   {
+    "t": "Dark Shamrock 50",
+    "x": 0.7108,
+    "y": 0.8043,
+    "w": 0.0625,
+    "h": 0.0598
+   },
+   {
+    "t": "BAFEDD4",
+    "x": 0.5566,
+    "y": 0.8734,
+    "w": 0.0321,
+    "h": 0.0601
+   },
+   {
+    "t": "#S1D7A3",
+    "x": 0.2514,
+    "y": 0.874,
+    "w": 0.0291,
+    "h": 0.0587
+   },
+   {
+    "t": "#EFFODD",
+    "x": 0.6337,
+    "y": 0.8746,
+    "w": 0.0305,
+    "h": 0.0576
+   },
+   {
+    "t": "#310092",
+    "x": 0.1759,
+    "y": 0.875,
+    "w": 0.0291,
+    "h": 0.0568
+   },
+   {
+    "t": "#70DE83",
+    "x": 0.3285,
+    "y": 0.875,
+    "w": 0.0305,
+    "h": 0.0568
+   },
+   {
+    "t": "#CEF4ES",
+    "x": 0.7108,
+    "y": 0.875,
+    "w": 0.0276,
+    "h": 0.0568
+   },
+   {
+    "t": "HAOE9CC",
+    "x": 0.4811,
+    "y": 0.8864,
+    "w": 0.0305,
+    "h": 0.0455
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "file": "b15.jpg",
+  "y0": 5663,
+  "y1": 5814,
+  "h": 151,
+  "color": 22.36,
+  "density": 0.342,
+  "lines": [
+   {
+    "t": "Lightish Blue",
+    "x": 0.1759,
+    "y": 0.0815,
+    "w": 0.0771,
+    "h": 0.1383
+   },
+   {
+    "t": "Lightish Blue 700",
+    "x": 0.1759,
+    "y": 0.7534,
+    "w": 0.0596,
+    "h": 0.0822
+   },
+   {
+    "t": "Lightish Blue 500",
+    "x": 0.327,
+    "y": 0.7534,
+    "w": 0.0625,
+    "h": 0.0822
+   },
+   {
+    "t": "Lightish Blue 400",
+    "x": 0.4055,
+    "y": 0.7534,
+    "w": 0.0596,
+    "h": 0.0822
+   },
+   {
+    "t": "Lightish Blue 300",
+    "x": 0.4811,
+    "y": 0.7534,
+    "w": 0.061,
+    "h": 0.0822
+   },
+   {
+    "t": "Lightish Blue 200",
+    "x": 0.5567,
+    "y": 0.7534,
+    "w": 0.061,
+    "h": 0.0822
+   },
+   {
+    "t": "Lightish Blue 100",
+    "x": 0.6337,
+    "y": 0.7534,
+    "w": 0.0596,
+    "h": 0.0822
+   },
+   {
+    "t": "Lightish Blue 50",
+    "x": 0.7093,
+    "y": 0.7534,
+    "w": 0.0567,
+    "h": 0.0822
+   },
+   {
+    "t": "Lightish Blue 600",
+    "x": 0.2529,
+    "y": 0.7671,
+    "w": 0.0596,
+    "h": 0.0685
+   },
+   {
+    "t": "#SA94FF",
+    "x": 0.2514,
+    "y": 0.8478,
+    "w": 0.0292,
+    "h": 0.0716
+   },
+   {
+    "t": "#BOCCFF",
+    "x": 0.4811,
+    "y": 0.8486,
+    "w": 0.0306,
+    "h": 0.07
+   },
+   {
+    "t": "#3770FF",
+    "x": 0.1759,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0822
+   },
+   {
+    "t": "#7CAAFF",
+    "x": 0.3285,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#9FC1FF",
+    "x": 0.4041,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#C1D7FF",
+    "x": 0.5567,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   },
+   {
+    "t": "#E4EEFF",
+    "x": 0.7093,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "file": "b16.jpg",
+  "y0": 5845,
+  "y1": 5993,
+  "h": 148,
+  "color": 21.69,
+  "density": 0.344,
+  "lines": [
+   {
+    "t": "Orange Pop",
+    "x": 0.1758,
+    "y": 0.0657,
+    "w": 0.0714,
+    "h": 0.1362
+   },
+   {
+    "t": "Orange Pop 700",
+    "x": 0.1773,
+    "y": 0.7432,
+    "w": 0.0552,
+    "h": 0.0878
+   },
+   {
+    "t": "Orange Pop 600",
+    "x": 0.2529,
+    "y": 0.7606,
+    "w": 0.0567,
+    "h": 0.0705
+   },
+   {
+    "t": "Orange Pop 500",
+    "x": 0.3285,
+    "y": 0.7606,
+    "w": 0.0567,
+    "h": 0.0845
+   },
+   {
+    "t": "Orange Pop 400",
+    "x": 0.4055,
+    "y": 0.7606,
+    "w": 0.0567,
+    "h": 0.0705
+   },
+   {
+    "t": "Orange Pop 300",
+    "x": 0.4826,
+    "y": 0.7606,
+    "w": 0.0552,
+    "h": 0.0705
+   },
+   {
+    "t": "Orange Pop 200",
+    "x": 0.5581,
+    "y": 0.7606,
+    "w": 0.0567,
+    "h": 0.0705
+   },
+   {
+    "t": "Orange Pop 100",
+    "x": 0.6337,
+    "y": 0.7606,
+    "w": 0.0552,
+    "h": 0.0845
+   },
+   {
+    "t": "Orange Pop 50",
+    "x": 0.7108,
+    "y": 0.7606,
+    "w": 0.0509,
+    "h": 0.0705
+   },
+   {
+    "t": "HSSD480",
+    "x": 0.3284,
+    "y": 0.8405,
+    "w": 0.0307,
+    "h": 0.0796
+   },
+   {
+    "t": "#FFEBC3",
+    "x": 0.5566,
+    "y": 0.8418,
+    "w": 0.0292,
+    "h": 0.0769
+   },
+   {
+    "t": "#FFEOA2",
+    "x": 0.4055,
+    "y": 0.8426,
+    "w": 0.0277,
+    "h": 0.0753
+   },
+   {
+    "t": "#FFBE3D",
+    "x": 0.1759,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#FFC9SF",
+    "x": 0.2529,
+    "y": 0.8451,
+    "w": 0.0276,
+    "h": 0.0704
+   },
+   {
+    "t": "HESFOD4",
+    "x": 0.6337,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#FESSES",
+    "x": 0.7093,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "file": "b17.jpg",
+  "y0": 6021,
+  "y1": 6172,
+  "h": 151,
+  "color": 18.71,
+  "density": 0.351,
+  "lines": [
+   {
+    "t": "Grapefruit Pulp",
+    "x": 0.1759,
+    "y": 0.0789,
+    "w": 0.0901,
+    "h": 0.1402
+   },
+   {
+    "t": "Grapefruit Pulp 700",
+    "x": 0.1773,
+    "y": 0.7534,
+    "w": 0.0669,
+    "h": 0.0822
+   },
+   {
+    "t": "Grapefruit Pulp 600",
+    "x": 0.2529,
+    "y": 0.7534,
+    "w": 0.0683,
+    "h": 0.0822
+   },
+   {
+    "t": "Grapefruit Pulp 100",
+    "x": 0.6337,
+    "y": 0.7534,
+    "w": 0.0669,
+    "h": 0.0822
+   },
+   {
+    "t": "Grapefruit Pulp50",
+    "x": 0.7108,
+    "y": 0.7534,
+    "w": 0.061,
+    "h": 0.0822
+   },
+   {
+    "t": "Grapefruit Pulp 500",
+    "x": 0.3299,
+    "y": 0.7671,
+    "w": 0.0669,
+    "h": 0.0685
+   },
+   {
+    "t": "Grapefruit Pulp 400",
+    "x": 0.4055,
+    "y": 0.7671,
+    "w": 0.0669,
+    "h": 0.0685
+   },
+   {
+    "t": "Grapefruit Pulp 300",
+    "x": 0.4826,
+    "y": 0.7671,
+    "w": 0.0669,
+    "h": 0.0685
+   },
+   {
+    "t": "Grapefruit Pulp 200",
+    "x": 0.5581,
+    "y": 0.7671,
+    "w": 0.0669,
+    "h": 0.0685
+   },
+   {
+    "t": "#FF88AE",
+    "x": 0.4055,
+    "y": 0.8475,
+    "w": 0.0292,
+    "h": 0.072
+   },
+   {
+    "t": "#FF 7158",
+    "x": 0.1759,
+    "y": 0.8487,
+    "w": 0.0276,
+    "h": 0.0724
+   },
+   {
+    "t": "#FFB977",
+    "x": 0.2529,
+    "y": 0.8493,
+    "w": 0.0276,
+    "h": 0.0685
+   },
+   {
+    "t": "#FFA192",
+    "x": 0.3285,
+    "y": 0.8493,
+    "w": 0.0276,
+    "h": 0.0685
+   },
+   {
+    "t": "#FFC4BC",
+    "x": 0.4811,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#FFDCD7",
+    "x": 0.6337,
+    "y": 0.8493,
+    "w": 0.0305,
+    "h": 0.0685
+   },
+   {
+    "t": "#FFEBES",
+    "x": 0.7093,
+    "y": 0.8493,
+    "w": 0.0291,
+    "h": 0.0685
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "file": "b18.jpg",
+  "y0": 6203,
+  "y1": 6352,
+  "h": 149,
+  "color": 0.25,
+  "density": 0.299,
+  "lines": [
+   {
+    "t": "Neutral colors",
+    "x": 0.1759,
+    "y": 0.0667,
+    "w": 0.0901,
+    "h": 0.1278
+   },
+   {
+    "t": "Neutral 700",
+    "x": 0.1759,
+    "y": 0.75,
+    "w": 0.0422,
+    "h": 0.07
+   },
+   {
+    "t": "Neutral 600",
+    "x": 0.2529,
+    "y": 0.75,
+    "w": 0.0422,
+    "h": 0.07
+   },
+   {
+    "t": "Neutra",
+    "x": 0.3285,
+    "y": 0.75,
+    "w": 0.0218,
+    "h": 0.0694
+   },
+   {
+    "t": "#1B1818",
+    "x": 0.1773,
+    "y": 0.847,
+    "w": 0.0262,
+    "h": 0.0699
+   },
+   {
+    "t": "#303133",
+    "x": 0.2529,
+    "y": 0.8472,
+    "w": 0.0291,
+    "h": 0.0694
+   },
+   {
+    "t": "#3333",
+    "x": 0.3285,
+    "y": 0.8472,
+    "w": 0.0218,
+    "h": 0.0694
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "file": "b19.jpg",
+  "y0": 6447,
+  "y1": 7305,
+  "h": 858,
+  "color": 0.0,
+  "density": 0.054,
+  "lines": [
+   {
+    "t": "Typography",
+    "x": 0.1802,
+    "y": 0.0069,
+    "w": 0.1047,
+    "h": 0.0374
+   },
+   {
+    "t": "Avenir Next",
+    "x": 0.1802,
+    "y": 0.1488,
+    "w": 0.0959,
+    "h": 0.0249
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "x": 0.1802,
+    "y": 0.1878,
+    "w": 0.1701,
+    "h": 0.0146
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.1802,
+    "y": 0.2146,
+    "w": 0.1323,
+    "h": 0.0195
+   },
+   {
+    "t": "1234567890",
+    "x": 0.1802,
+    "y": 0.2412,
+    "w": 0.0582,
+    "h": 0.0177
+   },
+   {
+    "t": "Font size/weight",
+    "x": 0.5262,
+    "y": 0.3193,
+    "w": 0.0887,
+    "h": 0.0246
+   },
+   {
+    "t": "Style",
+    "x": 0.1788,
+    "y": 0.3195,
+    "w": 0.0291,
+    "h": 0.0244
+   },
+   {
+    "t": "Heading",
+    "x": 0.1801,
+    "y": 0.4065,
+    "w": 0.1848,
+    "h": 0.0821
+   },
+   {
+    "t": "64/Demi Bold",
+    "x": 0.5208,
+    "y": 0.4126,
+    "w": 0.3083,
+    "h": 0.0699
+   },
+   {
+    "t": "Title 1",
+    "x": 0.1787,
+    "y": 0.5192,
+    "w": 0.0481,
+    "h": 0.0274
+   },
+   {
+    "t": "24/Medium",
+    "x": 0.5262,
+    "y": 0.522,
+    "w": 0.0916,
+    "h": 0.0244
+   },
+   {
+    "t": "20/Demi Bold",
+    "x": 0.5262,
+    "y": 0.5756,
+    "w": 0.0916,
+    "h": 0.0246
+   },
+   {
+    "t": "Title 2",
+    "x": 0.1788,
+    "y": 0.578,
+    "w": 0.0422,
+    "h": 0.0222
+   },
+   {
+    "t": "Title 3",
+    "x": 0.1787,
+    "y": 0.6339,
+    "w": 0.0379,
+    "h": 0.0225
+   },
+   {
+    "t": "18/Demi Bold",
+    "x": 0.5247,
+    "y": 0.634,
+    "w": 0.0828,
+    "h": 0.0221
+   },
+   {
+    "t": "18/Medium",
+    "x": 0.5247,
+    "y": 0.6899,
+    "w": 0.0698,
+    "h": 0.0227
+   },
+   {
+    "t": "Title 4",
+    "x": 0.1788,
+    "y": 0.69,
+    "w": 0.0378,
+    "h": 0.0222
+   },
+   {
+    "t": "Body 1",
+    "x": 0.1788,
+    "y": 0.7436,
+    "w": 0.0407,
+    "h": 0.0271
+   },
+   {
+    "t": "17/Medium",
+    "x": 0.5262,
+    "y": 0.7463,
+    "w": 0.0654,
+    "h": 0.0171
+   },
+   {
+    "t": "Body 2",
+    "x": 0.1788,
+    "y": 0.8019,
+    "w": 0.0392,
+    "h": 0.025
+   },
+   {
+    "t": "16/Demi Bold",
+    "x": 0.5262,
+    "y": 0.8019,
+    "w": 0.0727,
+    "h": 0.0176
+   },
+   {
+    "t": "Body 3",
+    "x": 0.1787,
+    "y": 0.8584,
+    "w": 0.0379,
+    "h": 0.0247
+   },
+   {
+    "t": "16/Medium",
+    "x": 0.5247,
+    "y": 0.8585,
+    "w": 0.0625,
+    "h": 0.0195
+   },
+   {
+    "t": "Sub Body 1",
+    "x": 0.1802,
+    "y": 0.9145,
+    "w": 0.0524,
+    "h": 0.0198
+   },
+   {
+    "t": "14/Medium",
+    "x": 0.5247,
+    "y": 0.9146,
+    "w": 0.0552,
+    "h": 0.0146
+   },
+   {
+    "t": "12/Medium",
+    "x": 0.5247,
+    "y": 0.9707,
+    "w": 0.048,
+    "h": 0.0146
+   },
+   {
+    "t": "Sub Body 2",
+    "x": 0.1802,
+    "y": 0.9732,
+    "w": 0.0465,
+    "h": 0.0152
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "file": "b20.jpg",
+  "y0": 7422,
+  "y1": 7820,
+  "h": 398,
+  "color": 4.57,
+  "density": 0.071,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.2805,
+    "y": 0.0312,
+    "w": 0.0713,
+    "h": 0.0691
+   },
+   {
+    "t": "Label >",
+    "x": 0.5436,
+    "y": 0.299,
+    "w": 0.0407,
+    "h": 0.0327
+   },
+   {
+    "t": "Label",
+    "x": 0.3256,
+    "y": 0.3,
+    "w": 0.0305,
+    "h": 0.0421
+   },
+   {
+    "t": "Label",
+    "x": 0.4288,
+    "y": 0.3,
+    "w": 0.0276,
+    "h": 0.0368
+   },
+   {
+    "t": "Label",
+    "x": 0.641,
+    "y": 0.3,
+    "w": 0.0305,
+    "h": 0.0316
+   },
+   {
+    "t": "< Label",
+    "x": 0.4171,
+    "y": 0.4466,
+    "w": 0.0466,
+    "h": 0.0385
+   },
+   {
+    "t": "< Label >",
+    "x": 0.3169,
+    "y": 0.4472,
+    "w": 0.0538,
+    "h": 0.0377
+   },
+   {
+    "t": "< Label >",
+    "x": 0.5305,
+    "y": 0.4472,
+    "w": 0.0552,
+    "h": 0.0377
+   },
+   {
+    "t": "< Label",
+    "x": 0.6308,
+    "y": 0.4523,
+    "w": 0.0451,
+    "h": 0.0327
+   },
+   {
+    "t": "< Label >",
+    "x": 0.3168,
+    "y": 0.5933,
+    "w": 0.0554,
+    "h": 0.045
+   },
+   {
+    "t": "< Label >",
+    "x": 0.4157,
+    "y": 0.5947,
+    "w": 0.0552,
+    "h": 0.0421
+   },
+   {
+    "t": "Label >",
+    "x": 0.6395,
+    "y": 0.5947,
+    "w": 0.0451,
+    "h": 0.0421
+   },
+   {
+    "t": "< Label",
+    "x": 0.5305,
+    "y": 0.6,
+    "w": 0.0451,
+    "h": 0.0368
+   },
+   {
+    "t": "<",
+    "x": 0.6308,
+    "y": 0.6,
+    "w": 0.0073,
+    "h": 0.0316
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "file": "b21.jpg",
+  "y0": 7980,
+  "y1": 8952,
+  "h": 972,
+  "color": 0.34,
+  "density": 0.208,
+  "lines": [
+   {
+    "t": "Grid System",
+    "x": 0.1816,
+    "y": 0.0126,
+    "w": 0.0757,
+    "h": 0.0221
+   },
+   {
+    "t": "Desktop (1920px)",
+    "x": 0.1817,
+    "y": 0.0576,
+    "w": 0.1105,
+    "h": 0.022
+   },
+   {
+    "t": "120px",
+    "x": 0.327,
+    "y": 0.1097,
+    "w": 0.0233,
+    "h": 0.0108
+   },
+   {
+    "t": "130px",
+    "x": 0.1962,
+    "y": 0.1118,
+    "w": 0.0174,
+    "h": 0.0108
+   },
+   {
+    "t": "20px",
+    "x": 0.3983,
+    "y": 0.1118,
+    "w": 0.0189,
+    "h": 0.0108
+   },
+   {
+    "t": "1660px",
+    "x": 0.4884,
+    "y": 0.3548,
+    "w": 0.0233,
+    "h": 0.0129
+   },
+   {
+    "t": "1920px",
+    "x": 0.4884,
+    "y": 0.3871,
+    "w": 0.0233,
+    "h": 0.0086
+   },
+   {
+    "t": "Mobile (375px)",
+    "x": 0.1817,
+    "y": 0.43,
+    "w": 0.093,
+    "h": 0.0216
+   },
+   {
+    "t": "20px",
+    "x": 0.4855,
+    "y": 0.4731,
+    "w": 0.0276,
+    "h": 0.0194
+   },
+   {
+    "t": "160px",
+    "x": 0.5319,
+    "y": 0.4966,
+    "w": 0.035,
+    "h": 0.0175
+   },
+   {
+    "t": "20px",
+    "x": 0.3939,
+    "y": 0.4968,
+    "w": 0.0276,
+    "h": 0.0172
+   },
+   {
+    "t": "340px",
+    "x": 0.4826,
+    "y": 0.9054,
+    "w": 0.0349,
+    "h": 0.0194
+   },
+   {
+    "t": "375px",
+    "x": 0.4826,
+    "y": 0.972,
+    "w": 0.0334,
+    "h": 0.0194
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "file": "b22.jpg",
+  "y0": 9058,
+  "y1": 10664,
+  "h": 1606,
+  "color": 4.57,
+  "density": 0.383,
+  "lines": [
+   {
+    "t": "Desktop (1920px)",
+    "x": 0.1815,
+    "y": 0.0087,
+    "w": 0.1102,
+    "h": 0.0131
+   },
+   {
+    "t": "Side Navigation (Desktop)",
+    "x": 0.1912,
+    "y": 0.0405,
+    "w": 0.0924,
+    "h": 0.0089
+   },
+   {
+    "t": "Pop Up - Search",
+    "x": 0.41,
+    "y": 0.0405,
+    "w": 0.0567,
+    "h": 0.0075
+   },
+   {
+    "t": "\u2022 Search for your interview",
+    "x": 0.4263,
+    "y": 0.0683,
+    "w": 0.0794,
+    "h": 0.0073
+   },
+   {
+    "t": "Find Seer Inseview",
+    "x": 0.7439,
+    "y": 0.0683,
+    "w": 0.0373,
+    "h": 0.0058
+   },
+   {
+    "t": "Table of Content",
+    "x": 0.1994,
+    "y": 0.077,
+    "w": 0.0746,
+    "h": 0.0089
+   },
+   {
+    "t": "@ Fortured Aricles",
+    "x": 0.6742,
+    "y": 0.0915,
+    "w": 0.0486,
+    "h": 0.0088
+   },
+   {
+    "t": "@ Careces",
+    "x": 0.436,
+    "y": 0.0928,
+    "w": 0.0292,
+    "h": 0.0062
+   },
+   {
+    "t": "\u2022 Componies",
+    "x": 0.5154,
+    "y": 0.0928,
+    "w": 0.0373,
+    "h": 0.0075
+   },
+   {
+    "t": "Topics",
+    "x": 0.6062,
+    "y": 0.093,
+    "w": 0.0162,
+    "h": 0.0058
+   },
+   {
+    "t": "Typical Marketing Interview Questions",
+    "x": 0.2058,
+    "y": 0.1032,
+    "w": 0.0956,
+    "h": 0.0073
+   },
+   {
+    "t": "\u0410\u043d\u0448\u043e",
+    "x": 0.5138,
+    "y": 0.1206,
+    "w": 0.0146,
+    "h": 0.0058
+   },
+   {
+    "t": "Online Marketing Interview Questions",
+    "x": 0.2058,
+    "y": 0.1264,
+    "w": 0.094,
+    "h": 0.0075
+   },
+   {
+    "t": "Growth Marketing Interview Questions",
+    "x": 0.2058,
+    "y": 0.1494,
+    "w": 0.0956,
+    "h": 0.0075
+   },
+   {
+    "t": "Goosel Eket",
+    "x": 0.5138,
+    "y": 0.1494,
+    "w": 0.0259,
+    "h": 0.0062
+   },
+   {
+    "t": "soscher",
+    "x": 0.4344,
+    "y": 0.1599,
+    "w": 0.0146,
+    "h": 0.0058
+   },
+   {
+    "t": "Web Marketing Specialis: Interview",
+    "x": 0.2042,
+    "y": 0.173,
+    "w": 0.0875,
+    "h": 0.0045
+   },
+   {
+    "t": "euestione",
+    "x": 0.2042,
+    "y": 0.1802,
+    "w": 0.0276,
+    "h": 0.0029
+   },
+   {
+    "t": "Membership",
+    "x": 0.6856,
+    "y": 0.1802,
+    "w": 0.0292,
+    "h": 0.0073
+   },
+   {
+    "t": "Loga",
+    "x": 0.6726,
+    "y": 0.1991,
+    "w": 0.0113,
+    "h": 0.0073
+   },
+   {
+    "t": "Social media Marketen",
+    "x": 0.2042,
+    "y": 0.2017,
+    "w": 0.0567,
+    "h": 0.0032
+   },
+   {
+    "t": "Residency",
+    "x": 0.4344,
+    "y": 0.2078,
+    "w": 0.0178,
+    "h": 0.0058
+   },
+   {
+    "t": "started Cording",
+    "x": 0.6726,
+    "y": 0.2078,
+    "w": 0.0357,
+    "h": 0.0073
+   },
+   {
+    "t": "Jess Teder",
+    "x": 0.6726,
+    "y": 0.2179,
+    "w": 0.0211,
+    "h": 0.0075
+   },
+   {
+    "t": "Marketing Assistant Interview Question",
+    "x": 0.2042,
+    "y": 0.2235,
+    "w": 0.0989,
+    "h": 0.0047
+   },
+   {
+    "t": "Marketing Communications Manage",
+    "x": 0.2042,
+    "y": 0.2453,
+    "w": 0.0924,
+    "h": 0.0047
+   },
+   {
+    "t": "intomer Guestions",
+    "x": 0.2042,
+    "y": 0.2528,
+    "w": 0.0519,
+    "h": 0.0031
+   },
+   {
+    "t": "Postit Summary",
+    "x": 0.2042,
+    "y": 0.2746,
+    "w": 0.047,
+    "h": 0.0031
+   },
+   {
+    "t": "In-House Marketer vs. Agency Marketer",
+    "x": 0.2042,
+    "y": 0.2951,
+    "w": 0.0989,
+    "h": 0.0076
+   },
+   {
+    "t": "What are an in-House Marketer's",
+    "x": 0.2042,
+    "y": 0.3169,
+    "w": 0.0843,
+    "h": 0.0075
+   },
+   {
+    "t": "responsibilities?",
+    "x": 0.2042,
+    "y": 0.3241,
+    "w": 0.0438,
+    "h": 0.0073
+   },
+   {
+    "t": "What are an Agency Marketer's",
+    "x": 0.2058,
+    "y": 0.343,
+    "w": 0.0794,
+    "h": 0.0075
+   },
+   {
+    "t": "responsibilities?",
+    "x": 0.2042,
+    "y": 0.3517,
+    "w": 0.0421,
+    "h": 0.0044
+   },
+   {
+    "t": "Marketing soodaratons",
+    "x": 0.2042,
+    "y": 0.3735,
+    "w": 0.0648,
+    "h": 0.0032
+   },
+   {
+    "t": "Whet i the most emit morone camen of proset you come did? What made it palone",
+    "x": 0.4246,
+    "y": 0.3792,
+    "w": 0.1929,
+    "h": 0.0031
+   },
+   {
+    "t": "How do become a marketer?",
+    "x": 0.2042,
+    "y": 0.3966,
+    "w": 0.0762,
+    "h": 0.0031
+   },
+   {
+    "t": "in MeN oce",
+    "x": 0.2042,
+    "y": 0.4201,
+    "w": 0.0454,
+    "h": 0.0029
+   },
+   {
+    "t": "How to ancies",
+    "x": 0.436,
+    "y": 0.4201,
+    "w": 0.034,
+    "h": 0.0029
+   },
+   {
+    "t": "The nower would to to dia despat into your the anest of insanet",
+    "x": 0.4198,
+    "y": 0.4315,
+    "w": 0.1248,
+    "h": 0.0045
+   },
+   {
+    "t": "\"I recendy corpleted a carpaign for a non proft orgarization. Th",
+    "x": 0.5656,
+    "y": 0.4315,
+    "w": 0.1183,
+    "h": 0.0062
+   },
+   {
+    "t": "hon it comes to the host care industry They watt to know that you!",
+    "x": 0.4198,
+    "y": 0.439,
+    "w": 0.1232,
+    "h": 0.0044
+   },
+   {
+    "t": "project was a unique chafenge because the clere. was incredibly open to",
+    "x": 0.5656,
+    "y": 0.439,
+    "w": 0.1297,
+    "h": 0.0044
+   },
+   {
+    "t": "What should I wear for my interview?",
+    "x": 0.2042,
+    "y": 0.4419,
+    "w": 0.0924,
+    "h": 0.0046
+   },
+   {
+    "t": "Fresh more med but they da bit beened the focused co soo",
+    "x": 0.5656,
+    "y": 0.4477,
+    "w": 0.128,
+    "h": 0.0031
+   },
+   {
+    "t": "What is the career path of a marketing",
+    "x": 0.2058,
+    "y": 0.462,
+    "w": 0.0956,
+    "h": 0.0075
+   },
+   {
+    "t": "and then to that intoubon in with whut the potson at Unbid Hosts",
+    "x": 0.4198,
+    "y": 0.462,
+    "w": 0.1232,
+    "h": 0.0031
+   },
+   {
+    "t": "euged mick-intence sageted by she audience and much loved",
+    "x": 0.5656,
+    "y": 0.462,
+    "w": 0.1264,
+    "h": 0.0031
+   },
+   {
+    "t": "this particular project because caused me to elevate any creativity",
+    "x": 0.564,
+    "y": 0.468,
+    "w": 0.1199,
+    "h": 0.0046
+   },
+   {
+    "t": "professional?",
+    "x": 0.2042,
+    "y": 0.4695,
+    "w": 0.0373,
+    "h": 0.0073
+   },
+   {
+    "t": "Group would be client yo",
+    "x": 0.4182,
+    "y": 0.4695,
+    "w": 0.0519,
+    "h": 0.0031
+   },
+   {
+    "t": "-tartaring on ensessive paid elons\"",
+    "x": 0.5656,
+    "y": 0.4738,
+    "w": 0.0762,
+    "h": 0.0075
+   },
+   {
+    "t": "Mobile (375px)",
+    "x": 0.1799,
+    "y": 0.5131,
+    "w": 0.0956,
+    "h": 0.0131
+   },
+   {
+    "t": "Search",
+    "x": 0.5137,
+    "y": 0.5478,
+    "w": 0.0374,
+    "h": 0.0091
+   },
+   {
+    "t": "Dropdown Mobile",
+    "x": 0.2998,
+    "y": 0.5479,
+    "w": 0.0908,
+    "h": 0.0102
+   },
+   {
+    "t": "What is the most creative marketing",
+    "x": 0.3274,
+    "y": 0.5785,
+    "w": 0.1151,
+    "h": 0.0075
+   },
+   {
+    "t": "campaign or project you completed?",
+    "x": 0.3274,
+    "y": 0.5884,
+    "w": 0.1199,
+    "h": 0.0075
+   },
+   {
+    "t": "What made it unique?",
+    "x": 0.3274,
+    "y": 0.5971,
+    "w": 0.0729,
+    "h": 0.009
+   },
+   {
+    "t": "Q",
+    "x": 0.5316,
+    "y": 0.6003,
+    "w": 0.0097,
+    "h": 0.0087
+   },
+   {
+    "t": "Search for your interview",
+    "x": 0.5446,
+    "y": 0.6015,
+    "w": 0.0827,
+    "h": 0.0075
+   },
+   {
+    "t": "What is the most creative marketing",
+    "x": 0.3274,
+    "y": 0.632,
+    "w": 0.1151,
+    "h": 0.0075
+   },
+   {
+    "t": "Find Your Interview",
+    "x": 0.5786,
+    "y": 0.632,
+    "w": 0.0551,
+    "h": 0.0075
+   },
+   {
+    "t": "campaign or project you completed?",
+    "x": 0.3274,
+    "y": 0.6424,
+    "w": 0.1183,
+    "h": 0.0073
+   },
+   {
+    "t": "What made it unique?",
+    "x": 0.3274,
+    "y": 0.6526,
+    "w": 0.0729,
+    "h": 0.0075
+   },
+   {
+    "t": "Careers",
+    "x": 0.6061,
+    "y": 0.664,
+    "w": 0.0326,
+    "h": 0.0091
+   },
+   {
+    "t": "How to Answer",
+    "x": 0.3404,
+    "y": 0.6831,
+    "w": 0.0567,
+    "h": 0.0075
+   },
+   {
+    "t": "The interviewer would like to dig deeper",
+    "x": 0.3144,
+    "y": 0.7035,
+    "w": 0.1297,
+    "h": 0.0088
+   },
+   {
+    "t": "into your true areas of interest when it",
+    "x": 0.3144,
+    "y": 0.7136,
+    "w": 0.1232,
+    "h": 0.0075
+   },
+   {
+    "t": "comes to the health care industry. They want",
+    "x": 0.3144,
+    "y": 0.7235,
+    "w": 0.1426,
+    "h": 0.0076
+   },
+   {
+    "t": "to know that your passions align well with",
+    "x": 0.3144,
+    "y": 0.7323,
+    "w": 0.1329,
+    "h": 0.0076
+   },
+   {
+    "t": "what United Health Group is offering. Talk to",
+    "x": 0.3144,
+    "y": 0.741,
+    "w": 0.141,
+    "h": 0.009
+   },
+   {
+    "t": "the interviewer about the areas of health",
+    "x": 0.3144,
+    "y": 0.7515,
+    "w": 0.1297,
+    "h": 0.0076
+   },
+   {
+    "t": "care you would like to focus on most, and",
+    "x": 0.3144,
+    "y": 0.7615,
+    "w": 0.1329,
+    "h": 0.0075
+   },
+   {
+    "t": "then tie that information in with what the",
+    "x": 0.3144,
+    "y": 0.7718,
+    "w": 0.1297,
+    "h": 0.0073
+   },
+   {
+    "t": "position at United Health Group would be",
+    "x": 0.3144,
+    "y": 0.7805,
+    "w": 0.1345,
+    "h": 0.009
+   },
+   {
+    "t": "offering you.",
+    "x": 0.3144,
+    "y": 0.7907,
+    "w": 0.0421,
+    "h": 0.0076
+   },
+   {
+    "t": "View our example Answer",
+    "x": 0.3404,
+    "y": 0.8299,
+    "w": 0.0956,
+    "h": 0.0088
+   },
+   {
+    "t": "*I recently completed a campaign for a",
+    "x": 0.3144,
+    "y": 0.8503,
+    "w": 0.1248,
+    "h": 0.009
+   },
+   {
+    "t": "non-profit organization. This project was a",
+    "x": 0.3144,
+    "y": 0.8605,
+    "w": 0.1345,
+    "h": 0.0075
+   },
+   {
+    "t": "unique challenge because the client was",
+    "x": 0.3144,
+    "y": 0.8692,
+    "w": 0.1297,
+    "h": 0.0088
+   },
+   {
+    "t": "incredibly open to fresh marketing ideas,",
+    "x": 0.3144,
+    "y": 0.8792,
+    "w": 0.1313,
+    "h": 0.0075
+   },
+   {
+    "t": "but they had a tight budget. We focused on",
+    "x": 0.3144,
+    "y": 0.8879,
+    "w": 0.1394,
+    "h": 0.0089
+   },
+   {
+    "t": "social sharing to gain organic momentum",
+    "x": 0.3144,
+    "y": 0.8983,
+    "w": 0.1329,
+    "h": 0.009
+   },
+   {
+    "t": "Residency",
+    "x": 0.5867,
+    "y": 0.8983,
+    "w": 0.0405,
+    "h": 0.0102
+   },
+   {
+    "t": "without the use of paid ads. We also",
+    "x": 0.3144,
+    "y": 0.9084,
+    "w": 0.1167,
+    "h": 0.0075
+   },
+   {
+    "t": "AllCareers A-Z",
+    "x": 0.5802,
+    "y": 0.9171,
+    "w": 0.0535,
+    "h": 0.0089
+   },
+   {
+    "t": "engaged micro-influencers targeted by their",
+    "x": 0.3144,
+    "y": 0.9184,
+    "w": 0.1426,
+    "h": 0.0075
+   },
+   {
+    "t": "audience and reach. I loved this particular",
+    "x": 0.3144,
+    "y": 0.9271,
+    "w": 0.1329,
+    "h": 0.0075
+   },
+   {
+    "t": "project because it caused me to elevate my",
+    "x": 0.3144,
+    "y": 0.9375,
+    "w": 0.1394,
+    "h": 0.0073
+   },
+   {
+    "t": "creativity without leaning on extensive paid",
+    "x": 0.3144,
+    "y": 0.9477,
+    "w": 0.1394,
+    "h": 0.0075
+   },
+   {
+    "t": "Companies",
+    "x": 0.5981,
+    "y": 0.9506,
+    "w": 0.0486,
+    "h": 0.0087
+   },
+   {
+    "t": "efforts.\"",
+    "x": 0.3144,
+    "y": 0.9564,
+    "w": 0.0292,
+    "h": 0.0073
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "file": "b23.jpg",
+  "y0": 10752,
+  "y1": 10857,
+  "h": 105,
+  "color": 0.0,
+  "density": 0.038,
+  "lines": [
+   {
+    "t": "Final Design",
+    "x": 0.1526,
+    "y": 0.1146,
+    "w": 0.0975,
+    "h": 0.2609
+   },
+   {
+    "t": "Homepage",
+    "x": 0.1509,
+    "y": 0.6923,
+    "w": 0.0892,
+    "h": 0.2336
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "file": "b24.jpg",
+  "y0": 10888,
+  "y1": 11377,
+  "h": 489,
+  "color": 6.28,
+  "density": 0.408,
+  "lines": [
+   {
+    "t": "MockQuestions",
+    "x": 0.3116,
+    "y": 0.0667,
+    "w": 0.0623,
+    "h": 0.025
+   },
+   {
+    "t": "Job-Winning",
+    "x": 0.2875,
+    "y": 0.2369,
+    "w": 0.0978,
+    "h": 0.0511
+   },
+   {
+    "t": "Mathew Wade",
+    "x": 0.5312,
+    "y": 0.2792,
+    "w": 0.0425,
+    "h": 0.0208
+   },
+   {
+    "t": "Interview Answers",
+    "x": 0.2875,
+    "y": 0.2958,
+    "w": 0.1388,
+    "h": 0.0458
+   },
+   {
+    "t": "Professional answers and coaching to win your next",
+    "x": 0.2875,
+    "y": 0.375,
+    "w": 0.1459,
+    "h": 0.025
+   },
+   {
+    "t": "interview.",
+    "x": 0.2875,
+    "y": 0.4083,
+    "w": 0.0312,
+    "h": 0.0208
+   },
+   {
+    "t": "Find Your Interviow",
+    "x": 0.4051,
+    "y": 0.5163,
+    "w": 0.0467,
+    "h": 0.0212
+   },
+   {
+    "t": "Search",
+    "x": 0.3088,
+    "y": 0.5167,
+    "w": 0.0227,
+    "h": 0.0208
+   },
+   {
+    "t": "The intro section of the homepage acts as a hero section that directly conveys the platform's main value: providing effective",
+    "x": 0.153,
+    "y": 0.8667,
+    "w": 0.6501,
+    "h": 0.0375
+   },
+   {
+    "t": "interview answers and coaching. With a strong headline, professional illustrations, and a prominent search bar, this section",
+    "x": 0.1516,
+    "y": 0.9082,
+    "w": 0.6431,
+    "h": 0.0377
+   },
+   {
+    "t": "encourages users to immediately search for interview content that suits their needs.",
+    "x": 0.153,
+    "y": 0.9449,
+    "w": 0.4433,
+    "h": 0.0347
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "file": "b25.jpg",
+  "y0": 11513,
+  "y1": 12191,
+  "h": 678,
+  "color": 3.37,
+  "density": 0.331,
+  "lines": [
+   {
+    "t": "We've Got Every",
+    "x": 0.3314,
+    "y": 0.1018,
+    "w": 0.1017,
+    "h": 0.031
+   },
+   {
+    "t": "order to make sure there is nothing that wit ever stumo you. No matte",
+    "x": 0.4738,
+    "y": 0.1204,
+    "w": 0.1541,
+    "h": 0.0094
+   },
+   {
+    "t": "Profession Covered",
+    "x": 0.3328,
+    "y": 0.1357,
+    "w": 0.1163,
+    "h": 0.028
+   },
+   {
+    "t": "what level, No matter what job Vie ve gos you coverect",
+    "x": 0.4738,
+    "y": 0.1416,
+    "w": 0.1206,
+    "h": 0.0103
+   },
+   {
+    "t": "Marketer",
+    "x": 0.6134,
+    "y": 0.2623,
+    "w": 0.0233,
+    "h": 0.0123
+   },
+   {
+    "t": "surane",
+    "x": 0.3648,
+    "y": 0.2685,
+    "w": 0.0189,
+    "h": 0.0062
+   },
+   {
+    "t": "36800",
+    "x": 0.4491,
+    "y": 0.2685,
+    "w": 0.0174,
+    "h": 0.0062
+   },
+   {
+    "t": "H you could espand your knowindge and",
+    "x": 0.3561,
+    "y": 0.382,
+    "w": 0.077,
+    "h": 0.0074
+   },
+   {
+    "t": "mitice a ane mes o the hasta olvi",
+    "x": 0.3561,
+    "y": 0.3951,
+    "w": 0.0727,
+    "h": 0.0062
+   },
+   {
+    "t": "+ How to Arume",
+    "x": 0.4869,
+    "y": 0.413,
+    "w": 0.032,
+    "h": 0.0162
+   },
+   {
+    "t": "et the mement!",
+    "x": 0.3561,
+    "y": 0.4749,
+    "w": 0.032,
+    "h": 0.0133
+   },
+   {
+    "t": "Leoling back at your previous educatise.",
+    "x": 0.3561,
+    "y": 0.5428,
+    "w": 0.0785,
+    "h": 0.0162
+   },
+   {
+    "t": "whih rin da von h\u1ee7 moy tha t\u01a1ng",
+    "x": 0.3576,
+    "y": 0.5617,
+    "w": 0.077,
+    "h": 0.0062
+   },
+   {
+    "t": "and wty?",
+    "x": 0.3561,
+    "y": 0.5708,
+    "w": 0.0218,
+    "h": 0.0125
+   },
+   {
+    "t": "westamene data massnament to",
+    "x": 0.3561,
+    "y": 0.6296,
+    "w": 0.0814,
+    "h": 0.0062
+   },
+   {
+    "t": "See mere intentow quartose \u2192",
+    "x": 0.4797,
+    "y": 0.6475,
+    "w": 0.064,
+    "h": 0.0133
+   },
+   {
+    "t": "Whet is your forke date mansgreen tost",
+    "x": 0.3561,
+    "y": 0.7094,
+    "w": 0.0828,
+    "h": 0.0221
+   },
+   {
+    "t": "This section introduces the wide range of professions available on the platform, displayed through category cards such as Nursing,",
+    "x": 0.1526,
+    "y": 0.8053,
+    "w": 0.689,
+    "h": 0.028
+   },
+   {
+    "t": "Teacher, Accounting, and Marketer. Below that, there are previews of interview questions and sample answers in an interactive",
+    "x": 0.1526,
+    "y": 0.8333,
+    "w": 0.6657,
+    "h": 0.028
+   },
+   {
+    "t": "butor. This provides a irect oveniew of the content otered and ancourages usar\u00f3 to explore nore tiough a cear al to acion",
+    "x": 0.15,
+    "y": 0.8407,
+    "w": 0.6875,
+    "h": 0.0796
+   },
+   {
+    "t": "Interview Experts",
+    "x": 0.1512,
+    "y": 0.9506,
+    "w": 0.1424,
+    "h": 0.0376
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "file": "b26.jpg",
+  "y0": 12222,
+  "y1": 12673,
+  "h": 451,
+  "color": 1.17,
+  "density": 0.4,
+  "lines": [
+   {
+    "t": "Trust Our Interview Experts",
+    "x": 0.3895,
+    "y": 0.0833,
+    "w": 0.2209,
+    "h": 0.0605
+   },
+   {
+    "t": "Get interview advice from hiring managers directly.",
+    "x": 0.423,
+    "y": 0.1759,
+    "w": 0.1541,
+    "h": 0.0232
+   },
+   {
+    "t": "Justin Vaccaro",
+    "x": 0.3067,
+    "y": 0.458,
+    "w": 0.0451,
+    "h": 0.0243
+   },
+   {
+    "t": "Justin Vaccaro",
+    "x": 0.4215,
+    "y": 0.458,
+    "w": 0.0451,
+    "h": 0.0243
+   },
+   {
+    "t": "Justin Vaccaro",
+    "x": 0.5349,
+    "y": 0.458,
+    "w": 0.0451,
+    "h": 0.0243
+   },
+   {
+    "t": "Justin Vaccaro",
+    "x": 0.6483,
+    "y": 0.458,
+    "w": 0.0451,
+    "h": 0.0243
+   },
+   {
+    "t": "Catar fauntun noisema",
+    "x": 0.2965,
+    "y": 0.5509,
+    "w": 0.0567,
+    "h": 0.0093
+   },
+   {
+    "t": "and salinis nai samn",
+    "x": 0.5247,
+    "y": 0.5509,
+    "w": 0.0581,
+    "h": 0.0093
+   },
+   {
+    "t": "This section features a list of experts who contributed to the compilation of interview answers. Displayed in the form of profile cards",
+    "x": 0.1526,
+    "y": 0.75,
+    "w": 0.6948,
+    "h": 0.042
+   },
+   {
+    "t": "complete with names and job titles, this section builds trust by showing that the content comes from experienced professionals who",
+    "x": 0.1526,
+    "y": 0.7963,
+    "w": 0.6948,
+    "h": 0.0422
+   },
+   {
+    "t": "understand the recruitment process firsthand.",
+    "x": 0.1526,
+    "y": 0.838,
+    "w": 0.2442,
+    "h": 0.037
+   },
+   {
+    "t": "Our Directory",
+    "x": 0.1525,
+    "y": 0.9286,
+    "w": 0.1077,
+    "h": 0.0594
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "file": "b27.jpg",
+  "y0": 12705,
+  "y1": 13230,
+  "h": 525,
+  "color": 2.36,
+  "density": 0.417,
+  "lines": [
+   {
+    "t": "Our Directory",
+    "x": 0.4447,
+    "y": 0.0948,
+    "w": 0.1105,
+    "h": 0.0525
+   },
+   {
+    "t": "Get interview advice from hiring managers directly.",
+    "x": 0.423,
+    "y": 0.1706,
+    "w": 0.1541,
+    "h": 0.0238
+   },
+   {
+    "t": "Topia",
+    "x": 0.4186,
+    "y": 0.246,
+    "w": 0.016,
+    "h": 0.0198
+   },
+   {
+    "t": "Adaptability",
+    "x": 0.4781,
+    "y": 0.4079,
+    "w": 0.0452,
+    "h": 0.0254
+   },
+   {
+    "t": "Ask the Interviewer",
+    "x": 0.6177,
+    "y": 0.4087,
+    "w": 0.0698,
+    "h": 0.0247
+   },
+   {
+    "t": "Accomplishment",
+    "x": 0.3183,
+    "y": 0.4127,
+    "w": 0.061,
+    "h": 0.0198
+   },
+   {
+    "t": "15",
+    "x": 0.2951,
+    "y": 0.4722,
+    "w": 0.0116,
+    "h": 0.0198
+   },
+   {
+    "t": "105",
+    "x": 0.3401,
+    "y": 0.4722,
+    "w": 0.016,
+    "h": 0.0198
+   },
+   {
+    "t": "25",
+    "x": 0.3881,
+    "y": 0.4722,
+    "w": 0.0116,
+    "h": 0.0198
+   },
+   {
+    "t": "15",
+    "x": 0.4462,
+    "y": 0.4722,
+    "w": 0.0131,
+    "h": 0.0198
+   },
+   {
+    "t": "105",
+    "x": 0.4913,
+    "y": 0.4722,
+    "w": 0.016,
+    "h": 0.0198
+   },
+   {
+    "t": "25",
+    "x": 0.5407,
+    "y": 0.4722,
+    "w": 0.0116,
+    "h": 0.0198
+   },
+   {
+    "t": "15",
+    "x": 0.5988,
+    "y": 0.4722,
+    "w": 0.0116,
+    "h": 0.0198
+   },
+   {
+    "t": "105",
+    "x": 0.6439,
+    "y": 0.4722,
+    "w": 0.016,
+    "h": 0.0198
+   },
+   {
+    "t": "25",
+    "x": 0.6919,
+    "y": 0.4722,
+    "w": 0.0116,
+    "h": 0.0198
+   },
+   {
+    "t": "O Sta",
+    "x": 0.3387,
+    "y": 0.5551,
+    "w": 0.0189,
+    "h": 0.0209
+   },
+   {
+    "t": "\u00a9 start",
+    "x": 0.6424,
+    "y": 0.5551,
+    "w": 0.0189,
+    "h": 0.0171
+   },
+   {
+    "t": "The directory section makes it easy for users to search for interview questions based on relevant filters such as topic, career,",
+    "x": 0.1526,
+    "y": 0.7852,
+    "w": 0.6584,
+    "h": 0.0363
+   },
+   {
+    "t": "category, and educational institution. Enhanced with example categories like \"Accomplishment\" and \"Adaptability\" users can see the",
+    "x": 0.1526,
+    "y": 0.8167,
+    "w": 0.6948,
+    "h": 0.0432
+   },
+   {
+    "t": "number of questions available, making the exploration experience more structured and personalized.",
+    "x": 0.1526,
+    "y": 0.8571,
+    "w": 0.5291,
+    "h": 0.0364
+   },
+   {
+    "t": "Testimonial",
+    "x": 0.1509,
+    "y": 0.925,
+    "w": 0.0964,
+    "h": 0.0587
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "file": "b28.jpg",
+  "y0": 13262,
+  "y1": 13818,
+  "h": 556,
+  "color": 4.37,
+  "density": 0.415,
+  "lines": [
+   {
+    "t": "Hear what our",
+    "x": 0.5407,
+    "y": 0.1691,
+    "w": 0.1148,
+    "h": 0.0415
+   },
+   {
+    "t": "customers have to say",
+    "x": 0.5391,
+    "y": 0.2213,
+    "w": 0.1792,
+    "h": 0.0536
+   },
+   {
+    "t": "Don't Belove mo",
+    "x": 0.423,
+    "y": 0.2248,
+    "w": 0.0378,
+    "h": 0.009
+   },
+   {
+    "t": "Chock Client Says",
+    "x": 0.423,
+    "y": 0.2406,
+    "w": 0.048,
+    "h": 0.0188
+   },
+   {
+    "t": "66",
+    "x": 0.6948,
+    "y": 0.3383,
+    "w": 0.0189,
+    "h": 0.0338
+   },
+   {
+    "t": "Justin Vaccaro",
+    "x": 0.5392,
+    "y": 0.3489,
+    "w": 0.0451,
+    "h": 0.0198
+   },
+   {
+    "t": "Doner enim tortor, hendrecit nec auctor strices, egestar vitae nibh. Cras volutpat odia",
+    "x": 0.5102,
+    "y": 0.4245,
+    "w": 0.1948,
+    "h": 0.0198
+   },
+   {
+    "t": "vite leo doctor, ut fauc bus nisi semper. Nulla sit amet suque nibhi Nune corallis",
+    "x": 0.5087,
+    "y": 0.4474,
+    "w": 0.186,
+    "h": 0.0188
+   },
+   {
+    "t": "vulputato libero nec malesuada",
+    "x": 0.5102,
+    "y": 0.473,
+    "w": 0.0727,
+    "h": 0.0162
+   },
+   {
+    "t": "The testimonial section presents direct reviews from users who have experienced the benefits of the platform. With a combination",
+    "x": 0.1526,
+    "y": 0.7968,
+    "w": 0.6846,
+    "h": 0.0306
+   },
+   {
+    "t": "of expressive visuals and short quotes, this section serves as social validation to increase new users' trust in the credibility and",
+    "x": 0.1526,
+    "y": 0.8308,
+    "w": 0.6672,
+    "h": 0.0343
+   },
+   {
+    "t": "quality of the service.",
+    "x": 0.1512,
+    "y": 0.8647,
+    "w": 0.1163,
+    "h": 0.0382
+   },
+   {
+    "t": "Our Statistics",
+    "x": 0.1526,
+    "y": 0.9398,
+    "w": 0.109,
+    "h": 0.0422
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "file": "b29.jpg",
+  "y0": 13849,
+  "y1": 14296,
+  "h": 447,
+  "color": 1.49,
+  "density": 0.391,
+  "lines": [
+   {
+    "t": "Our Statistics",
+    "x": 0.2747,
+    "y": 0.2383,
+    "w": 0.1061,
+    "h": 0.0519
+   },
+   {
+    "t": "350",
+    "x": 0.5465,
+    "y": 0.243,
+    "w": 0.0218,
+    "h": 0.028
+   },
+   {
+    "t": "200",
+    "x": 0.6584,
+    "y": 0.243,
+    "w": 0.0233,
+    "h": 0.0327
+   },
+   {
+    "t": "HAPPY CLIENTS",
+    "x": 0.6526,
+    "y": 0.2897,
+    "w": 0.0363,
+    "h": 0.0187
+   },
+   {
+    "t": "Donec enim tortor, hendrerit nec auctor ultrices, egestas vitae",
+    "x": 0.2747,
+    "y": 0.3318,
+    "w": 0.1846,
+    "h": 0.0234
+   },
+   {
+    "t": "nibh. Cras volutpat odio vitae leo auctor, ut faucibus nisi",
+    "x": 0.2733,
+    "y": 0.3683,
+    "w": 0.1701,
+    "h": 0.0246
+   },
+   {
+    "t": "semper. Nulla sit amet augue nibh. Nunc convallis vulputate",
+    "x": 0.2733,
+    "y": 0.4062,
+    "w": 0.1817,
+    "h": 0.029
+   },
+   {
+    "t": "1000",
+    "x": 0.6555,
+    "y": 0.481,
+    "w": 0.0306,
+    "h": 0.0287
+   },
+   {
+    "t": "40",
+    "x": 0.5494,
+    "y": 0.4813,
+    "w": 0.0145,
+    "h": 0.028
+   },
+   {
+    "t": "AWARDS RECENED",
+    "x": 0.5349,
+    "y": 0.528,
+    "w": 0.0436,
+    "h": 0.0188
+   },
+   {
+    "t": "LINES OF CODE",
+    "x": 0.6512,
+    "y": 0.528,
+    "w": 0.0378,
+    "h": 0.0234
+   },
+   {
+    "t": "The statistics section shows the platform's achievements quantitatively, such as the number of projects completed, the number of",
+    "x": 0.1526,
+    "y": 0.7522,
+    "w": 0.6846,
+    "h": 0.0424
+   },
+   {
+    "t": "satisfied clients, and the number of answers provided. This information is presented visually to reinforce the platform's professional",
+    "x": 0.1526,
+    "y": 0.7944,
+    "w": 0.6904,
+    "h": 0.0427
+   },
+   {
+    "t": "and trustworthy image.",
+    "x": 0.1526,
+    "y": 0.8364,
+    "w": 0.1235,
+    "h": 0.0374
+   },
+   {
+    "t": "Footer",
+    "x": 0.1512,
+    "y": 0.9299,
+    "w": 0.0538,
+    "h": 0.0514
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "file": "b30.jpg",
+  "y0": 14328,
+  "y1": 14556,
+  "h": 228,
+  "color": 0.83,
+  "density": 0.029,
+  "lines": [
+   {
+    "t": "MockQuestions",
+    "x": 0.4767,
+    "y": 0.2661,
+    "w": 0.0741,
+    "h": 0.0642
+   },
+   {
+    "t": "All interview questions are created by MockQuestions com and are not ofticial interview",
+    "x": 0.3692,
+    "y": 0.4386,
+    "w": 0.2587,
+    "h": 0.0307
+   },
+   {
+    "t": "questions for any organization listed on MockQuestions.com.",
+    "x": 0.4099,
+    "y": 0.5044,
+    "w": 0.1802,
+    "h": 0.057
+   },
+   {
+    "t": "Contact",
+    "x": 0.5755,
+    "y": 0.6767,
+    "w": 0.0278,
+    "h": 0.0503
+   },
+   {
+    "t": "About",
+    "x": 0.3983,
+    "y": 0.6789,
+    "w": 0.0203,
+    "h": 0.0459
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.4288,
+    "y": 0.6789,
+    "w": 0.0451,
+    "h": 0.0459
+   },
+   {
+    "t": "Terms of Use",
+    "x": 0.4855,
+    "y": 0.6789,
+    "w": 0.0422,
+    "h": 0.0459
+   },
+   {
+    "t": "Sitemap",
+    "x": 0.5378,
+    "y": 0.6789,
+    "w": 0.0276,
+    "h": 0.0459
+   },
+   {
+    "t": "\u00a9 2008 - 2021 Mock Questions LLC",
+    "x": 0.4477,
+    "y": 0.8991,
+    "w": 0.1032,
+    "h": 0.0459
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "file": "b31.jpg",
+  "y0": 14586,
+  "y1": 14692,
+  "h": 106,
+  "color": 0.19,
+  "density": 0.207,
+  "lines": [
+   {
+    "t": "The footer provides additional navigation information such as About, Privacy Policy, and Sitemap. This section neatly concludes the",
+    "x": 0.1526,
+    "y": 0.1132,
+    "w": 0.689,
+    "h": 0.1809
+   },
+   {
+    "t": "page while offering quick access to important information regarding the platform's structure, legal aspects, and usage policies.",
+    "x": 0.1526,
+    "y": 0.2925,
+    "w": 0.6657,
+    "h": 0.1792
+   },
+   {
+    "t": "Pop up Search Bar",
+    "x": 0.1512,
+    "y": 0.6863,
+    "w": 0.1497,
+    "h": 0.2571
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "file": "b32.jpg",
+  "y0": 14723,
+  "y1": 15569,
+  "h": 846,
+  "color": 5.97,
+  "density": 0.423,
+  "lines": [
+   {
+    "t": "MockQuestions",
+    "x": 0.311,
+    "y": 0.0371,
+    "w": 0.0625,
+    "h": 0.0149
+   },
+   {
+    "t": "Q Search for yout intenden",
+    "x": 0.3067,
+    "y": 0.1015,
+    "w": 0.0828,
+    "h": 0.0149
+   },
+   {
+    "t": "Careers",
+    "x": 0.327,
+    "y": 0.151,
+    "w": 0.0233,
+    "h": 0.0149
+   },
+   {
+    "t": "\u2022 Companie",
+    "x": 0.4012,
+    "y": 0.151,
+    "w": 0.0349,
+    "h": 0.0149
+   },
+   {
+    "t": "Topic:",
+    "x": 0.5,
+    "y": 0.151,
+    "w": 0.0116,
+    "h": 0.0149
+   },
+   {
+    "t": "Featured Articles",
+    "x": 0.5828,
+    "y": 0.151,
+    "w": 0.0363,
+    "h": 0.0149
+   },
+   {
+    "t": "Nursing",
+    "x": 0.3285,
+    "y": 0.6832,
+    "w": 0.0247,
+    "h": 0.0124
+   },
+   {
+    "t": "This page is a pop up navigation that appears after users click on the search bar on the homepage. The main purpose of this pop up",
+    "x": 0.1526,
+    "y": 0.7742,
+    "w": 0.6933,
+    "h": 0.0228
+   },
+   {
+    "t": "is to facilitate quick and structured exploration of interview content. At the top, there is a prominent search bar to help users find",
+    "x": 0.1512,
+    "y": 0.7967,
+    "w": 0.6759,
+    "h": 0.0226
+   },
+   {
+    "t": "specific interview questions. Below that, the content is grouped into four categories: Careers, Companies, Topics, and Featured",
+    "x": 0.1526,
+    "y": 0.8191,
+    "w": 0.6686,
+    "h": 0.0249
+   },
+   {
+    "t": "Articles. Each category presents a comprehensive list, such as popular professions (e.g., Nursing or Project Manager), major",
+    "x": 0.1526,
+    "y": 0.8416,
+    "w": 0.6526,
+    "h": 0.0248
+   },
+   {
+    "t": "companies (e.g., Google and Amazon), and specific interview topics (Leadership, Communication, etc.). On the right side, the",
+    "x": 0.1526,
+    "y": 0.8639,
+    "w": 0.657,
+    "h": 0.025
+   },
+   {
+    "t": "Featured Articles and Membership sections provide access to articles and login or coaching features. This pop up allows users to",
+    "x": 0.1526,
+    "y": 0.8861,
+    "w": 0.6788,
+    "h": 0.0228
+   },
+   {
+    "t": "find content quickly without having to switch pages, improving overall navigation efficiency.",
+    "x": 0.1526,
+    "y": 0.9109,
+    "w": 0.4826,
+    "h": 0.0223
+   },
+   {
+    "t": "Career Page",
+    "x": 0.1525,
+    "y": 0.9593,
+    "w": 0.0991,
+    "h": 0.0344
+   }
+  ]
+ },
+ {
+  "i": 33,
+  "file": "b33.jpg",
+  "y0": 15600,
+  "y1": 16345,
+  "h": 745,
+  "color": 2.26,
+  "density": 0.371,
+  "lines": [
+   {
+    "t": "MockQuestions",
+    "x": 0.3081,
+    "y": 0.042,
+    "w": 0.0654,
+    "h": 0.0168
+   },
+   {
+    "t": "Homepage / Career",
+    "x": 0.2878,
+    "y": 0.1032,
+    "w": 0.0509,
+    "h": 0.0147
+   },
+   {
+    "t": "\u2022 Search",
+    "x": 0.2965,
+    "y": 0.1568,
+    "w": 0.0349,
+    "h": 0.014
+   },
+   {
+    "t": "P Filter",
+    "x": 0.6134,
+    "y": 0.1568,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "Find laseriow",
+    "x": 0.6497,
+    "y": 0.1568,
+    "w": 0.0407,
+    "h": 0.014
+   },
+   {
+    "t": "!!!!!!!!!",
+    "x": 0.525,
+    "y": 0.216,
+    "w": 0.05,
+    "h": 0.48
+   },
+   {
+    "t": "ililiti",
+    "x": 0.4167,
+    "y": 0.224,
+    "w": 0.0542,
+    "h": 0.48
+   },
+   {
+    "t": "Interview Filter",
+    "x": 0.2936,
+    "y": 0.2265,
+    "w": 0.0523,
+    "h": 0.0147
+   },
+   {
+    "t": "Ask the Interviewer",
+    "x": 0.6279,
+    "y": 0.2319,
+    "w": 0.0654,
+    "h": 0.0147
+   },
+   {
+    "t": "nt",
+    "x": 0.468,
+    "y": 0.2353,
+    "w": 0.0087,
+    "h": 0.014
+   },
+   {
+    "t": "Carver",
+    "x": 0.2994,
+    "y": 0.2633,
+    "w": 0.0174,
+    "h": 0.014
+   },
+   {
+    "t": "\u00a9 Start Interview",
+    "x": 0.6381,
+    "y": 0.2969,
+    "w": 0.0451,
+    "h": 0.0141
+   },
+   {
+    "t": "CUNTOW",
+    "x": 0.3038,
+    "y": 0.2997,
+    "w": 0.0174,
+    "h": 0.0056
+   },
+   {
+    "t": "Computes",
+    "x": 0.3038,
+    "y": 0.3333,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "Cratite",
+    "x": 0.3052,
+    "y": 0.3529,
+    "w": 0.0203,
+    "h": 0.014
+   },
+   {
+    "t": "Common Interview",
+    "x": 0.6265,
+    "y": 0.3552,
+    "w": 0.0654,
+    "h": 0.0174
+   },
+   {
+    "t": "Education",
+    "x": 0.3038,
+    "y": 0.3725,
+    "w": 0.0218,
+    "h": 0.014
+   },
+   {
+    "t": "Questions",
+    "x": 0.6424,
+    "y": 0.381,
+    "w": 0.0349,
+    "h": 0.014
+   },
+   {
+    "t": "Ergncerno",
+    "x": 0.3038,
+    "y": 0.3922,
+    "w": 0.0276,
+    "h": 0.0168
+   },
+   {
+    "t": "Erosonnen",
+    "x": 0.3038,
+    "y": 0.4118,
+    "w": 0.0305,
+    "h": 0.014
+   },
+   {
+    "t": "O Start Interview",
+    "x": 0.6381,
+    "y": 0.4199,
+    "w": 0.0437,
+    "h": 0.0174
+   },
+   {
+    "t": "Pood",
+    "x": 0.3038,
+    "y": 0.4314,
+    "w": 0.0131,
+    "h": 0.014
+   },
+   {
+    "t": "Gorient",
+    "x": 0.3038,
+    "y": 0.451,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "Hashere",
+    "x": 0.3038,
+    "y": 0.4706,
+    "w": 0.0218,
+    "h": 0.0112
+   },
+   {
+    "t": "Companies",
+    "x": 0.2994,
+    "y": 0.5042,
+    "w": 0.0276,
+    "h": 0.014
+   },
+   {
+    "t": "Schools:",
+    "x": 0.2994,
+    "y": 0.5434,
+    "w": 0.0218,
+    "h": 0.0112
+   },
+   {
+    "t": "+",
+    "x": 0.3735,
+    "y": 0.5434,
+    "w": 0.0087,
+    "h": 0.014
+   },
+   {
+    "t": "Topics",
+    "x": 0.2994,
+    "y": 0.5798,
+    "w": 0.0174,
+    "h": 0.014
+   },
+   {
+    "t": "MockQuestions",
+    "x": 0.4797,
+    "y": 0.8095,
+    "w": 0.0625,
+    "h": 0.0168
+   },
+   {
+    "t": "All interview questions are created by MockGuestions, com anxi are not official interview",
+    "x": 0.3924,
+    "y": 0.8539,
+    "w": 0.2137,
+    "h": 0.0094
+   },
+   {
+    "t": "cunstions for any croanizatian listed on MackOucations com",
+    "x": 0.4244,
+    "y": 0.8739,
+    "w": 0.1497,
+    "h": 0.0084
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.4419,
+    "y": 0.9129,
+    "w": 0.0378,
+    "h": 0.0147
+   },
+   {
+    "t": "Terms of Use",
+    "x": 0.4869,
+    "y": 0.9129,
+    "w": 0.0349,
+    "h": 0.0147
+   },
+   {
+    "t": "About",
+    "x": 0.4157,
+    "y": 0.9132,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "Sitemap",
+    "x": 0.5305,
+    "y": 0.9132,
+    "w": 0.0233,
+    "h": 0.014
+   },
+   {
+    "t": "Contact",
+    "x": 0.5625,
+    "y": 0.9132,
+    "w": 0.0218,
+    "h": 0.014
+   },
+   {
+    "t": "\u00a9 2008 - 2021 Mack Curetions LIC",
+    "x": 0.4564,
+    "y": 0.9692,
+    "w": 0.0858,
+    "h": 0.014
+   }
+  ]
+ },
+ {
+  "i": 34,
+  "file": "b34.jpg",
+  "y0": 16372,
+  "y1": 16575,
+  "h": 203,
+  "color": 0.0,
+  "density": 0.292,
+  "lines": [
+   {
+    "t": "This page is the result of navigation after the user clicks on the Career category from the search pop up. The main focus of this",
+    "x": 0.1526,
+    "y": 0.0588,
+    "w": 0.6686,
+    "h": 0.0942
+   },
+   {
+    "t": "display is to present various types of interview questions based on topics in the selected career context. On the left side, there is an",
+    "x": 0.1526,
+    "y": 0.152,
+    "w": 0.6948,
+    "h": 0.0931
+   },
+   {
+    "t": "Interview Filter panel that allows users to narrow down results based on additional categories such as Companies, Schools, Topics,",
+    "x": 0.1526,
+    "y": 0.2549,
+    "w": 0.6875,
+    "h": 0.0931
+   },
+   {
+    "t": "and Industries. In the main section of the page, each card displays question topics such as Accomplishment, Adaptability, and",
+    "x": 0.1526,
+    "y": 0.3367,
+    "w": 0.6599,
+    "h": 0.0918
+   },
+   {
+    "t": "Customer Service, complete with the contributor's name and a \"Start Interview\" button to immediately begin the question and",
+    "x": 0.1526,
+    "y": 0.4265,
+    "w": 0.6613,
+    "h": 0.0939
+   },
+   {
+    "t": "answer session. This page provides a structured, flexible, and easy to navigate content exploration experience tailored to the user's",
+    "x": 0.1525,
+    "y": 0.5001,
+    "w": 0.692,
+    "h": 0.1345
+   },
+   {
+    "t": "needs.",
+    "x": 0.1526,
+    "y": 0.6224,
+    "w": 0.0378,
+    "h": 0.0816
+   },
+   {
+    "t": "Filter by Company",
+    "x": 0.1526,
+    "y": 0.8265,
+    "w": 0.1439,
+    "h": 0.1343
+   }
+  ]
+ },
+ {
+  "i": 35,
+  "file": "b35.jpg",
+  "y0": 16606,
+  "y1": 17513,
+  "h": 907,
+  "color": 1.9,
+  "density": 0.34,
+  "lines": [
+   {
+    "t": "MockQuestions",
+    "x": 0.3067,
+    "y": 0.0346,
+    "w": 0.0669,
+    "h": 0.0138
+   },
+   {
+    "t": "Q Search",
+    "x": 0.2965,
+    "y": 0.1289,
+    "w": 0.0349,
+    "h": 0.0121
+   },
+   {
+    "t": "P Filter",
+    "x": 0.6134,
+    "y": 0.1289,
+    "w": 0.0247,
+    "h": 0.0121
+   },
+   {
+    "t": "Featured Companies",
+    "x": 0.3953,
+    "y": 0.1773,
+    "w": 0.0712,
+    "h": 0.0143
+   },
+   {
+    "t": "Interview Filter",
+    "x": 0.2936,
+    "y": 0.1861,
+    "w": 0.0523,
+    "h": 0.0121
+   },
+   {
+    "t": "Amazon",
+    "x": 0.4317,
+    "y": 0.2166,
+    "w": 0.0305,
+    "h": 0.0115
+   },
+   {
+    "t": "American Express",
+    "x": 0.5233,
+    "y": 0.2166,
+    "w": 0.061,
+    "h": 0.0138
+   },
+   {
+    "t": "Facebook",
+    "x": 0.6424,
+    "y": 0.2166,
+    "w": 0.0349,
+    "h": 0.0115
+   },
+   {
+    "t": "1. Nas Vand",
+    "x": 0.532,
+    "y": 0.2419,
+    "w": 0.0422,
+    "h": 0.007
+   },
+   {
+    "t": "Sortware Eng naur",
+    "x": 0.4041,
+    "y": 0.2442,
+    "w": 0.0378,
+    "h": 0.0115
+   },
+   {
+    "t": "Sower Erginser",
+    "x": 0.6177,
+    "y": 0.2442,
+    "w": 0.0363,
+    "h": 0.0115
+   },
+   {
+    "t": "Companies",
+    "x": 0.2994,
+    "y": 0.2486,
+    "w": 0.0277,
+    "h": 0.0121
+   },
+   {
+    "t": "Is Deseloped",
+    "x": 0.4041,
+    "y": 0.2627,
+    "w": 0.0334,
+    "h": 0.0094
+   },
+   {
+    "t": "Ises Developer",
+    "x": 0.6177,
+    "y": 0.2627,
+    "w": 0.032,
+    "h": 0.0094
+   },
+   {
+    "t": "\u00a9 Start Interview",
+    "x": 0.532,
+    "y": 0.2696,
+    "w": 0.0451,
+    "h": 0.0115
+   },
+   {
+    "t": "Bose Manager",
+    "x": 0.4041,
+    "y": 0.2808,
+    "w": 0.0305,
+    "h": 0.0121
+   },
+   {
+    "t": "Product Murager",
+    "x": 0.6177,
+    "y": 0.2808,
+    "w": 0.0349,
+    "h": 0.0121
+   },
+   {
+    "t": "Conn",
+    "x": 0.3038,
+    "y": 0.2926,
+    "w": 0.016,
+    "h": 0.0046
+   },
+   {
+    "t": "Asscunt Manager",
+    "x": 0.6177,
+    "y": 0.2995,
+    "w": 0.0363,
+    "h": 0.0115
+   },
+   {
+    "t": "amtons Anterintel",
+    "x": 0.4055,
+    "y": 0.3018,
+    "w": 0.0407,
+    "h": 0.0047
+   },
+   {
+    "t": "Composers",
+    "x": 0.3038,
+    "y": 0.3065,
+    "w": 0.0233,
+    "h": 0.0092
+   },
+   {
+    "t": "Google",
+    "x": 0.5407,
+    "y": 0.3157,
+    "w": 0.0262,
+    "h": 0.0138
+   },
+   {
+    "t": "wators miles",
+    "x": 0.4055,
+    "y": 0.3387,
+    "w": 0.0392,
+    "h": 0.0049
+   },
+   {
+    "t": "Sokmare Enginser",
+    "x": 0.5116,
+    "y": 0.3433,
+    "w": 0.0378,
+    "h": 0.0115
+   },
+   {
+    "t": "Solvare Dreadsper",
+    "x": 0.4041,
+    "y": 0.3524,
+    "w": 0.0407,
+    "h": 0.0121
+   },
+   {
+    "t": "Engiresing",
+    "x": 0.3038,
+    "y": 0.3548,
+    "w": 0.0262,
+    "h": 0.0115
+   },
+   {
+    "t": "Vited Cuvorer Sanko",
+    "x": 0.4041,
+    "y": 0.371,
+    "w": 0.0494,
+    "h": 0.0115
+   },
+   {
+    "t": "Ooad Erghee",
+    "x": 0.4041,
+    "y": 0.3894,
+    "w": 0.0334,
+    "h": 0.0115
+   },
+   {
+    "t": "Kaiser Permanente",
+    "x": 0.5202,
+    "y": 0.4029,
+    "w": 0.0657,
+    "h": 0.0143
+   },
+   {
+    "t": "\u0432\u0456\u043d\u043a\u0456 \u041c\u0430\u043b\u0430\u0442\u0430\u0442",
+    "x": 0.4055,
+    "y": 0.4284,
+    "w": 0.032,
+    "h": 0.0048
+   },
+   {
+    "t": "Schools",
+    "x": 0.2994,
+    "y": 0.447,
+    "w": 0.0203,
+    "h": 0.0092
+   },
+   {
+    "t": "Caviar Sands Spoodlit",
+    "x": 0.5116,
+    "y": 0.4493,
+    "w": 0.0552,
+    "h": 0.0115
+   },
+   {
+    "t": "Reject Manager",
+    "x": 0.5116,
+    "y": 0.4677,
+    "w": 0.0334,
+    "h": 0.0115
+   },
+   {
+    "t": "Topica",
+    "x": 0.2994,
+    "y": 0.477,
+    "w": 0.0174,
+    "h": 0.0115
+   },
+   {
+    "t": "Industries",
+    "x": 0.298,
+    "y": 0.5115,
+    "w": 0.0247,
+    "h": 0.0069
+   },
+   {
+    "t": "MockQuestions",
+    "x": 0.4797,
+    "y": 0.6336,
+    "w": 0.0625,
+    "h": 0.0115
+   },
+   {
+    "t": "All interview questions are crested by MockQuestions. com arxi are not official intervien",
+    "x": 0.3924,
+    "y": 0.6682,
+    "w": 0.2122,
+    "h": 0.0069
+   },
+   {
+    "t": "questions for any organization listed on MackQuestions.com.",
+    "x": 0.4244,
+    "y": 0.6817,
+    "w": 0.1497,
+    "h": 0.0121
+   },
+   {
+    "t": "Terme olee",
+    "x": 0.4884,
+    "y": 0.7212,
+    "w": 0.032,
+    "h": 0.0046
+   },
+   {
+    "t": "This page is displayed after the user selects the Companies category from the filter panel on the previous page. Here, users are",
+    "x": 0.1526,
+    "y": 0.8315,
+    "w": 0.6715,
+    "h": 0.021
+   },
+   {
+    "t": "presented with a collection of popular Featured Companies such as Amazon, Google, Facebook, and Pfizer. Each company has a list",
+    "x": 0.1526,
+    "y": 0.8524,
+    "w": 0.6933,
+    "h": 0.0209
+   },
+   {
+    "t": "of related job positions, such as Software Engineer, Project Manager, or Customer Service Specialist, complete with an icon to start",
+    "x": 0.1526,
+    "y": 0.8733,
+    "w": 0.6904,
+    "h": 0.021
+   },
+   {
+    "t": "the interview. This display provides quick access for users targeting job interviews at specific companies, accelerating the",
+    "x": 0.1512,
+    "y": 0.894,
+    "w": 0.6424,
+    "h": 0.0212
+   },
+   {
+    "t": "preparation process through a more focused and relevant approach.",
+    "x": 0.1526,
+    "y": 0.9147,
+    "w": 0.3605,
+    "h": 0.0207
+   },
+   {
+    "t": "Interview Question and Answers",
+    "x": 0.1512,
+    "y": 0.9631,
+    "w": 0.2602,
+    "h": 0.0259
+   }
+  ]
+ },
+ {
+  "i": 36,
+  "file": "b36.jpg",
+  "y0": 17548,
+  "y1": 18691,
+  "h": 1143,
+  "color": 0.89,
+  "density": 0.379,
+  "lines": [
+   {
+    "t": "Side Navigation Inactive",
+    "x": 0.2558,
+    "y": 0.011,
+    "w": 0.1003,
+    "h": 0.0128
+   },
+   {
+    "t": "Side Navigation Active",
+    "x": 0.5247,
+    "y": 0.011,
+    "w": 0.0916,
+    "h": 0.0128
+   },
+   {
+    "t": "La Mockduestions",
+    "x": 0.2747,
+    "y": 0.042,
+    "w": 0.0436,
+    "h": 0.0056
+   },
+   {
+    "t": "Marketing Interview Questions",
+    "x": 0.5422,
+    "y": 0.0731,
+    "w": 0.0814,
+    "h": 0.0091
+   },
+   {
+    "t": "Marketing Interview Questions",
+    "x": 0.2776,
+    "y": 0.0804,
+    "w": 0.0945,
+    "h": 0.0092
+   },
+   {
+    "t": "and Answers",
+    "x": 0.5436,
+    "y": 0.0822,
+    "w": 0.0349,
+    "h": 0.0096
+   },
+   {
+    "t": "and Answers",
+    "x": 0.2775,
+    "y": 0.0909,
+    "w": 0.0423,
+    "h": 0.012
+   },
+   {
+    "t": "Typical Marketing Interview Questions",
+    "x": 0.5843,
+    "y": 0.1058,
+    "w": 0.0843,
+    "h": 0.0096
+   },
+   {
+    "t": "Typical Marketing Interview Questions",
+    "x": 0.2922,
+    "y": 0.1206,
+    "w": 0.0974,
+    "h": 0.0092
+   },
+   {
+    "t": "Related Career Interions",
+    "x": 0.5858,
+    "y": 0.2925,
+    "w": 0.0581,
+    "h": 0.0091
+   },
+   {
+    "t": "\u043f\u0440\u043e\u0433\u043e\u043d\u0438\u043c\u0438\u043d\u0456",
+    "x": 0.641,
+    "y": 0.3272,
+    "w": 0.0349,
+    "h": 0.0091
+   },
+   {
+    "t": "Related Career Interviows",
+    "x": 0.2922,
+    "y": 0.3327,
+    "w": 0.0654,
+    "h": 0.0091
+   },
+   {
+    "t": "Greenies",
+    "x": 0.5971,
+    "y": 0.3633,
+    "w": 0.0269,
+    "h": 0.0102
+   },
+   {
+    "t": "do soda?",
+    "x": 0.298,
+    "y": 0.3784,
+    "w": 0.0233,
+    "h": 0.0037
+   },
+   {
+    "t": "Mutto",
+    "x": 0.3009,
+    "y": 0.4205,
+    "w": 0.0189,
+    "h": 0.0091
+   },
+   {
+    "t": "Medang",
+    "x": 0.3765,
+    "y": 0.4241,
+    "w": 0.0174,
+    "h": 0.0091
+   },
+   {
+    "t": "Helpful Company Interviews",
+    "x": 0.2907,
+    "y": 0.4516,
+    "w": 0.0741,
+    "h": 0.0091
+   },
+   {
+    "t": "Halniu Company imaninos",
+    "x": 0.5858,
+    "y": 0.4659,
+    "w": 0.061,
+    "h": 0.0039
+   },
+   {
+    "t": "amazen",
+    "x": 0.3387,
+    "y": 0.4698,
+    "w": 0.0174,
+    "h": 0.0091
+   },
+   {
+    "t": "Wen the corters forced?",
+    "x": 0.3721,
+    "y": 0.5393,
+    "w": 0.0451,
+    "h": 0.0037
+   },
+   {
+    "t": "\u00a9 MoskGueations",
+    "x": 0.3648,
+    "y": 0.6325,
+    "w": 0.0436,
+    "h": 0.011
+   },
+   {
+    "t": "@ MANORSEA",
+    "x": 0.6163,
+    "y": 0.6434,
+    "w": 0.0392,
+    "h": 0.0096
+   },
+   {
+    "t": "Somalibe Coney Comi",
+    "x": 0.3779,
+    "y": 0.6709,
+    "w": 0.0494,
+    "h": 0.0056
+   },
+   {
+    "t": "This Q&A interview page presents a list of questions and answers relevant to the specific role selected by the user, in this example a",
+    "x": 0.1526,
+    "y": 0.7349,
+    "w": 0.6948,
+    "h": 0.0146
+   },
+   {
+    "t": "position in Marketing. The main section of the page displays one open question complete with answers from experts and other",
+    "x": 0.1526,
+    "y": 0.7514,
+    "w": 0.6657,
+    "h": 0.0146
+   },
+   {
+    "t": "users, followed by a list of other questions that can be accessed by clicking on the dropdown menu. Below that are \"Related Career",
+    "x": 0.1526,
+    "y": 0.7675,
+    "w": 0.6904,
+    "h": 0.0168
+   },
+   {
+    "t": "Interviews,\" which show other roles within the same field, and \"Helpful Company Interviews,\" which provide a list of companies with",
+    "x": 0.1526,
+    "y": 0.7823,
+    "w": 0.6904,
+    "h": 0.0184
+   },
+   {
+    "t": "interview questions related to that role. These components make the page feel comprehensive, making it easy for users to explore",
+    "x": 0.1512,
+    "y": 0.7989,
+    "w": 0.686,
+    "h": 0.0184
+   },
+   {
+    "t": "the information they need in one integrated page.",
+    "x": 0.1512,
+    "y": 0.8172,
+    "w": 0.2645,
+    "h": 0.0167
+   },
+   {
+    "t": "Side navigation is an additional feature that enriches the user experience by providing quick access to the page's content structure.",
+    "x": 0.1526,
+    "y": 0.8501,
+    "w": 0.6904,
+    "h": 0.0165
+   },
+   {
+    "t": "When inactive, the side nav is hidden to keep the layout clean and provide more reading space. However, when active, the side nav",
+    "x": 0.1526,
+    "y": 0.8663,
+    "w": 0.689,
+    "h": 0.0167
+   },
+   {
+    "t": "appears on the left side of the page and transforms into a Table of Contents-like feature covering sections such as \"General",
+    "x": 0.1526,
+    "y": 0.8829,
+    "w": 0.6512,
+    "h": 0.0166
+   },
+   {
+    "t": "Questions,\" \"Behavioral Questions,\" or other subcategories depending on the role being discussed. This allows users to directly",
+    "x": 0.1526,
+    "y": 0.8995,
+    "w": 0.6672,
+    "h": 0.0184
+   },
+   {
+    "t": "access the sections they are interested in without needing to scroll extensively, which is highly useful when users want to prepare",
+    "x": 0.1526,
+    "y": 0.9177,
+    "w": 0.6831,
+    "h": 0.0167
+   },
+   {
+    "t": "for interviews more efficiently and effectively.",
+    "x": 0.1497,
+    "y": 0.9342,
+    "w": 0.2456,
+    "h": 0.0169
+   },
+   {
+    "t": "Mobile Version",
+    "x": 0.1526,
+    "y": 0.9707,
+    "w": 0.1177,
+    "h": 0.0205
+   }
+  ]
+ },
+ {
+  "i": 37,
+  "file": "b37.jpg",
+  "y0": 18731,
+  "y1": 21255,
+  "h": 2524,
+  "color": 2.18,
+  "density": 0.292,
+  "lines": [
+   {
+    "t": "QnA Interview",
+    "x": 0.6768,
+    "y": 0.0044,
+    "w": 0.1018,
+    "h": 0.0087
+   },
+   {
+    "t": "Homepage",
+    "x": 0.1676,
+    "y": 0.005,
+    "w": 0.0844,
+    "h": 0.0095
+   },
+   {
+    "t": "coreer",
+    "x": 0.5135,
+    "y": 0.0056,
+    "w": 0.0493,
+    "h": 0.0062
+   },
+   {
+    "t": "Search",
+    "x": 0.3511,
+    "y": 0.0058,
+    "w": 0.0483,
+    "h": 0.0044
+   },
+   {
+    "t": "E MockQuestions",
+    "x": 0.3766,
+    "y": 0.0233,
+    "w": 0.0483,
+    "h": 0.0045
+   },
+   {
+    "t": "= MockQuestion:",
+    "x": 0.5394,
+    "y": 0.0233,
+    "w": 0.0483,
+    "h": 0.0029
+   },
+   {
+    "t": "E MockQuestion:",
+    "x": 0.7023,
+    "y": 0.0233,
+    "w": 0.0483,
+    "h": 0.0029
+   },
+   {
+    "t": "e Career",
+    "x": 0.3842,
+    "y": 0.0638,
+    "w": 0.0331,
+    "h": 0.0045
+   },
+   {
+    "t": "Job-Winning",
+    "x": 0.1705,
+    "y": 0.0814,
+    "w": 0.0509,
+    "h": 0.0029
+   },
+   {
+    "t": "Marketing Interview",
+    "x": 0.6896,
+    "y": 0.0887,
+    "w": 0.0763,
+    "h": 0.0044
+   },
+   {
+    "t": "Questions and Answers",
+    "x": 0.6844,
+    "y": 0.0943,
+    "w": 0.0868,
+    "h": 0.0049
+   },
+   {
+    "t": "Adaptabilit",
+    "x": 0.5445,
+    "y": 0.0974,
+    "w": 0.0382,
+    "h": 0.0029
+   },
+   {
+    "t": "We've Got Every",
+    "x": 0.1883,
+    "y": 0.1307,
+    "w": 0.0611,
+    "h": 0.0032
+   },
+   {
+    "t": "Behaviora",
+    "x": 0.5496,
+    "y": 0.1323,
+    "w": 0.0305,
+    "h": 0.0044
+   },
+   {
+    "t": "ypical Marketing",
+    "x": 0.6947,
+    "y": 0.1323,
+    "w": 0.0636,
+    "h": 0.0044
+   },
+   {
+    "t": "Profession Covered",
+    "x": 0.1832,
+    "y": 0.1366,
+    "w": 0.0712,
+    "h": 0.0029
+   },
+   {
+    "t": "\u2022 Start Interview",
+    "x": 0.5394,
+    "y": 0.1512,
+    "w": 0.0483,
+    "h": 0.003
+   },
+   {
+    "t": "that i the mow creative marketin",
+    "x": 0.6845,
+    "y": 0.1512,
+    "w": 0.0738,
+    "h": 0.003
+   },
+   {
+    "t": "Componte",
+    "x": 0.3969,
+    "y": 0.1628,
+    "w": 0.0229,
+    "h": 0.0073
+   },
+   {
+    "t": "Ask the Interviewel",
+    "x": 0.5344,
+    "y": 0.1686,
+    "w": 0.0585,
+    "h": 0.0029
+   },
+   {
+    "t": "How to An",
+    "x": 0.6896,
+    "y": 0.1686,
+    "w": 0.0356,
+    "h": 0.0029
+   },
+   {
+    "t": "By Nolan Vecca",
+    "x": 0.5394,
+    "y": 0.1773,
+    "w": 0.0458,
+    "h": 0.0045
+   },
+   {
+    "t": "Career Goal:",
+    "x": 0.5445,
+    "y": 0.2035,
+    "w": 0.0382,
+    "h": 0.0029
+   },
+   {
+    "t": "By Kaiyo Curti",
+    "x": 0.542,
+    "y": 0.2122,
+    "w": 0.0433,
+    "h": 0.0045
+   },
+   {
+    "t": "ommon Intervie",
+    "x": 0.542,
+    "y": 0.2384,
+    "w": 0.0458,
+    "h": 0.0045
+   },
+   {
+    "t": "Question",
+    "x": 0.5522,
+    "y": 0.2427,
+    "w": 0.0254,
+    "h": 0.0073
+   },
+   {
+    "t": "ommunicatio",
+    "x": 0.5445,
+    "y": 0.2747,
+    "w": 0.0407,
+    "h": 0.0029
+   },
+   {
+    "t": "4 By Emerson Worke",
+    "x": 0.5344,
+    "y": 0.282,
+    "w": 0.0509,
+    "h": 0.0045
+   },
+   {
+    "t": "Compatibility",
+    "x": 0.5445,
+    "y": 0.3096,
+    "w": 0.0407,
+    "h": 0.0029
+   },
+   {
+    "t": "\u2022 Start Intervicw",
+    "x": 0.5394,
+    "y": 0.3284,
+    "w": 0.0483,
+    "h": 0.0029
+   },
+   {
+    "t": "Ask the itersew",
+    "x": 0.3791,
+    "y": 0.3399,
+    "w": 0.0382,
+    "h": 0.0032
+   },
+   {
+    "t": "6) By Erin Wester",
+    "x": 0.5394,
+    "y": 0.353,
+    "w": 0.0433,
+    "h": 0.0045
+   },
+   {
+    "t": "Creative Thinking",
+    "x": 0.5369,
+    "y": 0.3807,
+    "w": 0.0534,
+    "h": 0.0032
+   },
+   {
+    "t": "\u00a9 Start Intervier",
+    "x": 0.5394,
+    "y": 0.3982,
+    "w": 0.0458,
+    "h": 0.0044
+   },
+   {
+    "t": "Related Career Interview",
+    "x": 0.6819,
+    "y": 0.4084,
+    "w": 0.0891,
+    "h": 0.0029
+   },
+   {
+    "t": "Rs, By Cooper Dorwa",
+    "x": 0.5369,
+    "y": 0.4243,
+    "w": 0.0509,
+    "h": 0.0045
+   },
+   {
+    "t": "trust Our interview",
+    "x": 0.1832,
+    "y": 0.4346,
+    "w": 0.0687,
+    "h": 0.0029
+   },
+   {
+    "t": "Experts",
+    "x": 0.2036,
+    "y": 0.4404,
+    "w": 0.0305,
+    "h": 0.0029
+   },
+   {
+    "t": "- MockQuestion",
+    "x": 0.5394,
+    "y": 0.4927,
+    "w": 0.0458,
+    "h": 0.0045
+   },
+   {
+    "t": "I Featured Article:",
+    "x": 0.374,
+    "y": 0.4956,
+    "w": 0.0534,
+    "h": 0.0044
+   },
+   {
+    "t": "Our Director",
+    "x": 0.1959,
+    "y": 0.5567,
+    "w": 0.0483,
+    "h": 0.0029
+   },
+   {
+    "t": "# Membership",
+    "x": 0.3791,
+    "y": 0.5812,
+    "w": 0.0433,
+    "h": 0.0045
+   },
+   {
+    "t": "Heloful Company",
+    "x": 0.6947,
+    "y": 0.5899,
+    "w": 0.0636,
+    "h": 0.0032
+   },
+   {
+    "t": "Interviews",
+    "x": 0.7074,
+    "y": 0.5959,
+    "w": 0.0382,
+    "h": 0.0044
+   },
+   {
+    "t": "facebook",
+    "x": 0.7354,
+    "y": 0.6541,
+    "w": 0.0305,
+    "h": 0.0029
+   },
+   {
+    "t": "Google",
+    "x": 0.6921,
+    "y": 0.6672,
+    "w": 0.0229,
+    "h": 0.0044
+   },
+   {
+    "t": "Hear what our",
+    "x": 0.1934,
+    "y": 0.6817,
+    "w": 0.0509,
+    "h": 0.0029
+   },
+   {
+    "t": "Hike",
+    "x": 0.743,
+    "y": 0.6817,
+    "w": 0.0153,
+    "h": 0.0044
+   },
+   {
+    "t": "LOREA",
+    "x": 0.687,
+    "y": 0.6831,
+    "w": 0.028,
+    "h": 0.0029
+   },
+   {
+    "t": "customers have to say",
+    "x": 0.1781,
+    "y": 0.686,
+    "w": 0.0814,
+    "h": 0.0045
+   },
+   {
+    "t": "UNITEO R",
+    "x": 0.7354,
+    "y": 0.6961,
+    "w": 0.0331,
+    "h": 0.0045
+   },
+   {
+    "t": "NORDSTROM",
+    "x": 0.6845,
+    "y": 0.6977,
+    "w": 0.0356,
+    "h": 0.0029
+   },
+   {
+    "t": "Was this content helpful?",
+    "x": 0.6921,
+    "y": 0.7369,
+    "w": 0.0712,
+    "h": 0.0044
+   },
+   {
+    "t": "E MockQuestion:",
+    "x": 0.7023,
+    "y": 0.7863,
+    "w": 0.0483,
+    "h": 0.0045
+   },
+   {
+    "t": "Our Statistice",
+    "x": 0.1959,
+    "y": 0.7964,
+    "w": 0.0458,
+    "h": 0.0032
+   },
+   {
+    "t": "E MockQuestion",
+    "x": 0.1934,
+    "y": 0.9084,
+    "w": 0.0483,
+    "h": 0.0044
+   }
+  ]
+ },
+ {
+  "i": 38,
+  "file": "b38.jpg",
+  "y0": 21308,
+  "y1": 21975,
+  "h": 667,
+  "color": 0.0,
+  "density": 0.292,
+  "lines": [
+   {
+    "t": "Homepage",
+    "x": 0.1512,
+    "y": 0.0157,
+    "w": 0.0756,
+    "h": 0.0345
+   },
+   {
+    "t": "The homepage welcomes users with a hero visual featuring illustrations and powerful headlines about interview answers that have",
+    "x": 0.1526,
+    "y": 0.0749,
+    "w": 0.6846,
+    "h": 0.0286
+   },
+   {
+    "t": "proven successful. Below that is an introductory section explaining that MockQuestions covers a wide range of professions,",
+    "x": 0.1526,
+    "y": 0.1033,
+    "w": 0.6497,
+    "h": 0.0284
+   },
+   {
+    "t": "complete with illustrations of popular roles such as Nursing, Teacher, Accounting, and Marketer. The next section features sample",
+    "x": 0.1526,
+    "y": 0.1317,
+    "w": 0.6817,
+    "h": 0.0285
+   },
+   {
+    "t": "interview questions and answers to give users an idea of the quality of the content. Testimonials from experts and users are",
+    "x": 0.1526,
+    "y": 0.1599,
+    "w": 0.6512,
+    "h": 0.0287
+   },
+   {
+    "t": "displayed in card format, adding credibility. There is also direct access to directories based on Topics, Careers, and Companies for",
+    "x": 0.1526,
+    "y": 0.1881,
+    "w": 0.6846,
+    "h": 0.0282
+   },
+   {
+    "t": "quick navigation. At the bottom, site statistics reinforce trust with numbers on questions, answers, and user counts, ending with a",
+    "x": 0.1526,
+    "y": 0.2156,
+    "w": 0.6802,
+    "h": 0.0321
+   },
+   {
+    "t": "footer containing additional navigation and copyright information.",
+    "x": 0.1497,
+    "y": 0.247,
+    "w": 0.3474,
+    "h": 0.0289
+   },
+   {
+    "t": "Pop up Search",
+    "x": 0.1512,
+    "y": 0.3069,
+    "w": 0.1003,
+    "h": 0.0348
+   },
+   {
+    "t": "The search menu opens as an overlay that fills the screen, focusing the user's attention on searching for a role or company. At the",
+    "x": 0.1526,
+    "y": 0.3668,
+    "w": 0.6817,
+    "h": 0.0284
+   },
+   {
+    "t": "top, there is a search bar to search directly for the desired position or company. Below that, the information structure is organized",
+    "x": 0.1526,
+    "y": 0.3981,
+    "w": 0.6817,
+    "h": 0.0255
+   },
+   {
+    "t": "into major categories such as Careers, Companies, and Topics, with a sorted and scrollable list. This is particularly helpful for users",
+    "x": 0.1526,
+    "y": 0.4232,
+    "w": 0.6875,
+    "h": 0.0289
+   },
+   {
+    "t": "who are unsure of the specific role they are seeking, as they can explore based on category or alphabetical order.",
+    "x": 0.1526,
+    "y": 0.4545,
+    "w": 0.5988,
+    "h": 0.0251
+   },
+   {
+    "t": "Career Page",
+    "x": 0.1526,
+    "y": 0.5135,
+    "w": 0.0843,
+    "h": 0.0351
+   },
+   {
+    "t": "After selecting a specific career category, such as \"Marketing,\" users are directed to the career category page. This page displays",
+    "x": 0.1526,
+    "y": 0.5793,
+    "w": 0.6831,
+    "h": 0.0288
+   },
+   {
+    "t": "more specific subtopics such as Accomplishments, Adaptability, Behavioral, Career Goals, and Diligence. Each subcategory card",
+    "x": 0.1526,
+    "y": 0.6108,
+    "w": 0.6744,
+    "h": 0.0287
+   },
+   {
+    "t": "displays a title and a \"Start Interview\" button so that users can immediately access the list of questions related to that topic. This",
+    "x": 0.1526,
+    "y": 0.6362,
+    "w": 0.6773,
+    "h": 0.0284
+   },
+   {
+    "t": "layout makes content exploration feel light and modular, while also helping users develop learning strategies based on different",
+    "x": 0.1512,
+    "y": 0.6677,
+    "w": 0.6701,
+    "h": 0.0284
+   },
+   {
+    "t": "areas of competence.",
+    "x": 0.1526,
+    "y": 0.6959,
+    "w": 0.1163,
+    "h": 0.0256
+   },
+   {
+    "t": "Interview QnA",
+    "x": 0.1497,
+    "y": 0.7555,
+    "w": 0.1003,
+    "h": 0.0319
+   },
+   {
+    "t": "The Q&A interview page for specific roles displays a hero illustration and brief publication information at the top, followed by the",
+    "x": 0.1512,
+    "y": 0.8182,
+    "w": 0.6744,
+    "h": 0.0282
+   },
+   {
+    "t": "main content consisting of questions and answers. The first question is displayed with both expert and user answers, followed by a",
+    "x": 0.1526,
+    "y": 0.8458,
+    "w": 0.689,
+    "h": 0.0288
+   },
+   {
+    "t": "list of other questions in a dropdown accordion format. There is also a side navigation in the form of a Table of Contents that can be",
+    "x": 0.1512,
+    "y": 0.8743,
+    "w": 0.6933,
+    "h": 0.0254
+   },
+   {
+    "t": "expanded to quickly navigate between categories. Below the main content, there is a \"Related Career Interviews\" section",
+    "x": 0.1526,
+    "y": 0.8997,
+    "w": 0.6366,
+    "h": 0.0315
+   },
+   {
+    "t": "showcasing similar roles, and a \"Helpful Company Interviews\" section listing well-known companies with relevant questions. The",
+    "x": 0.1526,
+    "y": 0.931,
+    "w": 0.673,
+    "h": 0.0285
+   },
+   {
+    "t": "page concludes with a feedback section for evaluating the content and a standard footer.",
+    "x": 0.1526,
+    "y": 0.9592,
+    "w": 0.4709,
+    "h": 0.0288
+   }
+  ]
+ },
+ {
+  "i": 39,
+  "file": "b39.jpg",
+  "y0": 22008,
+  "y1": 22466,
+  "h": 458,
+  "color": 0.0,
+  "density": 0.302,
+  "lines": [
+   {
+    "t": "Usability Testing",
+    "x": 0.1526,
+    "y": 0.0274,
+    "w": 0.1323,
+    "h": 0.0599
+   },
+   {
+    "t": "To evaluate the overall usability, effectiveness, and user satisfaction of the job interview preparation platform, I conducted a series",
+    "x": 0.1526,
+    "y": 0.1048,
+    "w": 0.686,
+    "h": 0.0415
+   },
+   {
+    "t": "of moderated usability testing sessions with participants who represented typical job seekers. Each session was designed around",
+    "x": 0.1526,
+    "y": 0.1461,
+    "w": 0.6817,
+    "h": 0.0417
+   },
+   {
+    "t": "realistic, goal oriented scenarios that reflected common tasks users would perform when preparing for job interviews using the",
+    "x": 0.1512,
+    "y": 0.1872,
+    "w": 0.6686,
+    "h": 0.042
+   },
+   {
+    "t": "platform.",
+    "x": 0.1525,
+    "y": 0.227,
+    "w": 0.0496,
+    "h": 0.0392
+   },
+   {
+    "t": "The primary objective of this usability testing was to observe how easily users could navigate the platform's features such as",
+    "x": 0.1526,
+    "y": 0.31,
+    "w": 0.6555,
+    "h": 0.0416
+   },
+   {
+    "t": "searching for career positions by industry, filtering companies, and accessing categorized interview questions. I also aimed to",
+    "x": 0.1526,
+    "y": 0.3515,
+    "w": 0.6599,
+    "h": 0.0415
+   },
+   {
+    "t": "assess whether the sample answers and expert guidance provided clear, actionable support, and if the overall user interface helped",
+    "x": 0.1526,
+    "y": 0.3927,
+    "w": 0.6933,
+    "h": 0.0418
+   },
+   {
+    "t": "users feel confident and prepared for their job interviews.",
+    "x": 0.1526,
+    "y": 0.4338,
+    "w": 0.3038,
+    "h": 0.0411
+   },
+   {
+    "t": "Participants were given the following scenario to complete:",
+    "x": 0.1526,
+    "y": 0.5197,
+    "w": 0.311,
+    "h": 0.0374
+   },
+   {
+    "t": "1. As a job seeker, you want to see what positions are currently available. How do you search for them?",
+    "x": 0.1555,
+    "y": 0.5611,
+    "w": 0.5436,
+    "h": 0.0371
+   },
+   {
+    "t": "2. You want to know what role you need, like a Marketing. How do you find this information? Y",
+    "x": 0.1555,
+    "y": 0.5982,
+    "w": 0.4927,
+    "h": 0.0416
+   },
+   {
+    "t": "3. ou have a dream to work at a certain company, like a Amazon. How do you find this information?",
+    "x": 0.1555,
+    "y": 0.6438,
+    "w": 0.5203,
+    "h": 0.0374
+   },
+   {
+    "t": "4. You also want to learn what questions and answers will be asked during the interview. What can you do?",
+    "x": 0.1555,
+    "y": 0.6849,
+    "w": 0.5625,
+    "h": 0.0365
+   },
+   {
+    "t": "5. You want to know the interview questions and answers specific to the Marketing position. What do you do?",
+    "x": 0.1555,
+    "y": 0.7205,
+    "w": 0.577,
+    "h": 0.0466
+   },
+   {
+    "t": "These tasks were designed to evaluate the intuitiveness of the content organization, the effectiveness of filtering options, and the",
+    "x": 0.1526,
+    "y": 0.8079,
+    "w": 0.6831,
+    "h": 0.0415
+   },
+   {
+    "t": "clarity of guidance materials. By analyzing user interactions, feedback, and task completion rates, I gathered critical insights that",
+    "x": 0.1526,
+    "y": 0.8493,
+    "w": 0.6773,
+    "h": 0.0415
+   },
+   {
+    "t": "informed design improvements. The findings ensured that the platform meets job seekers' needs by enhancing accessibility,",
+    "x": 0.1526,
+    "y": 0.8904,
+    "w": 0.6541,
+    "h": 0.0463
+   },
+   {
+    "t": "simplifying information discovery, and boosting user confidence throughout their interview preparation journey.",
+    "x": 0.1526,
+    "y": 0.9315,
+    "w": 0.5858,
+    "h": 0.0411
+   }
+  ]
+ },
+ {
+  "i": 40,
+  "file": "b40.jpg",
+  "y0": 22497,
+  "y1": 22628,
+  "h": 131,
+  "color": 0.0,
+  "density": 0.134,
+  "lines": [
+   {
+    "t": "Reflection",
+    "x": 0.1526,
+    "y": 0.0952,
+    "w": 0.0799,
+    "h": 0.1746
+   },
+   {
+    "t": "If I had additional time, I would:",
+    "x": 0.1526,
+    "y": 0.3636,
+    "w": 0.1657,
+    "h": 0.1288
+   },
+   {
+    "t": "1. Continued usability testing with the created scenarios.",
+    "x": 0.1555,
+    "y": 0.5076,
+    "w": 0.3023,
+    "h": 0.1288
+   },
+   {
+    "t": "2. Conduct an in depth evaluation of visual consistency and responsive design.",
+    "x": 0.1555,
+    "y": 0.6508,
+    "w": 0.4172,
+    "h": 0.1295
+   },
+   {
+    "t": "3. Iterate if feedback is received during usability testing.",
+    "x": 0.1555,
+    "y": 0.7937,
+    "w": 0.2965,
+    "h": 0.1457
+   }
+  ]
+ }
+]

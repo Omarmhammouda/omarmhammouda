@@ -1,0 +1,83 @@
+{
+ "slug": "nuvie",
+ "name": "NuVIE",
+ "category": "Mobile app",
+ "tier": "light",
+ "dek": "A watch-tracking app built around deciding what to watch next.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": null,
+  "platform": "iOS mobile app",
+  "scope": "Competitor analysis, user flows, design system, hi-fi UI, usability testing",
+  "industry": "Streaming and entertainment",
+  "hard_part": "Turning an open-ended catalog into a short guided path, so a person with decision fatigue lands on one confident pick instead of endless scrolling.",
+  "look_for": "How the mood questionnaire, mode picker, and folder-based watchlists all push toward the same goal: fewer options on screen at any moment."
+ },
+ "problem": {
+  "claim_h2": "The problem is not finding movies. It is choosing one.",
+  "thesis": "Tracking apps tell you where a title streams, but none of them help you decide what to actually watch tonight.",
+  "body": "A review of Reelgood, JustWatch, Trakt, and IMDb-style recommendation feeds showed the same pattern: passive lists, generic suggestions, and walls of options that make the choice harder. NuVIE reframes the tracker as a decision tool, pairing watchlists and streaming availability with a short mood-based questionnaire.",
+  "bullets": [
+   "Recommendations are trend-driven rather than mood-driven, so they feel generic and impersonal.",
+   "Availability tools answer where to watch but leave the harder what-to-watch question open.",
+   "Oversized catalogs and cluttered layouts overwhelm exactly the users who want a quick answer."
+  ],
+  "research_note": "A competitor teardown of IMDb, JustWatch, Reelgood, and Trakt compared watchlist handling, streaming info, and recommendation style to locate the gap NuVIE fills."
+ },
+ "decisions": [],
+ "pull_quote": null,
+ "design": {
+  "claim_h2": "A guided path from mood to one good pick",
+  "intro": "Every screen narrows the decision: pick a mode, answer a few playful questions, get a short list, then track what you saved and watched.",
+  "figures": [
+   {
+    "figure": "b02.jpg",
+    "caption": "The mode picker leads with occasions, Movie Night or Binge Week, so the first choice is about intent, not titles.",
+    "alt": "Phone on a dark desk showing NuVIE's orange mode-select screen with Movie Night and Binge Week buttons plus Quick Mode and Advanced Mode options.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b19-crop.jpg",
+    "caption": "Onboarding folds genre selection into signup, so the first recommendation set has taste data before the home screen loads.",
+    "alt": "Four orange onboarding screens: login, signup with Google, Facebook and Apple options, a favorite-genre picker grid, and a confirmation screen.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b20-crop.jpg",
+    "caption": "One answer per card, one question per screen. The questionnaire replaces catalog scrolling with a short guided quiz that ends in a results grid.",
+    "alt": "Four screens showing the home feed grouped by Netflix, Hulu and HBO Max, the mode picker, a mood question with four answer cards, and a results grid.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b21-crop.jpg",
+    "caption": "Detail pages surface streaming logos and watch progress inline, and favorites split into user-named folders like Weekend Watchlist.",
+    "alt": "Movie detail screen with platform logos, rating and episode chips, next to a Favorite List screen organized into Weekend Watchlist and Horror folders with watched-percentage badges.",
+    "frame": "dark"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Answer preference questions",
+   "Find a movie by mood",
+   "Open a movie's details",
+   "Start watching on a platform",
+   "Organize saved titles by genre"
+  ],
+  "changed": [],
+  "honest_line": "Scenario-based sessions checked whether the recommendation flow, streaming links, and favorite folders were discoverable and intuitive; as a concept prototype, they could not measure whether guided picks beat browsing over real weeks of use."
+ },
+ "learnings": [],
+ "appendix": {
+  "framing": "Selected system artifacts behind the screens. The component sheet shows the questionnaire and navigation states that carry the guided flow.",
+  "figures": [
+   {
+    "figure": "b17-crop.jpg",
+    "caption": "Empty and selected states for answer cards, five nav-bar states, and streaming-platform cards define the questionnaire's building blocks.",
+    "alt": "Component sheet showing navigation bar variants, toggles, question cards in empty and selected states, keyboards, and streaming platform logo cards."
+   }
+  ]
+ },
+ "next": "karma"
+}

@@ -1,0 +1,96 @@
+{
+ "slug": "content-cloud",
+ "name": "Content Cloud",
+ "category": "Content platform",
+ "tier": "light",
+ "dek": "One workspace for planning, publishing, and tracking content.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": "2023",
+  "platform": "Responsive web",
+  "scope": "Research, competitor analysis, user journeys, design system, hi-fi UI, usability testing",
+  "industry": "Creator tools and social analytics",
+  "hard_part": "Marketing an analytics product to creators who distrust dashboards, without hiding the data behind hype.",
+  "look_for": "How each landing section pairs a creator pain point with the exact tool that answers it, ending in one clear action."
+ },
+ "problem": {
+  "claim_h2": "Creators post constantly and still fly blind",
+  "thesis": "Scheduling tools tell creators when they posted, not whether any of it worked or what to make next.",
+  "body": "Competitor platforms each solve one slice: scheduling, calendars, or reporting. Creators end up stitching tools together and still guessing at what to post, when to post it, and why growth stalls.",
+  "bullets": [
+   "No clear signal on which content types actually move an audience.",
+   "Shallow analytics that describe the past instead of guiding the next post.",
+   "Planning, insights, and collaboration split across separate, costly tools."
+  ],
+  "research_note": "Desk research covered six competitors including Later, Hootsuite, Buffer, CoSchedule, Sprout Social, and ContentStudio, mapped by features, strengths, and gaps."
+ },
+ "decisions": [],
+ "pull_quote": null,
+ "design": {
+  "claim_h2": "Every section earns the next scroll",
+  "intro": "The site walks a skeptical creator from identity to proof to community, and each section closes with a single unmistakable action.",
+  "figures": [
+   {
+    "figure": "b23-crop.jpg",
+    "caption": "A glitch-treated wordmark opens the site, claiming a creator-native identity before any feature talk begins.",
+    "alt": "Hero screen with a navy navigation bar and a glitching chromatic Futuri Content Cloud logo over a deep blue background.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b31.jpg",
+    "caption": "The Tools page leads with the real analytics dashboard, so the product proof is the marketing, not a stock illustration.",
+    "alt": "Tools page showing a dashboard mockup with a donut chart of total audience by channel and a stacked growth graph, followed by a trending content module.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b25-crop.jpg",
+    "caption": "The audience section names the fear of posting into the void, then answers it with a free dashboard as the low-risk first step.",
+    "alt": "Landing section with lime headline reading you gotta know your audience to grow your audience, portrait photos in circles, and a free dashboard button.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b28-crop.jpg",
+    "caption": "Community gets its own section with Discord front and center, positioning support as a feature rather than a footer link.",
+    "alt": "Purple section with a Discord icon, headline you don't have to do it alone, and a yellow start-for-free button over a wave pattern.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b29-crop.jpg",
+    "caption": "Six numbered pillars beside the live dashboard compress the whole pitch into one closing summary before the final call to action.",
+    "alt": "Section titled what is Futuri Content Cloud listing six numbered benefits next to an analytics dashboard screenshot with a glowing button below.",
+    "frame": "dark"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Learn what the platform does",
+   "Join the creator community",
+   "Explore the tools",
+   "Find help when stuck",
+   "Catch up on platform news"
+  ],
+  "changed": [],
+  "honest_line": "Moderated sessions confirmed people could navigate the site and find each answer, but only a live product could show whether the insights change what creators actually post."
+ },
+ "learnings": [],
+ "appendix": {
+  "framing": "The system underneath the marketing surface: a componentized navigation, card, and dropdown library on a 12-column grid, and tonal ramps for every brand color.",
+  "figures": [
+   {
+    "figure": "b21.jpg",
+    "caption": "Nav states, cards, and dropdowns are specced as components on a documented 1440px grid, keeping four pages visually consistent.",
+    "alt": "Component sheet showing four navigation bar hover states, three photo cards, collapsed and expanded dropdowns, and a 12-column desktop grid diagram.",
+    "frame": null
+   },
+   {
+    "figure": "b13.jpg",
+    "caption": "Each brand hue ships as an eight-step ramp with hex values, so contrast choices on dark surfaces are picks, not guesses.",
+    "alt": "Vivid Cerulean color ramp from a saturated 700 step to near white, each swatch labeled with its name and hex code.",
+    "frame": null
+   }
+  ]
+ },
+ "next": "karma"
+}

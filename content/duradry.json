@@ -1,0 +1,102 @@
+{
+ "slug": "duradry",
+ "name": "Duradry",
+ "category": "DTC e-commerce",
+ "tier": "light",
+ "dek": "Selling a three step treatment routine to people burned by products that promised dryness and delivered irritation.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": null,
+  "platform": "Responsive web",
+  "scope": "Competitor analysis, user journey, design system, hi-fi UI, usability test plan",
+  "industry": "DTC personal care",
+  "hard_part": "Buyers arrive skeptical after failed products, so the page has to earn clinical trust before it can ask for a subscription.",
+  "look_for": "How every section converts a trust objection, irritation, complexity, lock-in, into a concrete answer before the CTA repeats."
+ },
+ "problem": {
+  "claim_h2": "The customer has already been disappointed",
+  "thesis": "People with hyperhidrosis are not browsing for a deodorant, they are hunting for a treatment they can finally believe in.",
+  "body": "Duradry is a three product system for excessive sweating, sold one time or by subscription. The store has to explain a nightly and morning routine, back its clinical claims, and remove subscription anxiety, all inside one scrolling page.",
+  "bullets": [
+   "Repeated product failures leave shoppers assuming the next promise of dryness is also empty.",
+   "Strong formulas are associated with stinging and irritation, so safety needs as much airtime as strength.",
+   "Rigid subscriptions make people feel locked in before they have even seen results."
+  ],
+  "research_note": "Desk research covered three U.S. competitors, Certain Dri, SweatBlock, and Carpe, mapping their positioning, FDA status, and the complaints in their reviews."
+ },
+ "decisions": [],
+ "pull_quote": null,
+ "design": {
+  "claim_h2": "One page that answers objections in order",
+  "intro": "The homepage walks a skeptical buyer from the problem, to the routine, to the evidence, repeating one twenty dollar entry offer throughout.",
+  "figures": [
+   {
+    "figure": "b18-crop.jpg",
+    "caption": "The hero names the condition outright, then answers it in one line, so sufferers know instantly this page is for them.",
+    "alt": "Duradry homepage hero with red product lineup on a white ground, headline asking about excessive sweating, and a red Get Started For 20 dollars button.",
+    "frame": "light"
+   },
+   {
+    "figure": "b19-crop.jpg",
+    "caption": "PM, AM, and Wash sit side by side with price ranges, framing three products as one treatment rather than a catalog to compare.",
+    "alt": "Product carousel showing Duradry PM, AM, and Wash on pale blue tiles with star ratings and price ranges under an Excessive Sweating headline.",
+    "frame": "light"
+   },
+   {
+    "figure": "b23.jpg",
+    "caption": "The routine is compressed to three photographed steps, bedtime, morning, wash, so the regimen reads as habit, not homework.",
+    "alt": "3 Simple Steps section with three photos, hands opening a PM sachet, applying AM cream, and a man holding the wash, each with a step caption.",
+    "frame": "light"
+   },
+   {
+    "figure": "b25-crop.jpg",
+    "caption": "A bar comparison against clinical antiperspirants and deodorants makes the strength claim visual and checkable at a glance.",
+    "alt": "Unbelievable Sweat Protection section with horizontal bars comparing Duradry to antiperspirant categories, beside a hand holding the red wash tube.",
+    "frame": "light"
+   },
+   {
+    "figure": "b21.jpg",
+    "caption": "Delivery framing leads with choice, buy once or auto refill on your schedule, defusing the lock-in fear before checkout.",
+    "alt": "Delivered when you need it section, photo of a woman holding a Duradry tube beside four icon benefits and a red Get Started button.",
+    "frame": "light"
+   },
+   {
+    "figure": "b28-crop.jpg",
+    "caption": "A long first person testimonial does the emotional work the clinical bars cannot, proof from someone who lived the problem.",
+    "alt": "Testimonial section with two smiling people holding a Duradry product beside a monospaced customer review under an Easy to apply headline.",
+    "frame": "light"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Find the main products",
+   "Compare product benefits",
+   "Learn the 3 step routine",
+   "Check other people's reviews",
+   "Confirm free shipping"
+  ],
+  "changed": [],
+  "honest_line": "The task scenarios could check whether the page's information scent holds up, whether people can find products, usage, and shipping answers, but not whether skeptical buyers would actually convert or stay subscribed."
+ },
+ "learnings": [],
+ "appendix": {
+  "framing": "The system underneath the page: a red-forward component library and a twelve column desktop grid that keep a long single page feeling like one product.",
+  "figures": [
+   {
+    "figure": "b15.jpg",
+    "caption": "Product cards pair lifestyle photography with flat packshots on pale blue, one card grammar covering both education and shopping.",
+    "alt": "Card Product sheet with six tiles, three lifestyle photos of people using Duradry above three packshots of red products on light blue squares.",
+    "frame": null
+   },
+   {
+    "figure": "b16.jpg",
+    "caption": "A 1440px desktop grid, twelve columns with 112px margins and 28px gutters, disciplines every section of the long page.",
+    "alt": "Grid system spec showing a 1440px desktop frame with twelve pink columns, labeled 112px margins, 76px columns, 28px gutters, and a 1220px content width.",
+    "frame": null
+   }
+  ]
+ },
+ "next": "karma"
+}

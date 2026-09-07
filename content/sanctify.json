@@ -1,0 +1,96 @@
+{
+ "slug": "sanctify",
+ "name": "Sanctify",
+ "category": "Analytics dashboard",
+ "tier": "light",
+ "dek": "An analytics dashboard and the system behind it: Catholic values screening made inspectable.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": "2021",
+  "platform": "Responsive web and mobile app",
+  "scope": "Competitor analysis, user flows, design system, marketing site, two dashboards, mobile app",
+  "industry": "Faith-aligned fintech",
+  "hard_part": "Making a moral screening score feel trustworthy meant showing its math: every rating breaks down into named categories with visible sub-scores.",
+  "look_for": "How one component language, rating rings, score bars, sector charts, holds together across the marketing site, both dashboards, and the app."
+ },
+ "problem": {
+  "claim_h2": "Ethical screening tools hide the one thing users came for",
+  "thesis": "An investor who wants a portfolio aligned with Catholic teaching has no simple way to see why any company passes or fails.",
+  "body": "Sanctify is a screening platform that rates companies against Catholic moral categories, with a marketing site, a user dashboard, an admin dashboard, and a mobile app. The design problem was less about charts and more about trust: the score only works if its reasoning is visible.",
+  "bullets": [
+   "Faith-based competitors keep their screening methodology opaque, so users cannot verify the rating.",
+   "Most tools show no dashboard preview before signup and little data visualization once inside.",
+   "Financial products bury non-professional investors in jargon and complexity."
+  ],
+  "research_note": "Desk research compared Inspire Investing, Eventide, and GuideStone Funds on messaging, transparency, and data visualization, which surfaced the pain points above."
+ },
+ "decisions": [],
+ "pull_quote": null,
+ "design": {
+  "claim_h2": "Show the score's work, everywhere the score appears",
+  "intro": "One green-led component language carries the moral rating from the first marketing touch to the deepest dashboard card.",
+  "figures": [
+   {
+    "figure": "b23-crop.jpg",
+    "caption": "The hero pairs the value proposition with a full trial signup form, so conversion starts before any scrolling.",
+    "alt": "Sanctify homepage hero: dark navy background, white headline about Catholic values investing, and a white 14-day free trial signup form with name, email, company, and phone fields.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b25-crop.jpg",
+    "caption": "Real dashboard components on the marketing page preview the product before signup, a gap every competitor left open.",
+    "alt": "Marketing section showing dashboard previews: an AA score ring, a sector breakdown bar chart, a market value card, and a checklist of screening categories like Banking and Lending and Gambling.",
+    "frame": "light"
+   },
+   {
+    "figure": "b30.jpg",
+    "caption": "The user dashboard breaks the rating into letter-graded categories with per-screen percentage bars, so the number is inspectable.",
+    "alt": "User dashboard with metric cards, an Add Screenset form, category cards graded A to D for Adult Content, Environment, and others, sector breakdown and performance charts, and notes and changes panels.",
+    "frame": "light"
+   },
+   {
+    "figure": "b33.jpg",
+    "caption": "The admin view swaps moral detail for oversight: user trends, a pass and fail donut of screened companies, and a managed user table.",
+    "alt": "Admin dashboard with user metrics, a yearly users line chart, a pass and fail company statistic donut, a recent users table with a row action menu, and activity log panels.",
+    "frame": "light"
+   },
+   {
+    "figure": "b36.jpg",
+    "caption": "Mobile auth stays minimal, two fields to log in, five to sign up, with the brand's green reserved for the single primary action.",
+    "alt": "Two iPhone screens on black: a Sanctify login screen with email and password fields and a green Log In button, and a sign up screen with name, business email, company, and phone fields.",
+    "frame": null
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Start the free trial",
+   "Build a screen set",
+   "Check a company's moral rating",
+   "Add an admin user",
+   "Review a screening report"
+  ],
+  "changed": [],
+  "honest_line": "Testing was scoped to task scenarios walked through on the hi-fi prototype, enough to check navigation and hierarchy, not enough to claim validated behavior with real investors."
+ },
+ "learnings": [],
+ "appendix": {
+  "framing": "The flows and component sheet show how four surfaces stayed coherent. Every screen above is assembled from this one kit.",
+  "figures": [
+   {
+    "figure": "b08-crop.jpg",
+    "caption": "Three user-story flows, investor screening, admin user creation, and visitor conversion, mapped before any UI was drawn.",
+    "alt": "Flowchart diagrams on black for three user stories: adding a screen set from the dashboard, an admin adding a user by invitation or manually, and a visitor moving from homepage to signup.",
+    "frame": null
+   },
+   {
+    "figure": "b20.jpg",
+    "caption": "The shared kit: charts, score bars, dropdowns, steppers, and every navigation state for both the app and the marketing site.",
+    "alt": "Component sheet showing sector breakdown charts, dropdowns, pagination, checkboxes, toggles, score bars, a performance chart, seven dashboard navigation bar states, report summary tabs, and five marketing site navbar states.",
+    "frame": null
+   }
+  ]
+ },
+ "next": "karma"
+}

@@ -1,0 +1,4043 @@
+[
+ {
+  "i": 0,
+  "file": "b00.jpg",
+  "y0": 118,
+  "y1": 396,
+  "h": 278,
+  "color": 0.0,
+  "density": 0.147,
+  "lines": [
+   {
+    "t": "Duradry",
+    "x": 0.2238,
+    "y": 0.0451,
+    "w": 0.1206,
+    "h": 0.1579
+   },
+   {
+    "t": "Powerful Solution for Excessive Sweating",
+    "x": 0.2224,
+    "y": 0.2842,
+    "w": 0.3794,
+    "h": 0.1151
+   },
+   {
+    "t": "Duradry offers a range of specialized products to treat excessive sweating",
+    "x": 0.2224,
+    "y": 0.6316,
+    "w": 0.4898,
+    "h": 0.0842
+   },
+   {
+    "t": "(hyperhidrosis) that have been proven effective and FDA approved. Complete",
+    "x": 0.2209,
+    "y": 0.7143,
+    "w": 0.5102,
+    "h": 0.0843
+   },
+   {
+    "t": "products in easy to use kits, available via subscription service or one time purchase,",
+    "x": 0.2224,
+    "y": 0.8045,
+    "w": 0.5538,
+    "h": 0.0912
+   },
+   {
+    "t": "and delivered straight to your door.",
+    "x": 0.2224,
+    "y": 0.8947,
+    "w": 0.234,
+    "h": 0.0765
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "file": "b01.jpg",
+  "y0": 558,
+  "y1": 970,
+  "h": 412,
+  "color": 6.25,
+  "density": 0.249,
+  "lines": [
+   {
+    "t": "Duradry",
+    "x": 0.4549,
+    "y": 0.0914,
+    "w": 0.0291,
+    "h": 0.0305
+   },
+   {
+    "t": "ST PariN",
+    "x": 0.5174,
+    "y": 0.0964,
+    "w": 0.0218,
+    "h": 0.0103
+   },
+   {
+    "t": "Do you suffer from",
+    "x": 0.5887,
+    "y": 0.2538,
+    "w": 0.0828,
+    "h": 0.0355
+   },
+   {
+    "t": "Duradry",
+    "x": 0.4869,
+    "y": 0.2843,
+    "w": 0.0247,
+    "h": 0.0254
+   },
+   {
+    "t": "excessive sweating?",
+    "x": 0.5872,
+    "y": 0.2937,
+    "w": 0.0887,
+    "h": 0.0413
+   },
+   {
+    "t": "G-dE",
+    "x": 0.4869,
+    "y": 0.3452,
+    "w": 0.0131,
+    "h": 0.0254
+   },
+   {
+    "t": "Duradry",
+    "x": 0.5291,
+    "y": 0.3452,
+    "w": 0.0233,
+    "h": 0.0203
+   },
+   {
+    "t": "te nave a soletion that actually",
+    "x": 0.5858,
+    "y": 0.3544,
+    "w": 0.0828,
+    "h": 0.0267
+   },
+   {
+    "t": "tet Started Ter She",
+    "x": 0.5887,
+    "y": 0.4264,
+    "w": 0.0392,
+    "h": 0.0254
+   },
+   {
+    "t": "Durain 00.",
+    "x": 0.4753,
+    "y": 0.5728,
+    "w": 0.0349,
+    "h": 0.0414
+   },
+   {
+    "t": "Excessive Sweating?",
+    "x": 0.5215,
+    "y": 0.7251,
+    "w": 0.0688,
+    "h": 0.0402
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "file": "b02.jpg",
+  "y0": 1050,
+  "y1": 1520,
+  "h": 470,
+  "color": 11.69,
+  "density": 0.223,
+  "lines": [
+   {
+    "t": "Project Overview",
+    "x": 0.3416,
+    "y": 0.0756,
+    "w": 0.1599,
+    "h": 0.0627
+   },
+   {
+    "t": "Duradry",
+    "x": 0.1656,
+    "y": 0.1501,
+    "w": 0.1412,
+    "h": 0.1088
+   },
+   {
+    "t": "Duradry is a brand that offers a specialized range of products designed to combat excessive",
+    "x": 0.3416,
+    "y": 0.1638,
+    "w": 0.4811,
+    "h": 0.0406
+   },
+   {
+    "t": "sweating (also known as hyperhidrosis). With a results, Duradry provides effective solutions",
+    "x": 0.3416,
+    "y": 0.2085,
+    "w": 0.4753,
+    "h": 0.0362
+   },
+   {
+    "t": "that deliver visible results quickly and are FDA approved. Their products come in complete kits",
+    "x": 0.3401,
+    "y": 0.2489,
+    "w": 0.4913,
+    "h": 0.0362
+   },
+   {
+    "t": "with simple usage steps and are delivered straight to customers through a subscription service",
+    "x": 0.3416,
+    "y": 0.2889,
+    "w": 0.4927,
+    "h": 0.0356
+   },
+   {
+    "t": "or one time purchase option.",
+    "x": 0.3416,
+    "y": 0.3289,
+    "w": 0.1512,
+    "h": 0.0356
+   },
+   {
+    "t": "Industry",
+    "x": 0.1583,
+    "y": 0.4433,
+    "w": 0.0482,
+    "h": 0.0423
+   },
+   {
+    "t": "Solution",
+    "x": 0.6294,
+    "y": 0.48,
+    "w": 0.0785,
+    "h": 0.0578
+   },
+   {
+    "t": "Problem",
+    "x": 0.3662,
+    "y": 0.4875,
+    "w": 0.0758,
+    "h": 0.0518
+   },
+   {
+    "t": "Health & Wellness",
+    "x": 0.1613,
+    "y": 0.5234,
+    "w": 0.093,
+    "h": 0.0322
+   },
+   {
+    "t": "1. Excessive sweating (hyperhidrosis)",
+    "x": 0.3445,
+    "y": 0.5723,
+    "w": 0.1962,
+    "h": 0.041
+   },
+   {
+    "t": "1. Clinically proven and FDA approved to",
+    "x": 0.609,
+    "y": 0.5778,
+    "w": 0.2122,
+    "h": 0.0356
+   },
+   {
+    "t": "disrupts daily activities and lowers self",
+    "x": 0.359,
+    "y": 0.6128,
+    "w": 0.2006,
+    "h": 0.0406
+   },
+   {
+    "t": "ensure safety and effectiveness.",
+    "x": 0.6221,
+    "y": 0.617,
+    "w": 0.1715,
+    "h": 0.0363
+   },
+   {
+    "t": "Tools",
+    "x": 0.1613,
+    "y": 0.6356,
+    "w": 0.0291,
+    "h": 0.0311
+   },
+   {
+    "t": "confidence.",
+    "x": 0.3575,
+    "y": 0.6528,
+    "w": 0.064,
+    "h": 0.041
+   },
+   {
+    "t": "2. Delivers fast results, with noticeable",
+    "x": 0.6076,
+    "y": 0.6574,
+    "w": 0.2035,
+    "h": 0.0362
+   },
+   {
+    "t": "2. Regular deodorants are not effective",
+    "x": 0.3445,
+    "y": 0.6978,
+    "w": 0.2049,
+    "h": 0.0363
+   },
+   {
+    "t": "improvements usually within just 3 days.",
+    "x": 0.6206,
+    "y": 0.6978,
+    "w": 0.2108,
+    "h": 0.0363
+   },
+   {
+    "t": "Figma",
+    "x": 0.1599,
+    "y": 0.7156,
+    "w": 0.0334,
+    "h": 0.0444
+   },
+   {
+    "t": "3. Easy to use in just 3 simple steps, perfect",
+    "x": 0.6076,
+    "y": 0.7378,
+    "w": 0.2326,
+    "h": 0.0409
+   },
+   {
+    "t": "enough.",
+    "x": 0.359,
+    "y": 0.7422,
+    "w": 0.0422,
+    "h": 0.0311
+   },
+   {
+    "t": "3. Professional treatments are expensive",
+    "x": 0.3445,
+    "y": 0.7778,
+    "w": 0.2122,
+    "h": 0.0356
+   },
+   {
+    "t": "for fitting into your daily routine.",
+    "x": 0.6206,
+    "y": 0.7778,
+    "w": 0.1686,
+    "h": 0.0356
+   },
+   {
+    "t": "4. Available as a one time purchase or",
+    "x": 0.6076,
+    "y": 0.817,
+    "w": 0.1991,
+    "h": 0.0363
+   },
+   {
+    "t": "and hard to access.",
+    "x": 0.3576,
+    "y": 0.8213,
+    "w": 0.1047,
+    "h": 0.0321
+   },
+   {
+    "t": "Year",
+    "x": 0.1599,
+    "y": 0.8267,
+    "w": 0.0276,
+    "h": 0.0311
+   },
+   {
+    "t": "4. It's difficult to find a product that is safe,",
+    "x": 0.343,
+    "y": 0.8574,
+    "w": 0.2282,
+    "h": 0.0448
+   },
+   {
+    "t": "subscription, with delivery straight to",
+    "x": 0.6206,
+    "y": 0.8574,
+    "w": 0.1948,
+    "h": 0.0448
+   },
+   {
+    "t": "effective, and comfortable for daily use.",
+    "x": 0.359,
+    "y": 0.8978,
+    "w": 0.2078,
+    "h": 0.0405
+   },
+   {
+    "t": "your door",
+    "x": 0.622,
+    "y": 0.9015,
+    "w": 0.0539,
+    "h": 0.0371
+   },
+   {
+    "t": "2023",
+    "x": 0.1597,
+    "y": 0.9057,
+    "w": 0.0293,
+    "h": 0.0419
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "file": "b03.jpg",
+  "y0": 1551,
+  "y1": 1755,
+  "h": 204,
+  "color": 0.14,
+  "density": 0.256,
+  "lines": [
+   {
+    "t": "\u00ae My Role and Responsibility",
+    "x": 0.1542,
+    "y": 0.0294,
+    "w": 0.275,
+    "h": 0.1765
+   },
+   {
+    "t": "As a Ul/UX Designer, my role focuses on creating a user centered, seamless experience for individuals who experience excessive",
+    "x": 0.1526,
+    "y": 0.2941,
+    "w": 0.6759,
+    "h": 0.0834
+   },
+   {
+    "t": "sweating (hyperhidrosis).",
+    "x": 0.1526,
+    "y": 0.3873,
+    "w": 0.1352,
+    "h": 0.0833
+   },
+   {
+    "t": "I started by conducting user research and competitor analysis to understand their specific pain points, which guided the",
+    "x": 0.1512,
+    "y": 0.5714,
+    "w": 0.6323,
+    "h": 0.0918
+   },
+   {
+    "t": "development of an intuitive user journey for both one time purchases and subscription models. I designed high fidelity wireframes",
+    "x": 0.1526,
+    "y": 0.6618,
+    "w": 0.6817,
+    "h": 0.0833
+   },
+   {
+    "t": "and prototypes that highlighted Duradry's results approach, which is an FDA approved product with fast and visible results. My",
+    "x": 0.1526,
+    "y": 0.7549,
+    "w": 0.6657,
+    "h": 0.0833
+   },
+   {
+    "t": "design process emphasized simplicity and clarity, especially in presenting the step by step usage system and product benefits.",
+    "x": 0.1526,
+    "y": 0.8469,
+    "w": 0.6672,
+    "h": 0.0816
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "file": "b04.jpg",
+  "y0": 1791,
+  "y1": 2206,
+  "h": 415,
+  "color": 0.0,
+  "density": 0.209,
+  "lines": [
+   {
+    "t": "Process",
+    "x": 0.1526,
+    "y": 0.0251,
+    "w": 0.0756,
+    "h": 0.0553
+   },
+   {
+    "t": "The design process for this project was divided into four key phases to ensure a user centered and results experience:",
+    "x": 0.1526,
+    "y": 0.1558,
+    "w": 0.6235,
+    "h": 0.0413
+   },
+   {
+    "t": "1. Discovery",
+    "x": 0.1555,
+    "y": 0.2457,
+    "w": 0.0669,
+    "h": 0.0463
+   },
+   {
+    "t": "In this phase, I conducted competitor analysis to understand how similar brands address excessive sweating. I also identified key",
+    "x": 0.1686,
+    "y": 0.2909,
+    "w": 0.6788,
+    "h": 0.0458
+   },
+   {
+    "t": "user pain points and defined the target audience to ensure the product aligns with their needs and expectations.",
+    "x": 0.1686,
+    "y": 0.3365,
+    "w": 0.593,
+    "h": 0.0457
+   },
+   {
+    "t": "2. Ideation",
+    "x": 0.1555,
+    "y": 0.4309,
+    "w": 0.0583,
+    "h": 0.0427
+   },
+   {
+    "t": "Based on insights from the discovery phase, 1 mapped out the user journey to visualize the complete experience from",
+    "x": 0.1701,
+    "y": 0.4774,
+    "w": 0.6163,
+    "h": 0.0452
+   },
+   {
+    "t": "discovering the product to completing a purchase and starting treatment.",
+    "x": 0.1686,
+    "y": 0.5216,
+    "w": 0.3866,
+    "h": 0.0412
+   },
+   {
+    "t": "3. Design Process",
+    "x": 0.1555,
+    "y": 0.613,
+    "w": 0.0959,
+    "h": 0.0457
+   },
+   {
+    "t": "This step involved creating wireframes and high fidelity Ul designs. I focused on simplicity, trust, and clarity to communicate",
+    "x": 0.1701,
+    "y": 0.6583,
+    "w": 0.6512,
+    "h": 0.046
+   },
+   {
+    "t": "Duradry's clinical effectiveness and easy 3 step system. The design emphasized responsive layout, product education, and a",
+    "x": 0.1701,
+    "y": 0.7035,
+    "w": 0.6541,
+    "h": 0.0452
+   },
+   {
+    "t": "smooth conversion flow for both one time and subscription purchases.",
+    "x": 0.1701,
+    "y": 0.7476,
+    "w": 0.3706,
+    "h": 0.0413
+   },
+   {
+    "t": "4. Usability Testing",
+    "x": 0.1555,
+    "y": 0.8389,
+    "w": 0.1017,
+    "h": 0.0457
+   },
+   {
+    "t": "To validate the design direction, I prepared task based scenarios aimed at evaluating user comprehension, ease of navigation,",
+    "x": 0.1701,
+    "y": 0.8844,
+    "w": 0.6613,
+    "h": 0.0507
+   },
+   {
+    "t": "and the overall purchase experience. These tasks served as the basis for future usability tests and refinements.",
+    "x": 0.1686,
+    "y": 0.9347,
+    "w": 0.5872,
+    "h": 0.0413
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "file": "b05.jpg",
+  "y0": 2245,
+  "y1": 2556,
+  "h": 311,
+  "color": 0.0,
+  "density": 0.181,
+  "lines": [
+   {
+    "t": "Discovery",
+    "x": 0.1522,
+    "y": 0.0217,
+    "w": 0.0953,
+    "h": 0.0962
+   },
+   {
+    "t": "Discover and Understanding",
+    "x": 0.1512,
+    "y": 0.234,
+    "w": 0.1904,
+    "h": 0.0748
+   },
+   {
+    "t": "This phase aimed to uncover key insights that would shape the direction of the product experience. It included analyzing direct",
+    "x": 0.1526,
+    "y": 0.3814,
+    "w": 0.6686,
+    "h": 0.0548
+   },
+   {
+    "t": "competitors in the U.S. market, identifying user pain points, and understanding the target audience. By exploring what users",
+    "x": 0.1526,
+    "y": 0.4423,
+    "w": 0.6512,
+    "h": 0.061
+   },
+   {
+    "t": "currently experience and expect from sweat control products, I could identify design opportunities that Duradry can uniquely solve.",
+    "x": 0.1526,
+    "y": 0.5032,
+    "w": 0.6919,
+    "h": 0.0545
+   },
+   {
+    "t": "Competitor Analysis",
+    "x": 0.1512,
+    "y": 0.6442,
+    "w": 0.1366,
+    "h": 0.0739
+   },
+   {
+    "t": "To better understand the market landscape, I analyzed several U.S. based products that address excessive sweating or",
+    "x": 0.1526,
+    "y": 0.7917,
+    "w": 0.6279,
+    "h": 0.0545
+   },
+   {
+    "t": "hyperhidrosis. The goal was to identify their type, weaknesses, and how they position themselves in terms of results, ease of use,",
+    "x": 0.1526,
+    "y": 0.8523,
+    "w": 0.6817,
+    "h": 0.0611
+   },
+   {
+    "t": "and trust factors like FDA approval.",
+    "x": 0.1526,
+    "y": 0.9128,
+    "w": 0.186,
+    "h": 0.0616
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "file": "b06.jpg",
+  "y0": 2580,
+  "y1": 3258,
+  "h": 678,
+  "color": 0.43,
+  "density": 0.339,
+  "lines": [
+   {
+    "t": "Competitor",
+    "x": 0.1759,
+    "y": 0.0183,
+    "w": 0.0524,
+    "h": 0.025
+   },
+   {
+    "t": "Key Selling Points",
+    "x": 0.391,
+    "y": 0.0185,
+    "w": 0.0814,
+    "h": 0.0247
+   },
+   {
+    "t": "Subscription Option",
+    "x": 0.5959,
+    "y": 0.0185,
+    "w": 0.0916,
+    "h": 0.0247
+   },
+   {
+    "t": "Product Type",
+    "x": 0.2936,
+    "y": 0.0216,
+    "w": 0.0625,
+    "h": 0.0216
+   },
+   {
+    "t": "FDA Approved",
+    "x": 0.4985,
+    "y": 0.0216,
+    "w": 0.0683,
+    "h": 0.0216
+   },
+   {
+    "t": "Weaknesses",
+    "x": 0.7151,
+    "y": 0.0216,
+    "w": 0.0596,
+    "h": 0.0185
+   },
+   {
+    "t": "V",
+    "x": 0.5363,
+    "y": 0.0679,
+    "w": 0.0116,
+    "h": 0.0278
+   },
+   {
+    "t": "\u2022 Affordable",
+    "x": 0.3953,
+    "y": 0.0704,
+    "w": 0.0582,
+    "h": 0.0229
+   },
+   {
+    "t": "Certain Dri",
+    "x": 0.1744,
+    "y": 0.0708,
+    "w": 0.0494,
+    "h": 0.0192
+   },
+   {
+    "t": "Clinical Strength",
+    "x": 0.2951,
+    "y": 0.0708,
+    "w": 0.0741,
+    "h": 0.0221
+   },
+   {
+    "t": "\u2022 Old fashioned",
+    "x": 0.718,
+    "y": 0.0708,
+    "w": 0.0741,
+    "h": 0.0221
+   },
+   {
+    "t": "Roll On",
+    "x": 0.2936,
+    "y": 0.1018,
+    "w": 0.0334,
+    "h": 0.0192
+   },
+   {
+    "t": "\u2022 Recommended by",
+    "x": 0.3953,
+    "y": 0.1018,
+    "w": 0.0916,
+    "h": 0.0251
+   },
+   {
+    "t": "branding",
+    "x": 0.7297,
+    "y": 0.1019,
+    "w": 0.0407,
+    "h": 0.0247
+   },
+   {
+    "t": "doctors",
+    "x": 0.4055,
+    "y": 0.1325,
+    "w": 0.0349,
+    "h": 0.019
+   },
+   {
+    "t": "\u2022 Strong formula can",
+    "x": 0.718,
+    "y": 0.1327,
+    "w": 0.0974,
+    "h": 0.0222
+   },
+   {
+    "t": "\u2022 OTC",
+    "x": 0.3953,
+    "y": 0.1636,
+    "w": 0.0305,
+    "h": 0.0185
+   },
+   {
+    "t": "irritate sensitive skin",
+    "x": 0.7282,
+    "y": 0.1636,
+    "w": 0.0945,
+    "h": 0.0185
+   },
+   {
+    "t": "Wipes &",
+    "x": 0.2936,
+    "y": 0.2153,
+    "w": 0.0378,
+    "h": 0.0223
+   },
+   {
+    "t": "\u2022 Up to 7 day",
+    "x": 0.3939,
+    "y": 0.2153,
+    "w": 0.0625,
+    "h": 0.0223
+   },
+   {
+    "t": "\u2022 Application may be",
+    "x": 0.7195,
+    "y": 0.2153,
+    "w": 0.0959,
+    "h": 0.0223
+   },
+   {
+    "t": "SweatBlock",
+    "x": 0.1744,
+    "y": 0.216,
+    "w": 0.0552,
+    "h": 0.0185
+   },
+   {
+    "t": "Antiperspirant",
+    "x": 0.2936,
+    "y": 0.2469,
+    "w": 0.0654,
+    "h": 0.0216
+   },
+   {
+    "t": "protection",
+    "x": 0.4055,
+    "y": 0.2469,
+    "w": 0.048,
+    "h": 0.0216
+   },
+   {
+    "t": "uncomfortable",
+    "x": 0.7282,
+    "y": 0.2469,
+    "w": 0.0683,
+    "h": 0.0185
+   },
+   {
+    "t": "\u2022 Some report stinging",
+    "x": 0.7195,
+    "y": 0.2743,
+    "w": 0.1047,
+    "h": 0.0251
+   },
+   {
+    "t": "\u2022 Convenient wipes",
+    "x": 0.3939,
+    "y": 0.2773,
+    "w": 0.093,
+    "h": 0.0192
+   },
+   {
+    "t": "\u2022 Quick drying,",
+    "x": 0.3939,
+    "y": 0.3269,
+    "w": 0.0713,
+    "h": 0.0252
+   },
+   {
+    "t": "Carpe",
+    "x": 0.1744,
+    "y": 0.3272,
+    "w": 0.0291,
+    "h": 0.0216
+   },
+   {
+    "t": "Cream & Spray",
+    "x": 0.2951,
+    "y": 0.3272,
+    "w": 0.0669,
+    "h": 0.0216
+   },
+   {
+    "t": "\u2022 Not suitable for",
+    "x": 0.718,
+    "y": 0.3272,
+    "w": 0.0814,
+    "h": 0.0216
+   },
+   {
+    "t": "dermatologically",
+    "x": 0.4055,
+    "y": 0.358,
+    "w": 0.0741,
+    "h": 0.0216
+   },
+   {
+    "t": "severe sweating",
+    "x": 0.7282,
+    "y": 0.358,
+    "w": 0.0741,
+    "h": 0.0216
+   },
+   {
+    "t": "tested",
+    "x": 0.4041,
+    "y": 0.3889,
+    "w": 0.032,
+    "h": 0.0185
+   },
+   {
+    "t": "\u2022 Results vary",
+    "x": 0.7195,
+    "y": 0.3889,
+    "w": 0.0654,
+    "h": 0.0216
+   },
+   {
+    "t": "\u2022 No residue",
+    "x": 0.3953,
+    "y": 0.4196,
+    "w": 0.0596,
+    "h": 0.0219
+   },
+   {
+    "t": "Pain Points",
+    "x": 0.1512,
+    "y": 0.5088,
+    "w": 0.0756,
+    "h": 0.0313
+   },
+   {
+    "t": "Based on competitor reviews, testimonials, and product feedback, here are some common user pain points:",
+    "x": 0.1526,
+    "y": 0.5708,
+    "w": 0.5654,
+    "h": 0.028
+   },
+   {
+    "t": "1. Ineffective results: Many users have tried multiple products that didn't provide long lasting dryness.",
+    "x": 0.1555,
+    "y": 0.5988,
+    "w": 0.5363,
+    "h": 0.0281
+   },
+   {
+    "t": "2. Skin irritation: Strong formulas often lead to stinging, redness, or discomfort.",
+    "x": 0.1555,
+    "y": 0.6265,
+    "w": 0.4172,
+    "h": 0.0283
+   },
+   {
+    "t": "3. Complicated routines: Some products require awkward application methods or unclear usage instructions.",
+    "x": 0.1555,
+    "y": 0.6543,
+    "w": 0.5727,
+    "h": 0.0278
+   },
+   {
+    "t": "4. Lack of trust: Users hesitate to try new solutions that aren't backed by science or FDA approval.",
+    "x": 0.1555,
+    "y": 0.6814,
+    "w": 0.5203,
+    "h": 0.0285
+   },
+   {
+    "t": "5. Subscription friction: Poor subscription UX or inflexible systems make users feel locked in.",
+    "x": 0.1541,
+    "y": 0.7094,
+    "w": 0.4898,
+    "h": 0.0313
+   },
+   {
+    "t": "User & Audience",
+    "x": 0.1512,
+    "y": 0.7743,
+    "w": 0.1119,
+    "h": 0.0312
+   },
+   {
+    "t": "From the competitor landscape, I identified several audience:",
+    "x": 0.1526,
+    "y": 0.8422,
+    "w": 0.3227,
+    "h": 0.0282
+   },
+   {
+    "t": "1. Adults with primary hyperhidrosis, often seeking serious, medical grade solutions with clinical backing.",
+    "x": 0.1555,
+    "y": 0.8732,
+    "w": 0.5509,
+    "h": 0.0251
+   },
+   {
+    "t": "2. Professionals and students, those who experience anxiety related sweating and want fast, discreet solutions.",
+    "x": 0.1555,
+    "y": 0.9012,
+    "w": 0.5887,
+    "h": 0.0251
+   },
+   {
+    "t": "3. Fitness and active lifestyle users, looking for sweat control that won't interfere with physical routines.",
+    "x": 0.1555,
+    "y": 0.929,
+    "w": 0.5451,
+    "h": 0.0253
+   },
+   {
+    "t": "4. Skincare conscious users, those concerned about harsh ingredients and prefer dermatologist tested options.",
+    "x": 0.1555,
+    "y": 0.9535,
+    "w": 0.5872,
+    "h": 0.0319
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "file": "b07.jpg",
+  "y0": 3295,
+  "y1": 3472,
+  "h": 177,
+  "color": 0.0,
+  "density": 0.151,
+  "lines": [
+   {
+    "t": "Ideation",
+    "x": 0.1512,
+    "y": 0.0353,
+    "w": 0.0785,
+    "h": 0.1529
+   },
+   {
+    "t": "User Journey",
+    "x": 0.1523,
+    "y": 0.3611,
+    "w": 0.0893,
+    "h": 0.1263
+   },
+   {
+    "t": "In this step, I created a detailed User Journey to visualize the typical experience of a user interacting with Duradry's product for",
+    "x": 0.1526,
+    "y": 0.6235,
+    "w": 0.6686,
+    "h": 0.1068
+   },
+   {
+    "t": "managing excessive sweating. The user journey helps identify key moments where the user's needs, feelings, and challenges arise,",
+    "x": 0.1526,
+    "y": 0.7294,
+    "w": 0.689,
+    "h": 0.1077
+   },
+   {
+    "t": "and highlights opportunities to improve the overall experience.",
+    "x": 0.1526,
+    "y": 0.8353,
+    "w": 0.3314,
+    "h": 0.1085
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "file": "b08.jpg",
+  "y0": 3498,
+  "y1": 4241,
+  "h": 743,
+  "color": 0.41,
+  "density": 0.424,
+  "lines": [
+   {
+    "t": "Scenario:",
+    "x": 0.202,
+    "y": 0.014,
+    "w": 0.0538,
+    "h": 0.0197
+   },
+   {
+    "t": "Sarah has struggled with excessive sweating for years. She finds it embarrassing and it affects her",
+    "x": 0.202,
+    "y": 0.039,
+    "w": 0.5247,
+    "h": 0.0228
+   },
+   {
+    "t": "confidence at work and social events. Lisa decides to look for a solution that is clinically proven,",
+    "x": 0.202,
+    "y": 0.0645,
+    "w": 0.5102,
+    "h": 0.0255
+   },
+   {
+    "t": "easy to use, and shows fast results. She discovers Duradry online and decides to try it.",
+    "x": 0.202,
+    "y": 0.0899,
+    "w": 0.4622,
+    "h": 0.0257
+   },
+   {
+    "t": "Expectation:",
+    "x": 0.202,
+    "y": 0.1401,
+    "w": 0.0698,
+    "h": 0.0259
+   },
+   {
+    "t": "Lisa expects a product that works quickly, is easy to use daily, safe for sensitive skin, and offers",
+    "x": 0.202,
+    "y": 0.1653,
+    "w": 0.5087,
+    "h": 0.0285
+   },
+   {
+    "t": "convenient options like subscriptions for ongoing support.",
+    "x": 0.202,
+    "y": 0.1909,
+    "w": 0.3096,
+    "h": 0.0255
+   },
+   {
+    "t": "Purchase & Use",
+    "x": 0.577,
+    "y": 0.2634,
+    "w": 0.0988,
+    "h": 0.0259
+   },
+   {
+    "t": "Phase",
+    "x": 0.1758,
+    "y": 0.2637,
+    "w": 0.0394,
+    "h": 0.0259
+   },
+   {
+    "t": "Awareness",
+    "x": 0.2907,
+    "y": 0.2638,
+    "w": 0.0713,
+    "h": 0.0259
+   },
+   {
+    "t": "Post Use",
+    "x": 0.7195,
+    "y": 0.2639,
+    "w": 0.0567,
+    "h": 0.0255
+   },
+   {
+    "t": "Consideration",
+    "x": 0.4346,
+    "y": 0.264,
+    "w": 0.0887,
+    "h": 0.0253
+   },
+   {
+    "t": "Lisa searches online",
+    "x": 0.2907,
+    "y": 0.3253,
+    "w": 0.1235,
+    "h": 0.0259
+   },
+   {
+    "t": "Lisa reads reviews",
+    "x": 0.4346,
+    "y": 0.3253,
+    "w": 0.1134,
+    "h": 0.0259
+   },
+   {
+    "t": "Gets rewarded",
+    "x": 0.7209,
+    "y": 0.3253,
+    "w": 0.0901,
+    "h": 0.0259
+   },
+   {
+    "t": "Activity",
+    "x": 0.1759,
+    "y": 0.3258,
+    "w": 0.0465,
+    "h": 0.0309
+   },
+   {
+    "t": "Lisa orders the",
+    "x": 0.577,
+    "y": 0.3287,
+    "w": 0.093,
+    "h": 0.0225
+   },
+   {
+    "t": "for sweat control",
+    "x": 0.2892,
+    "y": 0.3652,
+    "w": 0.1061,
+    "h": 0.0253
+   },
+   {
+    "t": "and compares",
+    "x": 0.4331,
+    "y": 0.3652,
+    "w": 0.0887,
+    "h": 0.0286
+   },
+   {
+    "t": "product and starts",
+    "x": 0.577,
+    "y": 0.3652,
+    "w": 0.1148,
+    "h": 0.0286
+   },
+   {
+    "t": "fairly for",
+    "x": 0.7195,
+    "y": 0.3652,
+    "w": 0.0523,
+    "h": 0.0286
+   },
+   {
+    "t": "solutions",
+    "x": 0.2906,
+    "y": 0.401,
+    "w": 0.0598,
+    "h": 0.0294
+   },
+   {
+    "t": "consistent DAO",
+    "x": 0.7195,
+    "y": 0.4017,
+    "w": 0.0959,
+    "h": 0.0284
+   },
+   {
+    "t": "Duradry to",
+    "x": 0.4344,
+    "y": 0.4031,
+    "w": 0.0657,
+    "h": 0.0309
+   },
+   {
+    "t": "the 3 step routine",
+    "x": 0.577,
+    "y": 0.4045,
+    "w": 0.109,
+    "h": 0.0283
+   },
+   {
+    "t": "competitors",
+    "x": 0.4331,
+    "y": 0.4406,
+    "w": 0.0757,
+    "h": 0.0288
+   },
+   {
+    "t": "support",
+    "x": 0.7195,
+    "y": 0.4438,
+    "w": 0.0509,
+    "h": 0.0281
+   },
+   {
+    "t": "\"Is this easy enough",
+    "x": 0.4313,
+    "y": 0.4986,
+    "w": 0.1272,
+    "h": 0.0389
+   },
+   {
+    "t": "\"I hope I get quick",
+    "x": 0.5756,
+    "y": 0.5027,
+    "w": 0.1119,
+    "h": 0.031
+   },
+   {
+    "t": "\"Will this product",
+    "x": 0.2892,
+    "y": 0.5054,
+    "w": 0.1076,
+    "h": 0.0283
+   },
+   {
+    "t": "Provide clear",
+    "x": 0.7195,
+    "y": 0.5054,
+    "w": 0.0814,
+    "h": 0.0255
+   },
+   {
+    "t": "Thought",
+    "x": 0.1759,
+    "y": 0.5056,
+    "w": 0.0538,
+    "h": 0.0281
+   },
+   {
+    "t": "really work for me?\"",
+    "x": 0.289,
+    "y": 0.5387,
+    "w": 0.1257,
+    "h": 0.0384
+   },
+   {
+    "t": "to use daily without",
+    "x": 0.4331,
+    "y": 0.5417,
+    "w": 0.1221,
+    "h": 0.0286
+   },
+   {
+    "t": "instructions and",
+    "x": 0.718,
+    "y": 0.5417,
+    "w": 0.1003,
+    "h": 0.0286
+   },
+   {
+    "t": "results and no side",
+    "x": 0.5756,
+    "y": 0.5444,
+    "w": 0.1163,
+    "h": 0.0231
+   },
+   {
+    "t": "irritation?\"",
+    "x": 0.4331,
+    "y": 0.5787,
+    "w": 0.0654,
+    "h": 0.0281
+   },
+   {
+    "t": "effects.\"",
+    "x": 0.577,
+    "y": 0.5787,
+    "w": 0.0538,
+    "h": 0.0309
+   },
+   {
+    "t": "accessible",
+    "x": 0.7195,
+    "y": 0.5812,
+    "w": 0.0669,
+    "h": 0.0258
+   },
+   {
+    "t": "customer",
+    "x": 0.7194,
+    "y": 0.6198,
+    "w": 0.0612,
+    "h": 0.0272
+   },
+   {
+    "t": "support.",
+    "x": 0.7195,
+    "y": 0.6601,
+    "w": 0.0523,
+    "h": 0.0281
+   },
+   {
+    "t": "Emotion",
+    "x": 0.1759,
+    "y": 0.7219,
+    "w": 0.0509,
+    "h": 0.0253
+   },
+   {
+    "t": "\"Finally, I can wear",
+    "x": 0.4317,
+    "y": 0.7809,
+    "w": 0.1163,
+    "h": 0.0337
+   },
+   {
+    "t": "Lisa notices reduced",
+    "x": 0.2907,
+    "y": 0.7836,
+    "w": 0.1265,
+    "h": 0.0282
+   },
+   {
+    "t": "Public profiles that",
+    "x": 0.577,
+    "y": 0.7836,
+    "w": 0.1148,
+    "h": 0.031
+   },
+   {
+    "t": "Encourage",
+    "x": 0.7209,
+    "y": 0.7862,
+    "w": 0.0669,
+    "h": 0.0286
+   },
+   {
+    "t": "Opportunity",
+    "x": 0.1759,
+    "y": 0.7864,
+    "w": 0.0742,
+    "h": 0.0284
+   },
+   {
+    "t": "sweating and feels",
+    "x": 0.2907,
+    "y": 0.8226,
+    "w": 0.1148,
+    "h": 0.0285
+   },
+   {
+    "t": "what I want and feel",
+    "x": 0.4331,
+    "y": 0.8226,
+    "w": 0.125,
+    "h": 0.0257
+   },
+   {
+    "t": "represent contributor",
+    "x": 0.5756,
+    "y": 0.8226,
+    "w": 0.1337,
+    "h": 0.0285
+   },
+   {
+    "t": "subscription for",
+    "x": 0.7195,
+    "y": 0.8226,
+    "w": 0.0974,
+    "h": 0.0285
+   },
+   {
+    "t": "comfortable.\"",
+    "x": 0.4331,
+    "y": 0.8564,
+    "w": 0.0858,
+    "h": 0.0316
+   },
+   {
+    "t": "more confident",
+    "x": 0.2892,
+    "y": 0.8596,
+    "w": 0.0959,
+    "h": 0.0281
+   },
+   {
+    "t": "ongoing",
+    "x": 0.7195,
+    "y": 0.8622,
+    "w": 0.0509,
+    "h": 0.0284
+   },
+   {
+    "t": "identity and help",
+    "x": 0.5756,
+    "y": 0.8624,
+    "w": 0.1032,
+    "h": 0.0315
+   },
+   {
+    "t": "convenience",
+    "x": 0.7194,
+    "y": 0.8984,
+    "w": 0.08,
+    "h": 0.029
+   },
+   {
+    "t": "them stand out",
+    "x": 0.577,
+    "y": 0.9017,
+    "w": 0.0959,
+    "h": 0.0257
+   },
+   {
+    "t": "and support.",
+    "x": 0.7194,
+    "y": 0.9377,
+    "w": 0.08,
+    "h": 0.029
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "file": "b09.jpg",
+  "y0": 4284,
+  "y1": 4596,
+  "h": 312,
+  "color": 0.0,
+  "density": 0.273,
+  "lines": [
+   {
+    "t": "Design Process",
+    "x": 0.1526,
+    "y": 0.0403,
+    "w": 0.1439,
+    "h": 0.1008
+   },
+   {
+    "t": "The design process involved a structured approach to create an intuitive and effective user experience for Duradry's product.",
+    "x": 0.1526,
+    "y": 0.1667,
+    "w": 0.657,
+    "h": 0.0548
+   },
+   {
+    "t": "Starting from wireframing, I focused on ensuring the interface is simple, clean, and user-friendly, reflecting the easy 3-step usage of",
+    "x": 0.1526,
+    "y": 0.221,
+    "w": 0.6963,
+    "h": 0.0706
+   },
+   {
+    "t": "the product. Iterative feedback loops were incorporated to refine the design, making sure all user needs and pain points identified",
+    "x": 0.1526,
+    "y": 0.2885,
+    "w": 0.6817,
+    "h": 0.0545
+   },
+   {
+    "t": "during discovery were addressed. The final design balances aesthetics and functionality, prioritizing clarity and ease of use to",
+    "x": 0.1526,
+    "y": 0.349,
+    "w": 0.6613,
+    "h": 0.0613
+   },
+   {
+    "t": "support users in their journey toward managing excessive sweating confidently.",
+    "x": 0.1526,
+    "y": 0.4094,
+    "w": 0.4201,
+    "h": 0.0618
+   },
+   {
+    "t": "Design System",
+    "x": 0.1526,
+    "y": 0.5638,
+    "w": 0.1192,
+    "h": 0.0805
+   },
+   {
+    "t": "To maintain consistency and scalability throughout the product, a comprehensive design system was developed. This system",
+    "x": 0.1526,
+    "y": 0.6699,
+    "w": 0.6584,
+    "h": 0.0617
+   },
+   {
+    "t": "includes a defined color palette inspired by freshness and cleanliness, typography that ensures readability and accessibility,",
+    "x": 0.1526,
+    "y": 0.7306,
+    "w": 0.6541,
+    "h": 0.0681
+   },
+   {
+    "t": "reusable Ul components such as buttons, and a grid system for layout design. The design system not only streamlines the",
+    "x": 0.1526,
+    "y": 0.7981,
+    "w": 0.641,
+    "h": 0.0545
+   },
+   {
+    "t": "development process but also ensures a cohesive visual identity across all touchpoints, enhancing the overall user experience and",
+    "x": 0.1526,
+    "y": 0.859,
+    "w": 0.6846,
+    "h": 0.0609
+   },
+   {
+    "t": "brand recognition.",
+    "x": 0.1526,
+    "y": 0.9195,
+    "w": 0.0988,
+    "h": 0.0549
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "file": "b10.jpg",
+  "y0": 4626,
+  "y1": 4843,
+  "h": 217,
+  "color": 4.71,
+  "density": 0.038,
+  "lines": [
+   {
+    "t": "Color",
+    "x": 0.1773,
+    "y": 0.0376,
+    "w": 0.0568,
+    "h": 0.1172
+   },
+   {
+    "t": "Primary Color",
+    "x": 0.1759,
+    "y": 0.3654,
+    "w": 0.0872,
+    "h": 0.0979
+   },
+   {
+    "t": "Charismatic Red",
+    "x": 0.1773,
+    "y": 0.8349,
+    "w": 0.0567,
+    "h": 0.0505
+   },
+   {
+    "t": "#EA2347",
+    "x": 0.1759,
+    "y": 0.9038,
+    "w": 0.0291,
+    "h": 0.0481
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "file": "b11.jpg",
+  "y0": 4883,
+  "y1": 5067,
+  "h": 184,
+  "color": 9.88,
+  "density": 0.268,
+  "lines": [
+   {
+    "t": "Secondary colors",
+    "x": 0.1759,
+    "y": 0.0543,
+    "w": 0.1105,
+    "h": 0.1161
+   },
+   {
+    "t": "Black Sea Night",
+    "x": 0.1759,
+    "y": 0.25,
+    "w": 0.0945,
+    "h": 0.1141
+   },
+   {
+    "t": "Black Sea Night 100",
+    "x": 0.6337,
+    "y": 0.7935,
+    "w": 0.0683,
+    "h": 0.0707
+   },
+   {
+    "t": "Black Sea Night 700",
+    "x": 0.1759,
+    "y": 0.8043,
+    "w": 0.0698,
+    "h": 0.0707
+   },
+   {
+    "t": "Black Sea Night 600",
+    "x": 0.2529,
+    "y": 0.8043,
+    "w": 0.0698,
+    "h": 0.0598
+   },
+   {
+    "t": "Black Sea Night 500",
+    "x": 0.3285,
+    "y": 0.8043,
+    "w": 0.0698,
+    "h": 0.0598
+   },
+   {
+    "t": "Black Sea Night 400",
+    "x": 0.4055,
+    "y": 0.8043,
+    "w": 0.0698,
+    "h": 0.0707
+   },
+   {
+    "t": "Black Sea Night 300",
+    "x": 0.4811,
+    "y": 0.8043,
+    "w": 0.0698,
+    "h": 0.0707
+   },
+   {
+    "t": "Black Sea Night 200",
+    "x": 0.5567,
+    "y": 0.8043,
+    "w": 0.0712,
+    "h": 0.0598
+   },
+   {
+    "t": "Black Sea Night 50",
+    "x": 0.7093,
+    "y": 0.8043,
+    "w": 0.0669,
+    "h": 0.0598
+   },
+   {
+    "t": "#O30DEF",
+    "x": 0.6337,
+    "y": 0.8747,
+    "w": 0.0305,
+    "h": 0.0575
+   },
+   {
+    "t": "#002561",
+    "x": 0.1759,
+    "y": 0.875,
+    "w": 0.0291,
+    "h": 0.0568
+   },
+   {
+    "t": "eSEZTAO",
+    "x": 0.3285,
+    "y": 0.875,
+    "w": 0.0291,
+    "h": 0.0568
+   },
+   {
+    "t": "#BCC9OF",
+    "x": 0.5567,
+    "y": 0.875,
+    "w": 0.032,
+    "h": 0.0568
+   },
+   {
+    "t": "#E8F25E",
+    "x": 0.7108,
+    "y": 0.875,
+    "w": 0.0276,
+    "h": 0.0568
+   },
+   {
+    "t": "#2F4881",
+    "x": 0.2529,
+    "y": 0.8864,
+    "w": 0.0276,
+    "h": 0.0455
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "file": "b12.jpg",
+  "y0": 5098,
+  "y1": 5247,
+  "h": 149,
+  "color": 0.0,
+  "density": 0.28,
+  "lines": [
+   {
+    "t": "Neutral colors",
+    "x": 0.1759,
+    "y": 0.0667,
+    "w": 0.0901,
+    "h": 0.1278
+   },
+   {
+    "t": "Neutral 700",
+    "x": 0.1759,
+    "y": 0.75,
+    "w": 0.0422,
+    "h": 0.07
+   },
+   {
+    "t": "Neutral 600",
+    "x": 0.2529,
+    "y": 0.75,
+    "w": 0.0422,
+    "h": 0.07
+   },
+   {
+    "t": "Neutra",
+    "x": 0.3285,
+    "y": 0.75,
+    "w": 0.0218,
+    "h": 0.0694
+   },
+   {
+    "t": "#333333",
+    "x": 0.2529,
+    "y": 0.8472,
+    "w": 0.0291,
+    "h": 0.0694
+   },
+   {
+    "t": "#6666",
+    "x": 0.3285,
+    "y": 0.8472,
+    "w": 0.0218,
+    "h": 0.0694
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "file": "b13.jpg",
+  "y0": 5339,
+  "y1": 5990,
+  "h": 651,
+  "color": 0.0,
+  "density": 0.06,
+  "lines": [
+   {
+    "t": "Typography",
+    "x": 0.2093,
+    "y": 0.0128,
+    "w": 0.1061,
+    "h": 0.0481
+   },
+   {
+    "t": "Albra",
+    "x": 0.2105,
+    "y": 0.1328,
+    "w": 0.0457,
+    "h": 0.042
+   },
+   {
+    "t": "Maax Mono",
+    "x": 0.4811,
+    "y": 0.1372,
+    "w": 0.0946,
+    "h": 0.0364
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "x": 0.4797,
+    "y": 0.1891,
+    "w": 0.1744,
+    "h": 0.0256
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "x": 0.2093,
+    "y": 0.1923,
+    "w": 0.1744,
+    "h": 0.0224
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.2106,
+    "y": 0.226,
+    "w": 0.1267,
+    "h": 0.0277
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.4811,
+    "y": 0.2276,
+    "w": 0.125,
+    "h": 0.0224
+   },
+   {
+    "t": "1234567890",
+    "x": 0.2093,
+    "y": 0.2628,
+    "w": 0.0567,
+    "h": 0.0256
+   },
+   {
+    "t": "1234567890",
+    "x": 0.4811,
+    "y": 0.266,
+    "w": 0.0552,
+    "h": 0.0192
+   },
+   {
+    "t": "Font size/weight",
+    "x": 0.5567,
+    "y": 0.365,
+    "w": 0.0887,
+    "h": 0.0292
+   },
+   {
+    "t": "Style",
+    "x": 0.2093,
+    "y": 0.3654,
+    "w": 0.0291,
+    "h": 0.0288
+   },
+   {
+    "t": "Heading",
+    "x": 0.2106,
+    "y": 0.479,
+    "w": 0.1298,
+    "h": 0.0772
+   },
+   {
+    "t": "45px/Bold",
+    "x": 0.5563,
+    "y": 0.4793,
+    "w": 0.1592,
+    "h": 0.0798
+   },
+   {
+    "t": "36px/Semi Bold",
+    "x": 0.5567,
+    "y": 0.6378,
+    "w": 0.1919,
+    "h": 0.0616
+   },
+   {
+    "t": "Title",
+    "x": 0.2093,
+    "y": 0.641,
+    "w": 0.0581,
+    "h": 0.0545
+   },
+   {
+    "t": "18/Semi Bold",
+    "x": 0.5552,
+    "y": 0.7724,
+    "w": 0.0814,
+    "h": 0.0288
+   },
+   {
+    "t": "Body",
+    "x": 0.2093,
+    "y": 0.7756,
+    "w": 0.0334,
+    "h": 0.0321
+   },
+   {
+    "t": "16/Medium",
+    "x": 0.5537,
+    "y": 0.8647,
+    "w": 0.0626,
+    "h": 0.0302
+   },
+   {
+    "t": "Sub Body",
+    "x": 0.2105,
+    "y": 0.8653,
+    "w": 0.0516,
+    "h": 0.0264
+   },
+   {
+    "t": "16/Reguler",
+    "x": 0.5552,
+    "y": 0.9581,
+    "w": 0.0596,
+    "h": 0.0261
+   },
+   {
+    "t": "Sub Body",
+    "x": 0.2108,
+    "y": 0.9583,
+    "w": 0.0509,
+    "h": 0.0263
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "file": "b14.jpg",
+  "y0": 6124,
+  "y1": 6522,
+  "h": 398,
+  "color": 5.01,
+  "density": 0.04,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.2805,
+    "y": 0.0316,
+    "w": 0.0712,
+    "h": 0.0684
+   },
+   {
+    "t": "< Label",
+    "x": 0.4215,
+    "y": 0.299,
+    "w": 0.0422,
+    "h": 0.0327
+   },
+   {
+    "t": "< Label",
+    "x": 0.5218,
+    "y": 0.299,
+    "w": 0.0422,
+    "h": 0.0378
+   },
+   {
+    "t": "< Label >",
+    "x": 0.5232,
+    "y": 0.4461,
+    "w": 0.0554,
+    "h": 0.0393
+   },
+   {
+    "t": "< Label >",
+    "x": 0.423,
+    "y": 0.4472,
+    "w": 0.0552,
+    "h": 0.0377
+   },
+   {
+    "t": "\u2039 Label >",
+    "x": 0.5232,
+    "y": 0.5991,
+    "w": 0.0553,
+    "h": 0.0387
+   },
+   {
+    "t": "< Label >",
+    "x": 0.423,
+    "y": 0.6,
+    "w": 0.0552,
+    "h": 0.0368
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "file": "b15.jpg",
+  "y0": 6677,
+  "y1": 7353,
+  "h": 676,
+  "color": 22.04,
+  "density": 0.442,
+  "lines": [
+   {
+    "t": "Card Product",
+    "x": 0.2137,
+    "y": 0.0459,
+    "w": 0.0654,
+    "h": 0.0192
+   },
+   {
+    "t": "Duradry",
+    "x": 0.4784,
+    "y": 0.1822,
+    "w": 0.0345,
+    "h": 0.0308
+   },
+   {
+    "t": "Duradry",
+    "x": 0.6829,
+    "y": 0.6882,
+    "w": 0.0339,
+    "h": 0.0199
+   },
+   {
+    "t": "Duradry OC",
+    "x": 0.2684,
+    "y": 0.6992,
+    "w": 0.0119,
+    "h": 0.1372
+   },
+   {
+    "t": "Duradry",
+    "x": 0.4797,
+    "y": 0.7307,
+    "w": 0.0407,
+    "h": 0.0279
+   },
+   {
+    "t": "Duradry",
+    "x": 0.3198,
+    "y": 0.7585,
+    "w": 0.0087,
+    "h": 0.0774
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "file": "b16.jpg",
+  "y0": 7453,
+  "y1": 7959,
+  "h": 506,
+  "color": 3.56,
+  "density": 0.37,
+  "lines": [
+   {
+    "t": "Grid System",
+    "x": 0.1816,
+    "y": 0.0242,
+    "w": 0.0757,
+    "h": 0.0425
+   },
+   {
+    "t": "Desktop (1440px)",
+    "x": 0.1817,
+    "y": 0.1107,
+    "w": 0.1119,
+    "h": 0.0422
+   },
+   {
+    "t": "112px",
+    "x": 0.1831,
+    "y": 0.2231,
+    "w": 0.0233,
+    "h": 0.0248
+   },
+   {
+    "t": "76px",
+    "x": 0.4172,
+    "y": 0.2231,
+    "w": 0.0218,
+    "h": 0.0248
+   },
+   {
+    "t": "28px",
+    "x": 0.4898,
+    "y": 0.2231,
+    "w": 0.0233,
+    "h": 0.0248
+   },
+   {
+    "t": "1220px",
+    "x": 0.4855,
+    "y": 0.876,
+    "w": 0.0305,
+    "h": 0.0248
+   },
+   {
+    "t": "1440px",
+    "x": 0.484,
+    "y": 0.9587,
+    "w": 0.032,
+    "h": 0.0248
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "file": "b17.jpg",
+  "y0": 8055,
+  "y1": 8226,
+  "h": 171,
+  "color": 0.0,
+  "density": 0.135,
+  "lines": [
+   {
+    "t": "Final Design",
+    "x": 0.1523,
+    "y": 0.0728,
+    "w": 0.098,
+    "h": 0.1531
+   },
+   {
+    "t": "The design below is a homepage that consists of several sections. Here I will display them separately so",
+    "x": 0.1526,
+    "y": 0.4012,
+    "w": 0.6904,
+    "h": 0.1476
+   },
+   {
+    "t": "that you can understand the information and design in each section.",
+    "x": 0.1512,
+    "y": 0.5465,
+    "w": 0.4549,
+    "h": 0.1364
+   },
+   {
+    "t": "Hero Section",
+    "x": 0.1526,
+    "y": 0.8023,
+    "w": 0.1032,
+    "h": 0.1395
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "file": "b18.jpg",
+  "y0": 8257,
+  "y1": 8965,
+  "h": 708,
+  "color": 15.21,
+  "density": 0.495,
+  "lines": [
+   {
+    "t": "Duradry",
+    "x": 0.247,
+    "y": 0.0437,
+    "w": 0.0612,
+    "h": 0.0335
+   },
+   {
+    "t": "77 Cart: 0 Iten",
+    "x": 0.7253,
+    "y": 0.0466,
+    "w": 0.0654,
+    "h": 0.0212
+   },
+   {
+    "t": "Get Started",
+    "x": 0.3866,
+    "y": 0.0501,
+    "w": 0.048,
+    "h": 0.0148
+   },
+   {
+    "t": "Blog",
+    "x": 0.5058,
+    "y": 0.0501,
+    "w": 0.0189,
+    "h": 0.0177
+   },
+   {
+    "t": "FAQs",
+    "x": 0.5422,
+    "y": 0.0501,
+    "w": 0.0189,
+    "h": 0.0147
+   },
+   {
+    "t": "Products",
+    "x": 0.452,
+    "y": 0.0531,
+    "w": 0.0349,
+    "h": 0.0088
+   },
+   {
+    "t": "About us",
+    "x": 0.5785,
+    "y": 0.0531,
+    "w": 0.0334,
+    "h": 0.009
+   },
+   {
+    "t": "Do you suffer from",
+    "x": 0.5477,
+    "y": 0.2241,
+    "w": 0.1692,
+    "h": 0.0494
+   },
+   {
+    "t": "Duradry",
+    "x": 0.3314,
+    "y": 0.2625,
+    "w": 0.0509,
+    "h": 0.0295
+   },
+   {
+    "t": "excessive sweating?",
+    "x": 0.5478,
+    "y": 0.2706,
+    "w": 0.1763,
+    "h": 0.0458
+   },
+   {
+    "t": "Duradry",
+    "x": 0.4259,
+    "y": 0.3245,
+    "w": 0.048,
+    "h": 0.0265
+   },
+   {
+    "t": "We have a solution that actually",
+    "x": 0.548,
+    "y": 0.3418,
+    "w": 0.1657,
+    "h": 0.0212
+   },
+   {
+    "t": "works.",
+    "x": 0.548,
+    "y": 0.3658,
+    "w": 0.0334,
+    "h": 0.0177
+   },
+   {
+    "t": "Get Started For $20",
+    "x": 0.5567,
+    "y": 0.4153,
+    "w": 0.0799,
+    "h": 0.0184
+   },
+   {
+    "t": "3R..00. 00. 16-3;",
+    "x": 0.4288,
+    "y": 0.4926,
+    "w": 0.0378,
+    "h": 0.0147
+   },
+   {
+    "t": "Duradry",
+    "x": 0.317,
+    "y": 0.5875,
+    "w": 0.0463,
+    "h": 0.0381
+   },
+   {
+    "t": "The header section of Duradry's homepage is minimalist and functional, with a clean white background that gives off a modern and",
+    "x": 0.1526,
+    "y": 0.7316,
+    "w": 0.6875,
+    "h": 0.0269
+   },
+   {
+    "t": "professional vibe. On the top left, the \"Duradry\" logo is displayed in a striking red serif typography style, highlighting the brand",
+    "x": 0.1526,
+    "y": 0.7581,
+    "w": 0.6628,
+    "h": 0.0272
+   },
+   {
+    "t": "identity. The main navigation menus, such as Get Started, Products, Blog, FAQs and About Us are horizontally aligned at the top",
+    "x": 0.1526,
+    "y": 0.7876,
+    "w": 0.6701,
+    "h": 0.0265
+   },
+   {
+    "t": "center, using a clean and uncluttered monospaced font, creating a technical yet easy-to-read impression. On the top right, there is a",
+    "x": 0.1526,
+    "y": 0.8111,
+    "w": 0.6948,
+    "h": 0.0298
+   },
+   {
+    "t": "language option and a red shopping cart icon, which shows the number of items in the cart. The red color used in these interactive",
+    "x": 0.1512,
+    "y": 0.8404,
+    "w": 0.689,
+    "h": 0.024
+   },
+   {
+    "t": "elements helps draw the user's attention to important parts, such as the purchase process. The overall header design supports an",
+    "x": 0.1526,
+    "y": 0.8672,
+    "w": 0.6846,
+    "h": 0.024
+   },
+   {
+    "t": "intuitive user experience and conveys a strong and trustworthy brand identity from the very beginning of the page.",
+    "x": 0.1526,
+    "y": 0.8938,
+    "w": 0.6047,
+    "h": 0.0243
+   },
+   {
+    "t": "Product Carousel",
+    "x": 0.1512,
+    "y": 0.9528,
+    "w": 0.141,
+    "h": 0.0295
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "file": "b19.jpg",
+  "y0": 8996,
+  "y1": 9648,
+  "h": 652,
+  "color": 9.42,
+  "density": 0.477,
+  "lines": [
+   {
+    "t": "Excessive Sweating?",
+    "x": 0.4288,
+    "y": 0.0673,
+    "w": 0.1424,
+    "h": 0.0355
+   },
+   {
+    "t": "Lorem Ipsun is simply dunny text of the printing and typesetting industry. Lorem Ipsun has been the",
+    "x": 0.3052,
+    "y": 0.125,
+    "w": 0.391,
+    "h": 0.0192
+   },
+   {
+    "t": "industry's standard dummy text ever since the 1500s.",
+    "x": 0.3968,
+    "y": 0.1472,
+    "w": 0.2078,
+    "h": 0.0199
+   },
+   {
+    "t": "Duradey",
+    "x": 0.6613,
+    "y": 0.2885,
+    "w": 0.0305,
+    "h": 0.0192
+   },
+   {
+    "t": "Duradry CC",
+    "x": 0.3401,
+    "y": 0.3013,
+    "w": 0.0102,
+    "h": 0.125
+   },
+   {
+    "t": "Duradry",
+    "x": 0.4825,
+    "y": 0.3293,
+    "w": 0.0365,
+    "h": 0.0209
+   },
+   {
+    "t": "Duradry",
+    "x": 0.2965,
+    "y": 0.3526,
+    "w": 0.0087,
+    "h": 0.0737
+   },
+   {
+    "t": "Duradry PM",
+    "x": 0.247,
+    "y": 0.5569,
+    "w": 0.0452,
+    "h": 0.0209
+   },
+   {
+    "t": "Duradry AM",
+    "x": 0.4229,
+    "y": 0.5573,
+    "w": 0.0466,
+    "h": 0.0201
+   },
+   {
+    "t": "Duradry Wash",
+    "x": 0.5988,
+    "y": 0.5577,
+    "w": 0.0538,
+    "h": 0.0192
+   },
+   {
+    "t": "$18.99 - $45.99",
+    "x": 0.2471,
+    "y": 0.5859,
+    "w": 0.064,
+    "h": 0.0199
+   },
+   {
+    "t": "$10.00 - $23.99",
+    "x": 0.423,
+    "y": 0.5859,
+    "w": 0.064,
+    "h": 0.0199
+   },
+   {
+    "t": "$9.00 - $21.99",
+    "x": 0.5988,
+    "y": 0.5859,
+    "w": 0.0596,
+    "h": 0.0199
+   },
+   {
+    "t": "The Product Carousel section of Duradry's homepage presents a horizontal row of featured products that can be swiped using the",
+    "x": 0.1526,
+    "y": 0.7115,
+    "w": 0.6846,
+    "h": 0.0262
+   },
+   {
+    "t": "arrow buttons on the left and right sides. At the top, the title \"Excessive Sweating?\" is displayed in bold red typography, drawing the",
+    "x": 0.1512,
+    "y": 0.7404,
+    "w": 0.6933,
+    "h": 0.0326
+   },
+   {
+    "t": "visitor's attention directly to the main issue that the product aims to solve. Underneath, a descriptive placeholder text serves as a",
+    "x": 0.1526,
+    "y": 0.7692,
+    "w": 0.6788,
+    "h": 0.0288
+   },
+   {
+    "t": "brief introduction. The products displayed, namely Duradry PM, AM, and Wash are arranged in a light blue background that provides",
+    "x": 0.1526,
+    "y": 0.7975,
+    "w": 0.6933,
+    "h": 0.0262
+   },
+   {
+    "t": "contrast to the bright red packaging color, making the products stand out. Each product is accompanied by its name, price range,",
+    "x": 0.1526,
+    "y": 0.8267,
+    "w": 0.6817,
+    "h": 0.0291
+   },
+   {
+    "t": "and a pink five star rating, signifying quality and consumer trust. The neat placement of elements and consistent colors create a",
+    "x": 0.1526,
+    "y": 0.8558,
+    "w": 0.6715,
+    "h": 0.0261
+   },
+   {
+    "t": "look that is both professional and user friendly.",
+    "x": 0.1512,
+    "y": 0.8846,
+    "w": 0.25,
+    "h": 0.0295
+   },
+   {
+    "t": "Product Benefits",
+    "x": 0.1526,
+    "y": 0.9487,
+    "w": 0.1337,
+    "h": 0.0359
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "file": "b20.jpg",
+  "y0": 9679,
+  "y1": 10502,
+  "h": 823,
+  "color": 3.22,
+  "density": 0.442,
+  "lines": [
+   {
+    "t": "Easy to apply. FDA approved. Fast results.",
+    "x": 0.3634,
+    "y": 0.0508,
+    "w": 0.2733,
+    "h": 0.0281
+   },
+   {
+    "t": "Three products sorking together to control your excessive sweating once and for all, It's really easy to",
+    "x": 0.3067,
+    "y": 0.0934,
+    "w": 0.3881,
+    "h": 0.0158
+   },
+   {
+    "t": "use, safe and FDA-Approved.",
+    "x": 0.4491,
+    "y": 0.1117,
+    "w": 0.1017,
+    "h": 0.0158
+   },
+   {
+    "t": "\u2022THREE-PRODUCT SYSTEM:",
+    "x": 0.2602,
+    "y": 0.1853,
+    "w": 0.0945,
+    "h": 0.0152
+   },
+   {
+    "t": "3 products working together to treat even the worst cases af",
+    "x": 0.2616,
+    "y": 0.2107,
+    "w": 0.2253,
+    "h": 0.0152
+   },
+   {
+    "t": "excessive perspiration.",
+    "x": 0.2616,
+    "y": 0.2282,
+    "w": 0.0887,
+    "h": 0.0133
+   },
+   {
+    "t": "\u2022 PRESCRIPTION-STRENGTH & DERMATOLOGIST RECOMMENDED:",
+    "x": 0.2602,
+    "y": 0.264,
+    "w": 0.2049,
+    "h": 0.0152
+   },
+   {
+    "t": "The naximum amount of active ingredients reconnended by",
+    "x": 0.2616,
+    "y": 0.2919,
+    "w": 0.2064,
+    "h": 0.0127
+   },
+   {
+    "t": "dermatologist to effectively treat excessive sweating.",
+    "x": 0.2616,
+    "y": 0.3095,
+    "w": 0.202,
+    "h": 0.0133
+   },
+   {
+    "t": "\u2022 RESULTS WITHIN A WEEK:",
+    "x": 0.2602,
+    "y": 0.3447,
+    "w": 0.0988,
+    "h": 0.0133
+   },
+   {
+    "t": "More than 97% of users achieve full dryness within one week",
+    "x": 0.2616,
+    "y": 0.3701,
+    "w": 0.2209,
+    "h": 0.0158
+   },
+   {
+    "t": "of use.",
+    "x": 0.2616,
+    "y": 0.3883,
+    "w": 0.0276,
+    "h": 0.0127
+   },
+   {
+    "t": "Get Started For $20",
+    "x": 0.2689,
+    "y": 0.4315,
+    "w": 0.0756,
+    "h": 0.0152
+   },
+   {
+    "t": "Learn More",
+    "x": 0.3619,
+    "y": 0.434,
+    "w": 0.0407,
+    "h": 0.0127
+   },
+   {
+    "t": "This section highlights the key advantages of Duradry products in dealing with excessive sweating issues. On the left side, there is a",
+    "x": 0.1526,
+    "y": 0.5607,
+    "w": 0.6948,
+    "h": 0.0256
+   },
+   {
+    "t": "bold red headline \"Easy to apply. FDA approved. Fast results.\" which immediately gives a reassuring and professional impression.",
+    "x": 0.1512,
+    "y": 0.5862,
+    "w": 0.6773,
+    "h": 0.0255
+   },
+   {
+    "t": "The subtext underneath explains that the product is safe, easy to use and FDA approved. Three main points are displayed in bullet",
+    "x": 0.1526,
+    "y": 0.6091,
+    "w": 0.6846,
+    "h": 0.0231
+   },
+   {
+    "t": "format: the complementary three-product system, the dermatologist-recommended prescription-grade strength of the active",
+    "x": 0.1512,
+    "y": 0.632,
+    "w": 0.6613,
+    "h": 0.0234
+   },
+   {
+    "t": "ingredients, and the proven effectiveness in one week. On the right side, there is an image of a woman holding a Duradry product",
+    "x": 0.1526,
+    "y": 0.6548,
+    "w": 0.6802,
+    "h": 0.0228
+   },
+   {
+    "t": "with a confident smile, giving the impression of a visual testimonial. Two CTA buttons (\"Get Started For $20\" and \"Learn More\") are",
+    "x": 0.1526,
+    "y": 0.6772,
+    "w": 0.686,
+    "h": 0.0233
+   },
+   {
+    "t": "strategically placed to encourage user action.",
+    "x": 0.1526,
+    "y": 0.7027,
+    "w": 0.2413,
+    "h": 0.0207
+   },
+   {
+    "t": "The overall look creates a professional, informative and persuasive impression. This section highlights the key advantages of",
+    "x": 0.1526,
+    "y": 0.7462,
+    "w": 0.6512,
+    "h": 0.0232
+   },
+   {
+    "t": "Duradry products in dealing with excessive sweating issues. On the left side, there is a bold red headline \"Easy to apply. FDA",
+    "x": 0.1526,
+    "y": 0.769,
+    "w": 0.6541,
+    "h": 0.0234
+   },
+   {
+    "t": "approved. Fast results.\" which immediately gives a reassuring and professional impression. The subtext underneath explains that",
+    "x": 0.1526,
+    "y": 0.7919,
+    "w": 0.6759,
+    "h": 0.0228
+   },
+   {
+    "t": "the product is safe, easy to use and FDA approved. Three main points are displayed in bullet format: the complementary three-",
+    "x": 0.1526,
+    "y": 0.8167,
+    "w": 0.6657,
+    "h": 0.0234
+   },
+   {
+    "t": "product system, the dermatologist-recommended prescription-grade strength of the active ingredients, and the proven",
+    "x": 0.1526,
+    "y": 0.8398,
+    "w": 0.6279,
+    "h": 0.0206
+   },
+   {
+    "t": "effectiveness in one week. On the right side, there is an image of a woman holding a Duradry product with a confident smile, giving",
+    "x": 0.1526,
+    "y": 0.8629,
+    "w": 0.689,
+    "h": 0.0231
+   },
+   {
+    "t": "the impression of a visual testimonial. Two CTA buttons (\"Get Started For $20\" and \"Learn More\") are strategically placed to",
+    "x": 0.1526,
+    "y": 0.8858,
+    "w": 0.6497,
+    "h": 0.0208
+   },
+   {
+    "t": "encourage user action. The overall look creates a professional, informative and persuasive impression.",
+    "x": 0.1526,
+    "y": 0.9086,
+    "w": 0.5378,
+    "h": 0.0234
+   },
+   {
+    "t": "Delivered When You Need It",
+    "x": 0.1526,
+    "y": 0.9594,
+    "w": 0.2238,
+    "h": 0.0285
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "file": "b21.jpg",
+  "y0": 10533,
+  "y1": 10982,
+  "h": 449,
+  "color": 17.33,
+  "density": 0.512,
+  "lines": [
+   {
+    "t": "Delivered when you need it.",
+    "x": 0.5044,
+    "y": 0.1533,
+    "w": 0.1846,
+    "h": 0.0467
+   },
+   {
+    "t": "Duradry In delivered when you need it. Buy it once",
+    "x": 0.5044,
+    "y": 0.2372,
+    "w": 0.189,
+    "h": 0.0279
+   },
+   {
+    "t": "or sign up for automatic refills. You chonse the",
+    "x": 0.5044,
+    "y": 0.2689,
+    "w": 0.1802,
+    "h": 0.0289
+   },
+   {
+    "t": "Duradry",
+    "x": 0.3196,
+    "y": 0.347,
+    "w": 0.0396,
+    "h": 0.0408
+   },
+   {
+    "t": "AM Deodorant",
+    "x": 0.6512,
+    "y": 0.3814,
+    "w": 0.0523,
+    "h": 0.0279
+   },
+   {
+    "t": "Antiperspirant",
+    "x": 0.532,
+    "y": 0.386,
+    "w": 0.0509,
+    "h": 0.0233
+   },
+   {
+    "t": "- Deep Cleansir",
+    "x": 0.625,
+    "y": 0.48,
+    "w": 0.075,
+    "h": 0.04
+   },
+   {
+    "t": "Deodorizing Wash",
+    "x": 0.532,
+    "y": 0.4837,
+    "w": 0.0625,
+    "h": 0.0279
+   },
+   {
+    "t": "Get Started For $20",
+    "x": 0.5116,
+    "y": 0.5814,
+    "w": 0.077,
+    "h": 0.0279
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "file": "b22.jpg",
+  "y0": 11014,
+  "y1": 11310,
+  "h": 296,
+  "color": 0.0,
+  "density": 0.268,
+  "lines": [
+   {
+    "t": "This section highlights the flexibility of Duradry's delivery service, emphasizing that products can be purchased individually or with",
+    "x": 0.1526,
+    "y": 0.0423,
+    "w": 0.686,
+    "h": 0.0634
+   },
+   {
+    "t": "an automatic refill system according to a schedule of the user's choosing. The headline \"Delivered when you need it\" appears in",
+    "x": 0.1526,
+    "y": 0.1047,
+    "w": 0.6701,
+    "h": 0.0643
+   },
+   {
+    "t": "bold dark blue letters, giving a sense of trust. The supporting paragraphs explain that users can subscribe or purchase at any time",
+    "x": 0.1526,
+    "y": 0.1757,
+    "w": 0.6846,
+    "h": 0.0574
+   },
+   {
+    "t": "according to their needs.",
+    "x": 0.1526,
+    "y": 0.2394,
+    "w": 0.1337,
+    "h": 0.0579
+   },
+   {
+    "t": "The four main product benefits are displayed with visually appealing icons and brief text, like a antiperspirant, AM deodorant,",
+    "x": 0.1526,
+    "y": 0.3581,
+    "w": 0.657,
+    "h": 0.0644
+   },
+   {
+    "t": "deodorizing wash, and deep cleansing. Each point features a distinctive colored icon, clarifying the function of each. A prominent",
+    "x": 0.1526,
+    "y": 0.4223,
+    "w": 0.6788,
+    "h": 0.0642
+   },
+   {
+    "t": "red button that reads \"Get Started For $20\" serves as an attention grabbing Call To Action and encourages users to try it right away.",
+    "x": 0.1512,
+    "y": 0.4859,
+    "w": 0.6977,
+    "h": 0.0648
+   },
+   {
+    "t": "On the left side, the Duradry product photo is shown in close up in the hand of a woman in a casual setting, giving the impression of",
+    "x": 0.1526,
+    "y": 0.6115,
+    "w": 0.6933,
+    "h": 0.0716
+   },
+   {
+    "t": "a product that is practical and ready to be taken anywhere. Overall, this section emphasizes convenience, flexibility, and comfort in",
+    "x": 0.1526,
+    "y": 0.6824,
+    "w": 0.6875,
+    "h": 0.0642
+   },
+   {
+    "t": "subscribing to the product.",
+    "x": 0.1526,
+    "y": 0.7465,
+    "w": 0.1439,
+    "h": 0.0576
+   },
+   {
+    "t": "How to Use Duradry",
+    "x": 0.1526,
+    "y": 0.8873,
+    "w": 0.1613,
+    "h": 0.0856
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "file": "b23.jpg",
+  "y0": 11341,
+  "y1": 11816,
+  "h": 475,
+  "color": 11.93,
+  "density": 0.532,
+  "lines": [
+   {
+    "t": "3 Simple Steps",
+    "x": 0.452,
+    "y": 0.0735,
+    "w": 0.0959,
+    "h": 0.0449
+   },
+   {
+    "t": "Lorem Ipsun is simply dummy text of the printing and typesetting industry. Lorem Ipsun has been the",
+    "x": 0.3154,
+    "y": 0.1447,
+    "w": 0.3692,
+    "h": 0.0219
+   },
+   {
+    "t": "Industry's standard dummy text ever since the 1500s.",
+    "x": 0.4026,
+    "y": 0.1702,
+    "w": 0.1948,
+    "h": 0.0273
+   },
+   {
+    "t": "Durady",
+    "x": 0.4826,
+    "y": 0.3522,
+    "w": 0.0275,
+    "h": 0.0405
+   },
+   {
+    "t": "Step 1: Apply Duradry PM at bedtime",
+    "x": 0.2616,
+    "y": 0.8067,
+    "w": 0.125,
+    "h": 0.0273
+   },
+   {
+    "t": "Step 2: Apply Duradry AM in the morning",
+    "x": 0.4273,
+    "y": 0.8067,
+    "w": 0.1395,
+    "h": 0.0273
+   },
+   {
+    "t": "Step 3: Use Duradry Wash for a deep clean",
+    "x": 0.5945,
+    "y": 0.8067,
+    "w": 0.141,
+    "h": 0.0273
+   },
+   {
+    "t": "Duradry PN w211 work to mininize",
+    "x": 0.2616,
+    "y": 0.8508,
+    "w": 0.1221,
+    "h": 0.0273
+   },
+   {
+    "t": "Duradry All will keep you dry and",
+    "x": 0.4273,
+    "y": 0.8508,
+    "w": 0.1221,
+    "h": 0.0273
+   },
+   {
+    "t": "To deodorize and prime your skin for",
+    "x": 0.5945,
+    "y": 0.8508,
+    "w": 0.1352,
+    "h": 0.0273
+   },
+   {
+    "t": "your seeating level while you sleep.",
+    "x": 0.2616,
+    "y": 0.8816,
+    "w": 0.1366,
+    "h": 0.0263
+   },
+   {
+    "t": "odor free during the day.",
+    "x": 0.4288,
+    "y": 0.8816,
+    "w": 0.0945,
+    "h": 0.0263
+   },
+   {
+    "t": "Duradry AM/PN.",
+    "x": 0.5945,
+    "y": 0.8816,
+    "w": 0.0538,
+    "h": 0.0263
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "file": "b24.jpg",
+  "y0": 11848,
+  "y1": 12220,
+  "h": 372,
+  "color": 0.0,
+  "density": 0.261,
+  "lines": [
+   {
+    "t": "This section explains how to use Duradry products in three simple steps to effectively combat excessive sweating. The headline \"3",
+    "x": 0.1526,
+    "y": 0.0337,
+    "w": 0.686,
+    "h": 0.0506
+   },
+   {
+    "t": "Simple Steps\" is written in a vibrant red color that is striking and immediately catches the eye. Below it is a placeholder text",
+    "x": 0.1526,
+    "y": 0.0833,
+    "w": 0.6483,
+    "h": 0.0515
+   },
+   {
+    "t": "paragraph with a brief explanation of the ease and effectiveness of the Duradry treatment system.",
+    "x": 0.1526,
+    "y": 0.1344,
+    "w": 0.5203,
+    "h": 0.0511
+   },
+   {
+    "t": "The first step starts with the use of Duradry PM at night, the product is packaged in sachets and used before bed to help reduce",
+    "x": 0.1526,
+    "y": 0.2416,
+    "w": 0.6759,
+    "h": 0.0461
+   },
+   {
+    "t": "night sweat production. The image of the hand holding the sachet shows the compact and travel friendly packaging.",
+    "x": 0.1526,
+    "y": 0.2921,
+    "w": 0.6119,
+    "h": 0.0449
+   },
+   {
+    "t": "The second step is Duradry AM, applied in the morning. It is packaged in a small tube and applied to the hands, providing all day",
+    "x": 0.1526,
+    "y": 0.3871,
+    "w": 0.673,
+    "h": 0.0511
+   },
+   {
+    "t": "protection to keep them dry and odor free. The picture shows the direct application process to reinforce the usage instructions.",
+    "x": 0.1526,
+    "y": 0.4435,
+    "w": 0.6715,
+    "h": 0.0457
+   },
+   {
+    "t": "hird step involves the use of DuradyWashapecial Soap to thoroughly cleanse pretend a",
+    "x": 0.1792,
+    "y": 0.5484,
+    "w": 0.6625,
+    "h": 0.0806
+   },
+   {
+    "t": "m products. The visual of a man holding the product gives it a huma",
+    "x": 0.1792,
+    "y": 0.6129,
+    "w": 0.3625,
+    "h": 0.0806
+   },
+   {
+    "t": "by anyone.",
+    "x": 0.1526,
+    "y": 0.6454,
+    "w": 0.0597,
+    "h": 0.0463
+   },
+   {
+    "t": "Overall, the section serves as a visual and informative guide that shows how practical the Duradry product range is, while reassuring",
+    "x": 0.1526,
+    "y": 0.7472,
+    "w": 0.6948,
+    "h": 0.0512
+   },
+   {
+    "t": "users that the solution to sweat problems can be done with a very simple daily routine.",
+    "x": 0.1526,
+    "y": 0.8034,
+    "w": 0.4578,
+    "h": 0.0461
+   },
+   {
+    "t": "Why Duradry Works Better",
+    "x": 0.1526,
+    "y": 0.9101,
+    "w": 0.2137,
+    "h": 0.0738
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "file": "b25.jpg",
+  "y0": 12251,
+  "y1": 13053,
+  "h": 802,
+  "color": 6.75,
+  "density": 0.418,
+  "lines": [
+   {
+    "t": "Duradry",
+    "x": 0.5916,
+    "y": 0.0966,
+    "w": 0.0436,
+    "h": 0.0209
+   },
+   {
+    "t": "Unbelievable Sweat Protection",
+    "x": 0.2616,
+    "y": 0.107,
+    "w": 0.1991,
+    "h": 0.0239
+   },
+   {
+    "t": "Duradry provides full antiperspirant protection even",
+    "x": 0.2616,
+    "y": 0.1567,
+    "w": 0.1962,
+    "h": 0.0131
+   },
+   {
+    "t": "for the most severe cases of excessive sweating.",
+    "x": 0.2616,
+    "y": 0.1721,
+    "w": 0.1802,
+    "h": 0.0162
+   },
+   {
+    "t": "Duradry",
+    "x": 0.2616,
+    "y": 0.2115,
+    "w": 0.0305,
+    "h": 0.0131
+   },
+   {
+    "t": "Clinical Strength Antiperspirants",
+    "x": 0.2616,
+    "y": 0.2531,
+    "w": 0.1105,
+    "h": 0.0162
+   },
+   {
+    "t": "Deep Cleansing",
+    "x": 0.6599,
+    "y": 0.2631,
+    "w": 0.0538,
+    "h": 0.0163
+   },
+   {
+    "t": "Antiperspirants",
+    "x": 0.2616,
+    "y": 0.2977,
+    "w": 0.0538,
+    "h": 0.0131
+   },
+   {
+    "t": "Deodorizing Wash",
+    "x": 0.6555,
+    "y": 0.3003,
+    "w": 0.0625,
+    "h": 0.0157
+   },
+   {
+    "t": "Deodorant",
+    "x": 0.2616,
+    "y": 0.3394,
+    "w": 0.0378,
+    "h": 0.0104
+   },
+   {
+    "t": "Get Started For $20",
+    "x": 0.2689,
+    "y": 0.3965,
+    "w": 0.077,
+    "h": 0.0137
+   },
+   {
+    "t": "This section serves as Duradry's main strength claim in tackling the problem of excessive sweating. With the headline \"Unbelievable",
+    "x": 0.1526,
+    "y": 0.5535,
+    "w": 0.6919,
+    "h": 0.0213
+   },
+   {
+    "t": "Sweat Protection\", this section emphasizes that Duradry is able to provide all round protection for even the most severe cases of",
+    "x": 0.1526,
+    "y": 0.57,
+    "w": 0.676,
+    "h": 0.0312
+   },
+   {
+    "t": "hyperhidrosis (excessive sweating).",
+    "x": 0.1526,
+    "y": 0.6005,
+    "w": 0.189,
+    "h": 0.0209
+   },
+   {
+    "t": "Below the headline, a short paragraph explains that the product is designed as a maximum antiperspirant solution, exceeding the",
+    "x": 0.1526,
+    "y": 0.6471,
+    "w": 0.6773,
+    "h": 0.0239
+   },
+   {
+    "t": "effectiveness of other products on the market. To substantiate the claim, there is a comparison chart in the form of a horizontal bar",
+    "x": 0.1526,
+    "y": 0.6708,
+    "w": 0.6904,
+    "h": 0.0237
+   },
+   {
+    "t": "chart that shows how effective Duradry is compared to other types of products such as Clinical Strength Antiperspirants, regular",
+    "x": 0.1526,
+    "y": 0.6945,
+    "w": 0.6773,
+    "h": 0.0237
+   },
+   {
+    "t": "Antiperspirants, and Deodorant. Duradry's bar looks the longest, emphasizing that its effectiveness is at the highest level.",
+    "x": 0.1526,
+    "y": 0.718,
+    "w": 0.6395,
+    "h": 0.0239
+   },
+   {
+    "t": "On the right side, the main visual is an image of a Duradry product in bright red packaging, being held by a person's hand. The",
+    "x": 0.1526,
+    "y": 0.765,
+    "w": 0.6628,
+    "h": 0.0235
+   },
+   {
+    "t": "\"Deep Cleansing & Deodorizing Wash\" highlights the product's function as",
+    "x": 0.4549,
+    "y": 0.7855,
+    "w": 0.3924,
+    "h": 0.0265
+   },
+   {
+    "t": "product shown is Duradry Wash, and a small label reading",
+    "x": 0.1526,
+    "y": 0.7905,
+    "w": 0.3038,
+    "h": 0.0215
+   },
+   {
+    "t": "a deep cleanser and deodorizer, supporting the effectiveness of the other products in the Duradry system.",
+    "x": 0.1526,
+    "y": 0.8117,
+    "w": 0.5625,
+    "h": 0.0238
+   },
+   {
+    "t": "This entire section is designed to build trust and confidence in potential users that Duradry is not just another deodorant, but a",
+    "x": 0.1526,
+    "y": 0.859,
+    "w": 0.6657,
+    "h": 0.0238
+   },
+   {
+    "t": "clinical solution that is powerful, modern, and visually proven to be superior to its competitors. The \"Get Started for $20\" button at",
+    "x": 0.1526,
+    "y": 0.8789,
+    "w": 0.6847,
+    "h": 0.0313
+   },
+   {
+    "t": "the bottom also encourages users to try it out right away at an affordable price.",
+    "x": 0.1512,
+    "y": 0.9086,
+    "w": 0.4215,
+    "h": 0.0209
+   },
+   {
+    "t": "Flexible Delivery, Zero Hassle",
+    "x": 0.1525,
+    "y": 0.9581,
+    "w": 0.2343,
+    "h": 0.0408
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "file": "b26.jpg",
+  "y0": 13084,
+  "y1": 13891,
+  "h": 807,
+  "color": 9.41,
+  "density": 0.415,
+  "lines": [
+   {
+    "t": "Delivered when you need it.",
+    "x": 0.266,
+    "y": 0.0953,
+    "w": 0.1802,
+    "h": 0.0291
+   },
+   {
+    "t": "Duradry is delivered when you need It. Buy it once",
+    "x": 0.266,
+    "y": 0.1423,
+    "w": 0.1846,
+    "h": 0.0161
+   },
+   {
+    "t": "on sign up for automatic refills. You choose the",
+    "x": 0.266,
+    "y": 0.1606,
+    "w": 0.1773,
+    "h": 0.013
+   },
+   {
+    "t": "FREE Shipping",
+    "x": 0.2922,
+    "y": 0.2228,
+    "w": 0.0523,
+    "h": 0.0161
+   },
+   {
+    "t": "Cancel Anytime",
+    "x": 0.4128,
+    "y": 0.2228,
+    "w": 0.0523,
+    "h": 0.013
+   },
+   {
+    "t": "100% Secure Payments",
+    "x": 0.2922,
+    "y": 0.2772,
+    "w": 0.077,
+    "h": 0.013
+   },
+   {
+    "t": "Get Started For $20",
+    "x": 0.2733,
+    "y": 0.3316,
+    "w": 0.077,
+    "h": 0.013
+   },
+   {
+    "t": "This section highlights the convenience of Duradry's flexible and hassle free delivery service. With the headline \"Delivered When",
+    "x": 0.1512,
+    "y": 0.601,
+    "w": 0.6759,
+    "h": 0.0264
+   },
+   {
+    "t": "You Need It\", the section emphasizes that users don't have to worry about running out of stock or being tied down by cumbersome",
+    "x": 0.1526,
+    "y": 0.6238,
+    "w": 0.6875,
+    "h": 0.0265
+   },
+   {
+    "t": "subscriptions. Customers can opt for a one time purchase or an automatic subscription with a customizable schedule.",
+    "x": 0.1526,
+    "y": 0.6498,
+    "w": 0.6206,
+    "h": 0.0212
+   },
+   {
+    "t": "There are three main features that are emphasized, like free shipping for every order, cancel anytime without commitment, and",
+    "x": 0.1526,
+    "y": 0.6968,
+    "w": 0.6642,
+    "h": 0.0235
+   },
+   {
+    "t": "100% secure payments that ensure convenient and protected transactions.",
+    "x": 0.1512,
+    "y": 0.7202,
+    "w": 0.3968,
+    "h": 0.0211
+   },
+   {
+    "t": "The visual on the right side shows an intimate and positive moment between two people, where one of them is holding a Duradry",
+    "x": 0.1526,
+    "y": 0.7668,
+    "w": 0.6773,
+    "h": 0.0233
+   },
+   {
+    "t": "Wash product with a satisfied smiling face. This image reflects a sense of confidence and comfort after using the product, while",
+    "x": 0.1526,
+    "y": 0.7896,
+    "w": 0.6715,
+    "h": 0.0239
+   },
+   {
+    "t": "reinforcing the message that Duradry is a personalized and trusted choice.",
+    "x": 0.1512,
+    "y": 0.8156,
+    "w": 0.3953,
+    "h": 0.0212
+   },
+   {
+    "t": "The \"Get Started For $20\" button is again presented as a strong Call To Action, encouraging users to try right away without much",
+    "x": 0.1526,
+    "y": 0.8601,
+    "w": 0.6788,
+    "h": 0.0236
+   },
+   {
+    "t": "risk. This section is suitable for building new users' trust and comfort, while highlighting the practicality of the product delivery",
+    "x": 0.1526,
+    "y": 0.886,
+    "w": 0.6642,
+    "h": 0.0236
+   },
+   {
+    "t": "Frequently Asked Questions",
+    "x": 0.1512,
+    "y": 0.9611,
+    "w": 0.2267,
+    "h": 0.0314
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "file": "b27.jpg",
+  "y0": 13922,
+  "y1": 14622,
+  "h": 700,
+  "color": 4.97,
+  "density": 0.408,
+  "lines": [
+   {
+    "t": "FAQ's",
+    "x": 0.4796,
+    "y": 0.0356,
+    "w": 0.0393,
+    "h": 0.0333
+   },
+   {
+    "t": "Loren Ipsum is simply dumny text of the printing and typesetting industry. Loren Ipsum has been the",
+    "x": 0.3154,
+    "y": 0.0836,
+    "w": 0.3692,
+    "h": 0.0179
+   },
+   {
+    "t": "industry's standard dummy text ever since the 1500s.",
+    "x": 0.4026,
+    "y": 0.1043,
+    "w": 0.1948,
+    "h": 0.0186
+   },
+   {
+    "t": "How soon will I notice a difference?",
+    "x": 0.2733,
+    "y": 0.17,
+    "w": 0.1192,
+    "h": 0.0157
+   },
+   {
+    "t": "Our users usually notlee changes after the first application!",
+    "x": 0.2733,
+    "y": 0.2209,
+    "w": 0.2282,
+    "h": 0.0179
+   },
+   {
+    "t": "Do you offer FREE shipping?",
+    "x": 0.2733,
+    "y": 0.28,
+    "w": 0.0959,
+    "h": 0.0186
+   },
+   {
+    "t": "Is Duradry safe?",
+    "x": 0.2733,
+    "y": 0.34,
+    "w": 0.0552,
+    "h": 0.0186
+   },
+   {
+    "t": "Is Duradry for me?",
+    "x": 0.2747,
+    "y": 0.4,
+    "w": 0.064,
+    "h": 0.0149
+   },
+   {
+    "t": "Are there any cancelling fees or any snaky fees?",
+    "x": 0.2733,
+    "y": 0.4597,
+    "w": 0.1613,
+    "h": 0.0149
+   },
+   {
+    "t": "Is this one of those impossible to cancel programs?",
+    "x": 0.2733,
+    "y": 0.5194,
+    "w": 0.1672,
+    "h": 0.0149
+   },
+   {
+    "t": "FAQ (Frequently Asked Questions) designed to answer common questions and concerns of potential customers in a direct and",
+    "x": 0.1526,
+    "y": 0.6471,
+    "w": 0.6642,
+    "h": 0.0275
+   },
+   {
+    "t": "transparent manner. With an interactive accordion style display, users can click on each question to see the answer without feeling",
+    "x": 0.1526,
+    "y": 0.6743,
+    "w": 0.686,
+    "h": 0.0302
+   },
+   {
+    "t": "overwhelmed by the information displayed all at once.",
+    "x": 0.1512,
+    "y": 0.7014,
+    "w": 0.2863,
+    "h": 0.0271
+   },
+   {
+    "t": "The content of the FAQ covers important matters such as: how soon effects are visible, free shipping, product safety, product",
+    "x": 0.1526,
+    "y": 0.7552,
+    "w": 0.6599,
+    "h": 0.0305
+   },
+   {
+    "t": "suitability, and cancellation policy.",
+    "x": 0.1526,
+    "y": 0.7851,
+    "w": 0.1817,
+    "h": 0.0239
+   },
+   {
+    "t": "These questions provide concise yet convincing answers to remove doubts and speed up purchasing decisions.",
+    "x": 0.1526,
+    "y": 0.8386,
+    "w": 0.5872,
+    "h": 0.0243
+   },
+   {
+    "t": "With a friendly and straightforward language style, this section supports Duradry's brand image of being open, honest, and pro user.",
+    "x": 0.1526,
+    "y": 0.8925,
+    "w": 0.6977,
+    "h": 0.0275
+   },
+   {
+    "t": "Real Results from Real People",
+    "x": 0.1524,
+    "y": 0.9459,
+    "w": 0.2373,
+    "h": 0.0429
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "file": "b28.jpg",
+  "y0": 14653,
+  "y1": 15376,
+  "h": 723,
+  "color": 2.66,
+  "density": 0.415,
+  "lines": [
+   {
+    "t": "Easy to apply. FDA approved. Fast results.",
+    "x": 0.3619,
+    "y": 0.0549,
+    "w": 0.2747,
+    "h": 0.0321
+   },
+   {
+    "t": "Three products working together to control your exceseive sweating once and for all. It's really easy to",
+    "x": 0.3067,
+    "y": 0.1036,
+    "w": 0.3881,
+    "h": 0.0152
+   },
+   {
+    "t": "use, safe and FDA-Approved.",
+    "x": 0.4491,
+    "y": 0.1243,
+    "w": 0.1017,
+    "h": 0.0145
+   },
+   {
+    "t": "I LOVE IT:",
+    "x": 0.5843,
+    "y": 0.2196,
+    "w": 0.0407,
+    "h": 0.0145
+   },
+   {
+    "t": "There is no mord to describe hoa great this",
+    "x": 0.5247,
+    "y": 0.2486,
+    "w": 0.1613,
+    "h": 0.0145
+   },
+   {
+    "t": "product is. I have suffered of excessive",
+    "x": 0.5291,
+    "y": 0.2659,
+    "w": 0.1512,
+    "h": 0.0173
+   },
+   {
+    "t": "underarm sweat since I was 13. Excessive pit net",
+    "x": 0.5145,
+    "y": 0.2859,
+    "w": 0.1802,
+    "h": 0.018
+   },
+   {
+    "t": "stains every single day hat or cold. It has been",
+    "x": 0.5145,
+    "y": 0.3064,
+    "w": 0.1802,
+    "h": 0.0173
+   },
+   {
+    "t": "over 100\u00b0 in my alty and Duradry has reduced my",
+    "x": 0.5174,
+    "y": 0.326,
+    "w": 0.1759,
+    "h": 0.018
+   },
+   {
+    "t": "senat by = 90%. With Just a week worth of using",
+    "x": 0.516,
+    "y": 0.3467,
+    "w": 0.1773,
+    "h": 0.018
+   },
+   {
+    "t": "it. I LOVE IT: It feels weird to not sweat as",
+    "x": 0.5203,
+    "y": 0.3671,
+    "w": 0.1701,
+    "h": 0.0173
+   },
+   {
+    "t": "much I1ke 1 had the past 11 years!",
+    "x": 0.5407,
+    "y": 0.3867,
+    "w": 0.1279,
+    "h": 0.0152
+   },
+   {
+    "t": "- Rosario Mendoza l",
+    "x": 0.5741,
+    "y": 0.422,
+    "w": 0.064,
+    "h": 0.0145
+   },
+   {
+    "t": "This testimonial section serves as strong social proof to convince potential users that Duradry products are truly effective, safe, and",
+    "x": 0.1526,
+    "y": 0.5809,
+    "w": 0.6933,
+    "h": 0.0296
+   },
+   {
+    "t": "reliable. With the title \"Easy to apply. FDA approved. Fast results.\", this section immediately highlights the three main advantages of",
+    "x": 0.1497,
+    "y": 0.6064,
+    "w": 0.6919,
+    "h": 0.0324
+   },
+   {
+    "t": "the product in a concise yet impactful manner: easy to use, FDA approved, and fast results.",
+    "x": 0.1512,
+    "y": 0.6354,
+    "w": 0.4811,
+    "h": 0.0265
+   },
+   {
+    "t": "The supporting sentence explains that the three products work together to permanently control excessive sweating, with an easy",
+    "x": 0.1526,
+    "y": 0.685,
+    "w": 0.6802,
+    "h": 0.0291
+   },
+   {
+    "t": "and safe approach. The testimonial from Rosario Mendoza is presented as a very relatable personal story, especially for those who",
+    "x": 0.1526,
+    "y": 0.7139,
+    "w": 0.686,
+    "h": 0.0265
+   },
+   {
+    "t": "have struggled with excessive sweating for a long time. Rosario shared that she has been experiencing excessive underarm",
+    "x": 0.1526,
+    "y": 0.7399,
+    "w": 0.6483,
+    "h": 0.0267
+   },
+   {
+    "t": "sweating since the age of 13, which causes stains on her clothes every day in both hot and cold weather. She mentioned that with",
+    "x": 0.1526,
+    "y": 0.7659,
+    "w": 0.6846,
+    "h": 0.026
+   },
+   {
+    "t": "Duradry, her sweating rate decreased by 90% in just a week. The line \"It feels weird to not sweat as much as I had the past 11",
+    "x": 0.1526,
+    "y": 0.7914,
+    "w": 0.6584,
+    "h": 0.0265
+   },
+   {
+    "t": "years!\" is emotionally powerful and shows a real transformation in her life.",
+    "x": 0.1512,
+    "y": 0.8177,
+    "w": 0.3895,
+    "h": 0.0263
+   },
+   {
+    "t": "In addition, the supporting visual of two smiling people holding the product reinforces the brand's positive, warm and trustworthy",
+    "x": 0.1526,
+    "y": 0.8687,
+    "w": 0.6788,
+    "h": 0.0304
+   },
+   {
+    "t": "vibe. All the elements in this section come together to create a sense of trust and desire to try in potential buyers.",
+    "x": 0.1526,
+    "y": 0.8988,
+    "w": 0.5988,
+    "h": 0.0238
+   },
+   {
+    "t": "Footer",
+    "x": 0.1511,
+    "y": 0.9531,
+    "w": 0.054,
+    "h": 0.0331
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "file": "b29.jpg",
+  "y0": 15408,
+  "y1": 16125,
+  "h": 717,
+  "color": 6.64,
+  "density": 0.449,
+  "lines": [
+   {
+    "t": "Duradry",
+    "x": 0.2631,
+    "y": 0.2855,
+    "w": 0.0582,
+    "h": 0.0324
+   },
+   {
+    "t": "Sign up for new product releases,",
+    "x": 0.5858,
+    "y": 0.2883,
+    "w": 0.1468,
+    "h": 0.0209
+   },
+   {
+    "t": "My Account",
+    "x": 0.343,
+    "y": 0.2911,
+    "w": 0.0407,
+    "h": 0.0181
+   },
+   {
+    "t": "Shipping & Returns",
+    "x": 0.4651,
+    "y": 0.2911,
+    "w": 0.0712,
+    "h": 0.0181
+   },
+   {
+    "t": "free design resources.",
+    "x": 0.5858,
+    "y": 0.3148,
+    "w": 0.0959,
+    "h": 0.0209
+   },
+   {
+    "t": "Privacy Policy",
+    "x": 0.343,
+    "y": 0.3175,
+    "w": 0.0567,
+    "h": 0.0181
+   },
+   {
+    "t": "Blog",
+    "x": 0.4637,
+    "y": 0.3207,
+    "w": 0.0189,
+    "h": 0.0146
+   },
+   {
+    "t": "Terms & Conditions",
+    "x": 0.343,
+    "y": 0.3468,
+    "w": 0.0712,
+    "h": 0.0181
+   },
+   {
+    "t": "About Us",
+    "x": 0.4637,
+    "y": 0.3496,
+    "w": 0.0349,
+    "h": 0.0153
+   },
+   {
+    "t": "Enter onal: sodress",
+    "x": 0.5945,
+    "y": 0.3673,
+    "w": 0.0727,
+    "h": 0.0117
+   },
+   {
+    "t": "Disclaimer: Customer perception reports the appearance of dryness in as little as 3",
+    "x": 0.2616,
+    "y": 0.4805,
+    "w": 0.311,
+    "h": 0.0181
+   },
+   {
+    "t": "0 2020 - A11 rights reserved",
+    "x": 0.6265,
+    "y": 0.4805,
+    "w": 0.1061,
+    "h": 0.0181
+   },
+   {
+    "t": "days after product used as direcred. Individual results may very, If you ane not",
+    "x": 0.2616,
+    "y": 0.5014,
+    "w": 0.2994,
+    "h": 0.0153
+   },
+   {
+    "t": "satferled with the results you can cancel anytime.",
+    "x": 0.2616,
+    "y": 0.5219,
+    "w": 0.1875,
+    "h": 0.0175
+   },
+   {
+    "t": "The footer section of the Duradry website is designed with a simple yet informative look. On the left side, there is a logo or brand",
+    "x": 0.1512,
+    "y": 0.6152,
+    "w": 0.6788,
+    "h": 0.0297
+   },
+   {
+    "t": "name \"Duradry\" displayed in a bold pink font, creating an interesting visual contrast on the light blue background. Underneath, there",
+    "x": 0.1526,
+    "y": 0.6379,
+    "w": 0.6933,
+    "h": 0.0298
+   },
+   {
+    "t": "are some important links such as My Account, Privacy Policy, and Terms & Conditions, which are useful for users to access",
+    "x": 0.1526,
+    "y": 0.6671,
+    "w": 0.6453,
+    "h": 0.0267
+   },
+   {
+    "t": "information or manage their accounts. In the center, there is additional navigation such as Shipping & Returns, Blog, and About Us,",
+    "x": 0.1526,
+    "y": 0.6908,
+    "w": 0.6846,
+    "h": 0.0293
+   },
+   {
+    "t": "which helps users explore more about the company's services and information.",
+    "x": 0.1526,
+    "y": 0.7201,
+    "w": 0.4172,
+    "h": 0.0265
+   },
+   {
+    "t": "Meanwhile, the right side features an invitation to subscribe via email with the phrase \"Sign up for new product releases, free design",
+    "x": 0.1526,
+    "y": 0.7755,
+    "w": 0.6948,
+    "h": 0.0239
+   },
+   {
+    "t": "resources., accompanied by an email input field and a prominent bright pink submit button. At the bottom, there is a disclaimer",
+    "x": 0.1512,
+    "y": 0.8017,
+    "w": 0.6701,
+    "h": 0.0233
+   },
+   {
+    "t": "explaining that the results of using the product can be seen within three days, although individual results may vary, It also",
+    "x": 0.1526,
+    "y": 0.8273,
+    "w": 0.6381,
+    "h": 0.024
+   },
+   {
+    "t": "emphasizes that customers can cancel at any time if they are not satisfied with the results.",
+    "x": 0.1526,
+    "y": 0.8538,
+    "w": 0.4782,
+    "h": 0.0238
+   },
+   {
+    "t": "And finally, the copyright is clearly displayed followed by social media icons such as Facebook and Instagram, which reinforces",
+    "x": 0.1526,
+    "y": 0.9067,
+    "w": 0.6672,
+    "h": 0.0265
+   },
+   {
+    "t": "credibility and gives the option to further connect with the brand. All these elements in the footer serve to provide a sense of",
+    "x": 0.1526,
+    "y": 0.93,
+    "w": 0.6584,
+    "h": 0.0296
+   },
+   {
+    "t": "security, easy access to information, and opportunities for further engagement with users.",
+    "x": 0.1526,
+    "y": 0.9592,
+    "w": 0.4767,
+    "h": 0.0269
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "file": "b30.jpg",
+  "y0": 16156,
+  "y1": 16420,
+  "h": 264,
+  "color": 0.0,
+  "density": 0.287,
+  "lines": [
+   {
+    "t": "Usability Testing",
+    "x": 0.1526,
+    "y": 0.0476,
+    "w": 0.1323,
+    "h": 0.1039
+   },
+   {
+    "t": "To evaluate the effectiveness and usability of Duradry, I conducted usability testing sessions by setting up realistic scenarios with",
+    "x": 0.1526,
+    "y": 0.1818,
+    "w": 0.6817,
+    "h": 0.0644
+   },
+   {
+    "t": "task based activities. The main objective of the testing was to understand how users interact with the application, identify pain",
+    "x": 0.1512,
+    "y": 0.2538,
+    "w": 0.6672,
+    "h": 0.072
+   },
+   {
+    "t": "points, and validate whether the designed features are truly aligned with the needs and expectations of users.",
+    "x": 0.1526,
+    "y": 0.3254,
+    "w": 0.5799,
+    "h": 0.0723
+   },
+   {
+    "t": "Participants were given the following scenario to complete:",
+    "x": 0.1526,
+    "y": 0.4683,
+    "w": 0.3125,
+    "h": 0.0635
+   },
+   {
+    "t": "1. You are now on the homepage and want to see the main products that Duradry offers. What are you doing right now?",
+    "x": 0.1555,
+    "y": 0.5379,
+    "w": 0.6294,
+    "h": 0.0732
+   },
+   {
+    "t": "2. Now you want to find out information about the types of products available and what their benefits are. How do you do that?",
+    "x": 0.1555,
+    "y": 0.6098,
+    "w": 0.6672,
+    "h": 0.0727
+   },
+   {
+    "t": "3. You also want to know how to use Duradry products. How do you find out?",
+    "x": 0.1555,
+    "y": 0.6894,
+    "w": 0.407,
+    "h": 0.0646
+   },
+   {
+    "t": "4. After understanding the product thoroughly, you are still unsure and want to see reviews from other people. What did you do?",
+    "x": 0.1555,
+    "y": 0.7538,
+    "w": 0.6744,
+    "h": 0.072
+   },
+   {
+    "t": "5. You are interested in buying it, but you are not sure if you can get free shipping or not, so you want to find out this information.",
+    "x": 0.1555,
+    "y": 0.8156,
+    "w": 0.6788,
+    "h": 0.0936
+   },
+   {
+    "t": "How do you do that?",
+    "x": 0.1686,
+    "y": 0.9048,
+    "w": 0.1105,
+    "h": 0.0649
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "file": "b31.jpg",
+  "y0": 16455,
+  "y1": 16608,
+  "h": 153,
+  "color": 0.0,
+  "density": 0.231,
+  "lines": [
+   {
+    "t": "Reflection",
+    "x": 0.1526,
+    "y": 0.0811,
+    "w": 0.0799,
+    "h": 0.1486
+   },
+   {
+    "t": "If I had additional time, I would:",
+    "x": 0.1526,
+    "y": 0.3108,
+    "w": 0.1657,
+    "h": 0.1113
+   },
+   {
+    "t": "1. UT will be conducted with specific scenarios and tasks to test information flow, visuals, and clarity of CTAs. Feedback from users",
+    "x": 0.1555,
+    "y": 0.4189,
+    "w": 0.6919,
+    "h": 0.1351
+   },
+   {
+    "t": "will be used for design iteration.",
+    "x": 0.1686,
+    "y": 0.5519,
+    "w": 0.1701,
+    "h": 0.1237
+   },
+   {
+    "t": "2. If direct UT is not possible, a survey with design screenshots will be created to get initial insight from the target audience.",
+    "x": 0.1555,
+    "y": 0.6753,
+    "w": 0.6541,
+    "h": 0.1234
+   },
+   {
+    "t": "3. Design evaluation by other designers based on usability principles (such as minimalism, consistency, and ease of navigation).",
+    "x": 0.1555,
+    "y": 0.7973,
+    "w": 0.673,
+    "h": 0.1248
+   }
+  ]
+ }
+]

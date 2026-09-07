@@ -1,0 +1,93 @@
+{
+ "slug": "morgan-morgan",
+ "name": "Morgan & Morgan",
+ "category": "Marketing site",
+ "tier": "light",
+ "dek": "A clearer path to legal help for people who fear the cost of asking.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": "2021",
+  "platform": "Responsive web",
+  "scope": "Competitor analysis, user journey, design system, hi-fi homepage, usability testing",
+  "industry": "Legal services",
+  "hard_part": "Earning trust from stressed, first-time visitors fast enough that they act before hesitation about cost and outcome wins.",
+  "look_for": "How every section answers one objection in sequence: can I trust them, can they win, what will it cost, what do I do now."
+ },
+ "problem": {
+  "claim_h2": "The biggest barrier to legal help is asking",
+  "thesis": "People with a real case often never contact a firm, because cost feels unknowable, outcomes feel uncertain, and the process feels built for lawyers, not for them.",
+  "body": "Accident victims land on a law firm's homepage in a stressful moment, and most firms answer with dense navigation, vague credentials, and no clear first step. The homepage had to convert hesitation into a single low-risk action: a free case evaluation.",
+  "bullets": [
+   "Upfront cost fears stop people from finding out whether their case is even viable.",
+   "Firms rarely show real results, so visitors have no way to judge credibility.",
+   "Confusing structure and jargon leave people unsure where the process starts."
+  ],
+  "research_note": "A competitor pass across firms like Cellino & Barnes, Jacoby & Meyers, The Barnes Firm, and Law Tigers showed strong brands undercut by dated design, crowded layouts, and buried consultation paths."
+ },
+ "decisions": [],
+ "pull_quote": null,
+ "design": {
+  "claim_h2": "One page, four objections, one action",
+  "intro": "The homepage is sequenced as an argument: establish credibility, prove results, remove the cost objection, then make the ask trivially easy.",
+  "figures": [
+   {
+    "figure": "b21-crop.jpg",
+    "caption": "The hero leads with recovered results and a phone number in the header, so the highest-intent visitors can act without scrolling.",
+    "alt": "Dark hero section with a group photo of attorneys, a bold recovered-for-clients headline, a phone number in the top bar, and a yellow free case evaluation button.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b23-crop.jpg",
+    "caption": "Result cards pair the final award with the pre-trial offer, turning an abstract claim about never settling into inspectable evidence.",
+    "alt": "Navy section titled We Never Settle for Less with two white case cards showing car accident verdicts against much smaller pre-trial offers, beside an attorney portrait.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b25-crop.jpg",
+    "caption": "A quiet values section states who the firm fights for in plain language, giving hesitant visitors a reason to believe before the ask.",
+    "alt": "Light section titled We Fight For The People with short paragraphs of plain-language copy beside a photo of a gavel resting on a book and cash.",
+    "frame": "light"
+   },
+   {
+    "figure": "b26-crop.jpg",
+    "caption": "A side-by-side table contrasts retainer and contingency billing, dismantling the cost objection right before the evaluation CTA.",
+    "alt": "Light comparison section titled It's Free Unless We Win with two columns comparing retainer-based and contingency-based models above a yellow CTA button.",
+    "frame": "light"
+   },
+   {
+    "figure": "b27-crop.jpg",
+    "caption": "The evaluation form asks only what intake needs, with a lawyer-and-client photo alongside to keep the step feeling human, not legal.",
+    "alt": "Light section with a photo of a lawyer speaking with an older client next to a short case evaluation form with name, contact, zip code, case type, and description fields.",
+    "frame": "light"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Learn about the firm",
+   "Judge if they can win",
+   "Understand the cost model",
+   "Schedule a consultation"
+  ],
+  "changed": [],
+  "honest_line": "Moderated sessions with first-time visitors showed the page communicates credibility and a clear next step, but a concept test cannot prove real claimants under real stress would convert."
+ },
+ "learnings": [],
+ "appendix": {
+  "framing": "The system underneath the page: a trust-first palette, a heavy Poppins type scale, and a button set built around one unmistakable yellow action.",
+  "figures": [
+   {
+    "figure": "b10.jpg",
+    "caption": "Deep blue carries authority, icy blue softens it, and a single loud yellow is reserved for the actions that matter.",
+    "alt": "Primary color swatches on a dark board: Sonic Blue, pale Icy Landscape, and bright yellow Pac-Man with hex values."
+   },
+   {
+    "figure": "b18.jpg",
+    "caption": "Button states from filled yellow to ghost and icon-only keep one action color while giving secondary paths quieter forms.",
+    "alt": "Button component sheet showing yellow filled, outlined, text-only, and circular icon buttons in default and disabled states on a dark background."
+   }
+  ]
+ },
+ "next": "karma"
+}

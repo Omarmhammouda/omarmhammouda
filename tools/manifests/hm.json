@@ -1,0 +1,8498 @@
+[
+ {
+  "i": 0,
+  "file": "b00.jpg",
+  "y0": 117,
+  "y1": 234,
+  "h": 117,
+  "color": 0.0,
+  "density": 0.098,
+  "lines": [
+   {
+    "t": "HM",
+    "x": 0.2238,
+    "y": 0.1053,
+    "w": 0.0494,
+    "h": 0.3158
+   },
+   {
+    "t": "Manage Products More Easily, Monitor Quicker",
+    "x": 0.2208,
+    "y": 0.65,
+    "w": 0.4333,
+    "h": 0.3
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "file": "b01.jpg",
+  "y0": 281,
+  "y1": 396,
+  "h": 115,
+  "color": 0.0,
+  "density": 0.264,
+  "lines": [
+   {
+    "t": "As a platform focused on quality and efficiency, this system is specifically designed",
+    "x": 0.2224,
+    "y": 0.1034,
+    "w": 0.548,
+    "h": 0.218
+   },
+   {
+    "t": "for administrators to monitor product reviews from users, filter the product",
+    "x": 0.2209,
+    "y": 0.3032,
+    "w": 0.4943,
+    "h": 0.2383
+   },
+   {
+    "t": "database based on specific criteria, and easily copy purchase details links for",
+    "x": 0.2224,
+    "y": 0.5172,
+    "w": 0.5102,
+    "h": 0.2155
+   },
+   {
+    "t": "documentation or information distribution purposes.",
+    "x": 0.2224,
+    "y": 0.7321,
+    "w": 0.3445,
+    "h": 0.1989
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "file": "b02.jpg",
+  "y0": 437,
+  "y1": 1033,
+  "h": 596,
+  "color": 6.73,
+  "density": 0.564,
+  "lines": []
+ },
+ {
+  "i": 3,
+  "file": "b03.jpg",
+  "y0": 1070,
+  "y1": 1549,
+  "h": 479,
+  "color": 0.86,
+  "density": 0.191,
+  "lines": [
+   {
+    "t": "Project Overview",
+    "x": 0.3416,
+    "y": 0.0646,
+    "w": 0.1584,
+    "h": 0.0572
+   },
+   {
+    "t": "HM",
+    "x": 0.2049,
+    "y": 0.1043,
+    "w": 0.061,
+    "h": 0.1478
+   },
+   {
+    "t": "In this project, the system was developed to simplify the management of product related",
+    "x": 0.3416,
+    "y": 0.1521,
+    "w": 0.4608,
+    "h": 0.0396
+   },
+   {
+    "t": "information and purchase details for administrators. The primary focus is to provide",
+    "x": 0.3401,
+    "y": 0.1957,
+    "w": 0.4331,
+    "h": 0.0356
+   },
+   {
+    "t": "administrators with full control to monitor user feedback, efficiently search for products using",
+    "x": 0.3416,
+    "y": 0.2304,
+    "w": 0.484,
+    "h": 0.0391
+   },
+   {
+    "t": "filter features, and share purchase details in a practical manner. With these features, it is",
+    "x": 0.3416,
+    "y": 0.2729,
+    "w": 0.4578,
+    "h": 0.0358
+   },
+   {
+    "t": "expected that administrators can maintain product quality while accelerating monitoring",
+    "x": 0.3416,
+    "y": 0.3125,
+    "w": 0.4564,
+    "h": 0.0354
+   },
+   {
+    "t": "processes and internal communication.",
+    "x": 0.3415,
+    "y": 0.3517,
+    "w": 0.2036,
+    "h": 0.0355
+   },
+   {
+    "t": "Industry",
+    "x": 0.1599,
+    "y": 0.3996,
+    "w": 0.0466,
+    "h": 0.0355
+   },
+   {
+    "t": "\u2022 E-Commerce",
+    "x": 0.1657,
+    "y": 0.4391,
+    "w": 0.0814,
+    "h": 0.0304
+   },
+   {
+    "t": "\u2022 Retail Technology",
+    "x": 0.1657,
+    "y": 0.4783,
+    "w": 0.1047,
+    "h": 0.0391
+   },
+   {
+    "t": "Solution",
+    "x": 0.6264,
+    "y": 0.4997,
+    "w": 0.0814,
+    "h": 0.0571
+   },
+   {
+    "t": "Problem",
+    "x": 0.3648,
+    "y": 0.5043,
+    "w": 0.077,
+    "h": 0.0522
+   },
+   {
+    "t": "\u2022 Customer Experience",
+    "x": 0.1657,
+    "y": 0.5167,
+    "w": 0.1235,
+    "h": 0.0355
+   },
+   {
+    "t": "Management (CXM)",
+    "x": 0.1759,
+    "y": 0.5562,
+    "w": 0.1076,
+    "h": 0.0438
+   },
+   {
+    "t": "1. Admins have difficulty monitoring product",
+    "x": 0.3445,
+    "y": 0.5913,
+    "w": 0.2326,
+    "h": 0.0399
+   },
+   {
+    "t": "1. Provide a feature to display product",
+    "x": 0.6076,
+    "y": 0.5913,
+    "w": 0.202,
+    "h": 0.0441
+   },
+   {
+    "t": "\u2022 Admin Dashboard",
+    "x": 0.1642,
+    "y": 0.5957,
+    "w": 0.1076,
+    "h": 0.0356
+   },
+   {
+    "t": "System",
+    "x": 0.1758,
+    "y": 0.6345,
+    "w": 0.0422,
+    "h": 0.0441
+   },
+   {
+    "t": "quality because they do not have direct",
+    "x": 0.359,
+    "y": 0.6348,
+    "w": 0.2064,
+    "h": 0.0348
+   },
+   {
+    "t": "reviews by users so that admins can",
+    "x": 0.6206,
+    "y": 0.6348,
+    "w": 0.1919,
+    "h": 0.0348
+   },
+   {
+    "t": "access to user reviews.",
+    "x": 0.3576,
+    "y": 0.6729,
+    "w": 0.1235,
+    "h": 0.0314
+   },
+   {
+    "t": "monitor feedback in real time.",
+    "x": 0.6221,
+    "y": 0.6729,
+    "w": 0.1541,
+    "h": 0.0314
+   },
+   {
+    "t": "2. Add a filter feature to facilitate product",
+    "x": 0.6076,
+    "y": 0.7083,
+    "w": 0.218,
+    "h": 0.0396
+   },
+   {
+    "t": "2. The process of searching for products in",
+    "x": 0.3445,
+    "y": 0.7125,
+    "w": 0.2253,
+    "h": 0.0354
+   },
+   {
+    "t": "Tools",
+    "x": 0.1613,
+    "y": 0.7304,
+    "w": 0.0291,
+    "h": 0.0348
+   },
+   {
+    "t": "the database is too time consuming and",
+    "x": 0.3576,
+    "y": 0.7521,
+    "w": 0.2093,
+    "h": 0.0354
+   },
+   {
+    "t": "searches based on specific criteria",
+    "x": 0.6221,
+    "y": 0.7521,
+    "w": 0.1817,
+    "h": 0.0312
+   },
+   {
+    "t": "Figma",
+    "x": 0.1599,
+    "y": 0.7696,
+    "w": 0.0334,
+    "h": 0.0435
+   },
+   {
+    "t": "(product name, review, customer, etc.).",
+    "x": 0.6221,
+    "y": 0.787,
+    "w": 0.2049,
+    "h": 0.0401
+   },
+   {
+    "t": "inefficient,",
+    "x": 0.3576,
+    "y": 0.7913,
+    "w": 0.0552,
+    "h": 0.0304
+   },
+   {
+    "t": "3. Detailed purchase information is difficult",
+    "x": 0.3445,
+    "y": 0.8304,
+    "w": 0.2238,
+    "h": 0.0348
+   },
+   {
+    "t": "3. Provide an option to copy links to product",
+    "x": 0.609,
+    "y": 0.8304,
+    "w": 0.2311,
+    "h": 0.0348
+   },
+   {
+    "t": "to share or document because there is no",
+    "x": 0.3576,
+    "y": 0.8688,
+    "w": 0.218,
+    "h": 0.0312
+   },
+   {
+    "t": "purchase details for easy sharing or",
+    "x": 0.6221,
+    "y": 0.8688,
+    "w": 0.1875,
+    "h": 0.0356
+   },
+   {
+    "t": "Year",
+    "x": 0.1584,
+    "y": 0.8696,
+    "w": 0.0291,
+    "h": 0.0348
+   },
+   {
+    "t": "link copy feature.",
+    "x": 0.3576,
+    "y": 0.9083,
+    "w": 0.0901,
+    "h": 0.0354
+   },
+   {
+    "t": "2023",
+    "x": 0.1599,
+    "y": 0.9085,
+    "w": 0.0291,
+    "h": 0.0352
+   },
+   {
+    "t": "saving.",
+    "x": 0.6206,
+    "y": 0.913,
+    "w": 0.0392,
+    "h": 0.0391
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "file": "b04.jpg",
+  "y0": 1580,
+  "y1": 1781,
+  "h": 201,
+  "color": 0.14,
+  "density": 0.254,
+  "lines": [
+   {
+    "t": "\u00ae My Role and Responsibility",
+    "x": 0.1542,
+    "y": 0.0294,
+    "w": 0.275,
+    "h": 0.1785
+   },
+   {
+    "t": "In this project, I took on the role of a UX/Ul Designer, responsible for designing an intuitive and efficient admin interface that",
+    "x": 0.1512,
+    "y": 0.297,
+    "w": 0.6526,
+    "h": 0.0947
+   },
+   {
+    "t": "supports key functionalities such as viewing user product reviews, filtering the product database, and accessing detailed purchase",
+    "x": 0.1526,
+    "y": 0.3812,
+    "w": 0.6875,
+    "h": 0.104
+   },
+   {
+    "t": "links.",
+    "x": 0.1497,
+    "y": 0.4841,
+    "w": 0.032,
+    "h": 0.0936
+   },
+   {
+    "t": "My responsibilities included conducting competitive analysis, creating user flows based on admin needs, and translating user",
+    "x": 0.1526,
+    "y": 0.6683,
+    "w": 0.6584,
+    "h": 0.0946
+   },
+   {
+    "t": "stories into user flow, wireframes, and high fidelity design in Figma. Additionally, I ensured that the design maintained consistency,",
+    "x": 0.1526,
+    "y": 0.7624,
+    "w": 0.686,
+    "h": 0.104
+   },
+   {
+    "t": "accessibility, and responsiveness across devices to optimize the admin experience.",
+    "x": 0.1526,
+    "y": 0.866,
+    "w": 0.439,
+    "h": 0.0845
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "file": "b05.jpg",
+  "y0": 1820,
+  "y1": 2313,
+  "h": 493,
+  "color": 0.0,
+  "density": 0.252,
+  "lines": [
+   {
+    "t": "Process",
+    "x": 0.1529,
+    "y": 0.0208,
+    "w": 0.0743,
+    "h": 0.0458
+   },
+   {
+    "t": "The design process for this project was divided into four key phases to ensure a user centered and results experience:",
+    "x": 0.1529,
+    "y": 0.1333,
+    "w": 0.6229,
+    "h": 0.0333
+   },
+   {
+    "t": "1. Discovery",
+    "x": 0.1557,
+    "y": 0.2074,
+    "w": 0.0658,
+    "h": 0.0394
+   },
+   {
+    "t": "During the discovery step, I did a competitor analysis to see how other platforms handle similar features, like review displays,",
+    "x": 0.17,
+    "y": 0.2449,
+    "w": 0.6571,
+    "h": 0.0426
+   },
+   {
+    "t": "product filters, and purchase details. From there, I found some common pain points, like reviews that aren't very informative or",
+    "x": 0.1686,
+    "y": 0.2874,
+    "w": 0.6643,
+    "h": 0.0385
+   },
+   {
+    "t": "filters that are confusing. I also studied the main users and audience, who are admins who need quick, efficient, and informative",
+    "x": 0.1686,
+    "y": 0.325,
+    "w": 0.6714,
+    "h": 0.0375
+   },
+   {
+    "t": "access to product data and user feedback.",
+    "x": 0.1685,
+    "y": 0.3594,
+    "w": 0.2259,
+    "h": 0.0426
+   },
+   {
+    "t": "2. Ideation",
+    "x": 0.1528,
+    "y": 0.4371,
+    "w": 0.0601,
+    "h": 0.0425
+   },
+   {
+    "t": "The ideation process began with designing user flows to illustrate the admin's interaction flow in completing specific tasks, such",
+    "x": 0.17,
+    "y": 0.4792,
+    "w": 0.6729,
+    "h": 0.0333
+   },
+   {
+    "t": "as filtering products, copying purchase links, and viewing details of products sold. Next, I created a user journey to understand",
+    "x": 0.1686,
+    "y": 0.5162,
+    "w": 0.6657,
+    "h": 0.0385
+   },
+   {
+    "t": "the admin's experience from start to finish when using the system, to ensure that each step felt logical and comfortable.",
+    "x": 0.1686,
+    "y": 0.5542,
+    "w": 0.6329,
+    "h": 0.0375
+   },
+   {
+    "t": "3. Design Process",
+    "x": 0.1543,
+    "y": 0.6292,
+    "w": 0.0971,
+    "h": 0.0375
+   },
+   {
+    "t": "To keep the appearance consistent and easy to develop, I compiled a design system that included professional and easy to read",
+    "x": 0.17,
+    "y": 0.67,
+    "w": 0.6729,
+    "h": 0.0385
+   },
+   {
+    "t": "main colors, clean and responsive typography, and reusable Ul components such as buttons, product cards, and input fields.",
+    "x": 0.17,
+    "y": 0.7083,
+    "w": 0.6543,
+    "h": 0.0375
+   },
+   {
+    "t": "This design system became the visual and interactive basis for the entire admin interface.",
+    "x": 0.17,
+    "y": 0.7449,
+    "w": 0.4729,
+    "h": 0.0385
+   },
+   {
+    "t": "4. Usability Testing",
+    "x": 0.1543,
+    "y": 0.825,
+    "w": 0.1029,
+    "h": 0.0375
+   },
+   {
+    "t": "During the usability testing phase, I created several scenarios and tasks that represent the admin's primary tasks, such as",
+    "x": 0.17,
+    "y": 0.8623,
+    "w": 0.6386,
+    "h": 0.0385
+   },
+   {
+    "t": "filtering products, copying purchase links, and viewing details of sold products. This testing helped identify obstacles in the",
+    "x": 0.1686,
+    "y": 0.9,
+    "w": 0.6486,
+    "h": 0.0375
+   },
+   {
+    "t": "usage flow and ensured that the designed solutions are truly easy to understand and use by the target users.",
+    "x": 0.1686,
+    "y": 0.9413,
+    "w": 0.5757,
+    "h": 0.0344
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "file": "b06.jpg",
+  "y0": 2350,
+  "y1": 2694,
+  "h": 344,
+  "color": 0.0,
+  "density": 0.197,
+  "lines": [
+   {
+    "t": "Discovery",
+    "x": 0.1523,
+    "y": 0.0201,
+    "w": 0.0952,
+    "h": 0.0859
+   },
+   {
+    "t": "Discover and Understanding",
+    "x": 0.1512,
+    "y": 0.2121,
+    "w": 0.1904,
+    "h": 0.0669
+   },
+   {
+    "t": "In the first step, I started by analyzing competitors with similar platforms that have admin features for product management and",
+    "x": 0.1526,
+    "y": 0.3394,
+    "w": 0.6715,
+    "h": 0.056
+   },
+   {
+    "t": "product reviews. The focus was on how other platforms display reviews, provide filter features, and manage access to purchase",
+    "x": 0.1526,
+    "y": 0.3939,
+    "w": 0.6715,
+    "h": 0.0545
+   },
+   {
+    "t": "details.",
+    "x": 0.1526,
+    "y": 0.4538,
+    "w": 0.0408,
+    "h": 0.044
+   },
+   {
+    "t": "Competitor Analysis",
+    "x": 0.1512,
+    "y": 0.5814,
+    "w": 0.1366,
+    "h": 0.061
+   },
+   {
+    "t": "To understand how popular platforms design admin systems for product management and user reviews, I conducted a competitor",
+    "x": 0.1526,
+    "y": 0.697,
+    "w": 0.6831,
+    "h": 0.0559
+   },
+   {
+    "t": "analysis of several tools commonly used in the e-Commerce industry. The main focus of this analysis was how each platform",
+    "x": 0.1526,
+    "y": 0.7515,
+    "w": 0.6555,
+    "h": 0.0485
+   },
+   {
+    "t": "displays user reviews, provides product filter features, and allows admins to copy purchase-related information. The results of the",
+    "x": 0.1526,
+    "y": 0.8052,
+    "w": 0.6817,
+    "h": 0.0554
+   },
+   {
+    "t": "analysis revealed various approaches that can be used as references and comparisons, both in terms of feature strengths and",
+    "x": 0.1526,
+    "y": 0.8605,
+    "w": 0.6628,
+    "h": 0.0552
+   },
+   {
+    "t": "potential pain points in the user experience.",
+    "x": 0.1526,
+    "y": 0.9152,
+    "w": 0.2311,
+    "h": 0.0558
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "file": "b07.jpg",
+  "y0": 2720,
+  "y1": 3484,
+  "h": 764,
+  "color": 0.2,
+  "density": 0.254,
+  "lines": [
+   {
+    "t": "Link Sharing /",
+    "x": 0.6032,
+    "y": 0.0163,
+    "w": 0.0727,
+    "h": 0.0249
+   },
+   {
+    "t": "Competitor",
+    "x": 0.298,
+    "y": 0.0164,
+    "w": 0.0596,
+    "h": 0.0219
+   },
+   {
+    "t": "Review Visibility",
+    "x": 0.391,
+    "y": 0.0164,
+    "w": 0.0858,
+    "h": 0.0247
+   },
+   {
+    "t": "Product Filtering",
+    "x": 0.4811,
+    "y": 0.0164,
+    "w": 0.0916,
+    "h": 0.0219
+   },
+   {
+    "t": "Copy Info",
+    "x": 0.6032,
+    "y": 0.0466,
+    "w": 0.0523,
+    "h": 0.028
+   },
+   {
+    "t": "Amazon",
+    "x": 0.2965,
+    "y": 0.0982,
+    "w": 0.0423,
+    "h": 0.0201
+   },
+   {
+    "t": "\u2022 Very detailed",
+    "x": 0.3968,
+    "y": 0.0982,
+    "w": 0.0785,
+    "h": 0.0224
+   },
+   {
+    "t": "Copyable link, but",
+    "x": 0.6032,
+    "y": 0.0982,
+    "w": 0.093,
+    "h": 0.0251
+   },
+   {
+    "t": "Comprehensive",
+    "x": 0.4869,
+    "y": 0.0986,
+    "w": 0.0799,
+    "h": 0.0219
+   },
+   {
+    "t": "filters (brand, sales,",
+    "x": 0.4855,
+    "y": 0.1283,
+    "w": 0.1017,
+    "h": 0.0279
+   },
+   {
+    "t": "\u2022 Includes",
+    "x": 0.3953,
+    "y": 0.1307,
+    "w": 0.0569,
+    "h": 0.0235
+   },
+   {
+    "t": "slightly hidden",
+    "x": 0.6032,
+    "y": 0.1309,
+    "w": 0.0756,
+    "h": 0.0253
+   },
+   {
+    "t": "review",
+    "x": 0.407,
+    "y": 0.1616,
+    "w": 0.0363,
+    "h": 0.0164
+   },
+   {
+    "t": "etc.)",
+    "x": 0.4855,
+    "y": 0.1616,
+    "w": 0.0247,
+    "h": 0.0219
+   },
+   {
+    "t": "metrics",
+    "x": 0.4069,
+    "y": 0.1883,
+    "w": 0.0395,
+    "h": 0.026
+   },
+   {
+    "t": "Limited filters, mostly",
+    "x": 0.4855,
+    "y": 0.2408,
+    "w": 0.109,
+    "h": 0.0277
+   },
+   {
+    "t": "Reviews visible",
+    "x": 0.3924,
+    "y": 0.2435,
+    "w": 0.077,
+    "h": 0.0196
+   },
+   {
+    "t": "No direct copy link",
+    "x": 0.6047,
+    "y": 0.2435,
+    "w": 0.0945,
+    "h": 0.0223
+   },
+   {
+    "t": "Walmart",
+    "x": 0.2965,
+    "y": 0.2438,
+    "w": 0.0436,
+    "h": 0.0192
+   },
+   {
+    "t": "on product page",
+    "x": 0.3924,
+    "y": 0.2736,
+    "w": 0.0828,
+    "h": 0.0223
+   },
+   {
+    "t": "general categories",
+    "x": 0.4869,
+    "y": 0.2736,
+    "w": 0.0945,
+    "h": 0.0223
+   },
+   {
+    "t": "available",
+    "x": 0.6047,
+    "y": 0.274,
+    "w": 0.0451,
+    "h": 0.0192
+   },
+   {
+    "t": "Etsy Shop",
+    "x": 0.298,
+    "y": 0.3233,
+    "w": 0.0523,
+    "h": 0.0223
+   },
+   {
+    "t": "Reviews are",
+    "x": 0.3924,
+    "y": 0.3233,
+    "w": 0.061,
+    "h": 0.0196
+   },
+   {
+    "t": "\u2022 Basic filters (date,",
+    "x": 0.4913,
+    "y": 0.3233,
+    "w": 0.1032,
+    "h": 0.0249
+   },
+   {
+    "t": "No option to copy",
+    "x": 0.6047,
+    "y": 0.3233,
+    "w": 0.0887,
+    "h": 0.0223
+   },
+   {
+    "t": "category)",
+    "x": 0.5015,
+    "y": 0.3534,
+    "w": 0.0523,
+    "h": 0.0274
+   },
+   {
+    "t": "easily accessible",
+    "x": 0.3924,
+    "y": 0.356,
+    "w": 0.0858,
+    "h": 0.0223
+   },
+   {
+    "t": "purchase links",
+    "x": 0.6047,
+    "y": 0.356,
+    "w": 0.0727,
+    "h": 0.0196
+   },
+   {
+    "t": "Manager",
+    "x": 0.2951,
+    "y": 0.3562,
+    "w": 0.0494,
+    "h": 0.0274
+   },
+   {
+    "t": "Shopify Admin",
+    "x": 0.295,
+    "y": 0.4046,
+    "w": 0.0758,
+    "h": 0.0291
+   },
+   {
+    "t": "Viewable via",
+    "x": 0.3924,
+    "y": 0.4055,
+    "w": 0.064,
+    "h": 0.0192
+   },
+   {
+    "t": "Filtering depends on",
+    "x": 0.4869,
+    "y": 0.4055,
+    "w": 0.1032,
+    "h": 0.0225
+   },
+   {
+    "t": "Link copy available",
+    "x": 0.6032,
+    "y": 0.4055,
+    "w": 0.0959,
+    "h": 0.0251
+   },
+   {
+    "t": "integrations or",
+    "x": 0.3894,
+    "y": 0.4347,
+    "w": 0.0772,
+    "h": 0.0293
+   },
+   {
+    "t": "installed apps",
+    "x": 0.484,
+    "y": 0.4351,
+    "w": 0.0728,
+    "h": 0.0257
+   },
+   {
+    "t": "via themes/plugins",
+    "x": 0.6032,
+    "y": 0.4384,
+    "w": 0.0974,
+    "h": 0.025
+   },
+   {
+    "t": "apps",
+    "x": 0.3895,
+    "y": 0.4712,
+    "w": 0.0276,
+    "h": 0.0219
+   },
+   {
+    "t": "Pain Points",
+    "x": 0.1511,
+    "y": 0.5498,
+    "w": 0.0758,
+    "h": 0.0292
+   },
+   {
+    "t": "From analyzing several e-Commerce admin platforms, we identified recurring pain points that affect the overall user experience for",
+    "x": 0.1526,
+    "y": 0.6055,
+    "w": 0.6875,
+    "h": 0.0247
+   },
+   {
+    "t": "admins when managing product data and customer reviews.",
+    "x": 0.1526,
+    "y": 0.6296,
+    "w": 0.3183,
+    "h": 0.0252
+   },
+   {
+    "t": "1. Too many features and data metrics presented at once can confuse new or non-technical users.",
+    "x": 0.1555,
+    "y": 0.6545,
+    "w": 0.5203,
+    "h": 0.025
+   },
+   {
+    "t": "2. Filtering tools are too basic or general, making it difficult for admins to locate specific products quickly.",
+    "x": 0.1555,
+    "y": 0.6793,
+    "w": 0.5552,
+    "h": 0.0249
+   },
+   {
+    "t": "3. Admins cannot easily copy or share purchase detail links, which slows down documentation or communication tasks.",
+    "x": 0.1555,
+    "y": 0.7068,
+    "w": 0.6279,
+    "h": 0.0249
+   },
+   {
+    "t": "4. Key admin features like review visibility and filtering are often dependent on external plugins or themes, leading to inconsistency",
+    "x": 0.1555,
+    "y": 0.7315,
+    "w": 0.6875,
+    "h": 0.025
+   },
+   {
+    "t": "in functionality.",
+    "x": 0.1655,
+    "y": 0.7531,
+    "w": 0.0862,
+    "h": 0.028
+   },
+   {
+    "t": "5. Important features such as reviews or purchase links are not centralized or easy to find, requiring extra navigation steps.",
+    "x": 0.1555,
+    "y": 0.7808,
+    "w": 0.6468,
+    "h": 0.0247
+   },
+   {
+    "t": "User & Audience",
+    "x": 0.1512,
+    "y": 0.8384,
+    "w": 0.1134,
+    "h": 0.0247
+   },
+   {
+    "t": "1. Admin users are typically responsible for monitoring product performance, customer reviews, and inventory updates.",
+    "x": 0.1555,
+    "y": 0.8901,
+    "w": 0.6265,
+    "h": 0.025
+   },
+   {
+    "t": "2. Most users need efficient tools to help them quickly access, filter, and manage product data without unnecessary complexity.",
+    "x": 0.1555,
+    "y": 0.9149,
+    "w": 0.6744,
+    "h": 0.0275
+   },
+   {
+    "t": "3. Users appreciate intuitive, clean, and actionable dashboards, so they can focus on the decisions rather than thinking about how",
+    "x": 0.1555,
+    "y": 0.9424,
+    "w": 0.686,
+    "h": 0.0249
+   },
+   {
+    "t": "to use the platform.",
+    "x": 0.1686,
+    "y": 0.9671,
+    "w": 0.1061,
+    "h": 0.0224
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "file": "b08.jpg",
+  "y0": 3524,
+  "y1": 3773,
+  "h": 249,
+  "color": 0.0,
+  "density": 0.213,
+  "lines": [
+   {
+    "t": "Ideation",
+    "x": 0.1511,
+    "y": 0.0328,
+    "w": 0.0771,
+    "h": 0.1011
+   },
+   {
+    "t": "After understanding the issues and user needs, I moved on to the ideation phase by creating user flows to map out how admins",
+    "x": 0.1526,
+    "y": 0.275,
+    "w": 0.6701,
+    "h": 0.075
+   },
+   {
+    "t": "complete each task in the system, such as accessing product reviews, applying filters, and copying purchase links. This user flow",
+    "x": 0.1526,
+    "y": 0.3583,
+    "w": 0.6788,
+    "h": 0.0667
+   },
+   {
+    "t": "helped ensure that every interaction was efficient and logical. I then developed a user journey to describe the overall experience",
+    "x": 0.1526,
+    "y": 0.432,
+    "w": 0.6744,
+    "h": 0.068
+   },
+   {
+    "t": "from the admin's perspective when interacting with these features, including how they navigate between pages, understand the",
+    "x": 0.1526,
+    "y": 0.508,
+    "w": 0.673,
+    "h": 0.068
+   },
+   {
+    "t": "information displayed, and complete their goals without confusion. This stage was important to ensure that the designed solution",
+    "x": 0.1526,
+    "y": 0.5833,
+    "w": 0.6802,
+    "h": 0.0767
+   },
+   {
+    "t": "User Flow",
+    "x": 0.1511,
+    "y": 0.8734,
+    "w": 0.0684,
+    "h": 0.0865
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "file": "b09.jpg",
+  "y0": 3850,
+  "y1": 4331,
+  "h": 481,
+  "color": 5.42,
+  "density": 0.275,
+  "lines": [
+   {
+    "t": "User Story: As an admin, I want to be able to see product reviews from users, so that I can monitor feedback and",
+    "x": 0.1883,
+    "y": 0.029,
+    "w": 0.5914,
+    "h": 0.0376
+   },
+   {
+    "t": "improve product quality.",
+    "x": 0.1855,
+    "y": 0.0664,
+    "w": 0.1297,
+    "h": 0.0378
+   },
+   {
+    "t": "Product",
+    "x": 0.5272,
+    "y": 0.1663,
+    "w": 0.0349,
+    "h": 0.0298
+   },
+   {
+    "t": "Product",
+    "x": 0.6527,
+    "y": 0.1667,
+    "w": 0.0349,
+    "h": 0.0292
+   },
+   {
+    "t": "Review Detail",
+    "x": 0.6415,
+    "y": 0.2037,
+    "w": 0.0558,
+    "h": 0.0301
+   },
+   {
+    "t": "Review",
+    "x": 0.5285,
+    "y": 0.2076,
+    "w": 0.0322,
+    "h": 0.0265
+   },
+   {
+    "t": "Product",
+    "x": 0.4114,
+    "y": 0.2083,
+    "w": 0.0335,
+    "h": 0.025
+   },
+   {
+    "t": "Catalog",
+    "x": 0.2036,
+    "y": 0.225,
+    "w": 0.0321,
+    "h": 0.0292
+   },
+   {
+    "t": "Others",
+    "x": 0.3068,
+    "y": 0.225,
+    "w": 0.0293,
+    "h": 0.0292
+   },
+   {
+    "t": "Review",
+    "x": 0.4114,
+    "y": 0.2458,
+    "w": 0.0321,
+    "h": 0.025
+   },
+   {
+    "t": "Detail",
+    "x": 0.5314,
+    "y": 0.2458,
+    "w": 0.0265,
+    "h": 0.025
+   },
+   {
+    "t": "(Other",
+    "x": 0.6541,
+    "y": 0.2458,
+    "w": 0.0307,
+    "h": 0.0292
+   },
+   {
+    "t": "(Approval)",
+    "x": 0.523,
+    "y": 0.2875,
+    "w": 0.0432,
+    "h": 0.0292
+   },
+   {
+    "t": "reviews)",
+    "x": 0.6513,
+    "y": 0.2875,
+    "w": 0.0349,
+    "h": 0.025
+   },
+   {
+    "t": "User Story: As an admin, I can filter the product database by specific criteria, so that I can find products efficiently.",
+    "x": 0.1813,
+    "y": 0.3792,
+    "w": 0.6067,
+    "h": 0.042
+   },
+   {
+    "t": "Product",
+    "x": 0.4128,
+    "y": 0.504,
+    "w": 0.0363,
+    "h": 0.0295
+   },
+   {
+    "t": "Results",
+    "x": 0.7684,
+    "y": 0.5242,
+    "w": 0.0322,
+    "h": 0.0266
+   },
+   {
+    "t": "Select filter",
+    "x": 0.6402,
+    "y": 0.5249,
+    "w": 0.0502,
+    "h": 0.0295
+   },
+   {
+    "t": "Catalog",
+    "x": 0.1994,
+    "y": 0.525,
+    "w": 0.0335,
+    "h": 0.0292
+   },
+   {
+    "t": "Others",
+    "x": 0.3054,
+    "y": 0.525,
+    "w": 0.0307,
+    "h": 0.0292
+   },
+   {
+    "t": "Filter",
+    "x": 0.5328,
+    "y": 0.525,
+    "w": 0.0237,
+    "h": 0.025
+   },
+   {
+    "t": "Review",
+    "x": 0.4142,
+    "y": 0.5453,
+    "w": 0.0322,
+    "h": 0.0261
+   },
+   {
+    "t": "User Story: As an admin, I want to be able to copy the link to a product's purchase details, so that I can easily share or",
+    "x": 0.1869,
+    "y": 0.666,
+    "w": 0.6206,
+    "h": 0.0382
+   },
+   {
+    "t": "document specific purchase information.",
+    "x": 0.1869,
+    "y": 0.7033,
+    "w": 0.2176,
+    "h": 0.0383
+   },
+   {
+    "t": "Product",
+    "x": 0.4825,
+    "y": 0.8372,
+    "w": 0.0363,
+    "h": 0.0255
+   },
+   {
+    "t": "Digital Purchase",
+    "x": 0.3208,
+    "y": 0.8375,
+    "w": 0.0711,
+    "h": 0.038
+   },
+   {
+    "t": "Copy Link",
+    "x": 0.7558,
+    "y": 0.857,
+    "w": 0.0448,
+    "h": 0.036
+   },
+   {
+    "t": "Sales",
+    "x": 0.2106,
+    "y": 0.8583,
+    "w": 0.0251,
+    "h": 0.025
+   },
+   {
+    "t": "Modal activity log",
+    "x": 0.6053,
+    "y": 0.8583,
+    "w": 0.0767,
+    "h": 0.0379
+   },
+   {
+    "t": "Management",
+    "x": 0.3277,
+    "y": 0.8784,
+    "w": 0.0587,
+    "h": 0.0349
+   },
+   {
+    "t": "Purchase Details",
+    "x": 0.4644,
+    "y": 0.8792,
+    "w": 0.0725,
+    "h": 0.0295
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "file": "b10.jpg",
+  "y0": 4408,
+  "y1": 4549,
+  "h": 141,
+  "color": 0.0,
+  "density": 0.25,
+  "lines": [
+   {
+    "t": "User Journey",
+    "x": 0.1511,
+    "y": 0.0679,
+    "w": 0.0903,
+    "h": 0.173
+   },
+   {
+    "t": "The user journey illustrates the typical steps an admin takes when managing product reviews and product data within the",
+    "x": 0.1526,
+    "y": 0.3803,
+    "w": 0.6381,
+    "h": 0.1344
+   },
+   {
+    "t": "dashboard. It highlights the admin's key goals, pain points, and expectations at each stage from accessing user reviews, filtering the",
+    "x": 0.1526,
+    "y": 0.5141,
+    "w": 0.6933,
+    "h": 0.1338
+   },
+   {
+    "t": "product database, to sharing purchase details. Understanding this flow helps pinpoint opportunities to simplify tasks, reduce",
+    "x": 0.1512,
+    "y": 0.6618,
+    "w": 0.6555,
+    "h": 0.134
+   },
+   {
+    "t": "friction, and improve overall efficiency for admins managing product quality and user feedback.",
+    "x": 0.1526,
+    "y": 0.7941,
+    "w": 0.5015,
+    "h": 0.1176
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "file": "b11.jpg",
+  "y0": 4572,
+  "y1": 5075,
+  "h": 503,
+  "color": 0.51,
+  "density": 0.408,
+  "lines": [
+   {
+    "t": "Scenario: Admin wants to filter products by category",
+    "x": 0.1874,
+    "y": 0.02,
+    "w": 0.2793,
+    "h": 0.0442
+   },
+   {
+    "t": "Expectation: Easily apply filters to narrow down product list",
+    "x": 0.186,
+    "y": 0.0615,
+    "w": 0.3183,
+    "h": 0.0422
+   },
+   {
+    "t": "Apply Category",
+    "x": 0.5086,
+    "y": 0.1602,
+    "w": 0.0845,
+    "h": 0.0489
+   },
+   {
+    "t": "Phase",
+    "x": 0.1919,
+    "y": 0.1618,
+    "w": 0.0334,
+    "h": 0.029
+   },
+   {
+    "t": "Access",
+    "x": 0.2892,
+    "y": 0.1618,
+    "w": 0.0407,
+    "h": 0.0332
+   },
+   {
+    "t": "Find Filter Options",
+    "x": 0.3866,
+    "y": 0.1618,
+    "w": 0.0988,
+    "h": 0.0415
+   },
+   {
+    "t": "Review Filtered",
+    "x": 0.6061,
+    "y": 0.1618,
+    "w": 0.0843,
+    "h": 0.0373
+   },
+   {
+    "t": "Take Next Steps",
+    "x": 0.7195,
+    "y": 0.1618,
+    "w": 0.0887,
+    "h": 0.0415
+   },
+   {
+    "t": "Dashboard",
+    "x": 0.2877,
+    "y": 0.211,
+    "w": 0.0626,
+    "h": 0.0386
+   },
+   {
+    "t": "Filter",
+    "x": 0.5087,
+    "y": 0.2116,
+    "w": 0.0305,
+    "h": 0.0332
+   },
+   {
+    "t": "Results",
+    "x": 0.6061,
+    "y": 0.2116,
+    "w": 0.0436,
+    "h": 0.0332
+   },
+   {
+    "t": "Selects desired Reviews filtered",
+    "x": 0.5083,
+    "y": 0.2857,
+    "w": 0.1833,
+    "h": 0.0357
+   },
+   {
+    "t": "Locates category",
+    "x": 0.3863,
+    "y": 0.2863,
+    "w": 0.0923,
+    "h": 0.0443
+   },
+   {
+    "t": "Proceeds with",
+    "x": 0.7224,
+    "y": 0.2897,
+    "w": 0.0741,
+    "h": 0.0298
+   },
+   {
+    "t": "Opens product",
+    "x": 0.2892,
+    "y": 0.2937,
+    "w": 0.0785,
+    "h": 0.0342
+   },
+   {
+    "t": "Activity",
+    "x": 0.1904,
+    "y": 0.2946,
+    "w": 0.0407,
+    "h": 0.0332
+   },
+   {
+    "t": "next action",
+    "x": 0.7208,
+    "y": 0.3388,
+    "w": 0.0598,
+    "h": 0.0319
+   },
+   {
+    "t": "product list",
+    "x": 0.6061,
+    "y": 0.3393,
+    "w": 0.0625,
+    "h": 0.0383
+   },
+   {
+    "t": "filter",
+    "x": 0.3852,
+    "y": 0.3402,
+    "w": 0.0276,
+    "h": 0.0332
+   },
+   {
+    "t": "management",
+    "x": 0.2892,
+    "y": 0.3444,
+    "w": 0.0698,
+    "h": 0.029
+   },
+   {
+    "t": "category",
+    "x": 0.5087,
+    "y": 0.3444,
+    "w": 0.048,
+    "h": 0.0332
+   },
+   {
+    "t": "dashboard",
+    "x": 0.2892,
+    "y": 0.39,
+    "w": 0.0567,
+    "h": 0.029
+   },
+   {
+    "t": "\"I hope | can find \"Where is the filter?",
+    "x": 0.2875,
+    "y": 0.4643,
+    "w": 0.2,
+    "h": 0.0357
+   },
+   {
+    "t": "\"This should",
+    "x": 0.5189,
+    "y": 0.4683,
+    "w": 0.0654,
+    "h": 0.0338
+   },
+   {
+    "t": "\"Are these the right",
+    "x": 0.6047,
+    "y": 0.4683,
+    "w": 0.1047,
+    "h": 0.0421
+   },
+   {
+    "t": "\"Now I can",
+    "x": 0.7209,
+    "y": 0.4686,
+    "w": 0.0567,
+    "h": 0.0295
+   },
+   {
+    "t": "Thought",
+    "x": 0.189,
+    "y": 0.4689,
+    "w": 0.048,
+    "h": 0.0373
+   },
+   {
+    "t": "Is it easy to use?\"",
+    "x": 0.3852,
+    "y": 0.5139,
+    "w": 0.0945,
+    "h": 0.0421
+   },
+   {
+    "t": "the category",
+    "x": 0.2863,
+    "y": 0.5178,
+    "w": 0.0699,
+    "h": 0.0391
+   },
+   {
+    "t": "narrow down",
+    "x": 0.5174,
+    "y": 0.5179,
+    "w": 0.0698,
+    "h": 0.0299
+   },
+   {
+    "t": "products I want to",
+    "x": 0.6061,
+    "y": 0.5179,
+    "w": 0.0959,
+    "h": 0.0382
+   },
+   {
+    "t": "quickly manage",
+    "x": 0.7195,
+    "y": 0.5179,
+    "w": 0.0843,
+    "h": 0.0382
+   },
+   {
+    "t": "the list quickly!\"",
+    "x": 0.5114,
+    "y": 0.5569,
+    "w": 0.0847,
+    "h": 0.0521
+   },
+   {
+    "t": "filter easily:\"",
+    "x": 0.2863,
+    "y": 0.5596,
+    "w": 0.067,
+    "h": 0.0468
+   },
+   {
+    "t": "or review",
+    "x": 0.7209,
+    "y": 0.5635,
+    "w": 0.0494,
+    "h": 0.0299
+   },
+   {
+    "t": "see?\"",
+    "x": 0.6076,
+    "y": 0.5643,
+    "w": 0.0305,
+    "h": 0.029
+   },
+   {
+    "t": "products.\"",
+    "x": 0.7207,
+    "y": 0.6115,
+    "w": 0.0557,
+    "h": 0.0342
+   },
+   {
+    "t": "Emotion",
+    "x": 0.1918,
+    "y": 0.6926,
+    "w": 0.0422,
+    "h": 0.0297
+   },
+   {
+    "t": "Ensure fast,",
+    "x": 0.5087,
+    "y": 0.7718,
+    "w": 0.064,
+    "h": 0.0417
+   },
+   {
+    "t": "Make filter",
+    "x": 0.2877,
+    "y": 0.7749,
+    "w": 0.0583,
+    "h": 0.0352
+   },
+   {
+    "t": "Streamline",
+    "x": 0.7224,
+    "y": 0.7754,
+    "w": 0.0553,
+    "h": 0.03
+   },
+   {
+    "t": "Opportunity",
+    "x": 0.1904,
+    "y": 0.7757,
+    "w": 0.064,
+    "h": 0.0377
+   },
+   {
+    "t": "Use clear labels and",
+    "x": 0.3881,
+    "y": 0.7758,
+    "w": 0.1047,
+    "h": 0.0298
+   },
+   {
+    "t": "Provide accurate",
+    "x": 0.6076,
+    "y": 0.7758,
+    "w": 0.0887,
+    "h": 0.0377
+   },
+   {
+    "t": "responsive",
+    "x": 0.5087,
+    "y": 0.8209,
+    "w": 0.0582,
+    "h": 0.0345
+   },
+   {
+    "t": "accessible",
+    "x": 0.3881,
+    "y": 0.8213,
+    "w": 0.0553,
+    "h": 0.0297
+   },
+   {
+    "t": "and relevant filter",
+    "x": 0.6076,
+    "y": 0.8214,
+    "w": 0.093,
+    "h": 0.0298
+   },
+   {
+    "t": "transition from",
+    "x": 0.7209,
+    "y": 0.8214,
+    "w": 0.077,
+    "h": 0.0298
+   },
+   {
+    "t": "options",
+    "x": 0.2878,
+    "y": 0.8216,
+    "w": 0.0422,
+    "h": 0.0373
+   },
+   {
+    "t": "filtering",
+    "x": 0.5087,
+    "y": 0.8709,
+    "w": 0.0408,
+    "h": 0.0382
+   },
+   {
+    "t": "prominent and",
+    "x": 0.2878,
+    "y": 0.871,
+    "w": 0.077,
+    "h": 0.0377
+   },
+   {
+    "t": "filtering to task",
+    "x": 0.7195,
+    "y": 0.871,
+    "w": 0.0814,
+    "h": 0.0377
+   },
+   {
+    "t": "results",
+    "x": 0.6061,
+    "y": 0.8714,
+    "w": 0.0378,
+    "h": 0.0332
+   },
+   {
+    "t": "olacement",
+    "x": 0.3881,
+    "y": 0.8751,
+    "w": 0.0567,
+    "h": 0.0298
+   },
+   {
+    "t": "intuitive",
+    "x": 0.2863,
+    "y": 0.9167,
+    "w": 0.0451,
+    "h": 0.0379
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "file": "b12.jpg",
+  "y0": 5118,
+  "y1": 5345,
+  "h": 227,
+  "color": 0.0,
+  "density": 0.241,
+  "lines": [
+   {
+    "t": "Design Process",
+    "x": 0.1526,
+    "y": 0.055,
+    "w": 0.1439,
+    "h": 0.1379
+   },
+   {
+    "t": "To maintain visual consistency and ease of future development, I created a design system that serves as a reference for designing",
+    "x": 0.1526,
+    "y": 0.2281,
+    "w": 0.6846,
+    "h": 0.0839
+   },
+   {
+    "t": "the entire interface. I chose professional colors that are not too bold, to support information visibility without distracting the user's",
+    "x": 0.1512,
+    "y": 0.3114,
+    "w": 0.6846,
+    "h": 0.0833
+   },
+   {
+    "t": "focus. Typography was designed for readability, especially for large amounts of text such as reviews or product data. I also created",
+    "x": 0.1512,
+    "y": 0.3945,
+    "w": 0.6904,
+    "h": 0.0836
+   },
+   {
+    "t": "several main components such as buttons, input fields, product cards, and tables, which were designed to be reusable and",
+    "x": 0.1526,
+    "y": 0.4771,
+    "w": 0.6453,
+    "h": 0.0843
+   },
+   {
+    "t": "responsive so they can be easily adapted to various screen sizes. With this design system, every visual element feels consistent,",
+    "x": 0.1511,
+    "y": 0.5359,
+    "w": 0.6789,
+    "h": 0.1157
+   },
+   {
+    "t": "functional, and supports a stable user experience.",
+    "x": 0.1512,
+    "y": 0.6404,
+    "w": 0.266,
+    "h": 0.0844
+   },
+   {
+    "t": "Design System",
+    "x": 0.1526,
+    "y": 0.8532,
+    "w": 0.1192,
+    "h": 0.1117
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "file": "b13.jpg",
+  "y0": 5376,
+  "y1": 5592,
+  "h": 216,
+  "color": 2.43,
+  "density": 0.036,
+  "lines": [
+   {
+    "t": "Color",
+    "x": 0.1772,
+    "y": 0.0268,
+    "w": 0.0569,
+    "h": 0.1309
+   },
+   {
+    "t": "Primary Color",
+    "x": 0.1759,
+    "y": 0.3689,
+    "w": 0.0872,
+    "h": 0.0987
+   },
+   {
+    "t": "Scurf Green",
+    "x": 0.1758,
+    "y": 0.8316,
+    "w": 0.0423,
+    "h": 0.065
+   },
+   {
+    "t": "#04747C",
+    "x": 0.1758,
+    "y": 0.9021,
+    "w": 0.0306,
+    "h": 0.0501
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "file": "b14.jpg",
+  "y0": 5633,
+  "y1": 5817,
+  "h": 184,
+  "color": 12.07,
+  "density": 0.26,
+  "lines": [
+   {
+    "t": "Secondary colors",
+    "x": 0.1759,
+    "y": 0.0543,
+    "w": 0.1105,
+    "h": 0.1161
+   },
+   {
+    "t": "Galapagos",
+    "x": 0.1757,
+    "y": 0.2447,
+    "w": 0.0642,
+    "h": 0.1243
+   },
+   {
+    "t": "Galapagos 600",
+    "x": 0.2529,
+    "y": 0.7949,
+    "w": 0.0524,
+    "h": 0.0806
+   },
+   {
+    "t": "Galapagos 700",
+    "x": 0.1773,
+    "y": 0.8043,
+    "w": 0.0523,
+    "h": 0.0707
+   },
+   {
+    "t": "Galap:",
+    "x": 0.3299,
+    "y": 0.8068,
+    "w": 0.0203,
+    "h": 0.0568
+   },
+   {
+    "t": "#076369",
+    "x": 0.1759,
+    "y": 0.875,
+    "w": 0.0291,
+    "h": 0.0568
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "file": "b15.jpg",
+  "y0": 5848,
+  "y1": 5996,
+  "h": 148,
+  "color": 23.46,
+  "density": 0.327,
+  "lines": [
+   {
+    "t": "Success",
+    "x": 0.1773,
+    "y": 0.0704,
+    "w": 0.0509,
+    "h": 0.0986
+   },
+   {
+    "t": "Success 50",
+    "x": 0.7107,
+    "y": 0.7442,
+    "w": 0.0408,
+    "h": 0.0891
+   },
+   {
+    "t": "Success 700",
+    "x": 0.1773,
+    "y": 0.7606,
+    "w": 0.0436,
+    "h": 0.0705
+   },
+   {
+    "t": "Success 600",
+    "x": 0.2529,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Success 500",
+    "x": 0.3285,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Success 400",
+    "x": 0.4055,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Success 300",
+    "x": 0.4811,
+    "y": 0.7606,
+    "w": 0.0465,
+    "h": 0.0705
+   },
+   {
+    "t": "Success 200",
+    "x": 0.5581,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Success 100",
+    "x": 0.6337,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "#00856D",
+    "x": 0.1759,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#S286A4",
+    "x": 0.3285,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#ZACEBF",
+    "x": 0.4055,
+    "y": 0.8451,
+    "w": 0.0276,
+    "h": 0.0704
+   },
+   {
+    "t": "#BEDACO",
+    "x": 0.4811,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#885358",
+    "x": 0.6337,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#CCEFFE",
+    "x": 0.7093,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "file": "b16.jpg",
+  "y0": 6050,
+  "y1": 6175,
+  "h": 125,
+  "color": 36.34,
+  "density": 0.382,
+  "lines": [
+   {
+    "t": "Link 700",
+    "x": 0.1759,
+    "y": 0.7143,
+    "w": 0.032,
+    "h": 0.0873
+   },
+   {
+    "t": "Link 600",
+    "x": 0.2529,
+    "y": 0.7143,
+    "w": 0.0305,
+    "h": 0.0873
+   },
+   {
+    "t": "Link 500",
+    "x": 0.3285,
+    "y": 0.7143,
+    "w": 0.032,
+    "h": 0.1032
+   },
+   {
+    "t": "Link 300",
+    "x": 0.4811,
+    "y": 0.7143,
+    "w": 0.032,
+    "h": 0.0873
+   },
+   {
+    "t": "Link 200",
+    "x": 0.5567,
+    "y": 0.7143,
+    "w": 0.032,
+    "h": 0.0873
+   },
+   {
+    "t": "Link 100",
+    "x": 0.6337,
+    "y": 0.7143,
+    "w": 0.0305,
+    "h": 0.0873
+   },
+   {
+    "t": "Link 50",
+    "x": 0.7093,
+    "y": 0.7143,
+    "w": 0.0276,
+    "h": 0.0873
+   },
+   {
+    "t": "Link 400",
+    "x": 0.4055,
+    "y": 0.7154,
+    "w": 0.032,
+    "h": 0.0858
+   },
+   {
+    "t": "HASDAFD",
+    "x": 0.7107,
+    "y": 0.829,
+    "w": 0.0307,
+    "h": 0.092
+   },
+   {
+    "t": "#2489C9",
+    "x": 0.2514,
+    "y": 0.8322,
+    "w": 0.0306,
+    "h": 0.0856
+   },
+   {
+    "t": "#83C6FO",
+    "x": 0.5567,
+    "y": 0.8322,
+    "w": 0.032,
+    "h": 0.0856
+   },
+   {
+    "t": "#0475BC",
+    "x": 0.1759,
+    "y": 0.8333,
+    "w": 0.0305,
+    "h": 0.0833
+   },
+   {
+    "t": "#449DD6",
+    "x": 0.3285,
+    "y": 0.8333,
+    "w": 0.032,
+    "h": 0.0833
+   },
+   {
+    "t": "#63B2E3",
+    "x": 0.4055,
+    "y": 0.8333,
+    "w": 0.0291,
+    "h": 0.0833
+   },
+   {
+    "t": "#73BCE9 |",
+    "x": 0.4811,
+    "y": 0.8333,
+    "w": 0.0305,
+    "h": 0.0833
+   },
+   {
+    "t": "#83C6FO",
+    "x": 0.6337,
+    "y": 0.8333,
+    "w": 0.0305,
+    "h": 0.0833
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "file": "b17.jpg",
+  "y0": 6207,
+  "y1": 6355,
+  "h": 148,
+  "color": 41.95,
+  "density": 0.233,
+  "lines": [
+   {
+    "t": "Error",
+    "x": 0.1773,
+    "y": 0.0704,
+    "w": 0.0305,
+    "h": 0.1127
+   },
+   {
+    "t": "Ler 500",
+    "x": 0.325,
+    "y": 0.68,
+    "w": 0.0375,
+    "h": 0.24
+   },
+   {
+    "t": "Error 700",
+    "x": 0.1773,
+    "y": 0.7432,
+    "w": 0.032,
+    "h": 0.0878
+   },
+   {
+    "t": "Error 500",
+    "x": 0.3285,
+    "y": 0.7432,
+    "w": 0.0349,
+    "h": 0.0878
+   },
+   {
+    "t": "Error 400",
+    "x": 0.4055,
+    "y": 0.7432,
+    "w": 0.0334,
+    "h": 0.0878
+   },
+   {
+    "t": "Error 300",
+    "x": 0.4811,
+    "y": 0.7432,
+    "w": 0.0349,
+    "h": 0.0878
+   },
+   {
+    "t": "Error 50",
+    "x": 0.7108,
+    "y": 0.7432,
+    "w": 0.0291,
+    "h": 0.0878
+   },
+   {
+    "t": "Error 200",
+    "x": 0.5581,
+    "y": 0.7438,
+    "w": 0.0336,
+    "h": 0.0898
+   },
+   {
+    "t": "Error 600",
+    "x": 0.2529,
+    "y": 0.7448,
+    "w": 0.0335,
+    "h": 0.0739
+   },
+   {
+    "t": "Error 100",
+    "x": 0.6337,
+    "y": 0.7451,
+    "w": 0.0335,
+    "h": 0.0872
+   },
+   {
+    "t": "#30000F",
+    "x": 0.1759,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#500014",
+    "x": 0.2515,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#37001E",
+    "x": 0.4055,
+    "y": 0.8451,
+    "w": 0.0276,
+    "h": 0.0704
+   },
+   {
+    "t": "#900027",
+    "x": 0.4811,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#C40031",
+    "x": 0.5567,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#EB003B",
+    "x": 0.6337,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#EF2356",
+    "x": 0.7093,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "file": "b18.jpg",
+  "y0": 6385,
+  "y1": 6533,
+  "h": 148,
+  "color": 22.62,
+  "density": 0.325,
+  "lines": [
+   {
+    "t": "Warning",
+    "x": 0.1759,
+    "y": 0.0704,
+    "w": 0.0494,
+    "h": 0.1408
+   },
+   {
+    "t": "Warning 600",
+    "x": 0.2528,
+    "y": 0.7434,
+    "w": 0.0452,
+    "h": 0.0906
+   },
+   {
+    "t": "Warning 700",
+    "x": 0.1773,
+    "y": 0.7591,
+    "w": 0.0437,
+    "h": 0.0874
+   },
+   {
+    "t": "Warning 50",
+    "x": 0.7107,
+    "y": 0.7591,
+    "w": 0.0393,
+    "h": 0.0875
+   },
+   {
+    "t": "Warning 500",
+    "x": 0.3285,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Warning 400",
+    "x": 0.4055,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Warning 300",
+    "x": 0.4826,
+    "y": 0.7606,
+    "w": 0.0436,
+    "h": 0.0705
+   },
+   {
+    "t": "Warning 200",
+    "x": 0.5581,
+    "y": 0.7606,
+    "w": 0.0451,
+    "h": 0.0705
+   },
+   {
+    "t": "Warning 100",
+    "x": 0.6337,
+    "y": 0.7606,
+    "w": 0.0436,
+    "h": 0.0705
+   },
+   {
+    "t": "#CB9554",
+    "x": 0.3285,
+    "y": 0.8443,
+    "w": 0.0306,
+    "h": 0.072
+   },
+   {
+    "t": "#ESC092",
+    "x": 0.4811,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "HEECEA?",
+    "x": 0.5567,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   },
+   {
+    "t": "#ESDCBC",
+    "x": 0.6337,
+    "y": 0.8451,
+    "w": 0.0305,
+    "h": 0.0704
+   },
+   {
+    "t": "#ESSADI",
+    "x": 0.7093,
+    "y": 0.8451,
+    "w": 0.0291,
+    "h": 0.0704
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "file": "b19.jpg",
+  "y0": 6564,
+  "y1": 6713,
+  "h": 149,
+  "color": 0.26,
+  "density": 0.302,
+  "lines": [
+   {
+    "t": "Neutral colors",
+    "x": 0.1759,
+    "y": 0.0667,
+    "w": 0.0901,
+    "h": 0.1278
+   },
+   {
+    "t": "Neutral 700",
+    "x": 0.1759,
+    "y": 0.75,
+    "w": 0.0407,
+    "h": 0.07
+   },
+   {
+    "t": "Neutral 600",
+    "x": 0.2529,
+    "y": 0.75,
+    "w": 0.0422,
+    "h": 0.07
+   },
+   {
+    "t": "Neutra",
+    "x": 0.3285,
+    "y": 0.75,
+    "w": 0.0218,
+    "h": 0.0694
+   },
+   {
+    "t": "#1B1818",
+    "x": 0.1759,
+    "y": 0.847,
+    "w": 0.0276,
+    "h": 0.07
+   },
+   {
+    "t": "#303133",
+    "x": 0.2529,
+    "y": 0.8472,
+    "w": 0.0291,
+    "h": 0.0694
+   },
+   {
+    "t": "#3333",
+    "x": 0.3285,
+    "y": 0.8472,
+    "w": 0.0218,
+    "h": 0.0694
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "file": "b20.jpg",
+  "y0": 6808,
+  "y1": 7482,
+  "h": 674,
+  "color": 0.0,
+  "density": 0.042,
+  "lines": [
+   {
+    "t": "Typography",
+    "x": 0.2108,
+    "y": 0.0093,
+    "w": 0.1047,
+    "h": 0.0466
+   },
+   {
+    "t": "Noto Sans SC",
+    "x": 0.2108,
+    "y": 0.1304,
+    "w": 0.109,
+    "h": 0.0343
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPORSTUVWXYZ",
+    "x": 0.2108,
+    "y": 0.1801,
+    "w": 0.1613,
+    "h": 0.0217
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.2108,
+    "y": 0.2174,
+    "w": 0.1352,
+    "h": 0.0248
+   },
+   {
+    "t": "1234567890",
+    "x": 0.2093,
+    "y": 0.2547,
+    "w": 0.0567,
+    "h": 0.0217
+   },
+   {
+    "t": "Font size/weight",
+    "x": 0.5567,
+    "y": 0.3472,
+    "w": 0.0887,
+    "h": 0.0317
+   },
+   {
+    "t": "Style",
+    "x": 0.2093,
+    "y": 0.3478,
+    "w": 0.0276,
+    "h": 0.0311
+   },
+   {
+    "t": "Heading",
+    "x": 0.2121,
+    "y": 0.4434,
+    "w": 0.0918,
+    "h": 0.0573
+   },
+   {
+    "t": "32/Bold",
+    "x": 0.5566,
+    "y": 0.4461,
+    "w": 0.0875,
+    "h": 0.0487
+   },
+   {
+    "t": "Title",
+    "x": 0.2108,
+    "y": 0.5311,
+    "w": 0.0363,
+    "h": 0.0342
+   },
+   {
+    "t": "22/Bold",
+    "x": 0.5552,
+    "y": 0.5338,
+    "w": 0.0611,
+    "h": 0.0318
+   },
+   {
+    "t": "Body 1",
+    "x": 0.2106,
+    "y": 0.6075,
+    "w": 0.0367,
+    "h": 0.0272
+   },
+   {
+    "t": "16/Medium",
+    "x": 0.5552,
+    "y": 0.6087,
+    "w": 0.0625,
+    "h": 0.0248
+   },
+   {
+    "t": "Body 2",
+    "x": 0.2091,
+    "y": 0.6788,
+    "w": 0.0396,
+    "h": 0.0306
+   },
+   {
+    "t": "16/Reguler",
+    "x": 0.5552,
+    "y": 0.6795,
+    "w": 0.0612,
+    "h": 0.0291
+   },
+   {
+    "t": "Sub Body 1",
+    "x": 0.2108,
+    "y": 0.7478,
+    "w": 0.0552,
+    "h": 0.0255
+   },
+   {
+    "t": "14/Medium",
+    "x": 0.5567,
+    "y": 0.7516,
+    "w": 0.0523,
+    "h": 0.0186
+   },
+   {
+    "t": "14/Reguler",
+    "x": 0.5566,
+    "y": 0.8224,
+    "w": 0.051,
+    "h": 0.0229
+   },
+   {
+    "t": "Sub Body 2",
+    "x": 0.2107,
+    "y": 0.8229,
+    "w": 0.0538,
+    "h": 0.022
+   },
+   {
+    "t": "Sub Body 3",
+    "x": 0.2107,
+    "y": 0.8936,
+    "w": 0.0481,
+    "h": 0.0202
+   },
+   {
+    "t": "12/Medium",
+    "x": 0.5552,
+    "y": 0.8939,
+    "w": 0.0466,
+    "h": 0.0196
+   },
+   {
+    "t": "12/Reguler",
+    "x": 0.5551,
+    "y": 0.9646,
+    "w": 0.0468,
+    "h": 0.0243
+   },
+   {
+    "t": "Sub Body 4",
+    "x": 0.2107,
+    "y": 0.9651,
+    "w": 0.0481,
+    "h": 0.02
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "file": "b21.jpg",
+  "y0": 7599,
+  "y1": 8652,
+  "h": 1053,
+  "color": 8.35,
+  "density": 0.102,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.2805,
+    "y": 0.0117,
+    "w": 0.0713,
+    "h": 0.0262
+   },
+   {
+    "t": "Buton",
+    "x": 0.6292,
+    "y": 0.1364,
+    "w": 0.05,
+    "h": 0.0398
+   },
+   {
+    "t": "Button",
+    "x": 0.3037,
+    "y": 0.1446,
+    "w": 0.0335,
+    "h": 0.0124
+   },
+   {
+    "t": "Button",
+    "x": 0.529,
+    "y": 0.1446,
+    "w": 0.0335,
+    "h": 0.0124
+   },
+   {
+    "t": "Button",
+    "x": 0.4084,
+    "y": 0.1448,
+    "w": 0.0349,
+    "h": 0.0119
+   },
+   {
+    "t": "\u00a9 Button",
+    "x": 0.5291,
+    "y": 0.2103,
+    "w": 0.0451,
+    "h": 0.0159
+   },
+   {
+    "t": "\u2022 Button",
+    "x": 0.3038,
+    "y": 0.2121,
+    "w": 0.0466,
+    "h": 0.0123
+   },
+   {
+    "t": "\u00a9 Button",
+    "x": 0.4084,
+    "y": 0.2122,
+    "w": 0.0451,
+    "h": 0.012
+   },
+   {
+    "t": "\u00a9 Button",
+    "x": 0.6381,
+    "y": 0.2123,
+    "w": 0.0451,
+    "h": 0.0139
+   },
+   {
+    "t": "Button O",
+    "x": 0.6365,
+    "y": 0.2792,
+    "w": 0.0452,
+    "h": 0.0169
+   },
+   {
+    "t": "Button G",
+    "x": 0.4083,
+    "y": 0.2793,
+    "w": 0.0438,
+    "h": 0.0149
+   },
+   {
+    "t": "Button O",
+    "x": 0.5276,
+    "y": 0.2797,
+    "w": 0.0451,
+    "h": 0.016
+   },
+   {
+    "t": "Button O",
+    "x": 0.3038,
+    "y": 0.2798,
+    "w": 0.0465,
+    "h": 0.0144
+   },
+   {
+    "t": "Button",
+    "x": 0.2917,
+    "y": 0.3807,
+    "w": 0.0583,
+    "h": 0.0398
+   },
+   {
+    "t": "Button",
+    "x": 0.529,
+    "y": 0.3942,
+    "w": 0.0336,
+    "h": 0.0131
+   },
+   {
+    "t": "Button",
+    "x": 0.6395,
+    "y": 0.3945,
+    "w": 0.0336,
+    "h": 0.0127
+   },
+   {
+    "t": "Button",
+    "x": 0.4084,
+    "y": 0.3948,
+    "w": 0.0349,
+    "h": 0.0119
+   },
+   {
+    "t": "\u2022 Button",
+    "x": 0.529,
+    "y": 0.45,
+    "w": 0.0452,
+    "h": 0.0166
+   },
+   {
+    "t": "Button",
+    "x": 0.638,
+    "y": 0.45,
+    "w": 0.0452,
+    "h": 0.0167
+   },
+   {
+    "t": "@ Button",
+    "x": 0.4069,
+    "y": 0.4501,
+    "w": 0.0466,
+    "h": 0.0165
+   },
+   {
+    "t": "\u00a9 Button",
+    "x": 0.3023,
+    "y": 0.4504,
+    "w": 0.048,
+    "h": 0.0159
+   },
+   {
+    "t": "Button C",
+    "x": 0.3023,
+    "y": 0.5076,
+    "w": 0.0465,
+    "h": 0.0162
+   },
+   {
+    "t": "Button O",
+    "x": 0.529,
+    "y": 0.5077,
+    "w": 0.0437,
+    "h": 0.0143
+   },
+   {
+    "t": "Button \u00a9",
+    "x": 0.638,
+    "y": 0.5077,
+    "w": 0.0437,
+    "h": 0.0164
+   },
+   {
+    "t": "Button G",
+    "x": 0.4084,
+    "y": 0.5079,
+    "w": 0.0451,
+    "h": 0.014
+   },
+   {
+    "t": "Button",
+    "x": 0.2965,
+    "y": 0.6149,
+    "w": 0.035,
+    "h": 0.0202
+   },
+   {
+    "t": "Button",
+    "x": 0.4011,
+    "y": 0.6186,
+    "w": 0.0307,
+    "h": 0.0128
+   },
+   {
+    "t": "Button",
+    "x": 0.5218,
+    "y": 0.6189,
+    "w": 0.0306,
+    "h": 0.0122
+   },
+   {
+    "t": "Button",
+    "x": 0.6308,
+    "y": 0.6189,
+    "w": 0.0306,
+    "h": 0.0122
+   },
+   {
+    "t": "\u2022 Button",
+    "x": 0.5232,
+    "y": 0.6665,
+    "w": 0.0393,
+    "h": 0.0142
+   },
+   {
+    "t": "\u2022 Button",
+    "x": 0.2965,
+    "y": 0.6684,
+    "w": 0.0408,
+    "h": 0.0123
+   },
+   {
+    "t": "\u00a9 Button",
+    "x": 0.4011,
+    "y": 0.6684,
+    "w": 0.0393,
+    "h": 0.0124
+   },
+   {
+    "t": "\u00a9 Button",
+    "x": 0.6322,
+    "y": 0.6685,
+    "w": 0.0393,
+    "h": 0.0123
+   },
+   {
+    "t": "Button O",
+    "x": 0.2964,
+    "y": 0.7155,
+    "w": 0.0395,
+    "h": 0.0154
+   },
+   {
+    "t": "Button @",
+    "x": 0.5218,
+    "y": 0.7161,
+    "w": 0.0393,
+    "h": 0.0142
+   },
+   {
+    "t": "Button @",
+    "x": 0.6308,
+    "y": 0.7161,
+    "w": 0.0393,
+    "h": 0.0142
+   },
+   {
+    "t": "Button @",
+    "x": 0.4012,
+    "y": 0.7162,
+    "w": 0.0393,
+    "h": 0.014
+   },
+   {
+    "t": "@",
+    "x": 0.5203,
+    "y": 0.9107,
+    "w": 0.0131,
+    "h": 0.0139
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "file": "b22.jpg",
+  "y0": 8724,
+  "y1": 8905,
+  "h": 181,
+  "color": 0.93,
+  "density": 0.013,
+  "lines": []
+ },
+ {
+  "i": 23,
+  "file": "b23.jpg",
+  "y0": 8988,
+  "y1": 9145,
+  "h": 157,
+  "color": 1.04,
+  "density": 0.015,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.6264,
+    "y": 0.0772,
+    "w": 0.0335,
+    "h": 0.0955
+   },
+   {
+    "t": "Button",
+    "x": 0.3939,
+    "y": 0.0785,
+    "w": 0.0349,
+    "h": 0.0798
+   },
+   {
+    "t": "Button",
+    "x": 0.516,
+    "y": 0.0789,
+    "w": 0.0334,
+    "h": 0.0789
+   },
+   {
+    "t": "\u00a9 Button",
+    "x": 0.5145,
+    "y": 0.4465,
+    "w": 0.0466,
+    "h": 0.1069
+   },
+   {
+    "t": "@ Button",
+    "x": 0.625,
+    "y": 0.4465,
+    "w": 0.0466,
+    "h": 0.1332
+   },
+   {
+    "t": "@ Button",
+    "x": 0.3953,
+    "y": 0.4584,
+    "w": 0.0437,
+    "h": 0.0832
+   },
+   {
+    "t": "Button O",
+    "x": 0.5145,
+    "y": 0.8271,
+    "w": 0.0452,
+    "h": 0.1089
+   },
+   {
+    "t": "Button O",
+    "x": 0.625,
+    "y": 0.8284,
+    "w": 0.0451,
+    "h": 0.1063
+   },
+   {
+    "t": "Button G",
+    "x": 0.3939,
+    "y": 0.8289,
+    "w": 0.0451,
+    "h": 0.1078
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "file": "b24.jpg",
+  "y0": 9224,
+  "y1": 9364,
+  "h": 140,
+  "color": 0.88,
+  "density": 0.013,
+  "lines": []
+ },
+ {
+  "i": 25,
+  "file": "b25.jpg",
+  "y0": 9511,
+  "y1": 11431,
+  "h": 1920,
+  "color": 0.99,
+  "density": 0.274,
+  "lines": [
+   {
+    "t": "Toggle",
+    "x": 0.4204,
+    "y": 0.0171,
+    "w": 0.041,
+    "h": 0.0109
+   },
+   {
+    "t": "Progress Tab",
+    "x": 0.1957,
+    "y": 0.0173,
+    "w": 0.0718,
+    "h": 0.0105
+   },
+   {
+    "t": "Radio Button",
+    "x": 0.5833,
+    "y": 0.0187,
+    "w": 0.0736,
+    "h": 0.0089
+   },
+   {
+    "t": "Checkbox",
+    "x": 0.6996,
+    "y": 0.0189,
+    "w": 0.0562,
+    "h": 0.0073
+   },
+   {
+    "t": "*Title",
+    "x": 0.4205,
+    "y": 0.0334,
+    "w": 0.0252,
+    "h": 0.0073
+   },
+   {
+    "t": "*Title",
+    "x": 0.5,
+    "y": 0.0334,
+    "w": 0.0233,
+    "h": 0.0073
+   },
+   {
+    "t": "Options",
+    "x": 0.595,
+    "y": 0.0378,
+    "w": 0.0329,
+    "h": 0.0073
+   },
+   {
+    "t": "Options",
+    "x": 0.7074,
+    "y": 0.0378,
+    "w": 0.0349,
+    "h": 0.0073
+   },
+   {
+    "t": "\u2022 Label",
+    "x": 0.3159,
+    "y": 0.0391,
+    "w": 0.0213,
+    "h": 0.0031
+   },
+   {
+    "t": "Lanel",
+    "x": 0.1938,
+    "y": 0.0392,
+    "w": 0.0213,
+    "h": 0.0029
+   },
+   {
+    "t": "LADES",
+    "x": 0.2345,
+    "y": 0.0392,
+    "w": 0.0213,
+    "h": 0.0029
+   },
+   {
+    "t": "ZORI",
+    "x": 0.3566,
+    "y": 0.0392,
+    "w": 0.0213,
+    "h": 0.0029
+   },
+   {
+    "t": "\u2022 Options",
+    "x": 0.5833,
+    "y": 0.0521,
+    "w": 0.0426,
+    "h": 0.0075
+   },
+   {
+    "t": "V Options",
+    "x": 0.6996,
+    "y": 0.0552,
+    "w": 0.0407,
+    "h": 0.0044
+   },
+   {
+    "t": "Label",
+    "x": 0.3566,
+    "y": 0.061,
+    "w": 0.0233,
+    "h": 0.0058
+   },
+   {
+    "t": "abel",
+    "x": 0.2326,
+    "y": 0.0625,
+    "w": 0.0233,
+    "h": 0.0029
+   },
+   {
+    "t": "Canel",
+    "x": 0.2752,
+    "y": 0.0625,
+    "w": 0.0213,
+    "h": 0.0029
+   },
+   {
+    "t": "Label",
+    "x": 0.3159,
+    "y": 0.0625,
+    "w": 0.0213,
+    "h": 0.0029
+   },
+   {
+    "t": "*Title",
+    "x": 0.4244,
+    "y": 0.0669,
+    "w": 0.0233,
+    "h": 0.0073
+   },
+   {
+    "t": "\u2022 Options",
+    "x": 0.5853,
+    "y": 0.0698,
+    "w": 0.0426,
+    "h": 0.0073
+   },
+   {
+    "t": "\u2022 Options",
+    "x": 0.6977,
+    "y": 0.0712,
+    "w": 0.0446,
+    "h": 0.0074
+   },
+   {
+    "t": "Label",
+    "x": 0.1938,
+    "y": 0.0843,
+    "w": 0.0233,
+    "h": 0.0073
+   },
+   {
+    "t": "Label",
+    "x": 0.2345,
+    "y": 0.0843,
+    "w": 0.0233,
+    "h": 0.0073
+   },
+   {
+    "t": "Label",
+    "x": 0.2752,
+    "y": 0.0843,
+    "w": 0.0233,
+    "h": 0.0073
+   },
+   {
+    "t": "Label",
+    "x": 0.3159,
+    "y": 0.0843,
+    "w": 0.0233,
+    "h": 0.0073
+   },
+   {
+    "t": "Label",
+    "x": 0.3566,
+    "y": 0.0843,
+    "w": 0.0233,
+    "h": 0.0073
+   },
+   {
+    "t": "\u2022 Options",
+    "x": 0.5833,
+    "y": 0.087,
+    "w": 0.0426,
+    "h": 0.0075
+   },
+   {
+    "t": "El Options",
+    "x": 0.6996,
+    "y": 0.0885,
+    "w": 0.0426,
+    "h": 0.0074
+   },
+   {
+    "t": "Lapel",
+    "x": 0.3159,
+    "y": 0.1105,
+    "w": 0.0213,
+    "h": 0.0029
+   },
+   {
+    "t": "Page Number",
+    "x": 0.4322,
+    "y": 0.1206,
+    "w": 0.0775,
+    "h": 0.0087
+   },
+   {
+    "t": "Label",
+    "x": 0.3566,
+    "y": 0.1337,
+    "w": 0.0213,
+    "h": 0.0073
+   },
+   {
+    "t": "Side Nav",
+    "x": 0.2326,
+    "y": 0.1859,
+    "w": 0.0504,
+    "h": 0.0074
+   },
+   {
+    "t": "Pagination",
+    "x": 0.4282,
+    "y": 0.193,
+    "w": 0.0622,
+    "h": 0.0107
+   },
+   {
+    "t": "Navigation",
+    "x": 0.2442,
+    "y": 0.2108,
+    "w": 0.0523,
+    "h": 0.0073
+   },
+   {
+    "t": "Navigation",
+    "x": 0.2442,
+    "y": 0.2456,
+    "w": 0.0523,
+    "h": 0.0073
+   },
+   {
+    "t": "Tag",
+    "x": 0.4302,
+    "y": 0.25,
+    "w": 0.0233,
+    "h": 0.0087
+   },
+   {
+    "t": "\u00a9 Navigation",
+    "x": 0.2442,
+    "y": 0.2672,
+    "w": 0.0523,
+    "h": 0.009
+   },
+   {
+    "t": "\u2022 Secondary Navigation",
+    "x": 0.2442,
+    "y": 0.2891,
+    "w": 0.0911,
+    "h": 0.0089
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.4322,
+    "y": 0.2964,
+    "w": 0.0349,
+    "h": 0.0074
+   },
+   {
+    "t": "\u00a9 Secondary Navigation",
+    "x": 0.2442,
+    "y": 0.3125,
+    "w": 0.0891,
+    "h": 0.0073
+   },
+   {
+    "t": "Label",
+    "x": 0.593,
+    "y": 0.3314,
+    "w": 0.0233,
+    "h": 0.0102
+   },
+   {
+    "t": "Label",
+    "x": 0.6473,
+    "y": 0.3314,
+    "w": 0.0213,
+    "h": 0.0102
+   },
+   {
+    "t": "Label",
+    "x": 0.4322,
+    "y": 0.3328,
+    "w": 0.0252,
+    "h": 0.0073
+   },
+   {
+    "t": "Label",
+    "x": 0.5407,
+    "y": 0.3328,
+    "w": 0.0233,
+    "h": 0.0073
+   },
+   {
+    "t": "@ Navigation",
+    "x": 0.2442,
+    "y": 0.3343,
+    "w": 0.0523,
+    "h": 0.0089
+   },
+   {
+    "t": "Navigation",
+    "x": 0.2442,
+    "y": 0.356,
+    "w": 0.0524,
+    "h": 0.009
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.4864,
+    "y": 0.3589,
+    "w": 0.031,
+    "h": 0.006
+   },
+   {
+    "t": "Label x",
+    "x": 0.5407,
+    "y": 0.3589,
+    "w": 0.031,
+    "h": 0.006
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.6492,
+    "y": 0.3589,
+    "w": 0.031,
+    "h": 0.006
+   },
+   {
+    "t": "Label X",
+    "x": 0.4322,
+    "y": 0.3604,
+    "w": 0.0329,
+    "h": 0.0044
+   },
+   {
+    "t": "\u00a9 Navigation",
+    "x": 0.2441,
+    "y": 0.3776,
+    "w": 0.0525,
+    "h": 0.0094
+   },
+   {
+    "t": "Label",
+    "x": 0.4302,
+    "y": 0.3997,
+    "w": 0.0252,
+    "h": 0.0087
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.4302,
+    "y": 0.4259,
+    "w": 0.0368,
+    "h": 0.0087
+   },
+   {
+    "t": "\u2022 Navigation",
+    "x": 0.2441,
+    "y": 0.4488,
+    "w": 0.0525,
+    "h": 0.0094
+   },
+   {
+    "t": "Grouping",
+    "x": 0.2519,
+    "y": 0.4695,
+    "w": 0.031,
+    "h": 0.0029
+   },
+   {
+    "t": "\u2022 Navigation",
+    "x": 0.2442,
+    "y": 0.4839,
+    "w": 0.0523,
+    "h": 0.0074
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.4283,
+    "y": 0.4927,
+    "w": 0.0388,
+    "h": 0.0073
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.4826,
+    "y": 0.4927,
+    "w": 0.0368,
+    "h": 0.0073
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.5368,
+    "y": 0.4927,
+    "w": 0.0368,
+    "h": 0.0073
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.5891,
+    "y": 0.4927,
+    "w": 0.0368,
+    "h": 0.0073
+   },
+   {
+    "t": "Label \u00d7",
+    "x": 0.6453,
+    "y": 0.4927,
+    "w": 0.0329,
+    "h": 0.0073
+   },
+   {
+    "t": "\u00a9 Navigation",
+    "x": 0.2441,
+    "y": 0.5057,
+    "w": 0.0524,
+    "h": 0.009
+   },
+   {
+    "t": "Secondary Navigation",
+    "x": 0.2539,
+    "y": 0.5291,
+    "w": 0.0795,
+    "h": 0.0074
+   },
+   {
+    "t": "Secondary Navigation",
+    "x": 0.2558,
+    "y": 0.5509,
+    "w": 0.0795,
+    "h": 0.0075
+   },
+   {
+    "t": "@ Navigation",
+    "x": 0.2442,
+    "y": 0.5727,
+    "w": 0.0504,
+    "h": 0.0073
+   },
+   {
+    "t": "Navigation",
+    "x": 0.2442,
+    "y": 0.5945,
+    "w": 0.0523,
+    "h": 0.0087
+   },
+   {
+    "t": "Navigation",
+    "x": 0.2441,
+    "y": 0.6161,
+    "w": 0.0525,
+    "h": 0.0092
+   },
+   {
+    "t": "sae =",
+    "x": 0.3217,
+    "y": 0.7135,
+    "w": 0.0174,
+    "h": 0.0074
+   },
+   {
+    "t": "Ficconisds :",
+    "x": 0.3547,
+    "y": 0.7135,
+    "w": 0.0349,
+    "h": 0.0074
+   },
+   {
+    "t": "Cosamar",
+    "x": 0.6124,
+    "y": 0.7137,
+    "w": 0.0252,
+    "h": 0.0058
+   },
+   {
+    "t": "polar -",
+    "x": 0.5174,
+    "y": 0.7151,
+    "w": 0.0155,
+    "h": 0.0031
+   },
+   {
+    "t": "0\u043b12.211",
+    "x": 0.4031,
+    "y": 0.7238,
+    "w": 0.0407,
+    "h": 0.0073
+   },
+   {
+    "t": "1019,2032",
+    "x": 0.7442,
+    "y": 0.7238,
+    "w": 0.0252,
+    "h": 0.0058
+   },
+   {
+    "t": "030120212128011",
+    "x": 0.4031,
+    "y": 0.734,
+    "w": 0.0407,
+    "h": 0.0073
+   },
+   {
+    "t": "031000132019",
+    "x": 0.5543,
+    "y": 0.7427,
+    "w": 0.0407,
+    "h": 0.0073
+   },
+   {
+    "t": "03/22/202121:29:14",
+    "x": 0.4031,
+    "y": 0.7456,
+    "w": 0.0388,
+    "h": 0.0044
+   },
+   {
+    "t": "03/L120033129-14",
+    "x": 0.5543,
+    "y": 0.7529,
+    "w": 0.0407,
+    "h": 0.0058
+   },
+   {
+    "t": "03012821,21231",
+    "x": 0.4031,
+    "y": 0.7544,
+    "w": 0.0388,
+    "h": 0.0058
+   },
+   {
+    "t": "-Trem Ngoy!",
+    "x": 0.6124,
+    "y": 0.7557,
+    "w": 0.0252,
+    "h": 0.0031
+   },
+   {
+    "t": "0011/2001, 2129.18",
+    "x": 0.5543,
+    "y": 0.763,
+    "w": 0.0407,
+    "h": 0.0059
+   },
+   {
+    "t": "1X: 3X0",
+    "x": 0.3236,
+    "y": 0.766,
+    "w": 0.0155,
+    "h": 0.0029
+   },
+   {
+    "t": "0801/201,212914",
+    "x": 0.4012,
+    "y": 0.7834,
+    "w": 0.0426,
+    "h": 0.0073
+   },
+   {
+    "t": "SEND",
+    "x": 0.3236,
+    "y": 0.7936,
+    "w": 0.0155,
+    "h": 0.0058
+   },
+   {
+    "t": "0031301213914",
+    "x": 0.4012,
+    "y": 0.7936,
+    "w": 0.0426,
+    "h": 0.0073
+   },
+   {
+    "t": "01020131994",
+    "x": 0.4031,
+    "y": 0.8125,
+    "w": 0.0407,
+    "h": 0.0073
+   },
+   {
+    "t": "0301200121-2514",
+    "x": 0.5717,
+    "y": 0.814,
+    "w": 0.0407,
+    "h": 0.0058
+   },
+   {
+    "t": "Native",
+    "x": 0.7403,
+    "y": 0.814,
+    "w": 0.0155,
+    "h": 0.0073
+   },
+   {
+    "t": "Loremingin",
+    "x": 0.5174,
+    "y": 0.8169,
+    "w": 0.0252,
+    "h": 0.0029
+   },
+   {
+    "t": "03012001 212514",
+    "x": 0.5717,
+    "y": 0.824,
+    "w": 0.0407,
+    "h": 0.006
+   },
+   {
+    "t": "torem igours",
+    "x": 0.6337,
+    "y": 0.824,
+    "w": 0.0252,
+    "h": 0.006
+   },
+   {
+    "t": "tormigguns",
+    "x": 0.5174,
+    "y": 0.8343,
+    "w": 0.0271,
+    "h": 0.0058
+   },
+   {
+    "t": "Lorem iqsur",
+    "x": 0.6337,
+    "y": 0.8343,
+    "w": 0.0252,
+    "h": 0.0058
+   },
+   {
+    "t": "near sang",
+    "x": 0.4167,
+    "y": 0.8561,
+    "w": 0.0368,
+    "h": 0.0029
+   },
+   {
+    "t": "Conseet",
+    "x": 0.5581,
+    "y": 0.8677,
+    "w": 0.0174,
+    "h": 0.0029
+   },
+   {
+    "t": "Profus",
+    "x": 0.5891,
+    "y": 0.8677,
+    "w": 0.0136,
+    "h": 0.0029
+   },
+   {
+    "t": "Custere",
+    "x": 0.6376,
+    "y": 0.8677,
+    "w": 0.0174,
+    "h": 0.0029
+   },
+   {
+    "t": "Wwised Pushes",
+    "x": 0.7132,
+    "y": 0.8677,
+    "w": 0.0329,
+    "h": 0.0031
+   },
+   {
+    "t": "TRisS.",
+    "x": 0.5601,
+    "y": 0.875,
+    "w": 0.0155,
+    "h": 0.0073
+   },
+   {
+    "t": "dwe Copti",
+    "x": 0.6376,
+    "y": 0.875,
+    "w": 0.0271,
+    "h": 0.0058
+   },
+   {
+    "t": "Use val",
+    "x": 0.314,
+    "y": 0.8865,
+    "w": 0.0174,
+    "h": 0.0031
+   },
+   {
+    "t": "01/01/20212129@",
+    "x": 0.7539,
+    "y": 0.8866,
+    "w": 0.0465,
+    "h": 0.0044
+   },
+   {
+    "t": "01/11/2021.21:29 O",
+    "x": 0.7539,
+    "y": 0.8968,
+    "w": 0.0465,
+    "h": 0.0044
+   },
+   {
+    "t": "250102001.212918",
+    "x": 0.4167,
+    "y": 0.9041,
+    "w": 0.0407,
+    "h": 0.0058
+   },
+   {
+    "t": "Thirte",
+    "x": 0.5891,
+    "y": 0.907,
+    "w": 0.0136,
+    "h": 0.0029
+   },
+   {
+    "t": "Theodora Ilatwil",
+    "x": 0.6376,
+    "y": 0.9172,
+    "w": 0.0329,
+    "h": 0.0032
+   },
+   {
+    "t": "to rew.",
+    "x": 0.5891,
+    "y": 0.9244,
+    "w": 0.0194,
+    "h": 0.0058
+   },
+   {
+    "t": "Theodori Hakwhe",
+    "x": 0.6376,
+    "y": 0.9244,
+    "w": 0.0329,
+    "h": 0.0058
+   },
+   {
+    "t": "0712021213\u00ae",
+    "x": 0.7539,
+    "y": 0.9244,
+    "w": 0.0484,
+    "h": 0.0073
+   },
+   {
+    "t": "dea rest.",
+    "x": 0.2674,
+    "y": 0.9331,
+    "w": 0.0194,
+    "h": 0.0059
+   },
+   {
+    "t": "Theodora Hakelte",
+    "x": 0.6376,
+    "y": 0.9344,
+    "w": 0.0329,
+    "h": 0.0062
+   },
+   {
+    "t": "010120212138\u00ae",
+    "x": 0.7539,
+    "y": 0.9346,
+    "w": 0.0484,
+    "h": 0.0073
+   },
+   {
+    "t": "Mason Not",
+    "x": 0.312,
+    "y": 0.9359,
+    "w": 0.0213,
+    "h": 0.0031
+   },
+   {
+    "t": "15110/202123:2318",
+    "x": 0.4167,
+    "y": 0.936,
+    "w": 0.0388,
+    "h": 0.0029
+   },
+   {
+    "t": "01/01/20212128\u00a9",
+    "x": 0.7539,
+    "y": 0.9448,
+    "w": 0.0484,
+    "h": 0.0058
+   },
+   {
+    "t": "test roa",
+    "x": 0.5891,
+    "y": 0.9535,
+    "w": 0.0174,
+    "h": 0.0074
+   },
+   {
+    "t": "033120212133",
+    "x": 0.7539,
+    "y": 0.9535,
+    "w": 0.0484,
+    "h": 0.0073
+   },
+   {
+    "t": "this h..",
+    "x": 0.5891,
+    "y": 0.9635,
+    "w": 0.0155,
+    "h": 0.0074
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "file": "b26.jpg",
+  "y0": 11509,
+  "y1": 11604,
+  "h": 95,
+  "color": 0.0,
+  "density": 0.068,
+  "lines": [
+   {
+    "t": "Final Design",
+    "x": 0.1525,
+    "y": 0.1244,
+    "w": 0.0975,
+    "h": 0.2947
+   },
+   {
+    "t": "Product Review Catalog",
+    "x": 0.1526,
+    "y": 0.6522,
+    "w": 0.1904,
+    "h": 0.2853
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "file": "b27.jpg",
+  "y0": 11635,
+  "y1": 12647,
+  "h": 1012,
+  "color": 0.95,
+  "density": 0.395,
+  "lines": [
+   {
+    "t": "Claire Oner",
+    "x": 0.7049,
+    "y": 0.0267,
+    "w": 0.0291,
+    "h": 0.0089
+   },
+   {
+    "t": "\u00a9 Sales",
+    "x": 0.2616,
+    "y": 0.0579,
+    "w": 0.0233,
+    "h": 0.0103
+   },
+   {
+    "t": "Catalog",
+    "x": 0.343,
+    "y": 0.064,
+    "w": 0.0233,
+    "h": 0.0103
+   },
+   {
+    "t": "Others Product reviews",
+    "x": 0.3677,
+    "y": 0.064,
+    "w": 0.0625,
+    "h": 0.0103
+   },
+   {
+    "t": "Current client: Andi Grace",
+    "x": 0.6701,
+    "y": 0.0661,
+    "w": 0.0683,
+    "h": 0.0083
+   },
+   {
+    "t": "@ catalog",
+    "x": 0.2631,
+    "y": 0.0826,
+    "w": 0.0276,
+    "h": 0.0103
+   },
+   {
+    "t": "Product Review",
+    "x": 0.343,
+    "y": 0.0868,
+    "w": 0.0858,
+    "h": 0.017
+   },
+   {
+    "t": "0 Customers",
+    "x": 0.2631,
+    "y": 0.1116,
+    "w": 0.032,
+    "h": 0.0062
+   },
+   {
+    "t": "\u2022 Search",
+    "x": 0.6628,
+    "y": 0.1343,
+    "w": 0.0247,
+    "h": 0.0103
+   },
+   {
+    "t": "\u00a9 Reset",
+    "x": 0.7006,
+    "y": 0.1343,
+    "w": 0.0218,
+    "h": 0.0103
+   },
+   {
+    "t": "Starch by pruduct mime",
+    "x": 0.3895,
+    "y": 0.1364,
+    "w": 0.0567,
+    "h": 0.0083
+   },
+   {
+    "t": "Any",
+    "x": 0.5988,
+    "y": 0.1364,
+    "w": 0.0116,
+    "h": 0.0103
+   },
+   {
+    "t": "9g Marketing",
+    "x": 0.2616,
+    "y": 0.1383,
+    "w": 0.0334,
+    "h": 0.0109
+   },
+   {
+    "t": "how Naire",
+    "x": 0.3503,
+    "y": 0.1383,
+    "w": 0.0334,
+    "h": 0.0042
+   },
+   {
+    "t": "Weater Canie",
+    "x": 0.4608,
+    "y": 0.1383,
+    "w": 0.0378,
+    "h": 0.0042
+   },
+   {
+    "t": "@ Content",
+    "x": 0.2631,
+    "y": 0.163,
+    "w": 0.0276,
+    "h": 0.0109
+   },
+   {
+    "t": "Review Title =",
+    "x": 0.4258,
+    "y": 0.1815,
+    "w": 0.035,
+    "h": 0.0109
+   },
+   {
+    "t": "SKU =",
+    "x": 0.359,
+    "y": 0.1818,
+    "w": 0.0174,
+    "h": 0.0103
+   },
+   {
+    "t": "Product Name:",
+    "x": 0.3852,
+    "y": 0.1818,
+    "w": 0.0407,
+    "h": 0.0103
+   },
+   {
+    "t": "Content: Roviow= Customer",
+    "x": 0.4622,
+    "y": 0.1818,
+    "w": 0.0843,
+    "h": 0.0103
+   },
+   {
+    "t": "Verified: Timestamp/date:",
+    "x": 0.6192,
+    "y": 0.1818,
+    "w": 0.0727,
+    "h": 0.0103
+   },
+   {
+    "t": "8) System",
+    "x": 0.2631,
+    "y": 0.1917,
+    "w": 0.0262,
+    "h": 0.0109
+   },
+   {
+    "t": "This is.",
+    "x": 0.4259,
+    "y": 0.2045,
+    "w": 0.0189,
+    "h": 0.0103
+   },
+   {
+    "t": "Purely el.",
+    "x": 0.3852,
+    "y": 0.2065,
+    "w": 0.0276,
+    "h": 0.0084
+   },
+   {
+    "t": "sue bront",
+    "x": 0.5174,
+    "y": 0.2085,
+    "w": 0.0305,
+    "h": 0.0043
+   },
+   {
+    "t": "# Shipping",
+    "x": 0.2615,
+    "y": 0.2178,
+    "w": 0.0323,
+    "h": 0.0108
+   },
+   {
+    "t": "Tram Nguyen",
+    "x": 0.5174,
+    "y": 0.229,
+    "w": 0.0321,
+    "h": 0.0111
+   },
+   {
+    "t": "Purely el.",
+    "x": 0.3852,
+    "y": 0.2292,
+    "w": 0.0276,
+    "h": 0.0084
+   },
+   {
+    "t": "01/11/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.2292,
+    "w": 0.048,
+    "h": 0.0084
+   },
+   {
+    "t": "pezoso:",
+    "x": 0.359,
+    "y": 0.2293,
+    "w": 0.0218,
+    "h": 0.0083
+   },
+   {
+    "t": "Review..",
+    "x": 0.4259,
+    "y": 0.2293,
+    "w": 0.0218,
+    "h": 0.0103
+   },
+   {
+    "t": "Review...",
+    "x": 0.4637,
+    "y": 0.2293,
+    "w": 0.0218,
+    "h": 0.0103
+   },
+   {
+    "t": "test revi",
+    "x": 0.3852,
+    "y": 0.252,
+    "w": 0.0247,
+    "h": 0.0084
+   },
+   {
+    "t": "test revl..",
+    "x": 0.4259,
+    "y": 0.252,
+    "w": 0.0247,
+    "h": 0.0084
+   },
+   {
+    "t": "test nevi",
+    "x": 0.4637,
+    "y": 0.252,
+    "w": 0.0233,
+    "h": 0.0109
+   },
+   {
+    "t": "Mason Monu",
+    "x": 0.5174,
+    "y": 0.252,
+    "w": 0.032,
+    "h": 0.0084
+   },
+   {
+    "t": "29/10/2021, 12:02:14",
+    "x": 0.6468,
+    "y": 0.252,
+    "w": 0.048,
+    "h": 0.0109
+   },
+   {
+    "t": "pezosoc",
+    "x": 0.359,
+    "y": 0.2521,
+    "w": 0.0218,
+    "h": 0.0103
+   },
+   {
+    "t": "This is.",
+    "x": 0.3852,
+    "y": 0.2747,
+    "w": 0.0189,
+    "h": 0.0109
+   },
+   {
+    "t": "This is.",
+    "x": 0.4259,
+    "y": 0.2747,
+    "w": 0.0189,
+    "h": 0.0109
+   },
+   {
+    "t": "This is..",
+    "x": 0.4637,
+    "y": 0.2747,
+    "w": 0.0189,
+    "h": 0.0109
+   },
+   {
+    "t": "+ 3,5",
+    "x": 0.4927,
+    "y": 0.2747,
+    "w": 0.0145,
+    "h": 0.0109
+   },
+   {
+    "t": "Mason Manu",
+    "x": 0.5174,
+    "y": 0.2747,
+    "w": 0.032,
+    "h": 0.0109
+   },
+   {
+    "t": "pezoso:",
+    "x": 0.359,
+    "y": 0.2748,
+    "w": 0.0233,
+    "h": 0.0103
+   },
+   {
+    "t": "Approred",
+    "x": 0.5887,
+    "y": 0.2748,
+    "w": 0.0233,
+    "h": 0.0083
+   },
+   {
+    "t": "28/10/2021,21:29:14",
+    "x": 0.6468,
+    "y": 0.2748,
+    "w": 0.048,
+    "h": 0.0103
+   },
+   {
+    "t": "Theodora Hahails",
+    "x": 0.5174,
+    "y": 0.2974,
+    "w": 0.0422,
+    "h": 0.0109
+   },
+   {
+    "t": "27/10/2021, 21:29:54",
+    "x": 0.6468,
+    "y": 0.2974,
+    "w": 0.048,
+    "h": 0.0109
+   },
+   {
+    "t": "Revien..",
+    "x": 0.4273,
+    "y": 0.2975,
+    "w": 0.0203,
+    "h": 0.0103
+   },
+   {
+    "t": "Review...",
+    "x": 0.4637,
+    "y": 0.2975,
+    "w": 0.0218,
+    "h": 0.0103
+   },
+   {
+    "t": "-50",
+    "x": 0.4942,
+    "y": 0.2975,
+    "w": 0.0131,
+    "h": 0.0083
+   },
+   {
+    "t": "Ves",
+    "x": 0.564,
+    "y": 0.2975,
+    "w": 0.0102,
+    "h": 0.0103
+   },
+   {
+    "t": "Approved",
+    "x": 0.5887,
+    "y": 0.2975,
+    "w": 0.0233,
+    "h": 0.0083
+   },
+   {
+    "t": "+ 45",
+    "x": 0.4927,
+    "y": 0.3202,
+    "w": 0.0145,
+    "h": 0.0109
+   },
+   {
+    "t": "26/10/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.3202,
+    "w": 0.048,
+    "h": 0.0109
+   },
+   {
+    "t": "0OROSO",
+    "x": 0.359,
+    "y": 0.3244,
+    "w": 0.0189,
+    "h": 0.0041
+   },
+   {
+    "t": "This is.",
+    "x": 0.4637,
+    "y": 0.3429,
+    "w": 0.0174,
+    "h": 0.0109
+   },
+   {
+    "t": "+ 4.0",
+    "x": 0.4927,
+    "y": 0.3429,
+    "w": 0.0145,
+    "h": 0.0109
+   },
+   {
+    "t": "Thisis.",
+    "x": 0.4259,
+    "y": 0.343,
+    "w": 0.0189,
+    "h": 0.0103
+   },
+   {
+    "t": "Approved",
+    "x": 0.5887,
+    "y": 0.343,
+    "w": 0.0233,
+    "h": 0.0103
+   },
+   {
+    "t": "25/10/2021,21:29:14",
+    "x": 0.6468,
+    "y": 0.343,
+    "w": 0.048,
+    "h": 0.0103
+   },
+   {
+    "t": "THis ts.",
+    "x": 0.3866,
+    "y": 0.3468,
+    "w": 0.016,
+    "h": 0.0044
+   },
+   {
+    "t": "24/10/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.3676,
+    "w": 0.048,
+    "h": 0.0109
+   },
+   {
+    "t": "Review...",
+    "x": 0.3852,
+    "y": 0.3678,
+    "w": 0.0233,
+    "h": 0.0083
+   },
+   {
+    "t": "Review.",
+    "x": 0.4259,
+    "y": 0.3678,
+    "w": 0.0233,
+    "h": 0.0083
+   },
+   {
+    "t": "-Thenners Hahank",
+    "x": 0.5174,
+    "y": 0.3696,
+    "w": 0.0407,
+    "h": 0.0044
+   },
+   {
+    "t": "test revi.",
+    "x": 0.3852,
+    "y": 0.3903,
+    "w": 0.0233,
+    "h": 0.0089
+   },
+   {
+    "t": "rest red.",
+    "x": 0.4259,
+    "y": 0.3903,
+    "w": 0.0233,
+    "h": 0.0109
+   },
+   {
+    "t": "Mason Monu",
+    "x": 0.5174,
+    "y": 0.3903,
+    "w": 0.032,
+    "h": 0.0089
+   },
+   {
+    "t": "15/10/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.3903,
+    "w": 0.048,
+    "h": 0.0109
+   },
+   {
+    "t": "This is..",
+    "x": 0.3866,
+    "y": 0.413,
+    "w": 0.0174,
+    "h": 0.0089
+   },
+   {
+    "t": "This is.",
+    "x": 0.4637,
+    "y": 0.413,
+    "w": 0.0174,
+    "h": 0.0089
+   },
+   {
+    "t": "Deve Delphis",
+    "x": 0.5174,
+    "y": 0.413,
+    "w": 0.032,
+    "h": 0.0109
+   },
+   {
+    "t": "pezoso:",
+    "x": 0.359,
+    "y": 0.4132,
+    "w": 0.0218,
+    "h": 0.0103
+   },
+   {
+    "t": "Thisis.",
+    "x": 0.4259,
+    "y": 0.4132,
+    "w": 0.0189,
+    "h": 0.0103
+   },
+   {
+    "t": "10/10/2021,21:29.14",
+    "x": 0.6468,
+    "y": 0.4132,
+    "w": 0.048,
+    "h": 0.0103
+   },
+   {
+    "t": "2n Raes",
+    "x": 0.3823,
+    "y": 0.4442,
+    "w": 0.0189,
+    "h": 0.0084
+   },
+   {
+    "t": "Go To",
+    "x": 0.6817,
+    "y": 0.4442,
+    "w": 0.016,
+    "h": 0.0103
+   },
+   {
+    "t": "Page",
+    "x": 0.7108,
+    "y": 0.4442,
+    "w": 0.016,
+    "h": 0.0103
+   },
+   {
+    "t": "This page is part of the Catalog > Others> Product Reviews menu, which can be seen from the breadcrumb navigation at the top of",
+    "x": 0.1526,
+    "y": 0.5099,
+    "w": 0.6948,
+    "h": 0.0211
+   },
+   {
+    "t": "the page. The main title of the page is Product Review, which is displayed in a prominent font size below the breadcrumb. The page",
+    "x": 0.1512,
+    "y": 0.5306,
+    "w": 0.6919,
+    "h": 0.019
+   },
+   {
+    "t": "design has a clean and professional look with a navigation sidebar on the left that includes several main menus such as Sales,",
+    "x": 0.1526,
+    "y": 0.5514,
+    "w": 0.6613,
+    "h": 0.0168
+   },
+   {
+    "t": "Catalog (which is currently active), Customers, Marketing, Content, System, and Shipping. In the top-right corner of the page, there",
+    "x": 0.1526,
+    "y": 0.5702,
+    "w": 0.6904,
+    "h": 0.0188
+   },
+   {
+    "t": "is the active user profile with the name \"Claire Oxer,\" along with notification icons and account settings. The name of the current",
+    "x": 0.1512,
+    "y": 0.5868,
+    "w": 0.6817,
+    "h": 0.019
+   },
+   {
+    "t": "active client is also displayed in the top right corner of the page, which is Andi Grace.",
+    "x": 0.1526,
+    "y": 0.6017,
+    "w": 0.4478,
+    "h": 0.0254
+   },
+   {
+    "t": "Below the page title is a search filter bar that allows users to search by product name, customer name, and review status (with a",
+    "x": 0.1526,
+    "y": 0.6423,
+    "w": 0.6744,
+    "h": 0.0209
+   },
+   {
+    "t": "dropdown menu to select \"Any\" or a specific status). There are two important buttons on the right side of the filter: a dark green",
+    "x": 0.1526,
+    "y": 0.6603,
+    "w": 0.6716,
+    "h": 0.0227
+   },
+   {
+    "t": "Search button and a light gray Reset button, which allow users to start a search or return the filter to its default settings.",
+    "x": 0.1526,
+    "y": 0.6818,
+    "w": 0.6323,
+    "h": 0.0188
+   },
+   {
+    "t": "The main content of the page consists of a table with several columns: SKU, Product Name, Review Title, Content, Review (in the",
+    "x": 0.1526,
+    "y": 0.719,
+    "w": 0.6773,
+    "h": 0.0186
+   },
+   {
+    "t": "form of stars and numerical scores), Customer, Image (with a \"Yes\" or \"No\" indicator), Status (marked with a colored badge),",
+    "x": 0.1512,
+    "y": 0.7372,
+    "w": 0.6555,
+    "h": 0.019
+   },
+   {
+    "t": "Verified, Timestamp/date, and Actions. Columns such as \"Product Name,\" \"Review Title,\" and 'Content' display truncated text with",
+    "x": 0.1526,
+    "y": 0.7559,
+    "w": 0.6802,
+    "h": 0.0189
+   },
+   {
+    "t": "ellipses to keep the table neat. All data in the SKU column are blue links with the text \"pezosoc.\"",
+    "x": 0.1526,
+    "y": 0.7727,
+    "w": 0.5044,
+    "h": 0.0208
+   },
+   {
+    "t": "The \"Status\" column displays an orange badge for Pending status and a green badge for Approved status, while the \"Verified\"",
+    "x": 0.1526,
+    "y": 0.812,
+    "w": 0.6599,
+    "h": 0.019
+   },
+   {
+    "t": "column shows the \"Yes\" or 'No' status of customer verification. The \"Actions\" column on the far right has a blue eye icon that allows",
+    "x": 0.1526,
+    "y": 0.8306,
+    "w": 0.689,
+    "h": 0.0186
+   },
+   {
+    "t": "users to view the full review details.",
+    "x": 0.1526,
+    "y": 0.8508,
+    "w": 0.1904,
+    "h": 0.017
+   },
+   {
+    "t": "At the bottom of the table, there is information on the total number of entries (\"400 total\"), a dropdown menu to set the number of",
+    "x": 0.1526,
+    "y": 0.8883,
+    "w": 0.6831,
+    "h": 0.0188
+   },
+   {
+    "t": "rows displayed per page (default 20 rows), and page navigation controls. There is pagination that allows users to navigate between",
+    "x": 0.1512,
+    "y": 0.907,
+    "w": 0.6904,
+    "h": 0.0189
+   },
+   {
+    "t": "pages using number buttons and arrow icons, as well as an input field to directly go to a specific page via the Go To Page feature.",
+    "x": 0.1526,
+    "y": 0.9256,
+    "w": 0.6817,
+    "h": 0.019
+   },
+   {
+    "t": "Product Review Detail (Approval)",
+    "x": 0.1524,
+    "y": 0.9608,
+    "w": 0.2635,
+    "h": 0.0341
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "file": "b28.jpg",
+  "y0": 12678,
+  "y1": 13696,
+  "h": 1018,
+  "color": 1.32,
+  "density": 0.365,
+  "lines": [
+   {
+    "t": "Corolyns",
+    "x": 0.7049,
+    "y": 0.0287,
+    "w": 0.0262,
+    "h": 0.0041
+   },
+   {
+    "t": "\u00a9 Sales",
+    "x": 0.2631,
+    "y": 0.055,
+    "w": 0.0203,
+    "h": 0.0108
+   },
+   {
+    "t": "Catalog",
+    "x": 0.343,
+    "y": 0.0637,
+    "w": 0.0247,
+    "h": 0.0103
+   },
+   {
+    "t": "Product review detail",
+    "x": 0.4331,
+    "y": 0.0637,
+    "w": 0.0523,
+    "h": 0.0103
+   },
+   {
+    "t": "Others Product reviews",
+    "x": 0.3663,
+    "y": 0.0657,
+    "w": 0.064,
+    "h": 0.0062
+   },
+   {
+    "t": "sorront clion indicesco",
+    "x": 0.6701,
+    "y": 0.0678,
+    "w": 0.0669,
+    "h": 0.0041
+   },
+   {
+    "t": "E catalog",
+    "x": 0.2631,
+    "y": 0.0821,
+    "w": 0.0276,
+    "h": 0.0123
+   },
+   {
+    "t": "Product Review Detail",
+    "x": 0.343,
+    "y": 0.0862,
+    "w": 0.1192,
+    "h": 0.0169
+   },
+   {
+    "t": "Reject",
+    "x": 0.7137,
+    "y": 0.0903,
+    "w": 0.0174,
+    "h": 0.0103
+   },
+   {
+    "t": "cia Customers",
+    "x": 0.2616,
+    "y": 0.1068,
+    "w": 0.0349,
+    "h": 0.0123
+   },
+   {
+    "t": "Approval",
+    "x": 0.3517,
+    "y": 0.1294,
+    "w": 0.0218,
+    "h": 0.0103
+   },
+   {
+    "t": "Other reviews by Masco Monu",
+    "x": 0.3852,
+    "y": 0.1294,
+    "w": 0.0683,
+    "h": 0.0103
+   },
+   {
+    "t": "90 Marketing",
+    "x": 0.2616,
+    "y": 0.1355,
+    "w": 0.0334,
+    "h": 0.0128
+   },
+   {
+    "t": "@ Content",
+    "x": 0.2631,
+    "y": 0.1621,
+    "w": 0.0291,
+    "h": 0.0108
+   },
+   {
+    "t": "Approve",
+    "x": 0.3939,
+    "y": 0.1643,
+    "w": 0.0233,
+    "h": 0.0082
+   },
+   {
+    "t": "SKU",
+    "x": 0.5581,
+    "y": 0.1643,
+    "w": 0.0131,
+    "h": 0.0103
+   },
+   {
+    "t": "Statue",
+    "x": 0.3547,
+    "y": 0.1663,
+    "w": 0.0145,
+    "h": 0.0041
+   },
+   {
+    "t": "Rating:",
+    "x": 0.5581,
+    "y": 0.1869,
+    "w": 0.0174,
+    "h": 0.0103
+   },
+   {
+    "t": "(0y Sustem",
+    "x": 0.2616,
+    "y": 0.1906,
+    "w": 0.0262,
+    "h": 0.0069
+   },
+   {
+    "t": "Ina- Siur Poiato Chine",
+    "x": 0.5828,
+    "y": 0.2112,
+    "w": 0.0538,
+    "h": 0.0044
+   },
+   {
+    "t": "Pratire",
+    "x": 0.5581,
+    "y": 0.2115,
+    "w": 0.0189,
+    "h": 0.0041
+   },
+   {
+    "t": "\u2022 Shipping",
+    "x": 0.2631,
+    "y": 0.2151,
+    "w": 0.0305,
+    "h": 0.0128
+   },
+   {
+    "t": "Lorem Ipsum is a dummy sext for unknown content. Lorem",
+    "x": 0.5828,
+    "y": 0.2299,
+    "w": 0.1308,
+    "h": 0.0108
+   },
+   {
+    "t": "Conten",
+    "x": 0.5581,
+    "y": 0.2341,
+    "w": 0.0203,
+    "h": 0.0041
+   },
+   {
+    "t": "Review Title",
+    "x": 0.3532,
+    "y": 0.2358,
+    "w": 0.032,
+    "h": 0.0088
+   },
+   {
+    "t": "losum is a dummy twit for unirwn content",
+    "x": 0.5843,
+    "y": 0.2423,
+    "w": 0.0974,
+    "h": 0.0062
+   },
+   {
+    "t": "Image",
+    "x": 0.3547,
+    "y": 0.2587,
+    "w": 0.016,
+    "h": 0.0103
+   },
+   {
+    "t": "Write your comment",
+    "x": 0.5872,
+    "y": 0.2649,
+    "w": 0.0494,
+    "h": 0.0103
+   },
+   {
+    "t": "The will be puttihed as a palite ropty to the commant.",
+    "x": 0.5828,
+    "y": 0.3121,
+    "w": 0.109,
+    "h": 0.0082
+   },
+   {
+    "t": "This Product Review Detail page is part of the admin dashboard system that functions to review product reviews from customers. At",
+    "x": 0.1526,
+    "y": 0.4969,
+    "w": 0.6962,
+    "h": 0.0188
+   },
+   {
+    "t": "the top, there is a breadcrumb navigation Catalog > Others> Product Reviews > Product review detail that makes it easy for users",
+    "x": 0.1526,
+    "y": 0.5154,
+    "w": 0.686,
+    "h": 0.0185
+   },
+   {
+    "t": "to understand the position of the page being opened. At the top right, there are \"Back\" and \"Reject\" buttons that function as quick",
+    "x": 0.1512,
+    "y": 0.5334,
+    "w": 0.6846,
+    "h": 0.021
+   },
+   {
+    "t": "navigation to return or reject reviews.",
+    "x": 0.1526,
+    "y": 0.554,
+    "w": 0.1977,
+    "h": 0.0168
+   },
+   {
+    "t": "The main section of the page begins with the review approval status options, consisting of three radio buttons: Approve, Pending,",
+    "x": 0.1526,
+    "y": 0.5893,
+    "w": 0.6817,
+    "h": 0.0187
+   },
+   {
+    "t": "and Reject. These options allow the admin to determine the action to take regarding the review. The default status is set to",
+    "x": 0.1526,
+    "y": 0.6099,
+    "w": 0.6453,
+    "h": 0.0169
+   },
+   {
+    "t": "\"Approve.\"",
+    "x": 0.1511,
+    "y": 0.6261,
+    "w": 0.0568,
+    "h": 0.0189
+   },
+   {
+    "t": "Below that, review-related information is displayed in two columns. The left column displays customer data labeled \"Customer,\"",
+    "x": 0.1526,
+    "y": 0.6631,
+    "w": 0.6686,
+    "h": 0.0207
+   },
+   {
+    "t": "which includes the reviewer's name, \"Mason Monu,\" and a link to another page containing their reviews. Below that is the review",
+    "x": 0.1526,
+    "y": 0.6775,
+    "w": 0.6731,
+    "h": 0.0277
+   },
+   {
+    "t": "title, written as \"Test Review Title,\" and several product images uploaded by the customer. These images are arranged in a",
+    "x": 0.1526,
+    "y": 0.7002,
+    "w": 0.6424,
+    "h": 0.0208
+   },
+   {
+    "t": "horizontal thumbnail row to provide a visual overview of the reviewed product.",
+    "x": 0.1526,
+    "y": 0.7207,
+    "w": 0.4128,
+    "h": 0.0164
+   },
+   {
+    "t": "On the right column, product details are displayed. This information includes the product SKU in the form of a link (\"pezosoc\"), a",
+    "x": 0.1526,
+    "y": 0.7574,
+    "w": 0.6715,
+    "h": 0.0188
+   },
+   {
+    "t": "five-star rating, and the product name \"Tera - Blue Potato Chips,\" which is also a hyperlink. Below that is the customer review",
+    "x": 0.1526,
+    "y": 0.7741,
+    "w": 0.6584,
+    "h": 0.0206
+   },
+   {
+    "t": "content, but it currently uses placeholder text.",
+    "x": 0.1526,
+    "y": 0.7947,
+    "w": 0.2442,
+    "h": 0.0187
+   },
+   {
+    "t": "Administrators are also provided with the ability to publicly respond to customer reviews via a text field labeled \"Reply.\" A small note",
+    "x": 0.1526,
+    "y": 0.8316,
+    "w": 0.6933,
+    "h": 0.0185
+   },
+   {
+    "t": "below explains that this response will be published publicly. At the bottom of the page, there are two action buttons: 'Cancel to",
+    "x": 0.1526,
+    "y": 0.8497,
+    "w": 0.6686,
+    "h": 0.0209
+   },
+   {
+    "t": "cancel changes and \"Save\" to save the status or response provided.",
+    "x": 0.1526,
+    "y": 0.8684,
+    "w": 0.3561,
+    "h": 0.0187
+   },
+   {
+    "t": "Overall, this page is designed with a clean and informative layout, making it easy for admins to process reviews quickly, complete",
+    "x": 0.1526,
+    "y": 0.9076,
+    "w": 0.6788,
+    "h": 0.0187
+   },
+   {
+    "t": "with visual features and direct interaction with customer reviews.",
+    "x": 0.1526,
+    "y": 0.9261,
+    "w": 0.3445,
+    "h": 0.0144
+   },
+   {
+    "t": "Product Review Detail (Other Reviews)",
+    "x": 0.1526,
+    "y": 0.9646,
+    "w": 0.3081,
+    "h": 0.0255
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "file": "b29.jpg",
+  "y0": 13727,
+  "y1": 14627,
+  "h": 900,
+  "color": 1.01,
+  "density": 0.398,
+  "lines": [
+   {
+    "t": "sino time",
+    "x": 0.7035,
+    "y": 0.0322,
+    "w": 0.0276,
+    "h": 0.005
+   },
+   {
+    "t": "Catalog Others Product reviews Product review detail",
+    "x": 0.343,
+    "y": 0.0721,
+    "w": 0.1424,
+    "h": 0.0116
+   },
+   {
+    "t": "Current client: Andi Grace",
+    "x": 0.6701,
+    "y": 0.0744,
+    "w": 0.0683,
+    "h": 0.0093
+   },
+   {
+    "t": "E cotalog",
+    "x": 0.2631,
+    "y": 0.093,
+    "w": 0.0276,
+    "h": 0.014
+   },
+   {
+    "t": "Product Review Detail",
+    "x": 0.3445,
+    "y": 0.0977,
+    "w": 0.1177,
+    "h": 0.019
+   },
+   {
+    "t": "Reject",
+    "x": 0.7137,
+    "y": 0.1023,
+    "w": 0.0174,
+    "h": 0.0116
+   },
+   {
+    "t": "c\u00e0 Customers",
+    "x": 0.2616,
+    "y": 0.1256,
+    "w": 0.0349,
+    "h": 0.0117
+   },
+   {
+    "t": "Approval",
+    "x": 0.3503,
+    "y": 0.1465,
+    "w": 0.0218,
+    "h": 0.0093
+   },
+   {
+    "t": "Other reviews of Mason Monu",
+    "x": 0.3837,
+    "y": 0.1465,
+    "w": 0.0669,
+    "h": 0.0093
+   },
+   {
+    "t": "\u0219 Marketing",
+    "x": 0.2616,
+    "y": 0.1556,
+    "w": 0.0334,
+    "h": 0.0144
+   },
+   {
+    "t": "B content",
+    "x": 0.2631,
+    "y": 0.1833,
+    "w": 0.0276,
+    "h": 0.0122
+   },
+   {
+    "t": "Product Name :",
+    "x": 0.3852,
+    "y": 0.2,
+    "w": 0.0392,
+    "h": 0.0093
+   },
+   {
+    "t": "Reviow Title =",
+    "x": 0.4259,
+    "y": 0.2,
+    "w": 0.0349,
+    "h": 0.0093
+   },
+   {
+    "t": "Content =",
+    "x": 0.4622,
+    "y": 0.2,
+    "w": 0.0262,
+    "h": 0.0116
+   },
+   {
+    "t": "Review =",
+    "x": 0.4913,
+    "y": 0.2,
+    "w": 0.0247,
+    "h": 0.0116
+   },
+   {
+    "t": "Customer :",
+    "x": 0.516,
+    "y": 0.2,
+    "w": 0.0305,
+    "h": 0.0116
+   },
+   {
+    "t": "Image",
+    "x": 0.564,
+    "y": 0.2,
+    "w": 0.016,
+    "h": 0.0116
+   },
+   {
+    "t": "Status",
+    "x": 0.5858,
+    "y": 0.2,
+    "w": 0.016,
+    "h": 0.0116
+   },
+   {
+    "t": "Verified =",
+    "x": 0.6192,
+    "y": 0.2,
+    "w": 0.0247,
+    "h": 0.0093
+   },
+   {
+    "t": "Timestampidste :",
+    "x": 0.6453,
+    "y": 0.2,
+    "w": 0.0465,
+    "h": 0.0116
+   },
+   {
+    "t": "Actions",
+    "x": 0.7035,
+    "y": 0.2,
+    "w": 0.0189,
+    "h": 0.0093
+   },
+   {
+    "t": "a System",
+    "x": 0.2631,
+    "y": 0.2163,
+    "w": 0.0262,
+    "h": 0.0163
+   },
+   {
+    "t": "Deve Delphia",
+    "x": 0.5174,
+    "y": 0.2253,
+    "w": 0.032,
+    "h": 0.0121
+   },
+   {
+    "t": "Purelyet.",
+    "x": 0.3852,
+    "y": 0.2256,
+    "w": 0.0262,
+    "h": 0.0116
+   },
+   {
+    "t": "Thisis.",
+    "x": 0.4259,
+    "y": 0.2256,
+    "w": 0.0189,
+    "h": 0.0116
+   },
+   {
+    "t": "Thisis.",
+    "x": 0.4637,
+    "y": 0.2256,
+    "w": 0.0174,
+    "h": 0.0116
+   },
+   {
+    "t": "*4.5",
+    "x": 0.4927,
+    "y": 0.2256,
+    "w": 0.0131,
+    "h": 0.0093
+   },
+   {
+    "t": "03/11/2021, 21:29:14",
+    "x": 0.6453,
+    "y": 0.2256,
+    "w": 0.0494,
+    "h": 0.0117
+   },
+   {
+    "t": "o Shipping",
+    "x": 0.263,
+    "y": 0.2439,
+    "w": 0.0306,
+    "h": 0.0122
+   },
+   {
+    "t": "Purely el",
+    "x": 0.3852,
+    "y": 0.2511,
+    "w": 0.0247,
+    "h": 0.0122
+   },
+   {
+    "t": "= 5.0",
+    "x": 0.4927,
+    "y": 0.2511,
+    "w": 0.0145,
+    "h": 0.0122
+   },
+   {
+    "t": "Tram Nguyen",
+    "x": 0.5174,
+    "y": 0.2511,
+    "w": 0.032,
+    "h": 0.0122
+   },
+   {
+    "t": "Reviee...",
+    "x": 0.4273,
+    "y": 0.2512,
+    "w": 0.0218,
+    "h": 0.0116
+   },
+   {
+    "t": "Review...",
+    "x": 0.4637,
+    "y": 0.2512,
+    "w": 0.0218,
+    "h": 0.0116
+   },
+   {
+    "t": "01/11/2021,21:29:14",
+    "x": 0.6453,
+    "y": 0.2512,
+    "w": 0.0494,
+    "h": 0.0116
+   },
+   {
+    "t": "29/10/2021, 12:02:14",
+    "x": 0.6468,
+    "y": 0.2767,
+    "w": 0.048,
+    "h": 0.0122
+   },
+   {
+    "t": "pezoso",
+    "x": 0.359,
+    "y": 0.2814,
+    "w": 0.0189,
+    "h": 0.007
+   },
+   {
+    "t": "pezeso:",
+    "x": 0.359,
+    "y": 0.3047,
+    "w": 0.0203,
+    "h": 0.0093
+   },
+   {
+    "t": "This re",
+    "x": 0.4637,
+    "y": 0.3067,
+    "w": 0.0174,
+    "h": 0.005
+   },
+   {
+    "t": "Hasno Monu",
+    "x": 0.5174,
+    "y": 0.3067,
+    "w": 0.0305,
+    "h": 0.005
+   },
+   {
+    "t": "Chois",
+    "x": 0.4259,
+    "y": 0.307,
+    "w": 0.0174,
+    "h": 0.0047
+   },
+   {
+    "t": "27/10/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.33,
+    "w": 0.048,
+    "h": 0.01
+   },
+   {
+    "t": "pezoso:",
+    "x": 0.359,
+    "y": 0.3302,
+    "w": 0.0218,
+    "h": 0.0116
+   },
+   {
+    "t": "Review..",
+    "x": 0.3852,
+    "y": 0.3302,
+    "w": 0.0233,
+    "h": 0.0093
+   },
+   {
+    "t": "Revien...",
+    "x": 0.4273,
+    "y": 0.3302,
+    "w": 0.0218,
+    "h": 0.0093
+   },
+   {
+    "t": "Thendora Hanstr",
+    "x": 0.5174,
+    "y": 0.3322,
+    "w": 0.0407,
+    "h": 0.005
+   },
+   {
+    "t": "Review...",
+    "x": 0.4637,
+    "y": 0.3326,
+    "w": 0.0218,
+    "h": 0.007
+   },
+   {
+    "t": "tost revl.",
+    "x": 0.3852,
+    "y": 0.3556,
+    "w": 0.0247,
+    "h": 0.01
+   },
+   {
+    "t": "cost rovt..",
+    "x": 0.4259,
+    "y": 0.3556,
+    "w": 0.0247,
+    "h": 0.01
+   },
+   {
+    "t": "test novi",
+    "x": 0.4637,
+    "y": 0.3556,
+    "w": 0.0233,
+    "h": 0.01
+   },
+   {
+    "t": "Theodora Hahais",
+    "x": 0.5174,
+    "y": 0.3556,
+    "w": 0.0436,
+    "h": 0.01
+   },
+   {
+    "t": "26/10/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.3556,
+    "w": 0.048,
+    "h": 0.01
+   },
+   {
+    "t": "pozosoc",
+    "x": 0.359,
+    "y": 0.3558,
+    "w": 0.0218,
+    "h": 0.0093
+   },
+   {
+    "t": "-4.3",
+    "x": 0.4927,
+    "y": 0.3581,
+    "w": 0.0116,
+    "h": 0.0047
+   },
+   {
+    "t": "This is..",
+    "x": 0.3866,
+    "y": 0.3811,
+    "w": 0.0189,
+    "h": 0.0122
+   },
+   {
+    "t": "Theodors Hahails",
+    "x": 0.5174,
+    "y": 0.3811,
+    "w": 0.0422,
+    "h": 0.01
+   },
+   {
+    "t": "25/10/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.3811,
+    "w": 0.048,
+    "h": 0.0122
+   },
+   {
+    "t": "Thisis.",
+    "x": 0.4259,
+    "y": 0.3814,
+    "w": 0.0189,
+    "h": 0.0116
+   },
+   {
+    "t": "Thisis..",
+    "x": 0.4637,
+    "y": 0.3814,
+    "w": 0.0189,
+    "h": 0.0116
+   },
+   {
+    "t": "Approved",
+    "x": 0.5887,
+    "y": 0.3814,
+    "w": 0.0233,
+    "h": 0.0093
+   },
+   {
+    "t": "5401",
+    "x": 0.4927,
+    "y": 0.3837,
+    "w": 0.0131,
+    "h": 0.0047
+   },
+   {
+    "t": "- 3.0",
+    "x": 0.4927,
+    "y": 0.4067,
+    "w": 0.0145,
+    "h": 0.0122
+   },
+   {
+    "t": "24/20/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.4067,
+    "w": 0.048,
+    "h": 0.0122
+   },
+   {
+    "t": "Review.",
+    "x": 0.4259,
+    "y": 0.407,
+    "w": 0.0233,
+    "h": 0.0116
+   },
+   {
+    "t": "incodors Hansis",
+    "x": 0.5174,
+    "y": 0.4111,
+    "w": 0.0422,
+    "h": 0.0056
+   },
+   {
+    "t": "RCVICW..",
+    "x": 0.3852,
+    "y": 0.4116,
+    "w": 0.0218,
+    "h": 0.0047
+   },
+   {
+    "t": "KEVEW...",
+    "x": 0.4637,
+    "y": 0.4116,
+    "w": 0.0203,
+    "h": 0.0047
+   },
+   {
+    "t": "+ 5.0",
+    "x": 0.4913,
+    "y": 0.4322,
+    "w": 0.016,
+    "h": 0.0122
+   },
+   {
+    "t": "15/10/2021,21:29.14",
+    "x": 0.6468,
+    "y": 0.4326,
+    "w": 0.048,
+    "h": 0.0116
+   },
+   {
+    "t": "(C2 TOYL",
+    "x": 0.4637,
+    "y": 0.4344,
+    "w": 0.0218,
+    "h": 0.0056
+   },
+   {
+    "t": "tost rom.",
+    "x": 0.4259,
+    "y": 0.4367,
+    "w": 0.0218,
+    "h": 0.0056
+   },
+   {
+    "t": "p02oso",
+    "x": 0.3605,
+    "y": 0.4372,
+    "w": 0.0174,
+    "h": 0.0047
+   },
+   {
+    "t": "\u2022 4,5",
+    "x": 0.4927,
+    "y": 0.4578,
+    "w": 0.0145,
+    "h": 0.0122
+   },
+   {
+    "t": "Thisis.",
+    "x": 0.4259,
+    "y": 0.4581,
+    "w": 0.0203,
+    "h": 0.014
+   },
+   {
+    "t": "Thists.",
+    "x": 0.4637,
+    "y": 0.4581,
+    "w": 0.0189,
+    "h": 0.0116
+   },
+   {
+    "t": "Pausing",
+    "x": 0.5887,
+    "y": 0.4581,
+    "w": 0.0189,
+    "h": 0.0093
+   },
+   {
+    "t": "10/10/2021,21:29:14",
+    "x": 0.6468,
+    "y": 0.4581,
+    "w": 0.048,
+    "h": 0.0116
+   },
+   {
+    "t": "pezoso:",
+    "x": 0.359,
+    "y": 0.4605,
+    "w": 0.0218,
+    "h": 0.0093
+   },
+   {
+    "t": "4t0 to0al",
+    "x": 0.3547,
+    "y": 0.493,
+    "w": 0.0203,
+    "h": 0.0116
+   },
+   {
+    "t": "20 koen -",
+    "x": 0.3823,
+    "y": 0.493,
+    "w": 0.0233,
+    "h": 0.0116
+   },
+   {
+    "t": "Go To",
+    "x": 0.6817,
+    "y": 0.493,
+    "w": 0.0145,
+    "h": 0.0116
+   },
+   {
+    "t": "\u2022 54 2",
+    "x": 0.6352,
+    "y": 0.4953,
+    "w": 0.0392,
+    "h": 0.007
+   },
+   {
+    "t": "This page is a continuation of the Product Review Detail section, but now moves to the \"Other reviews of Mason Monu\" tab. Overall,",
+    "x": 0.1526,
+    "y": 0.5789,
+    "w": 0.6919,
+    "h": 0.0234
+   },
+   {
+    "t": "the page structure remains consistent with the previous page, including the breadcrumb navigation display at the top, the 'Back' and",
+    "x": 0.1526,
+    "y": 0.6022,
+    "w": 0.6948,
+    "h": 0.0211
+   },
+   {
+    "t": "\"Reject\" buttons at the top right of the content, and user and client information that remains in the upper right corner of the page.",
+    "x": 0.1512,
+    "y": 0.6233,
+    "w": 0.6817,
+    "h": 0.0212
+   },
+   {
+    "t": "The main change is in the content, where the main section of the page now displays a table listing reviews written by the customer",
+    "x": 0.1526,
+    "y": 0.6442,
+    "w": 0.689,
+    "h": 0.0214
+   },
+   {
+    "t": "named Mason Monu and other customers.",
+    "x": 0.1526,
+    "y": 0.6651,
+    "w": 0.2253,
+    "h": 0.0186
+   },
+   {
+    "t": "This table includes several columns of review related information, such as the SKU (e.g., \"pezosoc\"), product name, review title,",
+    "x": 0.1526,
+    "y": 0.7013,
+    "w": 0.6702,
+    "h": 0.0291
+   },
+   {
+    "t": "review summary, star rating from 3.0 to 5. O, the name of the customer who wrote the review, whether the review includes an image",
+    "x": 0.1512,
+    "y": 0.7278,
+    "w": 0.6933,
+    "h": 0.0211
+   },
+   {
+    "t": "or not, the review status (pending or approved), purchase verification status, the time and date the review was created, and an eye",
+    "x": 0.1526,
+    "y": 0.7511,
+    "w": 0.689,
+    "h": 0.0211
+   },
+   {
+    "t": "icon in the last column that likely functions to view the review details. Some data, such as the product name, review title, and review",
+    "x": 0.1512,
+    "y": 0.7698,
+    "w": 0.6962,
+    "h": 0.0213
+   },
+   {
+    "t": "content, are displayed in a truncated format with ellipses to keep the layout concise. Review statuses like \"Pending\" and \"Approved\"",
+    "x": 0.1526,
+    "y": 0.7907,
+    "w": 0.6919,
+    "h": 0.0209
+   },
+   {
+    "t": "are displayed with a prominent color badge for easy recognition. The bottom of the table shows the total number of data points, the",
+    "x": 0.1526,
+    "y": 0.814,
+    "w": 0.6919,
+    "h": 0.0209
+   },
+   {
+    "t": "number of rows per page setting, and page navigation that allows users to easily move between data pages.",
+    "x": 0.1526,
+    "y": 0.8344,
+    "w": 0.5712,
+    "h": 0.0214
+   },
+   {
+    "t": "With the \"Other reviews of Mason Monu\" tab, admins can view the review history of a specific customer in more detail, helping them",
+    "x": 0.1526,
+    "y": 0.8732,
+    "w": 0.6948,
+    "h": 0.0251
+   },
+   {
+    "t": "assess the consistency or credibility of that customer before taking further actions such as approving or rejecting the review under",
+    "x": 0.1526,
+    "y": 0.8977,
+    "w": 0.689,
+    "h": 0.0212
+   },
+   {
+    "t": "Filter Feature",
+    "x": 0.1526,
+    "y": 0.9651,
+    "w": 0.1061,
+    "h": 0.026
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "file": "b30.jpg",
+  "y0": 14659,
+  "y1": 15405,
+  "h": 746,
+  "color": 1.32,
+  "density": 0.416,
+  "lines": [
+   {
+    "t": "Search",
+    "x": 0.3459,
+    "y": 0.0364,
+    "w": 0.0189,
+    "h": 0.0112
+   },
+   {
+    "t": "Chicano",
+    "x": 0.7049,
+    "y": 0.0392,
+    "w": 0.0276,
+    "h": 0.0056
+   },
+   {
+    "t": "\u00a9 Sales",
+    "x": 0.2631,
+    "y": 0.0751,
+    "w": 0.0218,
+    "h": 0.0174
+   },
+   {
+    "t": "Catalog",
+    "x": 0.343,
+    "y": 0.0868,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "Others Product reviews",
+    "x": 0.3677,
+    "y": 0.0868,
+    "w": 0.0625,
+    "h": 0.014
+   },
+   {
+    "t": "Current client: Andi Grace",
+    "x": 0.6701,
+    "y": 0.0896,
+    "w": 0.0669,
+    "h": 0.014
+   },
+   {
+    "t": "@ catalog",
+    "x": 0.2631,
+    "y": 0.112,
+    "w": 0.0276,
+    "h": 0.014
+   },
+   {
+    "t": "Product Review",
+    "x": 0.343,
+    "y": 0.1176,
+    "w": 0.0858,
+    "h": 0.0224
+   },
+   {
+    "t": "0 Customers",
+    "x": 0.2631,
+    "y": 0.1513,
+    "w": 0.032,
+    "h": 0.0084
+   },
+   {
+    "t": "Product Name",
+    "x": 0.3503,
+    "y": 0.1821,
+    "w": 0.0349,
+    "h": 0.014
+   },
+   {
+    "t": "\u00a9 Scarch",
+    "x": 0.6628,
+    "y": 0.1821,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "\u2022Reset",
+    "x": 0.6991,
+    "y": 0.1821,
+    "w": 0.0218,
+    "h": 0.014
+   },
+   {
+    "t": "Customer Name",
+    "x": 0.4608,
+    "y": 0.1849,
+    "w": 0.0378,
+    "h": 0.0084
+   },
+   {
+    "t": "Any",
+    "x": 0.5988,
+    "y": 0.1849,
+    "w": 0.0102,
+    "h": 0.014
+   },
+   {
+    "t": "Status",
+    "x": 0.577,
+    "y": 0.1877,
+    "w": 0.016,
+    "h": 0.014
+   },
+   {
+    "t": "ce Markeung",
+    "x": 0.2616,
+    "y": 0.1903,
+    "w": 0.032,
+    "h": 0.0085
+   },
+   {
+    "t": "@ Content",
+    "x": 0.2631,
+    "y": 0.2212,
+    "w": 0.0276,
+    "h": 0.0147
+   },
+   {
+    "t": "Reviow Titlo =",
+    "x": 0.4258,
+    "y": 0.2462,
+    "w": 0.0349,
+    "h": 0.0146
+   },
+   {
+    "t": "SKU =",
+    "x": 0.359,
+    "y": 0.2465,
+    "w": 0.0174,
+    "h": 0.014
+   },
+   {
+    "t": "Product Name:",
+    "x": 0.3852,
+    "y": 0.2465,
+    "w": 0.0407,
+    "h": 0.014
+   },
+   {
+    "t": "Content :",
+    "x": 0.4622,
+    "y": 0.2465,
+    "w": 0.0276,
+    "h": 0.014
+   },
+   {
+    "t": "Roviow = Customer:",
+    "x": 0.4898,
+    "y": 0.2465,
+    "w": 0.0567,
+    "h": 0.014
+   },
+   {
+    "t": "Image",
+    "x": 0.564,
+    "y": 0.2465,
+    "w": 0.016,
+    "h": 0.014
+   },
+   {
+    "t": "Status",
+    "x": 0.5858,
+    "y": 0.2465,
+    "w": 0.0174,
+    "h": 0.014
+   },
+   {
+    "t": "Verified: Timestam",
+    "x": 0.6192,
+    "y": 0.2493,
+    "w": 0.0509,
+    "h": 0.0084
+   },
+   {
+    "t": "8) System",
+    "x": 0.2631,
+    "y": 0.2601,
+    "w": 0.0262,
+    "h": 0.0147
+   },
+   {
+    "t": "This is.",
+    "x": 0.4259,
+    "y": 0.2773,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "This s..",
+    "x": 0.4637,
+    "y": 0.2773,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "the bRont",
+    "x": 0.5174,
+    "y": 0.2828,
+    "w": 0.0305,
+    "h": 0.0057
+   },
+   {
+    "t": "M2 Product Name",
+    "x": 0.6773,
+    "y": 0.2882,
+    "w": 0.0407,
+    "h": 0.0147
+   },
+   {
+    "t": "# shipping",
+    "x": 0.2615,
+    "y": 0.2951,
+    "w": 0.0323,
+    "h": 0.0146
+   },
+   {
+    "t": "Tram Nguyen",
+    "x": 0.5174,
+    "y": 0.3109,
+    "w": 0.032,
+    "h": 0.014
+   },
+   {
+    "t": "\u2022 Review Title",
+    "x": 0.6773,
+    "y": 0.3109,
+    "w": 0.0363,
+    "h": 0.0112
+   },
+   {
+    "t": "test revi",
+    "x": 0.3852,
+    "y": 0.3417,
+    "w": 0.0247,
+    "h": 0.0112
+   },
+   {
+    "t": "test revl..",
+    "x": 0.4259,
+    "y": 0.3417,
+    "w": 0.0247,
+    "h": 0.0112
+   },
+   {
+    "t": "test revi",
+    "x": 0.4637,
+    "y": 0.3417,
+    "w": 0.0233,
+    "h": 0.0112
+   },
+   {
+    "t": "Abrace?",
+    "x": 0.359,
+    "y": 0.3445,
+    "w": 0.0203,
+    "h": 0.0056
+   },
+   {
+    "t": "Macon Monit",
+    "x": 0.5174,
+    "y": 0.3445,
+    "w": 0.0305,
+    "h": 0.0056
+   },
+   {
+    "t": "0e209%",
+    "x": 0.359,
+    "y": 0.3725,
+    "w": 0.0233,
+    "h": 0.0112
+   },
+   {
+    "t": "Thisis.",
+    "x": 0.3852,
+    "y": 0.3725,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "This is.",
+    "x": 0.4259,
+    "y": 0.3725,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "*35",
+    "x": 0.4927,
+    "y": 0.3725,
+    "w": 0.0145,
+    "h": 0.0112
+   },
+   {
+    "t": "Mason Monu",
+    "x": 0.5174,
+    "y": 0.3725,
+    "w": 0.032,
+    "h": 0.014
+   },
+   {
+    "t": "28/10/202",
+    "x": 0.6468,
+    "y": 0.3725,
+    "w": 0.0247,
+    "h": 0.0112
+   },
+   {
+    "t": "This is.",
+    "x": 0.4637,
+    "y": 0.3753,
+    "w": 0.0174,
+    "h": 0.0084
+   },
+   {
+    "t": "pezosoc",
+    "x": 0.359,
+    "y": 0.4034,
+    "w": 0.0218,
+    "h": 0.014
+   },
+   {
+    "t": "Review...",
+    "x": 0.3852,
+    "y": 0.4034,
+    "w": 0.0233,
+    "h": 0.014
+   },
+   {
+    "t": "Review.",
+    "x": 0.4273,
+    "y": 0.4034,
+    "w": 0.0218,
+    "h": 0.014
+   },
+   {
+    "t": "Review...",
+    "x": 0.4637,
+    "y": 0.4034,
+    "w": 0.0218,
+    "h": 0.014
+   },
+   {
+    "t": "-50",
+    "x": 0.4942,
+    "y": 0.4034,
+    "w": 0.0131,
+    "h": 0.0112
+   },
+   {
+    "t": "Theodors Hahais",
+    "x": 0.5174,
+    "y": 0.4034,
+    "w": 0.0422,
+    "h": 0.0112
+   },
+   {
+    "t": "27/10/202",
+    "x": 0.6468,
+    "y": 0.4034,
+    "w": 0.0262,
+    "h": 0.014
+   },
+   {
+    "t": "test revi",
+    "x": 0.3852,
+    "y": 0.4342,
+    "w": 0.0233,
+    "h": 0.014
+   },
+   {
+    "t": "test revi..",
+    "x": 0.4259,
+    "y": 0.4342,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "+ 4.5",
+    "x": 0.4927,
+    "y": 0.4342,
+    "w": 0.0145,
+    "h": 0.014
+   },
+   {
+    "t": "Theodora Hahais",
+    "x": 0.5174,
+    "y": 0.4342,
+    "w": 0.0436,
+    "h": 0.014
+   },
+   {
+    "t": "26/10/202",
+    "x": 0.6468,
+    "y": 0.4342,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "E7 Verified",
+    "x": 0.6773,
+    "y": 0.4424,
+    "w": 0.0262,
+    "h": 0.0147
+   },
+   {
+    "t": "This is..",
+    "x": 0.3866,
+    "y": 0.465,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "This is.",
+    "x": 0.4259,
+    "y": 0.465,
+    "w": 0.0203,
+    "h": 0.014
+   },
+   {
+    "t": "This is.",
+    "x": 0.4637,
+    "y": 0.465,
+    "w": 0.0174,
+    "h": 0.014
+   },
+   {
+    "t": "+ 4.0",
+    "x": 0.4927,
+    "y": 0.465,
+    "w": 0.0145,
+    "h": 0.014
+   },
+   {
+    "t": "Theodors Hahais",
+    "x": 0.5174,
+    "y": 0.465,
+    "w": 0.0422,
+    "h": 0.014
+   },
+   {
+    "t": "Approved",
+    "x": 0.5887,
+    "y": 0.465,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "25/10/202",
+    "x": 0.6468,
+    "y": 0.465,
+    "w": 0.0262,
+    "h": 0.014
+   },
+   {
+    "t": "Review...",
+    "x": 0.3852,
+    "y": 0.4986,
+    "w": 0.0233,
+    "h": 0.0112
+   },
+   {
+    "t": "-Thenners Hahai.",
+    "x": 0.5174,
+    "y": 0.5013,
+    "w": 0.0422,
+    "h": 0.0057
+   },
+   {
+    "t": "Parimar",
+    "x": 0.4259,
+    "y": 0.5014,
+    "w": 0.0218,
+    "h": 0.0056
+   },
+   {
+    "t": "horner",
+    "x": 0.359,
+    "y": 0.5322,
+    "w": 0.0189,
+    "h": 0.0056
+   },
+   {
+    "t": "tort coul",
+    "x": 0.3852,
+    "y": 0.5322,
+    "w": 0.0218,
+    "h": 0.0056
+   },
+   {
+    "t": "Moc tonal",
+    "x": 0.5174,
+    "y": 0.5322,
+    "w": 0.0305,
+    "h": 0.0056
+   },
+   {
+    "t": "pezosoc",
+    "x": 0.359,
+    "y": 0.5602,
+    "w": 0.0218,
+    "h": 0.014
+   },
+   {
+    "t": "This is..",
+    "x": 0.3866,
+    "y": 0.5602,
+    "w": 0.0189,
+    "h": 0.0112
+   },
+   {
+    "t": "This is.",
+    "x": 0.4259,
+    "y": 0.5602,
+    "w": 0.0203,
+    "h": 0.014
+   },
+   {
+    "t": "This is.",
+    "x": 0.4637,
+    "y": 0.5602,
+    "w": 0.0189,
+    "h": 0.0112
+   },
+   {
+    "t": "Deue Detohis",
+    "x": 0.5174,
+    "y": 0.5602,
+    "w": 0.032,
+    "h": 0.0112
+   },
+   {
+    "t": "10/10/2021, 21:29:14",
+    "x": 0.6468,
+    "y": 0.5602,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "Pape",
+    "x": 0.7093,
+    "y": 0.6022,
+    "w": 0.016,
+    "h": 0.0112
+   },
+   {
+    "t": "450 my",
+    "x": 0.3547,
+    "y": 0.6046,
+    "w": 0.0189,
+    "h": 0.0067
+   },
+   {
+    "t": "Goin",
+    "x": 0.6802,
+    "y": 0.605,
+    "w": 0.0145,
+    "h": 0.0056
+   },
+   {
+    "t": "This page is the default view of the \"Product Review\" feature, which allows users to view and manage a list of product reviews in an",
+    "x": 0.1526,
+    "y": 0.6944,
+    "w": 0.6919,
+    "h": 0.0255
+   },
+   {
+    "t": "interactive table format. At the top of the page is the large title \"Product Review\" along with several search filters that help users",
+    "x": 0.1512,
+    "y": 0.7198,
+    "w": 0.6759,
+    "h": 0.0255
+   },
+   {
+    "t": "find reviews based on product name, customer name, and review status such as pending or approved. The table view is highly",
+    "x": 0.1526,
+    "y": 0.7451,
+    "w": 0.6642,
+    "h": 0.0257
+   },
+   {
+    "t": "flexible, as it includes a feature to adjust column visibility. This feature is accessed via the settings icon in the top right corner of the",
+    "x": 0.1526,
+    "y": 0.7703,
+    "w": 0.6933,
+    "h": 0.0252
+   },
+   {
+    "t": "table. Clicking it displays a list of checkboxes for each column, such as SKU, Product Name, Review Title, Content, Review,",
+    "x": 0.1512,
+    "y": 0.7949,
+    "w": 0.6453,
+    "h": 0.0258
+   },
+   {
+    "t": "Customer, Image, Status, Verified, and Timestamp. All columns are initially active, indicated by checked checkboxes, but users can",
+    "x": 0.1526,
+    "y": 0.8231,
+    "w": 0.686,
+    "h": 0.0229
+   },
+   {
+    "t": "freely choose which columns to hide or display according to their needs. This is particularly helpful for users who want to focus on",
+    "x": 0.1526,
+    "y": 0.8485,
+    "w": 0.6846,
+    "h": 0.0228
+   },
+   {
+    "t": "specific data and avoid irrelevant information for their purposes. Overall, the page design maintains a professional and organized",
+    "x": 0.1526,
+    "y": 0.8711,
+    "w": 0.6744,
+    "h": 0.0283
+   },
+   {
+    "t": "appearance without confusing elements.",
+    "x": 0.1526,
+    "y": 0.8992,
+    "w": 0.2151,
+    "h": 0.0224
+   },
+   {
+    "t": "Filter Selected",
+    "x": 0.1526,
+    "y": 0.9552,
+    "w": 0.1148,
+    "h": 0.028
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "file": "b31.jpg",
+  "y0": 15436,
+  "y1": 16182,
+  "h": 746,
+  "color": 1.06,
+  "density": 0.415,
+  "lines": [
+   {
+    "t": "Searchi",
+    "x": 0.3474,
+    "y": 0.0364,
+    "w": 0.0174,
+    "h": 0.0112
+   },
+   {
+    "t": "Coco roa",
+    "x": 0.7049,
+    "y": 0.0389,
+    "w": 0.0262,
+    "h": 0.0059
+   },
+   {
+    "t": "\u00a9 Sales",
+    "x": 0.2631,
+    "y": 0.0751,
+    "w": 0.0218,
+    "h": 0.0174
+   },
+   {
+    "t": "Catalog Others Product reviews",
+    "x": 0.343,
+    "y": 0.0868,
+    "w": 0.0872,
+    "h": 0.014
+   },
+   {
+    "t": "Current client: Andi Grace",
+    "x": 0.6701,
+    "y": 0.0896,
+    "w": 0.0683,
+    "h": 0.014
+   },
+   {
+    "t": "@ Catalog",
+    "x": 0.2631,
+    "y": 0.112,
+    "w": 0.0276,
+    "h": 0.014
+   },
+   {
+    "t": "Product Review",
+    "x": 0.3445,
+    "y": 0.1204,
+    "w": 0.0843,
+    "h": 0.0196
+   },
+   {
+    "t": "10 Cistemors",
+    "x": 0.2631,
+    "y": 0.1513,
+    "w": 0.032,
+    "h": 0.0084
+   },
+   {
+    "t": "o Scarch",
+    "x": 0.6628,
+    "y": 0.1821,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "\u00a9 Reset",
+    "x": 0.7006,
+    "y": 0.1821,
+    "w": 0.0203,
+    "h": 0.014
+   },
+   {
+    "t": "Product Name Eric by product mama",
+    "x": 0.3503,
+    "y": 0.1849,
+    "w": 0.0945,
+    "h": 0.0084
+   },
+   {
+    "t": "Any",
+    "x": 0.5988,
+    "y": 0.1849,
+    "w": 0.0116,
+    "h": 0.014
+   },
+   {
+    "t": "somersane",
+    "x": 0.4608,
+    "y": 0.1877,
+    "w": 0.0378,
+    "h": 0.0056
+   },
+   {
+    "t": "Status",
+    "x": 0.577,
+    "y": 0.1877,
+    "w": 0.016,
+    "h": 0.014
+   },
+   {
+    "t": "D Content",
+    "x": 0.2631,
+    "y": 0.2239,
+    "w": 0.0262,
+    "h": 0.0086
+   },
+   {
+    "t": "SKU :",
+    "x": 0.3576,
+    "y": 0.2465,
+    "w": 0.0174,
+    "h": 0.0112
+   },
+   {
+    "t": "Product Name:",
+    "x": 0.4026,
+    "y": 0.2465,
+    "w": 0.0407,
+    "h": 0.014
+   },
+   {
+    "t": "Content :",
+    "x": 0.4651,
+    "y": 0.2465,
+    "w": 0.0262,
+    "h": 0.014
+   },
+   {
+    "t": "Customer =",
+    "x": 0.5305,
+    "y": 0.2465,
+    "w": 0.0291,
+    "h": 0.014
+   },
+   {
+    "t": "Timedamnidate",
+    "x": 0.6119,
+    "y": 0.2493,
+    "w": 0.0378,
+    "h": 0.0084
+   },
+   {
+    "t": "@ System.",
+    "x": 0.2631,
+    "y": 0.2601,
+    "w": 0.0262,
+    "h": 0.0147
+   },
+   {
+    "t": "Deve Delhis",
+    "x": 0.5305,
+    "y": 0.2773,
+    "w": 0.032,
+    "h": 0.014
+   },
+   {
+    "t": "03/11/2021, 21:29:14",
+    "x": 0.6119,
+    "y": 0.2773,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "Purely e.",
+    "x": 0.4026,
+    "y": 0.2801,
+    "w": 0.0247,
+    "h": 0.0112
+   },
+   {
+    "t": "\u2022 Shipping",
+    "x": 0.2615,
+    "y": 0.2949,
+    "w": 0.0323,
+    "h": 0.015
+   },
+   {
+    "t": "01/11/2021, 2129:14",
+    "x": 0.6119,
+    "y": 0.3081,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "Tram Nguyen",
+    "x": 0.5305,
+    "y": 0.3109,
+    "w": 0.032,
+    "h": 0.014
+   },
+   {
+    "t": "Pure ter",
+    "x": 0.4026,
+    "y": 0.3137,
+    "w": 0.0247,
+    "h": 0.0057
+   },
+   {
+    "t": "Review...",
+    "x": 0.4666,
+    "y": 0.3137,
+    "w": 0.0203,
+    "h": 0.0084
+   },
+   {
+    "t": "snare Title",
+    "x": 0.6846,
+    "y": 0.3137,
+    "w": 0.0276,
+    "h": 0.0057
+   },
+   {
+    "t": "pezosod",
+    "x": 0.3576,
+    "y": 0.3417,
+    "w": 0.0203,
+    "h": 0.0112
+   },
+   {
+    "t": "test nove.",
+    "x": 0.4026,
+    "y": 0.3417,
+    "w": 0.0233,
+    "h": 0.0112
+   },
+   {
+    "t": "test movi.",
+    "x": 0.4651,
+    "y": 0.3417,
+    "w": 0.0247,
+    "h": 0.0112
+   },
+   {
+    "t": "Dezosoc",
+    "x": 0.3576,
+    "y": 0.3725,
+    "w": 0.0218,
+    "h": 0.014
+   },
+   {
+    "t": "This is.",
+    "x": 0.4026,
+    "y": 0.3725,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "Thisis.",
+    "x": 0.4651,
+    "y": 0.3725,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "Hason Monu",
+    "x": 0.5305,
+    "y": 0.3725,
+    "w": 0.0305,
+    "h": 0.0142
+   },
+   {
+    "t": "28/10/2021, 21-29:14",
+    "x": 0.6119,
+    "y": 0.3725,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "Customa",
+    "x": 0.6773,
+    "y": 0.381,
+    "w": 0.0291,
+    "h": 0.0056
+   },
+   {
+    "t": "Review...",
+    "x": 0.4026,
+    "y": 0.4034,
+    "w": 0.0233,
+    "h": 0.014
+   },
+   {
+    "t": "Review...",
+    "x": 0.4651,
+    "y": 0.4034,
+    "w": 0.0233,
+    "h": 0.014
+   },
+   {
+    "t": "Theodora Hahais",
+    "x": 0.5305,
+    "y": 0.4034,
+    "w": 0.0422,
+    "h": 0.014
+   },
+   {
+    "t": "27/10/2021,21:29:14",
+    "x": 0.6119,
+    "y": 0.4034,
+    "w": 0.0494,
+    "h": 0.014
+   },
+   {
+    "t": "Status",
+    "x": 0.6846,
+    "y": 0.4202,
+    "w": 0.016,
+    "h": 0.014
+   },
+   {
+    "t": "tost nevi.",
+    "x": 0.4651,
+    "y": 0.4342,
+    "w": 0.0247,
+    "h": 0.014
+   },
+   {
+    "t": "Thoodora Hahais",
+    "x": 0.5305,
+    "y": 0.4342,
+    "w": 0.0422,
+    "h": 0.014
+   },
+   {
+    "t": "26/10/2021, 21:29:14",
+    "x": 0.6119,
+    "y": 0.4342,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "Verified",
+    "x": 0.6846,
+    "y": 0.4426,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "This is.",
+    "x": 0.4026,
+    "y": 0.465,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "Theodors Hahais",
+    "x": 0.5305,
+    "y": 0.465,
+    "w": 0.0422,
+    "h": 0.014
+   },
+   {
+    "t": "25/10/2021, 21:29:14",
+    "x": 0.6119,
+    "y": 0.465,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "\u2022 Timestamp",
+    "x": 0.6759,
+    "y": 0.465,
+    "w": 0.0349,
+    "h": 0.014
+   },
+   {
+    "t": "inter.",
+    "x": 0.4651,
+    "y": 0.4706,
+    "w": 0.0174,
+    "h": 0.0056
+   },
+   {
+    "t": "24/10/2021, 21:29:14",
+    "x": 0.6119,
+    "y": 0.4958,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "Standers Hahaiel",
+    "x": 0.5291,
+    "y": 0.5013,
+    "w": 0.0422,
+    "h": 0.0057
+   },
+   {
+    "t": "Ransome",
+    "x": 0.4651,
+    "y": 0.5014,
+    "w": 0.0218,
+    "h": 0.0056
+   },
+   {
+    "t": "15/10/2021 2129:14",
+    "x": 0.6119,
+    "y": 0.5266,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "Mock Sinnin",
+    "x": 0.5305,
+    "y": 0.5322,
+    "w": 0.0291,
+    "h": 0.0056
+   },
+   {
+    "t": "pezosoc",
+    "x": 0.3576,
+    "y": 0.5602,
+    "w": 0.0203,
+    "h": 0.014
+   },
+   {
+    "t": "This is.",
+    "x": 0.4026,
+    "y": 0.5602,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "This s",
+    "x": 0.4651,
+    "y": 0.5602,
+    "w": 0.0189,
+    "h": 0.014
+   },
+   {
+    "t": "Deue Detohis",
+    "x": 0.5305,
+    "y": 0.5602,
+    "w": 0.032,
+    "h": 0.0112
+   },
+   {
+    "t": "10/10/2021, 21:29:14",
+    "x": 0.6119,
+    "y": 0.5602,
+    "w": 0.048,
+    "h": 0.014
+   },
+   {
+    "t": "Page",
+    "x": 0.7108,
+    "y": 0.6022,
+    "w": 0.0145,
+    "h": 0.014
+   },
+   {
+    "t": "450 total.",
+    "x": 0.3532,
+    "y": 0.6046,
+    "w": 0.0203,
+    "h": 0.0067
+   },
+   {
+    "t": "20 Baus",
+    "x": 0.3794,
+    "y": 0.6046,
+    "w": 0.0203,
+    "h": 0.0067
+   },
+   {
+    "t": "Go lo",
+    "x": 0.6802,
+    "y": 0.6046,
+    "w": 0.0145,
+    "h": 0.0067
+   },
+   {
+    "t": "This page displays a list of product reviews in a clean and minimalist table view. At the top is a large title \"Product Review\" and a",
+    "x": 0.1526,
+    "y": 0.6917,
+    "w": 0.673,
+    "h": 0.0282
+   },
+   {
+    "t": "filter area to facilitate searching by product name, customer name, and review status. One of the main features that stands out on",
+    "x": 0.1526,
+    "y": 0.7198,
+    "w": 0.6817,
+    "h": 0.0255
+   },
+   {
+    "t": "this page is the ability to show or hide columns according to user needs. This feature is located in the top-right corner of the table,",
+    "x": 0.1526,
+    "y": 0.7451,
+    "w": 0.6875,
+    "h": 0.0257
+   },
+   {
+    "t": "marked with a settings icon, and when clicked, it displays a list of columns such as SKU, Product Name, Content, Customer,",
+    "x": 0.1526,
+    "y": 0.7703,
+    "w": 0.6483,
+    "h": 0.0252
+   },
+   {
+    "t": "Timestamp, and others that can be checked or unchecked. This allows users to customize the table view to display only the",
+    "x": 0.1526,
+    "y": 0.7983,
+    "w": 0.6497,
+    "h": 0.0224
+   },
+   {
+    "t": "information relevant to them. The table displays review data concisely, including product name, review content, customer name, and",
+    "x": 0.1512,
+    "y": 0.8231,
+    "w": 0.6962,
+    "h": 0.0229
+   },
+   {
+    "t": "the date and time of submission. Each row also includes an eye icon on the right side to view review details. At the bottom, there",
+    "x": 0.1526,
+    "y": 0.8485,
+    "w": 0.6759,
+    "h": 0.0228
+   },
+   {
+    "t": "are pagination controls and options for the number of rows displayed, giving users flexibility to manage large amounts of data more",
+    "x": 0.1526,
+    "y": 0.8739,
+    "w": 0.689,
+    "h": 0.0228
+   },
+   {
+    "t": "comfortably.",
+    "x": 0.1511,
+    "y": 0.8987,
+    "w": 0.0699,
+    "h": 0.0262
+   },
+   {
+    "t": "Digital Purchase Management",
+    "x": 0.1526,
+    "y": 0.9552,
+    "w": 0.2398,
+    "h": 0.0341
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "file": "b32.jpg",
+  "y0": 16213,
+  "y1": 17117,
+  "h": 904,
+  "color": 0.86,
+  "density": 0.393,
+  "lines": [
+   {
+    "t": "Claire Conor",
+    "x": 0.7049,
+    "y": 0.0299,
+    "w": 0.0291,
+    "h": 0.01
+   },
+   {
+    "t": "\u00a9 Sales",
+    "x": 0.2631,
+    "y": 0.0625,
+    "w": 0.0218,
+    "h": 0.0116
+   },
+   {
+    "t": "Sales",
+    "x": 0.343,
+    "y": 0.0718,
+    "w": 0.016,
+    "h": 0.0116
+   },
+   {
+    "t": "Digital Purchase Management",
+    "x": 0.3808,
+    "y": 0.0718,
+    "w": 0.0727,
+    "h": 0.0116
+   },
+   {
+    "t": "Current client: Andi Grace",
+    "x": 0.6701,
+    "y": 0.0741,
+    "w": 0.0683,
+    "h": 0.0116
+   },
+   {
+    "t": "@ Catalog",
+    "x": 0.2631,
+    "y": 0.0926,
+    "w": 0.0276,
+    "h": 0.0139
+   },
+   {
+    "t": "Digital Purchase Management",
+    "x": 0.3445,
+    "y": 0.0972,
+    "w": 0.1599,
+    "h": 0.0211
+   },
+   {
+    "t": "Kla customers",
+    "x": 0.2616,
+    "y": 0.1204,
+    "w": 0.0349,
+    "h": 0.0139
+   },
+   {
+    "t": "a search",
+    "x": 0.6206,
+    "y": 0.1504,
+    "w": 0.0247,
+    "h": 0.0116
+   },
+   {
+    "t": "5 Reset",
+    "x": 0.657,
+    "y": 0.1504,
+    "w": 0.0233,
+    "h": 0.0116
+   },
+   {
+    "t": "90 Marketing",
+    "x": 0.2616,
+    "y": 0.1527,
+    "w": 0.0334,
+    "h": 0.0144
+   },
+   {
+    "t": "Enter value",
+    "x": 0.3721,
+    "y": 0.1527,
+    "w": 0.0276,
+    "h": 0.0094
+   },
+   {
+    "t": "With Status Any",
+    "x": 0.5233,
+    "y": 0.1527,
+    "w": 0.0451,
+    "h": 0.0122
+   },
+   {
+    "t": "@ Content",
+    "x": 0.2631,
+    "y": 0.1825,
+    "w": 0.0291,
+    "h": 0.0122
+   },
+   {
+    "t": "Fie Name =",
+    "x": 0.4578,
+    "y": 0.1846,
+    "w": 0.0321,
+    "h": 0.0128
+   },
+   {
+    "t": "Product Name",
+    "x": 0.3983,
+    "y": 0.1847,
+    "w": 0.0407,
+    "h": 0.0122
+   },
+   {
+    "t": "Size =",
+    "x": 0.5233,
+    "y": 0.1847,
+    "w": 0.0174,
+    "h": 0.0122
+   },
+   {
+    "t": "File Downloads =",
+    "x": 0.561,
+    "y": 0.1847,
+    "w": 0.0436,
+    "h": 0.0122
+   },
+   {
+    "t": "Actions",
+    "x": 0.6919,
+    "y": 0.1852,
+    "w": 0.0203,
+    "h": 0.0116
+   },
+   {
+    "t": "Last Purchased",
+    "x": 0.6206,
+    "y": 0.1875,
+    "w": 0.0422,
+    "h": 0.0072
+   },
+   {
+    "t": "pesosoc",
+    "x": 0.3576,
+    "y": 0.213,
+    "w": 0.0203,
+    "h": 0.0116
+   },
+   {
+    "t": "bobbydigital-s",
+    "x": 0.3983,
+    "y": 0.213,
+    "w": 0.0349,
+    "h": 0.0116
+   },
+   {
+    "t": "0396819_8328373.",
+    "x": 0.4593,
+    "y": 0.213,
+    "w": 0.0451,
+    "h": 0.0116
+   },
+   {
+    "t": "68.9 KB",
+    "x": 0.5233,
+    "y": 0.213,
+    "w": 0.0189,
+    "h": 0.0094
+   },
+   {
+    "t": "03/11/2021, 21:29:14",
+    "x": 0.6221,
+    "y": 0.213,
+    "w": 0.0494,
+    "h": 0.0116
+   },
+   {
+    "t": "( Sustem",
+    "x": 0.2616,
+    "y": 0.2153,
+    "w": 0.0262,
+    "h": 0.0071
+   },
+   {
+    "t": "bobbydigital-4.",
+    "x": 0.3983,
+    "y": 0.2384,
+    "w": 0.0363,
+    "h": 0.0116
+   },
+   {
+    "t": "NIA",
+    "x": 0.5218,
+    "y": 0.2384,
+    "w": 0.0131,
+    "h": 0.0116
+   },
+   {
+    "t": "03/11/2021, 21:29:14",
+    "x": 0.6221,
+    "y": 0.2384,
+    "w": 0.048,
+    "h": 0.0116
+   },
+   {
+    "t": "Shipping",
+    "x": 0.2615,
+    "y": 0.2439,
+    "w": 0.0323,
+    "h": 0.0121
+   },
+   {
+    "t": "bobbydigital 3",
+    "x": 0.3982,
+    "y": 0.2637,
+    "w": 0.0364,
+    "h": 0.012
+   },
+   {
+    "t": "4.8 MB",
+    "x": 0.5233,
+    "y": 0.2639,
+    "w": 0.0174,
+    "h": 0.0116
+   },
+   {
+    "t": "03/14/2021. 21:29:14",
+    "x": 0.6221,
+    "y": 0.2639,
+    "w": 0.048,
+    "h": 0.0116
+   },
+   {
+    "t": "IMG. 1365.jP8",
+    "x": 0.4578,
+    "y": 0.2662,
+    "w": 0.0349,
+    "h": 0.0116
+   },
+   {
+    "t": "11",
+    "x": 0.561,
+    "y": 0.2894,
+    "w": 0.0087,
+    "h": 0.0116
+   },
+   {
+    "t": "NIA",
+    "x": 0.4578,
+    "y": 0.2917,
+    "w": 0.0131,
+    "h": 0.0116
+   },
+   {
+    "t": "03/11/2021.21:29:14",
+    "x": 0.6221,
+    "y": 0.2917,
+    "w": 0.0465,
+    "h": 0.0069
+   },
+   {
+    "t": "IMG_1367.jps",
+    "x": 0.4593,
+    "y": 0.3171,
+    "w": 0.0334,
+    "h": 0.0116
+   },
+   {
+    "t": "Doccasine",
+    "x": 0.3983,
+    "y": 0.3194,
+    "w": 0.0334,
+    "h": 0.0046
+   },
+   {
+    "t": "bobbydigital-6",
+    "x": 0.3983,
+    "y": 0.3426,
+    "w": 0.0363,
+    "h": 0.0116
+   },
+   {
+    "t": "headphone jp&",
+    "x": 0.4593,
+    "y": 0.3426,
+    "w": 0.0363,
+    "h": 0.0116
+   },
+   {
+    "t": "68.9 KB",
+    "x": 0.5233,
+    "y": 0.3426,
+    "w": 0.0189,
+    "h": 0.0093
+   },
+   {
+    "t": "03/11/2021,21:29:14",
+    "x": 0.6221,
+    "y": 0.3426,
+    "w": 0.0494,
+    "h": 0.0093
+   },
+   {
+    "t": "bobbydigital-a",
+    "x": 0.3982,
+    "y": 0.3678,
+    "w": 0.0349,
+    "h": 0.0121
+   },
+   {
+    "t": "pesosoc",
+    "x": 0.3576,
+    "y": 0.3681,
+    "w": 0.0203,
+    "h": 0.0116
+   },
+   {
+    "t": "0398819_8328373...",
+    "x": 0.4578,
+    "y": 0.3681,
+    "w": 0.048,
+    "h": 0.0116
+   },
+   {
+    "t": "NA",
+    "x": 0.5218,
+    "y": 0.3681,
+    "w": 0.0131,
+    "h": 0.0116
+   },
+   {
+    "t": "03/11/2021, 21:29:14",
+    "x": 0.6221,
+    "y": 0.3681,
+    "w": 0.0494,
+    "h": 0.0116
+   },
+   {
+    "t": "bobbydigital 7",
+    "x": 0.3982,
+    "y": 0.3933,
+    "w": 0.0349,
+    "h": 0.0119
+   },
+   {
+    "t": "4,8 MB",
+    "x": 0.5233,
+    "y": 0.3935,
+    "w": 0.0174,
+    "h": 0.0116
+   },
+   {
+    "t": "03/11/2021, 21:29:14",
+    "x": 0.6221,
+    "y": 0.3935,
+    "w": 0.048,
+    "h": 0.0116
+   },
+   {
+    "t": "bobbydigital-s",
+    "x": 0.3982,
+    "y": 0.4189,
+    "w": 0.0349,
+    "h": 0.0118
+   },
+   {
+    "t": "03868198328373...",
+    "x": 0.4593,
+    "y": 0.419,
+    "w": 0.0465,
+    "h": 0.0116
+   },
+   {
+    "t": "126.3KB",
+    "x": 0.5233,
+    "y": 0.419,
+    "w": 0.0203,
+    "h": 0.0116
+   },
+   {
+    "t": "03/11/2021, 21:29:14",
+    "x": 0.6221,
+    "y": 0.419,
+    "w": 0.048,
+    "h": 0.0116
+   },
+   {
+    "t": "bobbydigital-13",
+    "x": 0.3968,
+    "y": 0.4444,
+    "w": 0.0392,
+    "h": 0.0116
+   },
+   {
+    "t": "326.3KB",
+    "x": 0.5218,
+    "y": 0.4444,
+    "w": 0.0233,
+    "h": 0.0116
+   },
+   {
+    "t": "03/11/2021, 21:29.14",
+    "x": 0.6206,
+    "y": 0.4444,
+    "w": 0.0509,
+    "h": 0.0116
+   },
+   {
+    "t": "IMG_1365.jpx",
+    "x": 0.4578,
+    "y": 0.4468,
+    "w": 0.0349,
+    "h": 0.0116
+   },
+   {
+    "t": "920500",
+    "x": 0.3576,
+    "y": 0.4491,
+    "w": 0.0189,
+    "h": 0.0046
+   },
+   {
+    "t": "400 total:",
+    "x": 0.3532,
+    "y": 0.4768,
+    "w": 0.0203,
+    "h": 0.0122
+   },
+   {
+    "t": "11 - 3 4 2",
+    "x": 0.6119,
+    "y": 0.4768,
+    "w": 0.064,
+    "h": 0.0122
+   },
+   {
+    "t": "Go To",
+    "x": 0.6788,
+    "y": 0.4768,
+    "w": 0.0174,
+    "h": 0.0122
+   },
+   {
+    "t": "Page",
+    "x": 0.7093,
+    "y": 0.4769,
+    "w": 0.0145,
+    "h": 0.0116
+   },
+   {
+    "t": "At the top of the page, there is breadcrumb navigation that shows the user's current navigation path: Sales > Digital Purchase",
+    "x": 0.1526,
+    "y": 0.5597,
+    "w": 0.6599,
+    "h": 0.0213
+   },
+   {
+    "t": "Management. This breadcrumb structure helps users understand the context of their location in the system.",
+    "x": 0.1526,
+    "y": 0.5808,
+    "w": 0.5683,
+    "h": 0.0211
+   },
+   {
+    "t": "Meanwhile, on the left sidebar, the Sales button is displayed as an active menu, marked with an icon and green text, indicating that",
+    "x": 0.1526,
+    "y": 0.6227,
+    "w": 0.689,
+    "h": 0.0211
+   },
+   {
+    "t": "the user is currently in that module. The sidebar also contains other navigation menus such as Catalog, Customers, Marketing,",
+    "x": 0.1526,
+    "y": 0.6435,
+    "w": 0.6642,
+    "h": 0.0213
+   },
+   {
+    "t": "Content, System, and Shipping, showing that this is an integrated management platform with various e-commerce aspects. Clear",
+    "x": 0.1526,
+    "y": 0.6644,
+    "w": 0.6788,
+    "h": 0.0208
+   },
+   {
+    "t": "navigation is important for workflow efficiency, and a consistent display helps users understand the system's functionality more",
+    "x": 0.1526,
+    "y": 0.6875,
+    "w": 0.6701,
+    "h": 0.0185
+   },
+   {
+    "t": "\"Digital Purchase Management\" is part of the digital product sales management system within the platform, which appears to be",
+    "x": 0.1511,
+    "y": 0.7477,
+    "w": 0.6759,
+    "h": 0.0236
+   },
+   {
+    "t": "used by internal teams such as sales or support. This page displays data related to digital product purchases by the selected client,",
+    "x": 0.1526,
+    "y": 0.7708,
+    "w": 0.6919,
+    "h": 0.0212
+   },
+   {
+    "t": "Andi Grace. There are search and filter features based on specific fields and statuses to help users filter the information displayed.",
+    "x": 0.1526,
+    "y": 0.7917,
+    "w": 0.686,
+    "h": 0.0185
+   },
+   {
+    "t": "The main table on this page displays details of digital products such as SKU, product name, downloaded file name, file size, number",
+    "x": 0.1526,
+    "y": 0.833,
+    "w": 0.6919,
+    "h": 0.0212
+   },
+   {
+    "t": "of files downloaded, and the last time the product was purchased. Each data row is accompanied by an eye icon in the \"Actions\"",
+    "x": 0.1526,
+    "y": 0.854,
+    "w": 0.673,
+    "h": 0.0188
+   },
+   {
+    "t": "column, indicating the possibility of features to view details or a preview of the product. The data displayed is dynamic, with options",
+    "x": 0.1526,
+    "y": 0.875,
+    "w": 0.6933,
+    "h": 0.021
+   },
+   {
+    "t": "to select the number of rows per page and page navigation at the bottom. Visually, the design is clean and minimalist, with a clear",
+    "x": 0.1512,
+    "y": 0.8958,
+    "w": 0.6846,
+    "h": 0.0234
+   },
+   {
+    "t": "hierarchical structure of information, enabling users to focus on digital transaction data efficiently.",
+    "x": 0.1526,
+    "y": 0.9167,
+    "w": 0.5145,
+    "h": 0.0208
+   },
+   {
+    "t": "View Digital Purchase",
+    "x": 0.1512,
+    "y": 0.963,
+    "w": 0.1744,
+    "h": 0.0304
+   }
+  ]
+ },
+ {
+  "i": 33,
+  "file": "b33.jpg",
+  "y0": 17148,
+  "y1": 18037,
+  "h": 889,
+  "color": 1.09,
+  "density": 0.402,
+  "lines": [
+   {
+    "t": "Susieti",
+    "x": 0.3474,
+    "y": 0.0306,
+    "w": 0.0174,
+    "h": 0.0094
+   },
+   {
+    "t": "\u00a9 Sales",
+    "x": 0.2616,
+    "y": 0.0635,
+    "w": 0.0233,
+    "h": 0.0118
+   },
+   {
+    "t": "Sales Sales",
+    "x": 0.343,
+    "y": 0.0729,
+    "w": 0.0378,
+    "h": 0.0118
+   },
+   {
+    "t": "Digital Purchase Management > Digital Purchase",
+    "x": 0.3808,
+    "y": 0.0729,
+    "w": 0.1163,
+    "h": 0.0118
+   },
+   {
+    "t": "Current client: Andi Grace",
+    "x": 0.6701,
+    "y": 0.0753,
+    "w": 0.0683,
+    "h": 0.0118
+   },
+   {
+    "t": "E catalog",
+    "x": 0.2631,
+    "y": 0.0941,
+    "w": 0.0276,
+    "h": 0.0141
+   },
+   {
+    "t": "Digital Purchase",
+    "x": 0.3445,
+    "y": 0.0988,
+    "w": 0.0872,
+    "h": 0.0214
+   },
+   {
+    "t": "cia customers",
+    "x": 0.2616,
+    "y": 0.1224,
+    "w": 0.0349,
+    "h": 0.0141
+   },
+   {
+    "t": "boddydigital-5",
+    "x": 0.4156,
+    "y": 0.1381,
+    "w": 0.0568,
+    "h": 0.0179
+   },
+   {
+    "t": "Edit Product",
+    "x": 0.6919,
+    "y": 0.1435,
+    "w": 0.0305,
+    "h": 0.0118
+   },
+   {
+    "t": "44 Marketing",
+    "x": 0.2616,
+    "y": 0.1551,
+    "w": 0.0334,
+    "h": 0.0146
+   },
+   {
+    "t": "SKU: boddydigital-5",
+    "x": 0.4157,
+    "y": 0.1596,
+    "w": 0.0465,
+    "h": 0.0101
+   },
+   {
+    "t": "L Download",
+    "x": 0.423,
+    "y": 0.1854,
+    "w": 0.0305,
+    "h": 0.0101
+   },
+   {
+    "t": "at Content",
+    "x": 0.2631,
+    "y": 0.1882,
+    "w": 0.0262,
+    "h": 0.0073
+   },
+   {
+    "t": "Purchase. cu",
+    "x": 0.6962,
+    "y": 0.2141,
+    "w": 0.032,
+    "h": 0.005
+   },
+   {
+    "t": "( System",
+    "x": 0.2616,
+    "y": 0.2165,
+    "w": 0.0276,
+    "h": 0.0141
+   },
+   {
+    "t": "Download: 2",
+    "x": 0.6991,
+    "y": 0.2235,
+    "w": 0.0305,
+    "h": 0.0118
+   },
+   {
+    "t": "Rice none: 8166353165156_71202T07321_0233250_3051",
+    "x": 0.4156,
+    "y": 0.2258,
+    "w": 0.1294,
+    "h": 0.0096
+   },
+   {
+    "t": "\u2022 shipping",
+    "x": 0.2616,
+    "y": 0.247,
+    "w": 0.032,
+    "h": 0.0142
+   },
+   {
+    "t": "Q Search",
+    "x": 0.6221,
+    "y": 0.2753,
+    "w": 0.0233,
+    "h": 0.0118
+   },
+   {
+    "t": "O Reset",
+    "x": 0.657,
+    "y": 0.2753,
+    "w": 0.0233,
+    "h": 0.0118
+   },
+   {
+    "t": "Any",
+    "x": 0.5552,
+    "y": 0.2776,
+    "w": 0.0131,
+    "h": 0.0118
+   },
+   {
+    "t": "a Salus",
+    "x": 0.5233,
+    "y": 0.2798,
+    "w": 0.0276,
+    "h": 0.0049
+   },
+   {
+    "t": "Order =",
+    "x": 0.3634,
+    "y": 0.3101,
+    "w": 0.0203,
+    "h": 0.0101
+   },
+   {
+    "t": "Uplosd Date",
+    "x": 0.4084,
+    "y": 0.3101,
+    "w": 0.0363,
+    "h": 0.0124
+   },
+   {
+    "t": "Customer =",
+    "x": 0.4826,
+    "y": 0.3101,
+    "w": 0.0291,
+    "h": 0.0124
+   },
+   {
+    "t": "Status =",
+    "x": 0.5916,
+    "y": 0.3101,
+    "w": 0.0233,
+    "h": 0.0124
+   },
+   {
+    "t": "Downicads",
+    "x": 0.5378,
+    "y": 0.3106,
+    "w": 0.0349,
+    "h": 0.0118
+   },
+   {
+    "t": "Expines",
+    "x": 0.6424,
+    "y": 0.3106,
+    "w": 0.0189,
+    "h": 0.0118
+   },
+   {
+    "t": "Actions",
+    "x": 0.6933,
+    "y": 0.3106,
+    "w": 0.0189,
+    "h": 0.0094
+   },
+   {
+    "t": "03/11/2021, 21:29:54",
+    "x": 0.4099,
+    "y": 0.336,
+    "w": 0.048,
+    "h": 0.0124
+   },
+   {
+    "t": "Tram Nguyen",
+    "x": 0.4811,
+    "y": 0.336,
+    "w": 0.0334,
+    "h": 0.0124
+   },
+   {
+    "t": "Jan 19,2022",
+    "x": 0.6438,
+    "y": 0.3382,
+    "w": 0.0322,
+    "h": 0.0131
+   },
+   {
+    "t": "VEROUL",
+    "x": 0.3634,
+    "y": 0.3412,
+    "w": 0.0203,
+    "h": 0.0047
+   },
+   {
+    "t": "03/11/2021,21:29:14",
+    "x": 0.4084,
+    "y": 0.3624,
+    "w": 0.0494,
+    "h": 0.0118
+   },
+   {
+    "t": "Jan 19, 2022",
+    "x": 0.6439,
+    "y": 0.3647,
+    "w": 0.0305,
+    "h": 0.0118
+   },
+   {
+    "t": "1802030",
+    "x": 0.3634,
+    "y": 0.3671,
+    "w": 0.0189,
+    "h": 0.0047
+   },
+   {
+    "t": "03/13/2021, 21:20:14",
+    "x": 0.4084,
+    "y": 0.3882,
+    "w": 0.0494,
+    "h": 0.0118
+   },
+   {
+    "t": "Jan 19,2022",
+    "x": 0.6424,
+    "y": 0.3904,
+    "w": 0.0335,
+    "h": 0.0121
+   },
+   {
+    "t": "pezosoc",
+    "x": 0.3634,
+    "y": 0.3906,
+    "w": 0.0218,
+    "h": 0.0118
+   },
+   {
+    "t": "Tram Nguyen",
+    "x": 0.4811,
+    "y": 0.3906,
+    "w": 0.032,
+    "h": 0.0094
+   },
+   {
+    "t": "Jan 19, 2022",
+    "x": 0.6439,
+    "y": 0.4163,
+    "w": 0.032,
+    "h": 0.0122
+   },
+   {
+    "t": "pezosoc",
+    "x": 0.3634,
+    "y": 0.4165,
+    "w": 0.0218,
+    "h": 0.0118
+   },
+   {
+    "t": "Trom Nguyen",
+    "x": 0.4811,
+    "y": 0.4165,
+    "w": 0.0334,
+    "h": 0.0118
+   },
+   {
+    "t": "pezosoc",
+    "x": 0.3634,
+    "y": 0.4424,
+    "w": 0.0218,
+    "h": 0.0118
+   },
+   {
+    "t": "03/11/2021, 21:20:14",
+    "x": 0.4099,
+    "y": 0.4424,
+    "w": 0.048,
+    "h": 0.0118
+   },
+   {
+    "t": "Tram Nguyen",
+    "x": 0.4826,
+    "y": 0.4424,
+    "w": 0.0305,
+    "h": 0.0118
+   },
+   {
+    "t": "Expired",
+    "x": 0.5945,
+    "y": 0.4424,
+    "w": 0.0203,
+    "h": 0.0118
+   },
+   {
+    "t": "Jan 19,2022",
+    "x": 0.6439,
+    "y": 0.4424,
+    "w": 0.032,
+    "h": 0.0118
+   },
+   {
+    "t": "4 X GoTo 4 Pazd",
+    "x": 0.6526,
+    "y": 0.4775,
+    "w": 0.0698,
+    "h": 0.0095
+   },
+   {
+    "t": "0) total",
+    "x": 0.3517,
+    "y": 0.4798,
+    "w": 0.0203,
+    "h": 0.0049
+   },
+   {
+    "t": "The \"Digital Purchase\" page is a detailed view of one of the digital products, namely boddydigital-5, which was previously selected",
+    "x": 0.1512,
+    "y": 0.5694,
+    "w": 0.6875,
+    "h": 0.0238
+   },
+   {
+    "t": "from the digital purchase management page. At the top of the page, the breadcrumb navigation shows the user's path: Sales >",
+    "x": 0.1526,
+    "y": 0.5906,
+    "w": 0.6657,
+    "h": 0.0212
+   },
+   {
+    "t": "Digital Purchase Management > Digital Purchase, providing clear context for the user's position in the system. The page display is",
+    "x": 0.1512,
+    "y": 0.6141,
+    "w": 0.6831,
+    "h": 0.0212
+   },
+   {
+    "t": "divided into two main sections: digital product information at the top and a transaction history table at the bottom.",
+    "x": 0.1526,
+    "y": 0.6348,
+    "w": 0.6003,
+    "h": 0.0193
+   },
+   {
+    "t": "At the top, users are presented with a visual representation of the product, including an image of a basketball player, the product",
+    "x": 0.1526,
+    "y": 0.6753,
+    "w": 0.6773,
+    "h": 0.0236
+   },
+   {
+    "t": "name, SKU, a Download button, and file information such as size and file name. There is also an \"Edit Product\" option to modify",
+    "x": 0.1526,
+    "y": 0.6965,
+    "w": 0.6672,
+    "h": 0.0215
+   },
+   {
+    "t": "product details, along with information on the number of product purchases (20 times) and total downloads (2 times). The \"Back\"",
+    "x": 0.1526,
+    "y": 0.7176,
+    "w": 0.6788,
+    "h": 0.024
+   },
+   {
+    "t": "button in the top-right corner allows users to return to the previous page.",
+    "x": 0.1526,
+    "y": 0.7412,
+    "w": 0.3866,
+    "h": 0.0212
+   },
+   {
+    "t": "The table below contains a list of transactions for the digital product, complete with columns for Order, Upload Date, Customer,",
+    "x": 0.1526,
+    "y": 0.7831,
+    "w": 0.6686,
+    "h": 0.0216
+   },
+   {
+    "t": "Downloads, Status, and Expires. All entries in this example are from a customer named Tram Nguyen, with file statuses ranging from",
+    "x": 0.1526,
+    "y": 0.8045,
+    "w": 0.6933,
+    "h": 0.0214
+   },
+   {
+    "t": "Active, Any, Limit Reached, Revoked, to Expired. Each status has a different color for easy visual identification. Additionally, there is",
+    "x": 0.1526,
+    "y": 0.8258,
+    "w": 0.6904,
+    "h": 0.0213
+   },
+   {
+    "t": "a search and filter feature at the top of the table, as well as an eye icon in the \"Actions\" column that indicates the option to view",
+    "x": 0.1526,
+    "y": 0.8471,
+    "w": 0.6701,
+    "h": 0.0215
+   },
+   {
+    "t": "details of a specific transaction. The design of this page remains consistent with the navigation sidebar structure on the left and the",
+    "x": 0.1526,
+    "y": 0.8706,
+    "w": 0.6933,
+    "h": 0.0193
+   },
+   {
+    "t": "header at the top, which lists the active user name (Claire Oxer) and the client being served (Andi Grace), keeping the work",
+    "x": 0.1526,
+    "y": 0.8918,
+    "w": 0.6555,
+    "h": 0.0217
+   },
+   {
+    "t": "context clear and efficient.",
+    "x": 0.1526,
+    "y": 0.9129,
+    "w": 0.141,
+    "h": 0.0188
+   },
+   {
+    "t": "View Digital Purchase - Activity Log",
+    "x": 0.1512,
+    "y": 0.9596,
+    "w": 0.2863,
+    "h": 0.0292
+   }
+  ]
+ },
+ {
+  "i": 34,
+  "file": "b34.jpg",
+  "y0": 18064,
+  "y1": 18866,
+  "h": 802,
+  "color": 1.15,
+  "density": 0.423,
+  "lines": [
+   {
+    "t": "\u00a9 Sales",
+    "x": 0.2616,
+    "y": 0.0705,
+    "w": 0.0233,
+    "h": 0.0131
+   },
+   {
+    "t": "Sales",
+    "x": 0.343,
+    "y": 0.0809,
+    "w": 0.016,
+    "h": 0.0104
+   },
+   {
+    "t": "Digtal Purchase Management Digital Purchase",
+    "x": 0.3808,
+    "y": 0.0809,
+    "w": 0.1148,
+    "h": 0.0131
+   },
+   {
+    "t": "Current client: Andi Grace",
+    "x": 0.6701,
+    "y": 0.0835,
+    "w": 0.0683,
+    "h": 0.0105
+   },
+   {
+    "t": "loe.",
+    "x": 0.359,
+    "y": 0.0836,
+    "w": 0.0203,
+    "h": 0.0052
+   },
+   {
+    "t": "@ Catalog",
+    "x": 0.2631,
+    "y": 0.1044,
+    "w": 0.0276,
+    "h": 0.0157
+   },
+   {
+    "t": "Digital Purchase",
+    "x": 0.3445,
+    "y": 0.1097,
+    "w": 0.0872,
+    "h": 0.0188
+   },
+   {
+    "t": "dia Customers",
+    "x": 0.2616,
+    "y": 0.1358,
+    "w": 0.0349,
+    "h": 0.0157
+   },
+   {
+    "t": "boddydigital-5",
+    "x": 0.3881,
+    "y": 0.1382,
+    "w": 0.0771,
+    "h": 0.0264
+   },
+   {
+    "t": "Edit Product",
+    "x": 0.6948,
+    "y": 0.1593,
+    "w": 0.0305,
+    "h": 0.0131
+   },
+   {
+    "t": "Order: ZM- 134321 on 17/08/2020, 23:20:34",
+    "x": 0.3881,
+    "y": 0.1671,
+    "w": 0.1366,
+    "h": 0.0162
+   },
+   {
+    "t": "93 Marketing",
+    "x": 0.2616,
+    "y": 0.1721,
+    "w": 0.0334,
+    "h": 0.0162
+   },
+   {
+    "t": "Change Status",
+    "x": 0.6337,
+    "y": 0.1721,
+    "w": 0.0363,
+    "h": 0.0137
+   },
+   {
+    "t": "Salus",
+    "x": 0.5756,
+    "y": 0.1723,
+    "w": 0.0189,
+    "h": 0.0052
+   },
+   {
+    "t": "File size: 68.6 KB Change File",
+    "x": 0.3866,
+    "y": 0.188,
+    "w": 0.0698,
+    "h": 0.0131
+   },
+   {
+    "t": "8470305",
+    "x": 0.5756,
+    "y": 0.1932,
+    "w": 0.0233,
+    "h": 0.0052
+   },
+   {
+    "t": "@ Content",
+    "x": 0.2631,
+    "y": 0.2057,
+    "w": 0.0276,
+    "h": 0.0137
+   },
+   {
+    "t": "View Order",
+    "x": 0.3314,
+    "y": 0.2219,
+    "w": 0.0276,
+    "h": 0.0131
+   },
+   {
+    "t": "- Download",
+    "x": 0.3735,
+    "y": 0.2219,
+    "w": 0.0305,
+    "h": 0.0131
+   },
+   {
+    "t": "Copy link co",
+    "x": 0.4172,
+    "y": 0.2219,
+    "w": 0.032,
+    "h": 0.0131
+   },
+   {
+    "t": "Dopires",
+    "x": 0.5756,
+    "y": 0.2245,
+    "w": 0.0174,
+    "h": 0.0131
+   },
+   {
+    "t": "Never",
+    "x": 0.6555,
+    "y": 0.2245,
+    "w": 0.0145,
+    "h": 0.0104
+   },
+   {
+    "t": "Furchases: 20",
+    "x": 0.6991,
+    "y": 0.2319,
+    "w": 0.0334,
+    "h": 0.0137
+   },
+   {
+    "t": "le System",
+    "x": 0.2616,
+    "y": 0.2402,
+    "w": 0.0276,
+    "h": 0.0131
+   },
+   {
+    "t": "Activity Log",
+    "x": 0.3241,
+    "y": 0.2662,
+    "w": 0.0494,
+    "h": 0.0184
+   },
+   {
+    "t": "Shipping",
+    "x": 0.2615,
+    "y": 0.2752,
+    "w": 0.0323,
+    "h": 0.0136
+   },
+   {
+    "t": "Ativity. =",
+    "x": 0.3445,
+    "y": 0.3155,
+    "w": 0.0262,
+    "h": 0.0162
+   },
+   {
+    "t": "1P =",
+    "x": 0.4898,
+    "y": 0.318,
+    "w": 0.0116,
+    "h": 0.0112
+   },
+   {
+    "t": "User s",
+    "x": 0.5625,
+    "y": 0.318,
+    "w": 0.0189,
+    "h": 0.0112
+   },
+   {
+    "t": "Activity Detail",
+    "x": 0.6177,
+    "y": 0.318,
+    "w": 0.0349,
+    "h": 0.0112
+   },
+   {
+    "t": "Date",
+    "x": 0.4128,
+    "y": 0.3185,
+    "w": 0.0189,
+    "h": 0.0104
+   },
+   {
+    "t": "Actions",
+    "x": 0.7049,
+    "y": 0.3446,
+    "w": 0.0174,
+    "h": 0.0104
+   },
+   {
+    "t": "Lorem iqsum",
+    "x": 0.3459,
+    "y": 0.3473,
+    "w": 0.032,
+    "h": 0.0106
+   },
+   {
+    "t": "Lorem igsum",
+    "x": 0.4884,
+    "y": 0.3473,
+    "w": 0.0334,
+    "h": 0.0131
+   },
+   {
+    "t": "Active",
+    "x": 0.6206,
+    "y": 0.3473,
+    "w": 0.0174,
+    "h": 0.0104
+   },
+   {
+    "t": "Lorem i\u0105sum",
+    "x": 0.3458,
+    "y": 0.3726,
+    "w": 0.0336,
+    "h": 0.0172
+   },
+   {
+    "t": "03/11/2021,21:29:14",
+    "x": 0.4128,
+    "y": 0.376,
+    "w": 0.0494,
+    "h": 0.0131
+   },
+   {
+    "t": "Lorem iqsum",
+    "x": 0.4884,
+    "y": 0.376,
+    "w": 0.0334,
+    "h": 0.0131
+   },
+   {
+    "t": "Active",
+    "x": 0.6206,
+    "y": 0.376,
+    "w": 0.0174,
+    "h": 0.0131
+   },
+   {
+    "t": "Lorem iqsum",
+    "x": 0.3459,
+    "y": 0.4047,
+    "w": 0.032,
+    "h": 0.0131
+   },
+   {
+    "t": "03/11/2021, 21:29:14",
+    "x": 0.4128,
+    "y": 0.4047,
+    "w": 0.0494,
+    "h": 0.0131
+   },
+   {
+    "t": "LUTCH POO",
+    "x": 0.4884,
+    "y": 0.4099,
+    "w": 0.032,
+    "h": 0.0053
+   },
+   {
+    "t": "400 potal",
+    "x": 0.3358,
+    "y": 0.4439,
+    "w": 0.0189,
+    "h": 0.0104
+   },
+   {
+    "t": "Go To 4 Page",
+    "x": 0.6192,
+    "y": 0.4439,
+    "w": 0.0465,
+    "h": 0.0131
+   },
+   {
+    "t": "C1034",
+    "x": 0.5523,
+    "y": 0.4465,
+    "w": 0.0494,
+    "h": 0.0078
+   },
+   {
+    "t": "Tram Nguyen",
+    "x": 0.4826,
+    "y": 0.4909,
+    "w": 0.0305,
+    "h": 0.0104
+   },
+   {
+    "t": "2S RUNS",
+    "x": 0.359,
+    "y": 0.5374,
+    "w": 0.0189,
+    "h": 0.0137
+   },
+   {
+    "t": "+ 5 6 1 4 10 3",
+    "x": 0.6497,
+    "y": 0.5374,
+    "w": 0.0712,
+    "h": 0.0137
+   },
+   {
+    "t": "This view shows the modal details for one of the boddydigital-5 digital product orders, which appears after the user clicks the",
+    "x": 0.1526,
+    "y": 0.6319,
+    "w": 0.6613,
+    "h": 0.024
+   },
+   {
+    "t": "action icon from one of the entries in the transaction table on the previous page. This pop-up is designed to provide in depth",
+    "x": 0.1526,
+    "y": 0.6554,
+    "w": 0.657,
+    "h": 0.0235
+   },
+   {
+    "t": "information about a specific order with a clean and focused interface. At the top, users are presented with the product image,",
+    "x": 0.1512,
+    "y": 0.6783,
+    "w": 0.6628,
+    "h": 0.024
+   },
+   {
+    "t": "product name, and order details such as the order number (ZM-134321) and purchase date (17/08/2020, 23:20:34). File size",
+    "x": 0.1526,
+    "y": 0.702,
+    "w": 0.6541,
+    "h": 0.0239
+   },
+   {
+    "t": "information and the \"Change File\" option are also available, allowing the admin to replace the digital file associated with this order.",
+    "x": 0.1526,
+    "y": 0.7214,
+    "w": 0.6833,
+    "h": 0.0345
+   },
+   {
+    "t": "Users are provided with several direct actions: View Order, Download, and Copy link buttons, with the download URL available in a",
+    "x": 0.1512,
+    "y": 0.7755,
+    "w": 0.686,
+    "h": 0.0238
+   },
+   {
+    "t": "field that can be copied. On the right side, there is the order status, which is currently Active, with information on the number of",
+    "x": 0.1526,
+    "y": 0.7963,
+    "w": 0.6715,
+    "h": 0.0266
+   },
+   {
+    "t": "downloads (0) and validity period (Expires: Never), as well as an option to change the status if needed.",
+    "x": 0.1526,
+    "y": 0.8198,
+    "w": 0.5407,
+    "h": 0.0261
+   },
+   {
+    "t": "Further down, there is an Activity Log that records the history of activities related to this order. The log table presents data in the",
+    "x": 0.1526,
+    "y": 0.8691,
+    "w": 0.6773,
+    "h": 0.0213
+   },
+   {
+    "t": "columns Activity, Date, IP, User, and Activity Detail. Although the content is still a placeholder with the text \"Lorem ipsum,\" this",
+    "x": 0.1526,
+    "y": 0.8928,
+    "w": 0.6628,
+    "h": 0.0237
+   },
+   {
+    "t": "element illustrates a structured user activity tracking system that allows auditing of every action performed on the file. The",
+    "x": 0.1526,
+    "y": 0.9164,
+    "w": 0.6453,
+    "h": 0.0212
+   },
+   {
+    "t": "pagination below the table shows that the system records hundreds of log entries, reinforcing the impression that this system is",
+    "x": 0.1526,
+    "y": 0.9373,
+    "w": 0.673,
+    "h": 0.0265
+   },
+   {
+    "t": "designed for large-scale use with complete and neatly documented activity traces.",
+    "x": 0.1526,
+    "y": 0.9634,
+    "w": 0.4375,
+    "h": 0.0241
+   }
+  ]
+ },
+ {
+  "i": 35,
+  "file": "b35.jpg",
+  "y0": 18897,
+  "y1": 19428,
+  "h": 531,
+  "color": 0.0,
+  "density": 0.305,
+  "lines": [
+   {
+    "t": "Usability Testing",
+    "x": 0.1526,
+    "y": 0.0236,
+    "w": 0.1323,
+    "h": 0.0516
+   },
+   {
+    "t": "To evaluate the overall effectiveness, ease of use, and user satisfaction levels of the admin platform, I conducted a series of",
+    "x": 0.1526,
+    "y": 0.0902,
+    "w": 0.6512,
+    "h": 0.0358
+   },
+   {
+    "t": "moderated usability testing sessions involving participants who represented the role of user admins. Each session was designed to",
+    "x": 0.1526,
+    "y": 0.1259,
+    "w": 0.6875,
+    "h": 0.0357
+   },
+   {
+    "t": "reflect real-world usage scenarios, in which participants completed a series of goal-based tasks that reflected the workflow of an",
+    "x": 0.1512,
+    "y": 0.1614,
+    "w": 0.6831,
+    "h": 0.036
+   },
+   {
+    "t": "admin when managing digital content and transactions on the platform.",
+    "x": 0.1526,
+    "y": 0.1969,
+    "w": 0.3765,
+    "h": 0.0362
+   },
+   {
+    "t": "The primary goal of this usability testing was to observe how admins interact with key features, how easily they navigate the",
+    "x": 0.1526,
+    "y": 0.2717,
+    "w": 0.6541,
+    "h": 0.0315
+   },
+   {
+    "t": "interface, and whether design elements such as content structure, button placement, and terminology effectively guide users in",
+    "x": 0.1526,
+    "y": 0.3026,
+    "w": 0.6715,
+    "h": 0.036
+   },
+   {
+    "t": "completing their tasks. I also want to identify potential usability issues or friction points that could hinder the overall user experience",
+    "x": 0.1526,
+    "y": 0.3421,
+    "w": 0.6948,
+    "h": 0.032
+   },
+   {
+    "t": "and ensure that the platform supports the needs and expectations of administrators in their work processes.",
+    "x": 0.1526,
+    "y": 0.3778,
+    "w": 0.5712,
+    "h": 0.032
+   },
+   {
+    "t": "During the testing session, participants were given a series of scenarios such as: searching for buyer reviews, finding products with",
+    "x": 0.1526,
+    "y": 0.4488,
+    "w": 0.6904,
+    "h": 0.0361
+   },
+   {
+    "t": "the highest ratings in a specific category, using filters to select products with specific requirements, sharing information using",
+    "x": 0.1526,
+    "y": 0.4843,
+    "w": 0.6599,
+    "h": 0.0354
+   },
+   {
+    "t": "product links, and checking sales data for several products. These scenarios were designed to explore various aspects of the",
+    "x": 0.1526,
+    "y": 0.5188,
+    "w": 0.6584,
+    "h": 0.0363
+   },
+   {
+    "t": "interface and system interactions from the perspective of both new and experienced admins.",
+    "x": 0.1526,
+    "y": 0.5545,
+    "w": 0.4898,
+    "h": 0.0321
+   },
+   {
+    "t": "By analyzing user behavior, feedback, and performance in completing each task, 1 gained valuable insights to refine the existing",
+    "x": 0.1526,
+    "y": 0.6259,
+    "w": 0.6701,
+    "h": 0.0395
+   },
+   {
+    "t": "design. The findings from this session helped ensure that the product development direction fully supports admin needs, while",
+    "x": 0.1512,
+    "y": 0.6654,
+    "w": 0.6672,
+    "h": 0.0395
+   },
+   {
+    "t": "enhancing efficiency and clarity at every stage of system use.",
+    "x": 0.1526,
+    "y": 0.7008,
+    "w": 0.327,
+    "h": 0.0323
+   },
+   {
+    "t": "Participants were given the following scenario to complete:",
+    "x": 0.1526,
+    "y": 0.7717,
+    "w": 0.311,
+    "h": 0.0315
+   },
+   {
+    "t": "1. You want to see reviews from buyers, how do you do that?",
+    "x": 0.1555,
+    "y": 0.8064,
+    "w": 0.3227,
+    "h": 0.0322
+   },
+   {
+    "t": "2. You want to find out which products have the highest ratings in a particular category, what should you do?",
+    "x": 0.1555,
+    "y": 0.8421,
+    "w": 0.5727,
+    "h": 0.032
+   },
+   {
+    "t": "3. You want to check products based on only a few criteria, so you need a filter for this. How do you do that?",
+    "x": 0.1555,
+    "y": 0.8778,
+    "w": 0.5712,
+    "h": 0.0357
+   },
+   {
+    "t": "4. You want to share information using product detail links. What can you do?",
+    "x": 0.1555,
+    "y": 0.9134,
+    "w": 0.407,
+    "h": 0.0359
+   },
+   {
+    "t": "5. You want to check sales for several products. How do you check them?",
+    "x": 0.1555,
+    "y": 0.9488,
+    "w": 0.3895,
+    "h": 0.0361
+   }
+  ]
+ },
+ {
+  "i": 36,
+  "file": "b36.jpg",
+  "y0": 19462,
+  "y1": 19631,
+  "h": 169,
+  "color": 0.0,
+  "density": 0.277,
+  "lines": [
+   {
+    "t": "Reflection",
+    "x": 0.1526,
+    "y": 0.0725,
+    "w": 0.08,
+    "h": 0.1389
+   },
+   {
+    "t": "If I had additional time, I would:",
+    "x": 0.1526,
+    "y": 0.2824,
+    "w": 0.1657,
+    "h": 0.1127
+   },
+   {
+    "t": "1. Continue the design iteration process through further usability testing using more structured scenarios and task based activities",
+    "x": 0.1555,
+    "y": 0.3941,
+    "w": 0.6875,
+    "h": 0.1
+   },
+   {
+    "t": "typical of administrators. This approach aims to further validate the information structure, visual clarity, and effectiveness of key",
+    "x": 0.1686,
+    "y": 0.5059,
+    "w": 0.6744,
+    "h": 0.1118
+   },
+   {
+    "t": "interactions such as transaction data access, download status, and digital product navigation.",
+    "x": 0.1685,
+    "y": 0.5851,
+    "w": 0.4944,
+    "h": 0.1518
+   },
+   {
+    "t": "2. Conduct a comprehensive usability review of the design, focusing on Ul element consistency, readability, and workflow",
+    "x": 0.1555,
+    "y": 0.7284,
+    "w": 0.6395,
+    "h": 0.1128
+   },
+   {
+    "t": "simplification to ensure the admin experience remains intuitive and supports their daily workflow efficiency.",
+    "x": 0.1686,
+    "y": 0.8395,
+    "w": 0.5654,
+    "h": 0.1134
+   }
+  ]
+ }
+]

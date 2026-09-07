@@ -1,0 +1,4201 @@
+[
+ {
+  "i": 0,
+  "file": "b00.jpg",
+  "y0": 117,
+  "y1": 234,
+  "h": 117,
+  "color": 0.0,
+  "density": 0.138,
+  "lines": [
+   {
+    "t": "Imperfect Foods",
+    "x": 0.2209,
+    "y": 0.1017,
+    "w": 0.2398,
+    "h": 0.3729
+   },
+   {
+    "t": "Buy Smart, Save the Planet from Food Waste",
+    "x": 0.2208,
+    "y": 0.65,
+    "w": 0.4167,
+    "h": 0.3
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "file": "b01.jpg",
+  "y0": 281,
+  "y1": 351,
+  "h": 70,
+  "color": 0.0,
+  "density": 0.215,
+  "lines": [
+   {
+    "t": "Groceries that save food and the planet. We're here to provide quality ingredients at",
+    "x": 0.2224,
+    "y": 0.1714,
+    "w": 0.5509,
+    "h": 0.3286
+   },
+   {
+    "t": "affordable prices while reducing food waste every step of the way.",
+    "x": 0.2224,
+    "y": 0.5,
+    "w": 0.4404,
+    "h": 0.3571
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "file": "b02.jpg",
+  "y0": 389,
+  "y1": 1006,
+  "h": 617,
+  "color": 11.49,
+  "density": 0.624,
+  "lines": [
+   {
+    "t": "(HEERFECT",
+    "x": 0.3605,
+    "y": 0.2601,
+    "w": 0.0262,
+    "h": 0.0203
+   },
+   {
+    "t": "For:",
+    "x": 0.5465,
+    "y": 0.3514,
+    "w": 0.0131,
+    "h": 0.0203
+   },
+   {
+    "t": "Thoughtful Eaters",
+    "x": 0.5338,
+    "y": 0.3585,
+    "w": 0.0547,
+    "h": 0.0491
+   },
+   {
+    "t": "Groceries that",
+    "x": 0.3968,
+    "y": 0.3981,
+    "w": 0.0974,
+    "h": 0.0344
+   },
+   {
+    "t": "help you fight",
+    "x": 0.3953,
+    "y": 0.4353,
+    "w": 0.093,
+    "h": 0.0343
+   },
+   {
+    "t": "food waste",
+    "x": 0.3953,
+    "y": 0.469,
+    "w": 0.0771,
+    "h": 0.035
+   },
+   {
+    "t": "IMPERFECT",
+    "x": 0.577,
+    "y": 0.5,
+    "w": 0.0407,
+    "h": 0.0304
+   },
+   {
+    "t": "BANANAS",
+    "x": 0.2573,
+    "y": 0.6554,
+    "w": 0.0305,
+    "h": 0.0068
+   },
+   {
+    "t": "See viet vette \u00ae",
+    "x": 0.4186,
+    "y": 0.6715,
+    "w": 0.0581,
+    "h": 0.0178
+   },
+   {
+    "t": "Pantry.",
+    "x": 0.4215,
+    "y": 0.723,
+    "w": 0.032,
+    "h": 0.0203
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "file": "b03.jpg",
+  "y0": 1043,
+  "y1": 1541,
+  "h": 498,
+  "color": 6.1,
+  "density": 0.23,
+  "lines": [
+   {
+    "t": "Project Overview",
+    "x": 0.3401,
+    "y": 0.0622,
+    "w": 0.1599,
+    "h": 0.0586
+   },
+   {
+    "t": "IMPERFECT",
+    "x": 0.1772,
+    "y": 0.0708,
+    "w": 0.1225,
+    "h": 0.125
+   },
+   {
+    "t": "Imperfect Foods is a grocery delivery service committed to reducing food waste by selling",
+    "x": 0.3401,
+    "y": 0.15,
+    "w": 0.4697,
+    "h": 0.0333
+   },
+   {
+    "t": "FOODS",
+    "x": 0.2089,
+    "y": 0.1708,
+    "w": 0.0605,
+    "h": 0.0375
+   },
+   {
+    "t": "products that are still perfectly edible but don't meet the cosmetic standards of traditional",
+    "x": 0.3401,
+    "y": 0.1867,
+    "w": 0.4697,
+    "h": 0.0341
+   },
+   {
+    "t": "supermarkets. With a sustainable and subscription based approach, Imperfect Foods curates a",
+    "x": 0.3415,
+    "y": 0.2249,
+    "w": 0.4899,
+    "h": 0.0341
+   },
+   {
+    "t": "variety of \"imperfect\" yet nutritious and delicious items ranging from fruits and vegetables to",
+    "x": 0.3401,
+    "y": 0.2625,
+    "w": 0.4813,
+    "h": 0.0375
+   },
+   {
+    "t": "pantry staples, meat, dairy, and snacks. Customers simply set their preferences, and a",
+    "x": 0.3415,
+    "y": 0.299,
+    "w": 0.4482,
+    "h": 0.0435
+   },
+   {
+    "t": "Industry",
+    "x": 0.1584,
+    "y": 0.3116,
+    "w": 0.0477,
+    "h": 0.0392
+   },
+   {
+    "t": "customized box is delivered to their door each week. More than just convenience, this service",
+    "x": 0.3415,
+    "y": 0.3414,
+    "w": 0.487,
+    "h": 0.0382
+   },
+   {
+    "t": "\u2022 Sustainability or",
+    "x": 0.1643,
+    "y": 0.3494,
+    "w": 0.098,
+    "h": 0.0382
+   },
+   {
+    "t": "empowers consumers to make more sustainable and socially impactful choices.",
+    "x": 0.3415,
+    "y": 0.3792,
+    "w": 0.4135,
+    "h": 0.0333
+   },
+   {
+    "t": "Environmental Tech",
+    "x": 0.1772,
+    "y": 0.3875,
+    "w": 0.1037,
+    "h": 0.0292
+   },
+   {
+    "t": "\u2022 Food & Grocery Delivery",
+    "x": 0.1657,
+    "y": 0.425,
+    "w": 0.1383,
+    "h": 0.0375
+   },
+   {
+    "t": "\u2022 Social Impact Business",
+    "x": 0.1657,
+    "y": 0.4659,
+    "w": 0.1326,
+    "h": 0.0301
+   },
+   {
+    "t": "Problem",
+    "x": 0.3644,
+    "y": 0.5195,
+    "w": 0.0795,
+    "h": 0.0569
+   },
+   {
+    "t": "Solution",
+    "x": 0.6297,
+    "y": 0.5205,
+    "w": 0.0779,
+    "h": 0.0548
+   },
+   {
+    "t": "1. Global food waste remains alarmingly",
+    "x": 0.3429,
+    "y": 0.6083,
+    "w": 0.2089,
+    "h": 0.0423
+   },
+   {
+    "t": "1. Save imperfect groceries that are still",
+    "x": 0.6081,
+    "y": 0.6124,
+    "w": 0.2089,
+    "h": 0.0341
+   },
+   {
+    "t": "high, often due to appearance based",
+    "x": 0.3573,
+    "y": 0.65,
+    "w": 0.1931,
+    "h": 0.0333
+   },
+   {
+    "t": "perfectly edible, ensuring they reach",
+    "x": 0.6225,
+    "y": 0.65,
+    "w": 0.1916,
+    "h": 0.0333
+   },
+   {
+    "t": "Tools",
+    "x": 0.1614,
+    "y": 0.6542,
+    "w": 0.0288,
+    "h": 0.0292
+   },
+   {
+    "t": "people instead of going to waste.",
+    "x": 0.6225,
+    "y": 0.6867,
+    "w": 0.1729,
+    "h": 0.0341
+   },
+   {
+    "t": "rejection.",
+    "x": 0.3573,
+    "y": 0.6875,
+    "w": 0.0504,
+    "h": 0.0333
+   },
+   {
+    "t": "Adobe Illustrator",
+    "x": 0.1614,
+    "y": 0.6908,
+    "w": 0.0865,
+    "h": 0.0301
+   },
+   {
+    "t": "2. Edible products are discarded simply",
+    "x": 0.3429,
+    "y": 0.7249,
+    "w": 0.2075,
+    "h": 0.0382
+   },
+   {
+    "t": "2. Customers can easily subscribe, set",
+    "x": 0.6081,
+    "y": 0.7249,
+    "w": 0.2017,
+    "h": 0.0382
+   },
+   {
+    "t": "because they aren't \"perfect.\"",
+    "x": 0.3588,
+    "y": 0.7625,
+    "w": 0.1542,
+    "h": 0.0333
+   },
+   {
+    "t": "preferences, and receive deliveries of",
+    "x": 0.6225,
+    "y": 0.7625,
+    "w": 0.196,
+    "h": 0.0375
+   },
+   {
+    "t": "3. Traditional grocery shopping isn't always",
+    "x": 0.3444,
+    "y": 0.7992,
+    "w": 0.2248,
+    "h": 0.0383
+   },
+   {
+    "t": "curated groceries right at their doorstep.",
+    "x": 0.621,
+    "y": 0.8032,
+    "w": 0.2118,
+    "h": 0.0343
+   },
+   {
+    "t": "3. Offer quality food at lower prices, helping",
+    "x": 0.6066,
+    "y": 0.8373,
+    "w": 0.2291,
+    "h": 0.0422
+   },
+   {
+    "t": "environmentally sustainable.",
+    "x": 0.3573,
+    "y": 0.8414,
+    "w": 0.147,
+    "h": 0.0341
+   },
+   {
+    "t": "Year",
+    "x": 0.1614,
+    "y": 0.8792,
+    "w": 0.0245,
+    "h": 0.0292
+   },
+   {
+    "t": "4. Many people struggle to access healthy",
+    "x": 0.3444,
+    "y": 0.8792,
+    "w": 0.2219,
+    "h": 0.0333
+   },
+   {
+    "t": "customers shop responsibly without",
+    "x": 0.621,
+    "y": 0.8792,
+    "w": 0.1902,
+    "h": 0.0375
+   },
+   {
+    "t": "2022",
+    "x": 0.1583,
+    "y": 0.9155,
+    "w": 0.0306,
+    "h": 0.0357
+   },
+   {
+    "t": "food at affordable prices.",
+    "x": 0.3573,
+    "y": 0.9167,
+    "w": 0.1326,
+    "h": 0.0333
+   },
+   {
+    "t": "overspending.",
+    "x": 0.6225,
+    "y": 0.9167,
+    "w": 0.072,
+    "h": 0.0333
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "file": "b04.jpg",
+  "y0": 1572,
+  "y1": 1849,
+  "h": 277,
+  "color": 0.1,
+  "density": 0.262,
+  "lines": [
+   {
+    "t": "& My Role and Responsibility",
+    "x": 0.1542,
+    "y": 0.0213,
+    "w": 0.275,
+    "h": 0.1277
+   },
+   {
+    "t": "I served as the UX/Ul Designer responsible for crafting a layout and information flow that is communicative, engaging, and aligned",
+    "x": 0.1512,
+    "y": 0.218,
+    "w": 0.6831,
+    "h": 0.0677
+   },
+   {
+    "t": "with the brand's mission to reduce food waste.",
+    "x": 0.1526,
+    "y": 0.2842,
+    "w": 0.2485,
+    "h": 0.0617
+   },
+   {
+    "t": "My main focus was to create a page structure that educates users about Imperfect Foods' services through visuals that are friendly,",
+    "x": 0.1526,
+    "y": 0.4209,
+    "w": 0.6933,
+    "h": 0.0683
+   },
+   {
+    "t": "informative, and easy to understand. I strategically organized each section from the educational headline, product categories, and",
+    "x": 0.1526,
+    "y": 0.4887,
+    "w": 0.6831,
+    "h": 0.0688
+   },
+   {
+    "t": "service explanation, to customer testimonials. Additionally, I ensured that all visual elements, such as illustrations, icons, and colors,",
+    "x": 0.1526,
+    "y": 0.5552,
+    "w": 0.6919,
+    "h": 0.0764
+   },
+   {
+    "t": "effectively supported the core message and encouraged user actions.",
+    "x": 0.1526,
+    "y": 0.6223,
+    "w": 0.3706,
+    "h": 0.0694
+   },
+   {
+    "t": "The design also considered accessibility principles and mobile responsiveness to ensure an optimal user experience across devices.",
+    "x": 0.1526,
+    "y": 0.759,
+    "w": 0.6948,
+    "h": 0.0683
+   },
+   {
+    "t": "Every design decision was grounded in user research and the brand's value proposition to deliver a solution that is not only visually",
+    "x": 0.1526,
+    "y": 0.8345,
+    "w": 0.6875,
+    "h": 0.0612
+   },
+   {
+    "t": "appealing but also functionally impactful.",
+    "x": 0.1526,
+    "y": 0.9023,
+    "w": 0.2166,
+    "h": 0.0618
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "file": "b05.jpg",
+  "y0": 1888,
+  "y1": 2474,
+  "h": 586,
+  "color": 0.0,
+  "density": 0.286,
+  "lines": [
+   {
+    "t": "Process",
+    "x": 0.1526,
+    "y": 0.0172,
+    "w": 0.0757,
+    "h": 0.0406
+   },
+   {
+    "t": "The design process for this project was divided into four key phases to ensure a user centered and results experience:",
+    "x": 0.1526,
+    "y": 0.1107,
+    "w": 0.6235,
+    "h": 0.0292
+   },
+   {
+    "t": "1. Discovery",
+    "x": 0.154,
+    "y": 0.1737,
+    "w": 0.0685,
+    "h": 0.0384
+   },
+   {
+    "t": "In the Discovery phase, I began by conducting competitor analysis to understand the design approaches used by similar services",
+    "x": 0.1686,
+    "y": 0.2065,
+    "w": 0.6788,
+    "h": 0.0328
+   },
+   {
+    "t": "in the food and grocery delivery industry. This analysis helped me identify the strengths and weaknesses of competitors and",
+    "x": 0.1686,
+    "y": 0.2389,
+    "w": 0.6555,
+    "h": 0.0325
+   },
+   {
+    "t": "uncover opportunities for differentiation. I also gathered user pain points related to their shopping experience, such as difficulties",
+    "x": 0.1686,
+    "y": 0.2747,
+    "w": 0.6802,
+    "h": 0.029
+   },
+   {
+    "t": "in finding affordable healthy products and lack of transparency about product origins. In addition, I defined the target users and",
+    "x": 0.1686,
+    "y": 0.3036,
+    "w": 0.6701,
+    "h": 0.0326
+   },
+   {
+    "t": "audience individuals who care about sustainability and want to reduce food waste through more mindful consumption choices.",
+    "x": 0.1686,
+    "y": 0.3393,
+    "w": 0.6672,
+    "h": 0.0293
+   },
+   {
+    "t": "2. Ideation",
+    "x": 0.154,
+    "y": 0.3991,
+    "w": 0.0598,
+    "h": 0.0375
+   },
+   {
+    "t": "After understanding the problems and user needs, 1 moved into the Ideation phase by mapping out the user journey. Here, I",
+    "x": 0.1701,
+    "y": 0.4317,
+    "w": 0.6468,
+    "h": 0.0361
+   },
+   {
+    "t": "illustrated the experience from the moment users land on the homepage to the point of signing up to start shopping. The main",
+    "x": 0.1686,
+    "y": 0.4676,
+    "w": 0.6642,
+    "h": 0.029
+   },
+   {
+    "t": "goal of this process was to identify key touchpoints that needed to be optimized to ensure users feel guided and comfortable.",
+    "x": 0.1686,
+    "y": 0.5,
+    "w": 0.6642,
+    "h": 0.029
+   },
+   {
+    "t": "This journey map helped me design an intuitive flow that aligns with the brand's mission and improves the overall user",
+    "x": 0.1701,
+    "y": 0.5321,
+    "w": 0.6192,
+    "h": 0.0293
+   },
+   {
+    "t": "experience.",
+    "x": 0.17,
+    "y": 0.5638,
+    "w": 0.0626,
+    "h": 0.0295
+   },
+   {
+    "t": "3. Design Process",
+    "x": 0.1555,
+    "y": 0.628,
+    "w": 0.0959,
+    "h": 0.0327
+   },
+   {
+    "t": "To maintain visual consistency across the homepage, I developed a Design System that includes color selection and typography.",
+    "x": 0.1686,
+    "y": 0.6604,
+    "w": 0.6773,
+    "h": 0.0324
+   },
+   {
+    "t": "The color palette reflects the brand's cheerful and inclusive spirit while also emphasizing its sustainability mission through natural",
+    "x": 0.1701,
+    "y": 0.6928,
+    "w": 0.6788,
+    "h": 0.0324
+   },
+   {
+    "t": "tones. The typography was chosen for its readability across different screen sizes while maintaining a friendly yet professional",
+    "x": 0.1686,
+    "y": 0.725,
+    "w": 0.6657,
+    "h": 0.0293
+   },
+   {
+    "t": "tone. This system served as a foundation for designing all visual components, including buttons, icons, and layout structure.",
+    "x": 0.1686,
+    "y": 0.7571,
+    "w": 0.6526,
+    "h": 0.033
+   },
+   {
+    "t": "4. Usability Testing",
+    "x": 0.1539,
+    "y": 0.8211,
+    "w": 0.1036,
+    "h": 0.0368
+   },
+   {
+    "t": "In the Usability Testing phase, I began by creating tasks and scenarios that represent real user activities, such as browsing",
+    "x": 0.1672,
+    "y": 0.8532,
+    "w": 0.6468,
+    "h": 0.0325
+   },
+   {
+    "t": "products, understanding the service, and signing up for an account. Although full testing had not yet been conducted at this",
+    "x": 0.1701,
+    "y": 0.8857,
+    "w": 0.6526,
+    "h": 0.0324
+   },
+   {
+    "t": "stage, developing these scenarios was an essential first step to ensure that the design could be tested effectively. These",
+    "x": 0.1686,
+    "y": 0.9179,
+    "w": 0.6381,
+    "h": 0.0361
+   },
+   {
+    "t": "scenarios will later be used to observe user interactions and identify potential usability issues.",
+    "x": 0.1686,
+    "y": 0.9536,
+    "w": 0.4956,
+    "h": 0.0294
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "file": "b06.jpg",
+  "y0": 2513,
+  "y1": 2840,
+  "h": 327,
+  "color": 0.0,
+  "density": 0.199,
+  "lines": [
+   {
+    "t": "Discovery",
+    "x": 0.1522,
+    "y": 0.0211,
+    "w": 0.0952,
+    "h": 0.0905
+   },
+   {
+    "t": "Discover and Understanding",
+    "x": 0.1512,
+    "y": 0.2226,
+    "w": 0.1904,
+    "h": 0.0704
+   },
+   {
+    "t": "In the first phase of this project, I focused on deeply understanding the problem space and the users' expectations. Since Imperfect",
+    "x": 0.1526,
+    "y": 0.3567,
+    "w": 0.6933,
+    "h": 0.0579
+   },
+   {
+    "t": "Foods operates in the sustainable grocery delivery space, the challenge was to design a homepage that not only communicates the",
+    "x": 0.1526,
+    "y": 0.414,
+    "w": 0.6919,
+    "h": 0.0675
+   },
+   {
+    "t": "brand's values but also builds trust and motivates users to take action. I explored the broader context of food waste, user shopping",
+    "x": 0.1526,
+    "y": 0.4777,
+    "w": 0.6875,
+    "h": 0.051
+   },
+   {
+    "t": "behavior, and the importance of transparency in grocery delivery services. This foundational understanding helped shape design",
+    "x": 0.1526,
+    "y": 0.5335,
+    "w": 0.6773,
+    "h": 0.0588
+   },
+   {
+    "t": "decisions that are both user centered and aligned with the brand mission.",
+    "x": 0.1526,
+    "y": 0.5915,
+    "w": 0.3881,
+    "h": 0.0518
+   },
+   {
+    "t": "Competitor Analysis",
+    "x": 0.1512,
+    "y": 0.7256,
+    "w": 0.1366,
+    "h": 0.0706
+   },
+   {
+    "t": "To gain insight into current standards and identify opportunities for differentiation, I conducted a competitor analysis of similar",
+    "x": 0.1526,
+    "y": 0.8535,
+    "w": 0.6642,
+    "h": 0.052
+   },
+   {
+    "t": "services. The analysis covered visual style, value communication, product clarity, and onboarding flow.",
+    "x": 0.1526,
+    "y": 0.9108,
+    "w": 0.5407,
+    "h": 0.0587
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "file": "b07.jpg",
+  "y0": 2862,
+  "y1": 3684,
+  "h": 822,
+  "color": 0.15,
+  "density": 0.188,
+  "lines": [
+   {
+    "t": "Competitor",
+    "x": 0.3575,
+    "y": 0.0149,
+    "w": 0.0509,
+    "h": 0.0185
+   },
+   {
+    "t": "Strengths",
+    "x": 0.436,
+    "y": 0.0153,
+    "w": 0.0436,
+    "h": 0.0178
+   },
+   {
+    "t": "Weaknesses",
+    "x": 0.5334,
+    "y": 0.0153,
+    "w": 0.0567,
+    "h": 0.0153
+   },
+   {
+    "t": "\u2022 Strong visual",
+    "x": 0.4404,
+    "y": 0.0533,
+    "w": 0.0654,
+    "h": 0.0206
+   },
+   {
+    "t": "Misfits Market",
+    "x": 0.3576,
+    "y": 0.0534,
+    "w": 0.061,
+    "h": 0.0153
+   },
+   {
+    "t": "\u2022 Must have an account",
+    "x": 0.5378,
+    "y": 0.0534,
+    "w": 0.1032,
+    "h": 0.0183
+   },
+   {
+    "t": "branding",
+    "x": 0.4491,
+    "y": 0.0789,
+    "w": 0.0392,
+    "h": 0.0178
+   },
+   {
+    "t": "to view the product",
+    "x": 0.548,
+    "y": 0.0789,
+    "w": 0.0828,
+    "h": 0.0153
+   },
+   {
+    "t": "details",
+    "x": 0.548,
+    "y": 0.1017,
+    "w": 0.0291,
+    "h": 0.0154
+   },
+   {
+    "t": "\u2022 Clear",
+    "x": 0.4404,
+    "y": 0.1018,
+    "w": 0.0334,
+    "h": 0.0178
+   },
+   {
+    "t": "\u2022 Limited info on",
+    "x": 0.5378,
+    "y": 0.1241,
+    "w": 0.0727,
+    "h": 0.0184
+   },
+   {
+    "t": "sustainability",
+    "x": 0.4491,
+    "y": 0.1247,
+    "w": 0.0567,
+    "h": 0.0178
+   },
+   {
+    "t": "message",
+    "x": 0.449,
+    "y": 0.1494,
+    "w": 0.0409,
+    "h": 0.0193
+   },
+   {
+    "t": "sourcing",
+    "x": 0.548,
+    "y": 0.1501,
+    "w": 0.0378,
+    "h": 0.0178
+   },
+   {
+    "t": "\u2022 Easy signup flow",
+    "x": 0.439,
+    "y": 0.1703,
+    "w": 0.0828,
+    "h": 0.0207
+   },
+   {
+    "t": "\u2022 Well structured",
+    "x": 0.439,
+    "y": 0.2112,
+    "w": 0.0756,
+    "h": 0.0178
+   },
+   {
+    "t": "\u2022 Membership required",
+    "x": 0.5378,
+    "y": 0.2112,
+    "w": 0.1003,
+    "h": 0.0178
+   },
+   {
+    "t": "Thrive Market",
+    "x": 0.3576,
+    "y": 0.2137,
+    "w": 0.0596,
+    "h": 0.0153
+   },
+   {
+    "t": "product filtering",
+    "x": 0.4491,
+    "y": 0.2366,
+    "w": 0.0683,
+    "h": 0.0178
+   },
+   {
+    "t": "to browse full features",
+    "x": 0.548,
+    "y": 0.2366,
+    "w": 0.0945,
+    "h": 0.0153
+   },
+   {
+    "t": "\u2022 Strong",
+    "x": 0.4404,
+    "y": 0.2591,
+    "w": 0.0378,
+    "h": 0.0182
+   },
+   {
+    "t": "\u2022 Premium feel may",
+    "x": 0.5378,
+    "y": 0.2591,
+    "w": 0.0858,
+    "h": 0.0182
+   },
+   {
+    "t": "membership",
+    "x": 0.4491,
+    "y": 0.285,
+    "w": 0.0552,
+    "h": 0.0153
+   },
+   {
+    "t": "deter",
+    "x": 0.548,
+    "y": 0.285,
+    "w": 0.0247,
+    "h": 0.0127
+   },
+   {
+    "t": "benefits",
+    "x": 0.4491,
+    "y": 0.3074,
+    "w": 0.0365,
+    "h": 0.0162
+   },
+   {
+    "t": "\u2022 Extensive product",
+    "x": 0.4404,
+    "y": 0.3455,
+    "w": 0.0872,
+    "h": 0.0184
+   },
+   {
+    "t": "Limited emphasis on",
+    "x": 0.5334,
+    "y": 0.3455,
+    "w": 0.0887,
+    "h": 0.0184
+   },
+   {
+    "t": "FreshDirect",
+    "x": 0.3576,
+    "y": 0.3461,
+    "w": 0.0509,
+    "h": 0.0153
+   },
+   {
+    "t": "variety",
+    "x": 0.4491,
+    "y": 0.3715,
+    "w": 0.032,
+    "h": 0.0153
+   },
+   {
+    "t": "sustainability",
+    "x": 0.532,
+    "y": 0.3715,
+    "w": 0.0581,
+    "h": 0.0178
+   },
+   {
+    "t": "\u2022 Clear delivery",
+    "x": 0.439,
+    "y": 0.3942,
+    "w": 0.0698,
+    "h": 0.0182
+   },
+   {
+    "t": "scheduling",
+    "x": 0.4491,
+    "y": 0.4173,
+    "w": 0.048,
+    "h": 0.0178
+   },
+   {
+    "t": "Whole Foods",
+    "x": 0.3575,
+    "y": 0.455,
+    "w": 0.0553,
+    "h": 0.0187
+   },
+   {
+    "t": "\u2022 Trusted brand",
+    "x": 0.4404,
+    "y": 0.455,
+    "w": 0.0698,
+    "h": 0.0183
+   },
+   {
+    "t": "\u2022 Weak differentiation",
+    "x": 0.5378,
+    "y": 0.4574,
+    "w": 0.0959,
+    "h": 0.0159
+   },
+   {
+    "t": "(via Amazon",
+    "x": 0.3576,
+    "y": 0.4805,
+    "w": 0.0538,
+    "h": 0.0158
+   },
+   {
+    "t": "\u2022 Effortlessly",
+    "x": 0.439,
+    "y": 0.4805,
+    "w": 0.0596,
+    "h": 0.0182
+   },
+   {
+    "t": "on sustainability",
+    "x": 0.548,
+    "y": 0.4805,
+    "w": 0.0698,
+    "h": 0.0182
+   },
+   {
+    "t": "integration with",
+    "x": 0.4491,
+    "y": 0.5036,
+    "w": 0.0683,
+    "h": 0.0182
+   },
+   {
+    "t": "\u2022 Generic branding",
+    "x": 0.5378,
+    "y": 0.5036,
+    "w": 0.0828,
+    "h": 0.0182
+   },
+   {
+    "t": "Fresh)",
+    "x": 0.3576,
+    "y": 0.5038,
+    "w": 0.0276,
+    "h": 0.0178
+   },
+   {
+    "t": "experience",
+    "x": 0.5479,
+    "y": 0.5291,
+    "w": 0.048,
+    "h": 0.0156
+   },
+   {
+    "t": "Amazon",
+    "x": 0.4491,
+    "y": 0.5292,
+    "w": 0.0378,
+    "h": 0.0155
+   },
+   {
+    "t": "\u2022 Fast delivery",
+    "x": 0.4404,
+    "y": 0.5522,
+    "w": 0.064,
+    "h": 0.0184
+   },
+   {
+    "t": "Pain Points",
+    "x": 0.1512,
+    "y": 0.626,
+    "w": 0.0756,
+    "h": 0.0254
+   },
+   {
+    "t": "Based on industry research and reviews from similar platforms, I identified several pain points:",
+    "x": 0.1526,
+    "y": 0.674,
+    "w": 0.4956,
+    "h": 0.0258
+   },
+   {
+    "t": "1. Difficulty finding affordable yet healthy food options",
+    "x": 0.1555,
+    "y": 0.6995,
+    "w": 0.2892,
+    "h": 0.0207
+   },
+   {
+    "t": "2. Limited information about where and how products are sourced",
+    "x": 0.1555,
+    "y": 0.7226,
+    "w": 0.3474,
+    "h": 0.0207
+   },
+   {
+    "t": "3. Overwhelming interfaces with too many categories and no guidance",
+    "x": 0.1555,
+    "y": 0.7455,
+    "w": 0.3721,
+    "h": 0.0209
+   },
+   {
+    "t": "4. Lack of clear communication on how the service works",
+    "x": 0.1555,
+    "y": 0.7684,
+    "w": 0.3023,
+    "h": 0.0204
+   },
+   {
+    "t": "5. Uncertainty about delivery areas and subscription commitment",
+    "x": 0.1555,
+    "y": 0.7908,
+    "w": 0.3459,
+    "h": 0.021
+   },
+   {
+    "t": "User & Audience",
+    "x": 0.1512,
+    "y": 0.8418,
+    "w": 0.1119,
+    "h": 0.0284
+   },
+   {
+    "t": "1. Users who are actively seeking ways to reduce food waste and support sustainability",
+    "x": 0.1555,
+    "y": 0.8929,
+    "w": 0.4608,
+    "h": 0.0231
+   },
+   {
+    "t": "2. People looking for affordable grocery alternatives without compromising on quality",
+    "x": 0.1555,
+    "y": 0.9185,
+    "w": 0.4477,
+    "h": 0.0207
+   },
+   {
+    "t": "3. Users who need a convenient, reliable grocery solution delivered to their door",
+    "x": 0.1555,
+    "y": 0.9388,
+    "w": 0.423,
+    "h": 0.0273
+   },
+   {
+    "t": "4. People new to online grocery shopping who need extra clarity and guidance",
+    "x": 0.1555,
+    "y": 0.9644,
+    "w": 0.4128,
+    "h": 0.0204
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "file": "b08.jpg",
+  "y0": 3721,
+  "y1": 4006,
+  "h": 285,
+  "color": 0.0,
+  "density": 0.221,
+  "lines": [
+   {
+    "t": "Ideation",
+    "x": 0.1512,
+    "y": 0.0219,
+    "w": 0.0785,
+    "h": 0.0949
+   },
+   {
+    "t": "At this stage, I translated insights from the discovery phase into a clear vision of how users would interact with the product. The",
+    "x": 0.1526,
+    "y": 0.2409,
+    "w": 0.6715,
+    "h": 0.0668
+   },
+   {
+    "t": "main goal was to map out a seamless and intuitive user journey that aligns with both user expectations and the brand's mission. By",
+    "x": 0.1526,
+    "y": 0.3139,
+    "w": 0.686,
+    "h": 0.0584
+   },
+   {
+    "t": "focusing on users who are looking for a grocery delivery service that reduces food waste, I developed a scenario based journey to",
+    "x": 0.1512,
+    "y": 0.3796,
+    "w": 0.6846,
+    "h": 0.0657
+   },
+   {
+    "t": "explore how they discover, evaluate, and decide to engage with Imperfect Foods.",
+    "x": 0.1526,
+    "y": 0.4441,
+    "w": 0.4288,
+    "h": 0.0669
+   },
+   {
+    "t": "User Journey",
+    "x": 0.1511,
+    "y": 0.5956,
+    "w": 0.0918,
+    "h": 0.0861
+   },
+   {
+    "t": "To better understand how users interact with the product from discovery to conversion, I created a scenario based user journey",
+    "x": 0.1526,
+    "y": 0.7587,
+    "w": 0.6715,
+    "h": 0.0594
+   },
+   {
+    "t": "map. The scenario focused on a user who is actively searching for a grocery delivery service that aligns with their values",
+    "x": 0.1526,
+    "y": 0.8248,
+    "w": 0.6337,
+    "h": 0.0598
+   },
+   {
+    "t": "specifically, one that is committed to reducing food waste by offering perfectly edible but imperfect looking products.",
+    "x": 0.1526,
+    "y": 0.8905,
+    "w": 0.6192,
+    "h": 0.0657
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "file": "b09.jpg",
+  "y0": 4028,
+  "y1": 4607,
+  "h": 579,
+  "color": 0.35,
+  "density": 0.347,
+  "lines": [
+   {
+    "t": "Scenario: Looking for a reliable law firm that can resolve cases intelligently.",
+    "x": 0.1875,
+    "y": 0.0217,
+    "w": 0.3968,
+    "h": 0.0325
+   },
+   {
+    "t": "Expectation: Problems are resolved quickly, accurately, and without hassle.",
+    "x": 0.1875,
+    "y": 0.0534,
+    "w": 0.3983,
+    "h": 0.0368
+   },
+   {
+    "t": "Consideration",
+    "x": 0.4506,
+    "y": 0.1372,
+    "w": 0.0683,
+    "h": 0.0253
+   },
+   {
+    "t": "Phase",
+    "x": 0.2616,
+    "y": 0.1403,
+    "w": 0.0306,
+    "h": 0.0227
+   },
+   {
+    "t": "Awareness",
+    "x": 0.3488,
+    "y": 0.1408,
+    "w": 0.0552,
+    "h": 0.0217
+   },
+   {
+    "t": "Evaluation",
+    "x": 0.5596,
+    "y": 0.1408,
+    "w": 0.0509,
+    "h": 0.0217
+   },
+   {
+    "t": "Conversion",
+    "x": 0.6468,
+    "y": 0.1408,
+    "w": 0.0552,
+    "h": 0.0217
+   },
+   {
+    "t": "Activity",
+    "x": 0.26,
+    "y": 0.2011,
+    "w": 0.0381,
+    "h": 0.0311
+   },
+   {
+    "t": "Searching on",
+    "x": 0.3474,
+    "y": 0.2017,
+    "w": 0.064,
+    "h": 0.0259
+   },
+   {
+    "t": "Browsing the",
+    "x": 0.4506,
+    "y": 0.2017,
+    "w": 0.0625,
+    "h": 0.0259
+   },
+   {
+    "t": "Reading about",
+    "x": 0.5596,
+    "y": 0.2017,
+    "w": 0.0683,
+    "h": 0.0259
+   },
+   {
+    "t": "Deciding to sign up",
+    "x": 0.6468,
+    "y": 0.2017,
+    "w": 0.0901,
+    "h": 0.0293
+   },
+   {
+    "t": "Google for",
+    "x": 0.3488,
+    "y": 0.2377,
+    "w": 0.051,
+    "h": 0.03
+   },
+   {
+    "t": "homepage of",
+    "x": 0.4506,
+    "y": 0.2379,
+    "w": 0.0626,
+    "h": 0.0297
+   },
+   {
+    "t": "how the service",
+    "x": 0.5581,
+    "y": 0.2379,
+    "w": 0.0756,
+    "h": 0.0259
+   },
+   {
+    "t": "for an account",
+    "x": 0.6453,
+    "y": 0.2379,
+    "w": 0.0698,
+    "h": 0.0259
+   },
+   {
+    "t": "sustainable grocery",
+    "x": 0.3488,
+    "y": 0.2776,
+    "w": 0.093,
+    "h": 0.0259
+   },
+   {
+    "t": "Imperfect Foods",
+    "x": 0.4491,
+    "y": 0.2776,
+    "w": 0.0785,
+    "h": 0.0259
+   },
+   {
+    "t": "works, checking",
+    "x": 0.5581,
+    "y": 0.2776,
+    "w": 0.077,
+    "h": 0.0259
+   },
+   {
+    "t": "prices and",
+    "x": 0.5596,
+    "y": 0.3138,
+    "w": 0.0494,
+    "h": 0.0259
+   },
+   {
+    "t": "options",
+    "x": 0.3488,
+    "y": 0.3141,
+    "w": 0.0363,
+    "h": 0.0253
+   },
+   {
+    "t": "products",
+    "x": 0.558,
+    "y": 0.3524,
+    "w": 0.0439,
+    "h": 0.0317
+   },
+   {
+    "t": "\"This looks",
+    "x": 0.5581,
+    "y": 0.4106,
+    "w": 0.0539,
+    "h": 0.0271
+   },
+   {
+    "t": "Thought",
+    "x": 0.2616,
+    "y": 0.4116,
+    "w": 0.0422,
+    "h": 0.0289
+   },
+   {
+    "t": "\"I hope I can find a",
+    "x": 0.3488,
+    "y": 0.4116,
+    "w": 0.0858,
+    "h": 0.0289
+   },
+   {
+    "t": "\"Are the products still",
+    "x": 0.4506,
+    "y": 0.4116,
+    "w": 0.0988,
+    "h": 0.0289
+   },
+   {
+    "t": "\"Let's try this, looks",
+    "x": 0.6453,
+    "y": 0.4116,
+    "w": 0.0916,
+    "h": 0.0289
+   },
+   {
+    "t": "service that",
+    "x": 0.3488,
+    "y": 0.451,
+    "w": 0.0567,
+    "h": 0.0257
+   },
+   {
+    "t": "fresh? Can I trust this",
+    "x": 0.4506,
+    "y": 0.4513,
+    "w": 0.0988,
+    "h": 0.0217
+   },
+   {
+    "t": "promising. Are",
+    "x": 0.5596,
+    "y": 0.4513,
+    "w": 0.0669,
+    "h": 0.0253
+   },
+   {
+    "t": "like a smart and",
+    "x": 0.6453,
+    "y": 0.4513,
+    "w": 0.0741,
+    "h": 0.0253
+   },
+   {
+    "t": "affordable choice.\"",
+    "x": 0.6468,
+    "y": 0.4838,
+    "w": 0.0872,
+    "h": 0.0289
+   },
+   {
+    "t": "brand?\"",
+    "x": 0.4506,
+    "y": 0.4871,
+    "w": 0.0378,
+    "h": 0.0258
+   },
+   {
+    "t": "the prices really",
+    "x": 0.5581,
+    "y": 0.4874,
+    "w": 0.0756,
+    "h": 0.0289
+   },
+   {
+    "t": "actually cares",
+    "x": 0.3488,
+    "y": 0.491,
+    "w": 0.0654,
+    "h": 0.0253
+   },
+   {
+    "t": "about food waste.\"",
+    "x": 0.3488,
+    "y": 0.5235,
+    "w": 0.0887,
+    "h": 0.0253
+   },
+   {
+    "t": "lower than usual",
+    "x": 0.5596,
+    "y": 0.5271,
+    "w": 0.077,
+    "h": 0.0217
+   },
+   {
+    "t": "stores?\"",
+    "x": 0.5581,
+    "y": 0.5632,
+    "w": 0.0407,
+    "h": 0.0217
+   },
+   {
+    "t": "Emotion",
+    "x": 0.2616,
+    "y": 0.624,
+    "w": 0.0394,
+    "h": 0.0264
+   },
+   {
+    "t": "Opportunity",
+    "x": 0.2599,
+    "y": 0.6831,
+    "w": 0.0586,
+    "h": 0.038
+   },
+   {
+    "t": "Emphasize",
+    "x": 0.5596,
+    "y": 0.6855,
+    "w": 0.051,
+    "h": 0.0297
+   },
+   {
+    "t": "Use clear SEO",
+    "x": 0.3488,
+    "y": 0.6859,
+    "w": 0.0669,
+    "h": 0.0253
+   },
+   {
+    "t": "Ensure sign up is",
+    "x": 0.6468,
+    "y": 0.6859,
+    "w": 0.0785,
+    "h": 0.0296
+   },
+   {
+    "t": "Add trust signals",
+    "x": 0.4506,
+    "y": 0.6895,
+    "w": 0.0785,
+    "h": 0.026
+   },
+   {
+    "t": "simple and",
+    "x": 0.6468,
+    "y": 0.7251,
+    "w": 0.051,
+    "h": 0.0264
+   },
+   {
+    "t": "keywords and",
+    "x": 0.3488,
+    "y": 0.7256,
+    "w": 0.0654,
+    "h": 0.0261
+   },
+   {
+    "t": "(e.g. testimonials,",
+    "x": 0.4491,
+    "y": 0.7256,
+    "w": 0.0828,
+    "h": 0.0261
+   },
+   {
+    "t": "savings, show",
+    "x": 0.5581,
+    "y": 0.7256,
+    "w": 0.0683,
+    "h": 0.0261
+   },
+   {
+    "t": "sourcing info,",
+    "x": 0.4505,
+    "y": 0.7609,
+    "w": 0.0655,
+    "h": 0.0306
+   },
+   {
+    "t": "messaging that",
+    "x": 0.3488,
+    "y": 0.7617,
+    "w": 0.0741,
+    "h": 0.0296
+   },
+   {
+    "t": "reassure with a",
+    "x": 0.6453,
+    "y": 0.7617,
+    "w": 0.0727,
+    "h": 0.0253
+   },
+   {
+    "t": "real product",
+    "x": 0.5581,
+    "y": 0.7653,
+    "w": 0.0581,
+    "h": 0.0217
+   },
+   {
+    "t": "\"get started for",
+    "x": 0.6453,
+    "y": 0.7936,
+    "w": 0.0728,
+    "h": 0.0337
+   },
+   {
+    "t": "highlight",
+    "x": 0.3443,
+    "y": 0.7966,
+    "w": 0.0468,
+    "h": 0.0349
+   },
+   {
+    "t": "product images)",
+    "x": 0.4506,
+    "y": 0.8014,
+    "w": 0.077,
+    "h": 0.0253
+   },
+   {
+    "t": "examples and",
+    "x": 0.5596,
+    "y": 0.8014,
+    "w": 0.064,
+    "h": 0.0253
+   },
+   {
+    "t": "free\" option",
+    "x": 0.6467,
+    "y": 0.8332,
+    "w": 0.0554,
+    "h": 0.0303
+   },
+   {
+    "t": "sustainability",
+    "x": 0.3459,
+    "y": 0.8375,
+    "w": 0.0654,
+    "h": 0.0253
+   },
+   {
+    "t": "value benefits",
+    "x": 0.5581,
+    "y": 0.8375,
+    "w": 0.0669,
+    "h": 0.0217
+   },
+   {
+    "t": "upfront",
+    "x": 0.3473,
+    "y": 0.8731,
+    "w": 0.0379,
+    "h": 0.03
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "file": "b10.jpg",
+  "y0": 4650,
+  "y1": 4934,
+  "h": 284,
+  "color": 0.0,
+  "density": 0.251,
+  "lines": [
+   {
+    "t": "Design Process",
+    "x": 0.1526,
+    "y": 0.0441,
+    "w": 0.1439,
+    "h": 0.1108
+   },
+   {
+    "t": "In this phase, I developed a design system to ensure visual consistency and scalability across the entire interface. The system",
+    "x": 0.1526,
+    "y": 0.1831,
+    "w": 0.6628,
+    "h": 0.0669
+   },
+   {
+    "t": "defines core elements such as color and typography, which reflect the brand's identity and enhance user experience. The color",
+    "x": 0.1526,
+    "y": 0.25,
+    "w": 0.6686,
+    "h": 0.0599
+   },
+   {
+    "t": "palette combines natural tones with fresh, vibrant accents to communicate sustainability while maintaining an engaging and modern",
+    "x": 0.1526,
+    "y": 0.3088,
+    "w": 0.6933,
+    "h": 0.0662
+   },
+   {
+    "t": "feel. Typography was selected for high readability across screen sizes, balancing friendliness and professionalism to suit both",
+    "x": 0.1512,
+    "y": 0.3824,
+    "w": 0.6613,
+    "h": 0.0662
+   },
+   {
+    "t": "informative content and promotional messaging.",
+    "x": 0.1526,
+    "y": 0.4472,
+    "w": 0.2558,
+    "h": 0.0602
+   },
+   {
+    "t": "Beyond color and text styles, the design system also includes responsive components adapted for both mobile and desktop views.",
+    "x": 0.1526,
+    "y": 0.5809,
+    "w": 0.6875,
+    "h": 0.067
+   },
+   {
+    "t": "Buttons, navigation, cards, and layout grids were designed with flexibility in mind to maintain usability and clarity across devices.",
+    "x": 0.1526,
+    "y": 0.6471,
+    "w": 0.6759,
+    "h": 0.0677
+   },
+   {
+    "t": "This system acted as a foundation that streamlined the Ul design process and allowed for efficient future scaling.",
+    "x": 0.1526,
+    "y": 0.7132,
+    "w": 0.5959,
+    "h": 0.0662
+   },
+   {
+    "t": "Design System",
+    "x": 0.1525,
+    "y": 0.8801,
+    "w": 0.1193,
+    "h": 0.1
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "file": "b11.jpg",
+  "y0": 4967,
+  "y1": 5194,
+  "h": 227,
+  "color": 4.86,
+  "density": 0.04,
+  "lines": [
+   {
+    "t": "Color",
+    "x": 0.1788,
+    "y": 0.0275,
+    "w": 0.0596,
+    "h": 0.1284
+   },
+   {
+    "t": "Primary Color",
+    "x": 0.1773,
+    "y": 0.367,
+    "w": 0.0916,
+    "h": 0.0936
+   },
+   {
+    "t": "Treasured",
+    "x": 0.1773,
+    "y": 0.8343,
+    "w": 0.0393,
+    "h": 0.0562
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "file": "b12.jpg",
+  "y0": 5238,
+  "y1": 5431,
+  "h": 193,
+  "color": 15.62,
+  "density": 0.307,
+  "lines": [
+   {
+    "t": "Secondary colors",
+    "x": 0.1773,
+    "y": 0.0515,
+    "w": 0.1163,
+    "h": 0.1205
+   },
+   {
+    "t": "Bowser Shell",
+    "x": 0.1773,
+    "y": 0.2473,
+    "w": 0.0814,
+    "h": 0.098
+   },
+   {
+    "t": "Bowser Shell 700",
+    "x": 0.1773,
+    "y": 0.8041,
+    "w": 0.064,
+    "h": 0.0567
+   },
+   {
+    "t": "Bowser Shell 600",
+    "x": 0.2573,
+    "y": 0.8041,
+    "w": 0.064,
+    "h": 0.0567
+   },
+   {
+    "t": "Bot",
+    "x": 0.3387,
+    "y": 0.8065,
+    "w": 0.0116,
+    "h": 0.0538
+   },
+   {
+    "t": "#708D42",
+    "x": 0.2573,
+    "y": 0.871,
+    "w": 0.032,
+    "h": 0.0645
+   },
+   {
+    "t": "#547420",
+    "x": 0.1773,
+    "y": 0.8817,
+    "w": 0.0305,
+    "h": 0.0538
+   },
+   {
+    "t": "#80",
+    "x": 0.3387,
+    "y": 0.8817,
+    "w": 0.0116,
+    "h": 0.0538
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "file": "b13.jpg",
+  "y0": 5461,
+  "y1": 5619,
+  "h": 158,
+  "color": 20.19,
+  "density": 0.325,
+  "lines": [
+   {
+    "t": "Wildflower",
+    "x": 0.1773,
+    "y": 0.0763,
+    "w": 0.0684,
+    "h": 0.1236
+   },
+   {
+    "t": "Wildflower 700",
+    "x": 0.1773,
+    "y": 0.75,
+    "w": 0.0552,
+    "h": 0.0791
+   },
+   {
+    "t": "Wildflower 500",
+    "x": 0.3387,
+    "y": 0.75,
+    "w": 0.0552,
+    "h": 0.0791
+   },
+   {
+    "t": "Wildflower 400",
+    "x": 0.4186,
+    "y": 0.75,
+    "w": 0.0552,
+    "h": 0.0791
+   },
+   {
+    "t": "Wildflower 300",
+    "x": 0.4985,
+    "y": 0.75,
+    "w": 0.0552,
+    "h": 0.0791
+   },
+   {
+    "t": "Wildflower 200",
+    "x": 0.5785,
+    "y": 0.75,
+    "w": 0.0567,
+    "h": 0.0791
+   },
+   {
+    "t": "Wildflower 100",
+    "x": 0.6599,
+    "y": 0.75,
+    "w": 0.0538,
+    "h": 0.0791
+   },
+   {
+    "t": "Wildflower 50",
+    "x": 0.7398,
+    "y": 0.75,
+    "w": 0.0509,
+    "h": 0.0791
+   },
+   {
+    "t": "Wildflower 600",
+    "x": 0.2573,
+    "y": 0.7632,
+    "w": 0.0567,
+    "h": 0.066
+   },
+   {
+    "t": "#C96763",
+    "x": 0.3387,
+    "y": 0.8421,
+    "w": 0.0305,
+    "h": 0.0789
+   },
+   {
+    "t": "#AC3C38",
+    "x": 0.1773,
+    "y": 0.8553,
+    "w": 0.0334,
+    "h": 0.0658
+   },
+   {
+    "t": "#D87C79",
+    "x": 0.4186,
+    "y": 0.8553,
+    "w": 0.0305,
+    "h": 0.0658
+   },
+   {
+    "t": "#E6918E",
+    "x": 0.4985,
+    "y": 0.8553,
+    "w": 0.0291,
+    "h": 0.0658
+   },
+   {
+    "t": "#FOBOBB",
+    "x": 0.6599,
+    "y": 0.8553,
+    "w": 0.0305,
+    "h": 0.0658
+   },
+   {
+    "t": "#FSD302",
+    "x": 0.7398,
+    "y": 0.8553,
+    "w": 0.032,
+    "h": 0.0658
+   },
+   {
+    "t": "4ERA705",
+    "x": 0.5785,
+    "y": 0.8684,
+    "w": 0.0291,
+    "h": 0.0395
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "file": "b14.jpg",
+  "y0": 5653,
+  "y1": 5807,
+  "h": 154,
+  "color": 10.52,
+  "density": 0.348,
+  "lines": [
+   {
+    "t": "Epiphany",
+    "x": 0.1773,
+    "y": 0.0676,
+    "w": 0.0581,
+    "h": 0.1351
+   },
+   {
+    "t": "Epiphany 50",
+    "x": 0.7398,
+    "y": 0.7553,
+    "w": 0.0451,
+    "h": 0.0839
+   },
+   {
+    "t": "Epiphany 100",
+    "x": 0.6599,
+    "y": 0.756,
+    "w": 0.048,
+    "h": 0.0961
+   },
+   {
+    "t": "Epiphany 700",
+    "x": 0.1773,
+    "y": 0.7568,
+    "w": 0.0509,
+    "h": 0.0811
+   },
+   {
+    "t": "Epiphany 600",
+    "x": 0.2573,
+    "y": 0.7568,
+    "w": 0.0509,
+    "h": 0.0811
+   },
+   {
+    "t": "Epiphany 500",
+    "x": 0.3387,
+    "y": 0.7568,
+    "w": 0.0494,
+    "h": 0.0811
+   },
+   {
+    "t": "Epiphany 400",
+    "x": 0.4186,
+    "y": 0.7568,
+    "w": 0.0509,
+    "h": 0.0811
+   },
+   {
+    "t": "Epiphany 300",
+    "x": 0.4985,
+    "y": 0.7568,
+    "w": 0.0509,
+    "h": 0.0811
+   },
+   {
+    "t": "Epiphany 200",
+    "x": 0.5785,
+    "y": 0.7568,
+    "w": 0.0509,
+    "h": 0.0811
+   },
+   {
+    "t": "#AE9A85",
+    "x": 0.5785,
+    "y": 0.8504,
+    "w": 0.032,
+    "h": 0.0695
+   },
+   {
+    "t": "#5B4B61",
+    "x": 0.2572,
+    "y": 0.8506,
+    "w": 0.0306,
+    "h": 0.0691
+   },
+   {
+    "t": "#45384A",
+    "x": 0.1773,
+    "y": 0.8514,
+    "w": 0.032,
+    "h": 0.0676
+   },
+   {
+    "t": "#705D77",
+    "x": 0.3387,
+    "y": 0.8514,
+    "w": 0.0291,
+    "h": 0.0676
+   },
+   {
+    "t": "#86708E",
+    "x": 0.4186,
+    "y": 0.8514,
+    "w": 0.0305,
+    "h": 0.0676
+   },
+   {
+    "t": "#9B82A4",
+    "x": 0.4985,
+    "y": 0.8514,
+    "w": 0.032,
+    "h": 0.0676
+   },
+   {
+    "t": "#C181C6",
+    "x": 0.6599,
+    "y": 0.8514,
+    "w": 0.0291,
+    "h": 0.0676
+   },
+   {
+    "t": "#D3C9D8",
+    "x": 0.7398,
+    "y": 0.8514,
+    "w": 0.032,
+    "h": 0.0676
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "file": "b15.jpg",
+  "y0": 5841,
+  "y1": 5996,
+  "h": 155,
+  "color": 0.28,
+  "density": 0.334,
+  "lines": [
+   {
+    "t": "Neutral colors",
+    "x": 0.1773,
+    "y": 0.0641,
+    "w": 0.0945,
+    "h": 0.1226
+   },
+   {
+    "t": "Neutral 300",
+    "x": 0.4985,
+    "y": 0.7436,
+    "w": 0.0451,
+    "h": 0.0833
+   },
+   {
+    "t": "Neutral 600",
+    "x": 0.2587,
+    "y": 0.7454,
+    "w": 0.0437,
+    "h": 0.0825
+   },
+   {
+    "t": "Neutral 700",
+    "x": 0.1773,
+    "y": 0.76,
+    "w": 0.0436,
+    "h": 0.0669
+   },
+   {
+    "t": "Neutral 500",
+    "x": 0.3387,
+    "y": 0.76,
+    "w": 0.0436,
+    "h": 0.08
+   },
+   {
+    "t": "Neutral 400",
+    "x": 0.4186,
+    "y": 0.76,
+    "w": 0.0436,
+    "h": 0.0669
+   },
+   {
+    "t": "Neutral 200",
+    "x": 0.5785,
+    "y": 0.76,
+    "w": 0.0451,
+    "h": 0.0669
+   },
+   {
+    "t": "Neutral 100",
+    "x": 0.6599,
+    "y": 0.76,
+    "w": 0.0422,
+    "h": 0.0669
+   },
+   {
+    "t": "Neutral 50",
+    "x": 0.7398,
+    "y": 0.76,
+    "w": 0.0392,
+    "h": 0.0669
+   },
+   {
+    "t": "#333333",
+    "x": 0.3387,
+    "y": 0.84,
+    "w": 0.0305,
+    "h": 0.08
+   },
+   {
+    "t": "#181818",
+    "x": 0.1773,
+    "y": 0.8522,
+    "w": 0.0277,
+    "h": 0.069
+   },
+   {
+    "t": "#303133",
+    "x": 0.2573,
+    "y": 0.8533,
+    "w": 0.0305,
+    "h": 0.0667
+   },
+   {
+    "t": "#606266",
+    "x": 0.4172,
+    "y": 0.8533,
+    "w": 0.032,
+    "h": 0.0667
+   },
+   {
+    "t": "#B3B3B3",
+    "x": 0.4985,
+    "y": 0.8533,
+    "w": 0.032,
+    "h": 0.0667
+   },
+   {
+    "t": "#CCCCCC",
+    "x": 0.5785,
+    "y": 0.8533,
+    "w": 0.0349,
+    "h": 0.0667
+   },
+   {
+    "t": "#E6E6E6",
+    "x": 0.6584,
+    "y": 0.8533,
+    "w": 0.0305,
+    "h": 0.0667
+   },
+   {
+    "t": "aFFFFFF",
+    "x": 0.7398,
+    "y": 0.8533,
+    "w": 0.0291,
+    "h": 0.0667
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "file": "b16.jpg",
+  "y0": 6093,
+  "y1": 6631,
+  "h": 538,
+  "color": 0.0,
+  "density": 0.047,
+  "lines": [
+   {
+    "t": "Typography",
+    "x": 0.1802,
+    "y": 0.011,
+    "w": 0.1048,
+    "h": 0.0597
+   },
+   {
+    "t": "Roboto",
+    "x": 0.1801,
+    "y": 0.1928,
+    "w": 0.0628,
+    "h": 0.0462
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPORSTUVWXYZ",
+    "x": 0.1802,
+    "y": 0.2607,
+    "w": 0.1628,
+    "h": 0.0272
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.1802,
+    "y": 0.3074,
+    "w": 0.1439,
+    "h": 0.0311
+   },
+   {
+    "t": "1234567890",
+    "x": 0.1802,
+    "y": 0.3541,
+    "w": 0.0567,
+    "h": 0.0233
+   },
+   {
+    "t": "36/Bold",
+    "x": 0.5231,
+    "y": 0.4345,
+    "w": 0.1035,
+    "h": 0.0805
+   },
+   {
+    "t": "Heading 1",
+    "x": 0.1802,
+    "y": 0.4436,
+    "w": 0.125,
+    "h": 0.0787
+   },
+   {
+    "t": "24/ Semi Bold",
+    "x": 0.5246,
+    "y": 0.5663,
+    "w": 0.1194,
+    "h": 0.0581
+   },
+   {
+    "t": "Heading 2",
+    "x": 0.1787,
+    "y": 0.5747,
+    "w": 0.0888,
+    "h": 0.053
+   },
+   {
+    "t": "20/Semi Bold",
+    "x": 0.5247,
+    "y": 0.6959,
+    "w": 0.096,
+    "h": 0.0479
+   },
+   {
+    "t": "Heading 3",
+    "x": 0.1788,
+    "y": 0.7043,
+    "w": 0.0741,
+    "h": 0.0429
+   },
+   {
+    "t": "16/Bold",
+    "x": 0.5233,
+    "y": 0.8249,
+    "w": 0.0451,
+    "h": 0.0389
+   },
+   {
+    "t": "Body 1",
+    "x": 0.1802,
+    "y": 0.8288,
+    "w": 0.0378,
+    "h": 0.0392
+   },
+   {
+    "t": "16/Regular",
+    "x": 0.5228,
+    "y": 0.9467,
+    "w": 0.0647,
+    "h": 0.0452
+   },
+   {
+    "t": "Body 2",
+    "x": 0.1787,
+    "y": 0.953,
+    "w": 0.0393,
+    "h": 0.0357
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "file": "b17.jpg",
+  "y0": 6735,
+  "y1": 7133,
+  "h": 398,
+  "color": 4.23,
+  "density": 0.04,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.2805,
+    "y": 0.0311,
+    "w": 0.0713,
+    "h": 0.0693
+   },
+   {
+    "t": "< Label",
+    "x": 0.4215,
+    "y": 0.299,
+    "w": 0.0423,
+    "h": 0.0337
+   },
+   {
+    "t": "Label",
+    "x": 0.5334,
+    "y": 0.3,
+    "w": 0.0305,
+    "h": 0.0421
+   },
+   {
+    "t": "< Label >",
+    "x": 0.5232,
+    "y": 0.4463,
+    "w": 0.0553,
+    "h": 0.039
+   },
+   {
+    "t": "< Label >",
+    "x": 0.4244,
+    "y": 0.4472,
+    "w": 0.0538,
+    "h": 0.0377
+   },
+   {
+    "t": "< Label >",
+    "x": 0.4229,
+    "y": 0.5943,
+    "w": 0.0553,
+    "h": 0.0429
+   },
+   {
+    "t": "< Label >",
+    "x": 0.5233,
+    "y": 0.6,
+    "w": 0.0552,
+    "h": 0.0368
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "file": "b18.jpg",
+  "y0": 7269,
+  "y1": 7775,
+  "h": 506,
+  "color": 3.6,
+  "density": 0.37,
+  "lines": [
+   {
+    "t": "Grid System",
+    "x": 0.1816,
+    "y": 0.0242,
+    "w": 0.0757,
+    "h": 0.0425
+   },
+   {
+    "t": "Desktop (1440px)",
+    "x": 0.1817,
+    "y": 0.1107,
+    "w": 0.1119,
+    "h": 0.0422
+   },
+   {
+    "t": "104px",
+    "x": 0.1817,
+    "y": 0.2231,
+    "w": 0.0276,
+    "h": 0.0248
+   },
+   {
+    "t": "76px",
+    "x": 0.3692,
+    "y": 0.2231,
+    "w": 0.0218,
+    "h": 0.0248
+   },
+   {
+    "t": "28px",
+    "x": 0.439,
+    "y": 0.2231,
+    "w": 0.0247,
+    "h": 0.0289
+   },
+   {
+    "t": "1230px",
+    "x": 0.4855,
+    "y": 0.876,
+    "w": 0.0305,
+    "h": 0.0248
+   },
+   {
+    "t": "1440px",
+    "x": 0.484,
+    "y": 0.9587,
+    "w": 0.032,
+    "h": 0.0248
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "file": "b19.jpg",
+  "y0": 7871,
+  "y1": 8018,
+  "h": 147,
+  "color": 0.0,
+  "density": 0.213,
+  "lines": [
+   {
+    "t": "Final Design",
+    "x": 0.1523,
+    "y": 0.0841,
+    "w": 0.098,
+    "h": 0.1768
+   },
+   {
+    "t": "This design consists of four pages: Homepage, Tools, Blog, and Frequently Asked Questions. To provide",
+    "x": 0.1526,
+    "y": 0.4648,
+    "w": 0.689,
+    "h": 0.1703
+   },
+   {
+    "t": "a comprehensive understanding, the Homepage will be described section by section, while the other",
+    "x": 0.1512,
+    "y": 0.6338,
+    "w": 0.6701,
+    "h": 0.1703
+   },
+   {
+    "t": "three pages will be presented in a more concise format.\"",
+    "x": 0.1512,
+    "y": 0.7887,
+    "w": 0.3765,
+    "h": 0.1572
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "file": "b20.jpg",
+  "y0": 8056,
+  "y1": 8156,
+  "h": 100,
+  "color": 0.0,
+  "density": 0.045,
+  "lines": [
+   {
+    "t": "Homepage",
+    "x": 0.1523,
+    "y": 0.1222,
+    "w": 0.0877,
+    "h": 0.2294
+   },
+   {
+    "t": "Hero Section",
+    "x": 0.1526,
+    "y": 0.6667,
+    "w": 0.1032,
+    "h": 0.2333
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "file": "b21.jpg",
+  "y0": 8187,
+  "y1": 8846,
+  "h": 659,
+  "color": 17.29,
+  "density": 0.503,
+  "lines": [
+   {
+    "t": "Food Waste",
+    "x": 0.6701,
+    "y": 0.05,
+    "w": 0.0378,
+    "h": 0.0167
+   },
+   {
+    "t": "Get started for free",
+    "x": 0.728,
+    "y": 0.0503,
+    "w": 0.0585,
+    "h": 0.0198
+   },
+   {
+    "t": "IMPERFECT",
+    "x": 0.202,
+    "y": 0.0506,
+    "w": 0.0436,
+    "h": 0.0253
+   },
+   {
+    "t": "How it Works",
+    "x": 0.6148,
+    "y": 0.0538,
+    "w": 0.0436,
+    "h": 0.0159
+   },
+   {
+    "t": "145,823,731 Ibs",
+    "x": 0.2166,
+    "y": 0.1361,
+    "w": 0.0625,
+    "h": 0.019
+   },
+   {
+    "t": "total food were saled",
+    "x": 0.2166,
+    "y": 0.1614,
+    "w": 0.0567,
+    "h": 0.0159
+   },
+   {
+    "t": "For:",
+    "x": 0.5451,
+    "y": 0.2057,
+    "w": 0.0218,
+    "h": 0.0285
+   },
+   {
+    "t": "Thoughtful Eaters",
+    "x": 0.524,
+    "y": 0.2166,
+    "w": 0.0987,
+    "h": 0.0839
+   },
+   {
+    "t": "No. commitment, No fues.",
+    "x": 0.266,
+    "y": 0.25,
+    "w": 0.0741,
+    "h": 0.0197
+   },
+   {
+    "t": "Groceries that",
+    "x": 0.2674,
+    "y": 0.2816,
+    "w": 0.1788,
+    "h": 0.0506
+   },
+   {
+    "t": "help you fight",
+    "x": 0.2625,
+    "y": 0.3455,
+    "w": 0.175,
+    "h": 0.0636
+   },
+   {
+    "t": "food waste",
+    "x": 0.2659,
+    "y": 0.4077,
+    "w": 0.1411,
+    "h": 0.0517
+   },
+   {
+    "t": "IMPERFECT",
+    "x": 0.6039,
+    "y": 0.4798,
+    "w": 0.0741,
+    "h": 0.0395
+   },
+   {
+    "t": "Sustainably sourced, affordable, and conveniently delivered to",
+    "x": 0.266,
+    "y": 0.4803,
+    "w": 0.2238,
+    "h": 0.0197
+   },
+   {
+    "t": "your door.",
+    "x": 0.2659,
+    "y": 0.509,
+    "w": 0.0379,
+    "h": 0.02
+   },
+   {
+    "t": "FOODS",
+    "x": 0.6206,
+    "y": 0.5095,
+    "w": 0.0378,
+    "h": 0.0222
+   },
+   {
+    "t": "Get started for free",
+    "x": 0.2834,
+    "y": 0.5538,
+    "w": 0.0669,
+    "h": 0.0159
+   },
+   {
+    "t": "This section delivers the core message powerfully and with visual appeal. On the left side, there is a bold typographic headline that",
+    "x": 0.1526,
+    "y": 0.6994,
+    "w": 0.6904,
+    "h": 0.0253
+   },
+   {
+    "t": "reads: \"Groceries that help you fight food waste.\" This statement reinforces their mission to provide sustainable and affordable",
+    "x": 0.1512,
+    "y": 0.7212,
+    "w": 0.6657,
+    "h": 0.032
+   },
+   {
+    "t": "groceries without commitments or extra costs. Above it, a green badge highlights the company's achievement of saving over 145",
+    "x": 0.1526,
+    "y": 0.75,
+    "w": 0.6759,
+    "h": 0.0318
+   },
+   {
+    "t": "million pounds of food. A striking magenta CTA button labeled \"Get started for free\" emphasizes how easy it is to begin using the",
+    "x": 0.1526,
+    "y": 0.7816,
+    "w": 0.6759,
+    "h": 0.032
+   },
+   {
+    "t": "service.",
+    "x": 0.1526,
+    "y": 0.8161,
+    "w": 0.0437,
+    "h": 0.0228
+   },
+   {
+    "t": "Meanwhile, on the right side, there's an illustration of a box filled with various Imperfect Foods products, attractively arranged",
+    "x": 0.1526,
+    "y": 0.8697,
+    "w": 0.6584,
+    "h": 0.029
+   },
+   {
+    "t": "against a bright yellow background. Handwritten text that says \"For: Thoughtful Eaters\" and a \"Low Emission Delivery\" stamp further",
+    "x": 0.1526,
+    "y": 0.8955,
+    "w": 0.6962,
+    "h": 0.0318
+   },
+   {
+    "t": "reinforce the values of sustainability and customer care. All visual and textual elements work together to present the brand as an",
+    "x": 0.1512,
+    "y": 0.9272,
+    "w": 0.6773,
+    "h": 0.0288
+   },
+   {
+    "t": "eco friendly, convenient solution that is mindful of food waste issues.",
+    "x": 0.1526,
+    "y": 0.9557,
+    "w": 0.3648,
+    "h": 0.0292
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "file": "b22.jpg",
+  "y0": 8956,
+  "y1": 9648,
+  "h": 692,
+  "color": 32.84,
+  "density": 0.524,
+  "lines": [
+   {
+    "t": "See what we offer",
+    "x": 0.3096,
+    "y": 0.0809,
+    "w": 0.0814,
+    "h": 0.0278
+   },
+   {
+    "t": "Pantry",
+    "x": 0.314,
+    "y": 0.1662,
+    "w": 0.0567,
+    "h": 0.0363
+   },
+   {
+    "t": "POPECT",
+    "x": 0.593,
+    "y": 0.1662,
+    "w": 0.0189,
+    "h": 0.0151
+   },
+   {
+    "t": "Produce",
+    "x": 0.3125,
+    "y": 0.2202,
+    "w": 0.0698,
+    "h": 0.0339
+   },
+   {
+    "t": "Snacks",
+    "x": 0.3124,
+    "y": 0.274,
+    "w": 0.0613,
+    "h": 0.0351
+   },
+   {
+    "t": "Plant-based",
+    "x": 0.314,
+    "y": 0.3323,
+    "w": 0.1017,
+    "h": 0.0332
+   },
+   {
+    "t": "Dairy",
+    "x": 0.314,
+    "y": 0.3867,
+    "w": 0.0451,
+    "h": 0.0393
+   },
+   {
+    "t": "\u2022 Meat & Fish",
+    "x": 0.3037,
+    "y": 0.4374,
+    "w": 0.1077,
+    "h": 0.0406
+   },
+   {
+    "t": "Responsibly sourced proteins",
+    "x": 0.3125,
+    "y": 0.4894,
+    "w": 0.109,
+    "h": 0.0181
+   },
+   {
+    "t": "from producers we trust.",
+    "x": 0.3125,
+    "y": 0.513,
+    "w": 0.0916,
+    "h": 0.0188
+   },
+   {
+    "t": "and more",
+    "x": 0.3125,
+    "y": 0.5462,
+    "w": 0.0799,
+    "h": 0.0338
+   },
+   {
+    "t": "See our food",
+    "x": 0.3212,
+    "y": 0.6127,
+    "w": 0.0392,
+    "h": 0.0188
+   },
+   {
+    "t": "In this section, Imperfect Foods showcases the wide range of products available with appetizing visuals. On the left side, there's a",
+    "x": 0.1526,
+    "y": 0.7399,
+    "w": 0.6817,
+    "h": 0.0275
+   },
+   {
+    "t": "list of product categories such as pantry, produce, snacks, plant based, dairy, meat & fish, and more. The \"Meat & Fish\" category is",
+    "x": 0.1512,
+    "y": 0.7673,
+    "w": 0.689,
+    "h": 0.0275
+   },
+   {
+    "t": "specifically highlighted, accompanied by a note that these protein products are responsibly sourced from trusted producers.",
+    "x": 0.1526,
+    "y": 0.7946,
+    "w": 0.6526,
+    "h": 0.0277
+   },
+   {
+    "t": "On the right side, a selection of packaged food items such as sausages, shrimp, salmon, ground beef, and boneless chicken breast",
+    "x": 0.1526,
+    "y": 0.8483,
+    "w": 0.6875,
+    "h": 0.0279
+   },
+   {
+    "t": "is neatly arranged on a vibrant pink background. Fresh ingredients like lemon, garlic, rosemary, and herbs are also included,",
+    "x": 0.1512,
+    "y": 0.8786,
+    "w": 0.6512,
+    "h": 0.0247
+   },
+   {
+    "t": "enhancing the impression of freshness and high quality. A magenta CTA button labeled \"See our food\" invites users to explore more",
+    "x": 0.1526,
+    "y": 0.9032,
+    "w": 0.6904,
+    "h": 0.0275
+   },
+   {
+    "t": "products. All visual and textual elements in this section emphasize the variety of choices and Imperfect Foods' commitment to",
+    "x": 0.1526,
+    "y": 0.9335,
+    "w": 0.6613,
+    "h": 0.0246
+   },
+   {
+    "t": "quality and environmental responsibility.",
+    "x": 0.1526,
+    "y": 0.9607,
+    "w": 0.2122,
+    "h": 0.0248
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "file": "b23.jpg",
+  "y0": 9758,
+  "y1": 10389,
+  "h": 631,
+  "color": 11.82,
+  "density": 0.551,
+  "lines": [
+   {
+    "t": "Affordable groceries",
+    "x": 0.2369,
+    "y": 0.1946,
+    "w": 0.1715,
+    "h": 0.0411
+   },
+   {
+    "t": "delivered weekly to",
+    "x": 0.2333,
+    "y": 0.2358,
+    "w": 0.1708,
+    "h": 0.0475
+   },
+   {
+    "t": "your door",
+    "x": 0.2366,
+    "y": 0.2875,
+    "w": 0.0819,
+    "h": 0.0413
+   },
+   {
+    "t": "Begin with your favorites already in your cart. Add",
+    "x": 0.2384,
+    "y": 0.3444,
+    "w": 0.1802,
+    "h": 0.0232
+   },
+   {
+    "t": "things in, take things out, order exactly what you",
+    "x": 0.2369,
+    "y": 0.3703,
+    "w": 0.1788,
+    "h": 0.0206
+   },
+   {
+    "t": "want. Get it all delivered straight to your door once",
+    "x": 0.2369,
+    "y": 0.3972,
+    "w": 0.186,
+    "h": 0.0237
+   },
+   {
+    "t": "a week.",
+    "x": 0.2369,
+    "y": 0.4267,
+    "w": 0.0292,
+    "h": 0.0175
+   },
+   {
+    "t": "IMPERFECT",
+    "x": 0.5799,
+    "y": 0.4664,
+    "w": 0.1135,
+    "h": 0.0837
+   },
+   {
+    "t": "Get started for free",
+    "x": 0.2544,
+    "y": 0.4731,
+    "w": 0.0669,
+    "h": 0.0174
+   },
+   {
+    "t": "FOODS",
+    "x": 0.6075,
+    "y": 0.5362,
+    "w": 0.0567,
+    "h": 0.0336
+   },
+   {
+    "t": "This section highlights the core service offered by Imperfect Foods like a convenient, affordable grocery delivery straight to your",
+    "x": 0.1526,
+    "y": 0.8046,
+    "w": 0.6773,
+    "h": 0.0298
+   },
+   {
+    "t": "door. The illustration of a grocery box overflowing with fresh produce visually reinforces the message of abundance and",
+    "x": 0.1526,
+    "y": 0.8339,
+    "w": 0.6294,
+    "h": 0.0304
+   },
+   {
+    "t": "accessibility. The text explains that users can build their cart with their favorite items, choosing exactly what they want and receive",
+    "x": 0.1526,
+    "y": 0.8639,
+    "w": 0.689,
+    "h": 0.0301
+   },
+   {
+    "t": "their order weekly without needing to leave home. It appeals to busy individuals and families looking for sustainable grocery options",
+    "x": 0.1526,
+    "y": 0.8972,
+    "w": 0.6919,
+    "h": 0.0269
+   },
+   {
+    "t": "without the hassle of store visits. The bright \"Get started for free\" button adds a strong call to action, encouraging users to join",
+    "x": 0.1526,
+    "y": 0.9202,
+    "w": 0.6672,
+    "h": 0.0382
+   },
+   {
+    "t": "without worrying about fees or commitments.",
+    "x": 0.1526,
+    "y": 0.957,
+    "w": 0.2413,
+    "h": 0.0272
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "file": "b24.jpg",
+  "y0": 10499,
+  "y1": 11071,
+  "h": 572,
+  "color": 6.69,
+  "density": 0.548,
+  "lines": [
+   {
+    "t": "Grocery delivery,",
+    "x": 0.2369,
+    "y": 0.2115,
+    "w": 0.1439,
+    "h": 0.0476
+   },
+   {
+    "t": "done the right way",
+    "x": 0.2369,
+    "y": 0.2622,
+    "w": 0.1555,
+    "h": 0.0443
+   },
+   {
+    "t": "Imperfect delivers groceries to your entire",
+    "x": 0.2369,
+    "y": 0.3248,
+    "w": 0.1541,
+    "h": 0.0219
+   },
+   {
+    "t": "neighborhood in one trip, with one van\u2014-helping",
+    "x": 0.2369,
+    "y": 0.3531,
+    "w": 0.1788,
+    "h": 0.0228
+   },
+   {
+    "t": "avoid harmful COz emissions and extra trips to the",
+    "x": 0.2384,
+    "y": 0.3829,
+    "w": 0.1831,
+    "h": 0.0227
+   },
+   {
+    "t": "grocery store.",
+    "x": 0.2384,
+    "y": 0.4124,
+    "w": 0.0509,
+    "h": 0.0219
+   },
+   {
+    "t": "Get started",
+    "x": 0.3124,
+    "y": 0.4626,
+    "w": 0.0379,
+    "h": 0.0237
+   },
+   {
+    "t": "Enter a ZiP",
+    "x": 0.2471,
+    "y": 0.4668,
+    "w": 0.0334,
+    "h": 0.0192
+   },
+   {
+    "t": "This section introduces Imperfect Foods' commitment to eco conscious delivery practices. A playful yet informative road illustration",
+    "x": 0.1526,
+    "y": 0.8139,
+    "w": 0.689,
+    "h": 0.0292
+   },
+   {
+    "t": "shows a journey through a neighborhood, symbolizing how groceries are delivered efficiently and responsibly. The copy emphasizes",
+    "x": 0.1497,
+    "y": 0.8462,
+    "w": 0.6977,
+    "h": 0.0371
+   },
+   {
+    "t": "that deliveries are designed to reduce harmful CO2 emissions and unnecessary trips to grocery stores framing their service not just",
+    "x": 0.1526,
+    "y": 0.8794,
+    "w": 0.6904,
+    "h": 0.0332
+   },
+   {
+    "t": "as convenient, but also as environmentally considerate. The section positions Imperfect Foods as a brand that goes beyond",
+    "x": 0.1526,
+    "y": 0.9124,
+    "w": 0.6497,
+    "h": 0.0334
+   },
+   {
+    "t": "customer convenience, integrating climate impact into its logistics and distribution model.",
+    "x": 0.1526,
+    "y": 0.9453,
+    "w": 0.4724,
+    "h": 0.0328
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "file": "b25.jpg",
+  "y0": 11179,
+  "y1": 11710,
+  "h": 531,
+  "color": 8.94,
+  "density": 0.538,
+  "lines": [
+   {
+    "t": "Partners who share our values",
+    "x": 0.375,
+    "y": 0.047,
+    "w": 0.25,
+    "h": 0.0436
+   },
+   {
+    "t": "Enjoy our own Imperfect Foods products made from rescued and upcycled",
+    "x": 0.391,
+    "y": 0.1142,
+    "w": 0.2195,
+    "h": 0.0197
+   },
+   {
+    "t": "ingredients as well as 40t sustainable partners",
+    "x": 0.4317,
+    "y": 0.141,
+    "w": 0.1366,
+    "h": 0.0132
+   },
+   {
+    "t": "SNACKY-SNACK",
+    "x": 0.7537,
+    "y": 0.278,
+    "w": 0.0379,
+    "h": 0.0346
+   },
+   {
+    "t": "CENTO",
+    "x": 0.6294,
+    "y": 0.2874,
+    "w": 0.0363,
+    "h": 0.0276
+   },
+   {
+    "t": "GANI",
+    "x": 0.5116,
+    "y": 0.2953,
+    "w": 0.016,
+    "h": 0.0157
+   },
+   {
+    "t": "HIXY-MIX",
+    "x": 0.7602,
+    "y": 0.3031,
+    "w": 0.0262,
+    "h": 0.0236
+   },
+   {
+    "t": "Tillamook",
+    "x": 0.2311,
+    "y": 0.3071,
+    "w": 0.0538,
+    "h": 0.063
+   },
+   {
+    "t": "La",
+    "x": 0.3837,
+    "y": 0.311,
+    "w": 0.0189,
+    "h": 0.0551
+   },
+   {
+    "t": "(\u043f\u043e\u0447)",
+    "x": 0.3641,
+    "y": 0.3373,
+    "w": 0.0393,
+    "h": 0.0864
+   },
+   {
+    "t": "Tillamook IMPOSSIBLE",
+    "x": 0.4763,
+    "y": 0.5807,
+    "w": 0.1099,
+    "h": 0.054
+   },
+   {
+    "t": "IMPERFECT",
+    "x": 0.4157,
+    "y": 0.5906,
+    "w": 0.0465,
+    "h": 0.0236
+   },
+   {
+    "t": "FOODS",
+    "x": 0.4273,
+    "y": 0.6142,
+    "w": 0.0233,
+    "h": 0.0157
+   },
+   {
+    "t": "ORGANIC",
+    "x": 0.4564,
+    "y": 0.6614,
+    "w": 0.0334,
+    "h": 0.0236
+   },
+   {
+    "t": "CENTO",
+    "x": 0.5102,
+    "y": 0.6654,
+    "w": 0.0363,
+    "h": 0.0276
+   },
+   {
+    "t": "Here, the focus shifts to partnerships. This section showcases brands and producers that share Imperfect Foods' values such as",
+    "x": 0.1526,
+    "y": 0.8017,
+    "w": 0.6745,
+    "h": 0.0411
+   },
+   {
+    "t": "ethical sourcing, waste reduction, and quality ingredients. Logos of familiar and trusted food brands are displayed alongside the",
+    "x": 0.1526,
+    "y": 0.8421,
+    "w": 0.6715,
+    "h": 0.0358
+   },
+   {
+    "t": "message that every product offered is thoughtfully chosen, coming from producers who care about sustainability just as much as",
+    "x": 0.1526,
+    "y": 0.8778,
+    "w": 0.6802,
+    "h": 0.032
+   },
+   {
+    "t": "quality. It builds trust by showing customers that Imperfect Foods isn't doing this work alone, but alongside a community of like",
+    "x": 0.1512,
+    "y": 0.9134,
+    "w": 0.6686,
+    "h": 0.0396
+   },
+   {
+    "t": "minded suppliers who believe in a better food system.",
+    "x": 0.1526,
+    "y": 0.9488,
+    "w": 0.2849,
+    "h": 0.0361
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "file": "b26.jpg",
+  "y0": 11820,
+  "y1": 12502,
+  "h": 682,
+  "color": 22.13,
+  "density": 0.559,
+  "lines": [
+   {
+    "t": "COCOOc",
+    "x": 0.5917,
+    "y": 0.1842,
+    "w": 0.1458,
+    "h": 0.0439
+   },
+   {
+    "t": "Made with rescued",
+    "x": 0.3081,
+    "y": 0.2914,
+    "w": 0.157,
+    "h": 0.037
+   },
+   {
+    "t": "IMPERFECT",
+    "x": 0.625,
+    "y": 0.2945,
+    "w": 0.048,
+    "h": 0.0245
+   },
+   {
+    "t": "FOODS",
+    "x": 0.6366,
+    "y": 0.3129,
+    "w": 0.0247,
+    "h": 0.0123
+   },
+   {
+    "t": "ingredients",
+    "x": 0.3051,
+    "y": 0.3334,
+    "w": 0.0961,
+    "h": 0.0419
+   },
+   {
+    "t": "YOGURT COVERED",
+    "x": 0.6072,
+    "y": 0.3433,
+    "w": 0.0851,
+    "h": 0.0557
+   },
+   {
+    "t": "snacks with a twist!",
+    "x": 0.3067,
+    "y": 0.3768,
+    "w": 0.0901,
+    "h": 0.025
+   },
+   {
+    "t": "Pretzels",
+    "x": 0.5799,
+    "y": 0.4074,
+    "w": 0.1426,
+    "h": 0.0839
+   },
+   {
+    "t": "Sometimes ingredients are suddenly left stranded. And",
+    "x": 0.3081,
+    "y": 0.4135,
+    "w": 0.1991,
+    "h": 0.0161
+   },
+   {
+    "t": "Explore",
+    "x": 0.1948,
+    "y": 0.4294,
+    "w": 0.0334,
+    "h": 0.0307
+   },
+   {
+    "t": "since nothing is more sad than a rainbow sprinkle all",
+    "x": 0.3067,
+    "y": 0.4355,
+    "w": 0.1919,
+    "h": 0.0191
+   },
+   {
+    "t": "all 6!",
+    "x": 0.1987,
+    "y": 0.4555,
+    "w": 0.0315,
+    "h": 0.0411
+   },
+   {
+    "t": "dressed up with nowhere to go, we swooped in and",
+    "x": 0.3067,
+    "y": 0.4601,
+    "w": 0.1875,
+    "h": 0.0184
+   },
+   {
+    "t": "scooped them up for our Yogurt Covered Pretzels!",
+    "x": 0.3067,
+    "y": 0.4847,
+    "w": 0.1817,
+    "h": 0.0215
+   },
+   {
+    "t": "WITH SPRINKLES",
+    "x": 0.6105,
+    "y": 0.5117,
+    "w": 0.0741,
+    "h": 0.0469
+   },
+   {
+    "t": "NATURALLY FLAVORED",
+    "x": 0.6235,
+    "y": 0.5733,
+    "w": 0.0523,
+    "h": 0.0191
+   },
+   {
+    "t": "NET WT. 10 OZ (280g)",
+    "x": 0.6177,
+    "y": 0.61,
+    "w": 0.0596,
+    "h": 0.025
+   },
+   {
+    "t": "In this section, Imperfect Foods educates users on the concept of food rescue using ingredients that would otherwise be discarded",
+    "x": 0.1526,
+    "y": 0.8431,
+    "w": 0.6904,
+    "h": 0.0281
+   },
+   {
+    "t": "due to cosmetic imperfections, overstock, or supply chain issues. The image of yogurt covered pretzels made from these \"rescued\"",
+    "x": 0.1526,
+    "y": 0.871,
+    "w": 0.6904,
+    "h": 0.0279
+   },
+   {
+    "t": "ingredients adds a tangible, appetizing example to the narrative. It communicates that food waste prevention doesn't mean",
+    "x": 0.1526,
+    "y": 0.8966,
+    "w": 0.6469,
+    "h": 0.0341
+   },
+   {
+    "t": "compromising on taste or quality. The section gives a sense of creativity and resourcefulness, showing that delicious treats can",
+    "x": 0.1526,
+    "y": 0.9294,
+    "w": 0.6701,
+    "h": 0.0251
+   },
+   {
+    "t": "come from ingredients saved from going to waste.",
+    "x": 0.1526,
+    "y": 0.9571,
+    "w": 0.2645,
+    "h": 0.0245
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "file": "b27.jpg",
+  "y0": 12610,
+  "y1": 13294,
+  "h": 684,
+  "color": 7.52,
+  "density": 0.562,
+  "lines": [
+   {
+    "t": "Taking a bite out of food",
+    "x": 0.3997,
+    "y": 0.0581,
+    "w": 0.2006,
+    "h": 0.0398
+   },
+   {
+    "t": "waste",
+    "x": 0.4737,
+    "y": 0.1062,
+    "w": 0.0525,
+    "h": 0.0292
+   },
+   {
+    "t": "35% of the U.S. food supply went unsold or uneaten in",
+    "x": 0.4041,
+    "y": 0.174,
+    "w": 0.1948,
+    "h": 0.019
+   },
+   {
+    "t": "2019. When you shop with Imperfect, you save food",
+    "x": 0.4084,
+    "y": 0.1988,
+    "w": 0.1846,
+    "h": 0.0191
+   },
+   {
+    "t": "from waste, which conserves the resources that go",
+    "x": 0.4084,
+    "y": 0.2232,
+    "w": 0.1846,
+    "h": 0.0183
+   },
+   {
+    "t": "into growing it.",
+    "x": 0.4724,
+    "y": 0.2471,
+    "w": 0.0567,
+    "h": 0.019
+   },
+   {
+    "t": "Wondering.how.we.do.it?",
+    "x": 0.4608,
+    "y": 0.2875,
+    "w": 0.0799,
+    "h": 0.0153
+   },
+   {
+    "t": "6-8 Ibs",
+    "x": 0.3547,
+    "y": 0.5073,
+    "w": 0.0363,
+    "h": 0.0219
+   },
+   {
+    "t": "214-218 gal",
+    "x": 0.4259,
+    "y": 0.5073,
+    "w": 0.0654,
+    "h": 0.0219
+   },
+   {
+    "t": "47 mins",
+    "x": 0.5233,
+    "y": 0.5073,
+    "w": 0.0422,
+    "h": 0.0219
+   },
+   {
+    "t": "4-6 Ibs",
+    "x": 0.6119,
+    "y": 0.5073,
+    "w": 0.0363,
+    "h": 0.0219
+   },
+   {
+    "t": "Food recovered",
+    "x": 0.343,
+    "y": 0.5409,
+    "w": 0.0581,
+    "h": 0.019
+   },
+   {
+    "t": "Water conserved",
+    "x": 0.4273,
+    "y": 0.5409,
+    "w": 0.0625,
+    "h": 0.0161
+   },
+   {
+    "t": "Time saved",
+    "x": 0.5233,
+    "y": 0.5409,
+    "w": 0.0422,
+    "h": 0.0161
+   },
+   {
+    "t": "COze conserved",
+    "x": 0.6003,
+    "y": 0.5409,
+    "w": 0.061,
+    "h": 0.019
+   },
+   {
+    "t": "Slide to see how your impact grows",
+    "x": 0.4273,
+    "y": 0.6544,
+    "w": 0.1497,
+    "h": 0.0342
+   },
+   {
+    "t": "Get started for free",
+    "x": 0.4724,
+    "y": 0.7456,
+    "w": 0.0581,
+    "h": 0.0161
+   },
+   {
+    "t": "This educational section presents powerful statistics to underscore the importance of Imperfect Foods' mission. It explains that a",
+    "x": 0.1526,
+    "y": 0.8436,
+    "w": 0.6773,
+    "h": 0.028
+   },
+   {
+    "t": "third of the U.S. food supply was wasted in 2019 and positions customers as part of the solution. By shopping with Imperfect Foods,",
+    "x": 0.1512,
+    "y": 0.8713,
+    "w": 0.6962,
+    "h": 0.0278
+   },
+   {
+    "t": "users save edible food and the resources that go into producing it. The accompanying infographics break down the weekly impact:",
+    "x": 0.1526,
+    "y": 0.902,
+    "w": 0.6875,
+    "h": 0.0249
+   },
+   {
+    "t": "pounds of food recovered, gallons of water saved, time saved, and CO2 emissions avoided. The layout invites users to reflect on",
+    "x": 0.1526,
+    "y": 0.9264,
+    "w": 0.6716,
+    "h": 0.0321
+   },
+   {
+    "t": "how small choices like where they buy groceries, can lead to measurable environmental change.",
+    "x": 0.1526,
+    "y": 0.9572,
+    "w": 0.5058,
+    "h": 0.0282
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "file": "b28.jpg",
+  "y0": 13402,
+  "y1": 14018,
+  "h": 616,
+  "color": 7.72,
+  "density": 0.547,
+  "lines": [
+   {
+    "t": "Well be a net-zero carbon operation by 2030 See how",
+    "x": 0.2297,
+    "y": 0.0942,
+    "w": 0.1613,
+    "h": 0.0211
+   },
+   {
+    "t": "Our customers have saved 139 million",
+    "x": 0.3474,
+    "y": 0.1525,
+    "w": 0.3067,
+    "h": 0.0374
+   },
+   {
+    "t": "Ibs of food",
+    "x": 0.4549,
+    "y": 0.1964,
+    "w": 0.0887,
+    "h": 0.0375
+   },
+   {
+    "t": "Join the movement",
+    "x": 0.4666,
+    "y": 0.2711,
+    "w": 0.0683,
+    "h": 0.017
+   },
+   {
+    "t": "First order delivered from",
+    "x": 0.3125,
+    "y": 0.522,
+    "w": 0.077,
+    "h": 0.0169
+   },
+   {
+    "t": "Ive been an @imperfectfoods",
+    "x": 0.4462,
+    "y": 0.522,
+    "w": 0.0901,
+    "h": 0.0169
+   },
+   {
+    "t": "Cut down an food waste save the",
+    "x": 0.5814,
+    "y": 0.5254,
+    "w": 0.0974,
+    "h": 0.0103
+   },
+   {
+    "t": "@imperfectfoodst cant wait to",
+    "x": 0.314,
+    "y": 0.5422,
+    "w": 0.093,
+    "h": 0.0179
+   },
+   {
+    "t": "subscriber for 11/2+ years: /Ve been",
+    "x": 0.4477,
+    "y": 0.5422,
+    "w": 0.1017,
+    "h": 0.0179
+   },
+   {
+    "t": "planet, and feel good about",
+    "x": 0.5814,
+    "y": 0.5422,
+    "w": 0.0814,
+    "h": 0.0179
+   },
+   {
+    "t": "create some vegan goodness with",
+    "x": 0.3125,
+    "y": 0.5627,
+    "w": 0.1017,
+    "h": 0.0169
+   },
+   {
+    "t": "getting a box of fresh groceries",
+    "x": 0.4462,
+    "y": 0.5627,
+    "w": 0.093,
+    "h": 0.0169
+   },
+   {
+    "t": "conscious consumerism. My box",
+    "x": 0.5814,
+    "y": 0.5627,
+    "w": 0.0959,
+    "h": 0.0169
+   },
+   {
+    "t": "came with chocolate toffees, dried",
+    "x": 0.5814,
+    "y": 0.5795,
+    "w": 0.1017,
+    "h": 0.0211
+   },
+   {
+    "t": "all these ingredients this week!",
+    "x": 0.3125,
+    "y": 0.5828,
+    "w": 0.093,
+    "h": 0.0179
+   },
+   {
+    "t": "every single Tuesday. Handpicked",
+    "x": 0.4477,
+    "y": 0.5828,
+    "w": 0.1003,
+    "h": 0.0179
+   },
+   {
+    "t": "by me, 1 get an all organic box and",
+    "x": 0.4477,
+    "y": 0.6034,
+    "w": 0.1003,
+    "h": 0.0169
+   },
+   {
+    "t": "mango, raw almonds, chocolate",
+    "x": 0.5814,
+    "y": 0.6034,
+    "w": 0.0945,
+    "h": 0.0169
+   },
+   {
+    "t": "@justablockoftofu",
+    "x": 0.314,
+    "y": 0.6102,
+    "w": 0.0581,
+    "h": 0.0169
+   },
+   {
+    "t": "modify each week according to my",
+    "x": 0.4477,
+    "y": 0.6234,
+    "w": 0.1032,
+    "h": 0.0179
+   },
+   {
+    "t": "covered pretzels, and more.",
+    "x": 0.5799,
+    "y": 0.6234,
+    "w": 0.0843,
+    "h": 0.0179
+   },
+   {
+    "t": "weekly cooking plans. Easy, $ saving",
+    "x": 0.4477,
+    "y": 0.6441,
+    "w": 0.1061,
+    "h": 0.0169
+   },
+   {
+    "t": "@misskateabate",
+    "x": 0.5814,
+    "y": 0.6508,
+    "w": 0.0523,
+    "h": 0.0169
+   },
+   {
+    "t": "- works perfect for us!",
+    "x": 0.4477,
+    "y": 0.664,
+    "w": 0.064,
+    "h": 0.0179
+   },
+   {
+    "t": "@healthymoodst",
+    "x": 0.4477,
+    "y": 0.6881,
+    "w": 0.0538,
+    "h": 0.0169
+   },
+   {
+    "t": "With a hopeful and community tone, this section celebrates collective impact. It features the impressive milestone of 139 million",
+    "x": 0.1526,
+    "y": 0.8305,
+    "w": 0.6701,
+    "h": 0.0305
+   },
+   {
+    "t": "pounds of food saved by Imperfect Foods customers. Alongside the number are user generated content snippets photos and",
+    "x": 0.1526,
+    "y": 0.8604,
+    "w": 0.657,
+    "h": 0.0311
+   },
+   {
+    "t": "testimonials from real customers creating a sense of belonging and shared purpose. This approach not only reinforces the brand's",
+    "x": 0.1512,
+    "y": 0.8912,
+    "w": 0.6831,
+    "h": 0.0308
+   },
+   {
+    "t": "credibility but also fosters a sense of movement and social proof, showing that joining Imperfect Foods means becoming part of",
+    "x": 0.1526,
+    "y": 0.9253,
+    "w": 0.6715,
+    "h": 0.0276
+   },
+   {
+    "t": "something meaningful.",
+    "x": 0.1526,
+    "y": 0.9559,
+    "w": 0.1206,
+    "h": 0.0278
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "file": "b29.jpg",
+  "y0": 14129,
+  "y1": 14637,
+  "h": 508,
+  "color": 5.63,
+  "density": 0.542,
+  "lines": [
+   {
+    "t": "Hungry for more?",
+    "x": 0.4564,
+    "y": 0.0945,
+    "w": 0.0901,
+    "h": 0.0335
+   },
+   {
+    "t": "See all FAQS",
+    "x": 0.4797,
+    "y": 0.1728,
+    "w": 0.0422,
+    "h": 0.0247
+   },
+   {
+    "t": "How does Imperfect work?",
+    "x": 0.2456,
+    "y": 0.3128,
+    "w": 0.1235,
+    "h": 0.0247
+   },
+   {
+    "t": "What products do you have?",
+    "x": 0.2442,
+    "y": 0.4362,
+    "w": 0.1323,
+    "h": 0.0288
+   },
+   {
+    "t": "What makes some of the food imperfect?",
+    "x": 0.2456,
+    "y": 0.5551,
+    "w": 0.189,
+    "h": 0.0295
+   },
+   {
+    "t": "Does it cost money to sign up?",
+    "x": 0.2456,
+    "y": 0.679,
+    "w": 0.1395,
+    "h": 0.0247
+   },
+   {
+    "t": "The FAQ section is designed for users who are interested but still have questions. It features a clean, collapsible layout with",
+    "x": 0.1526,
+    "y": 0.8268,
+    "w": 0.6468,
+    "h": 0.0335
+   },
+   {
+    "t": "questions like \"How does Imperfect work?\" and \"What products do you have?\" The interface feels approachable and helpful,",
+    "x": 0.1526,
+    "y": 0.8642,
+    "w": 0.6512,
+    "h": 0.0374
+   },
+   {
+    "t": "showing that Imperfect Foods anticipates customer concerns and is ready to provide clear, reassuring answers. The CTA button",
+    "x": 0.1526,
+    "y": 0.9012,
+    "w": 0.6715,
+    "h": 0.0377
+   },
+   {
+    "t": "\"See all FAQs\" encourages deeper engagement, offering a smooth transition from curiosity to informed controlling.",
+    "x": 0.1512,
+    "y": 0.9342,
+    "w": 0.6017,
+    "h": 0.0412
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "file": "b30.jpg",
+  "y0": 14744,
+  "y1": 15362,
+  "h": 618,
+  "color": 81.91,
+  "density": 0.557,
+  "lines": [
+   {
+    "t": "Our Food",
+    "x": 0.3836,
+    "y": 0.3403,
+    "w": 0.0307,
+    "h": 0.0188
+   },
+   {
+    "t": "Food Waste",
+    "x": 0.5843,
+    "y": 0.3412,
+    "w": 0.0378,
+    "h": 0.0169
+   },
+   {
+    "t": "How it Works",
+    "x": 0.4797,
+    "y": 0.432,
+    "w": 0.0422,
+    "h": 0.0178
+   },
+   {
+    "t": "The Whole Cust",
+    "x": 0.5509,
+    "y": 0.6014,
+    "w": 0.0625,
+    "h": 0.0304
+   },
+   {
+    "t": "Our Social Impact",
+    "x": 0.4666,
+    "y": 0.6047,
+    "w": 0.0552,
+    "h": 0.0203
+   },
+   {
+    "t": "Resources",
+    "x": 0.3241,
+    "y": 0.6076,
+    "w": 0.0335,
+    "h": 0.0179
+   },
+   {
+    "t": "FACS",
+    "x": 0.2747,
+    "y": 0.6081,
+    "w": 0.0189,
+    "h": 0.0169
+   },
+   {
+    "t": "Our Packaging",
+    "x": 0.3895,
+    "y": 0.6081,
+    "w": 0.0451,
+    "h": 0.0169
+   },
+   {
+    "t": "Jobs",
+    "x": 0.6439,
+    "y": 0.6081,
+    "w": 0.016,
+    "h": 0.0169
+   },
+   {
+    "t": "Contact Us",
+    "x": 0.6919,
+    "y": 0.6081,
+    "w": 0.0363,
+    "h": 0.0135
+   },
+   {
+    "t": "\u0130MPERFECT",
+    "x": 0.202,
+    "y": 0.7365,
+    "w": 0.061,
+    "h": 0.0574
+   },
+   {
+    "t": "dApp Store",
+    "x": 0.7573,
+    "y": 0.746,
+    "w": 0.0378,
+    "h": 0.0311
+   },
+   {
+    "t": "FOODS",
+    "x": 0.2166,
+    "y": 0.7736,
+    "w": 0.0334,
+    "h": 0.0203
+   },
+   {
+    "t": "The final section blends branding with warmth. A whimsical illustration of vegetables parachuting into a grocery box acts as a",
+    "x": 0.1526,
+    "y": 0.8576,
+    "w": 0.6584,
+    "h": 0.0309
+   },
+   {
+    "t": "metaphor for Imperfect Foods' mission bringing good, sustainable food directly to customers, gently and thoughtfully. The footer",
+    "x": 0.1526,
+    "y": 0.8883,
+    "w": 0.6759,
+    "h": 0.0307
+   },
+   {
+    "t": "organizes essential links like FAQs, resources, packaging details, and social impact pages. This grounded, visually soft closing",
+    "x": 0.1526,
+    "y": 0.9189,
+    "w": 0.6599,
+    "h": 0.0309
+   },
+   {
+    "t": "leaves users with a lasting impression of Imperfect Foods as a friendly, accessible, and values company.",
+    "x": 0.1512,
+    "y": 0.9493,
+    "w": 0.5494,
+    "h": 0.0304
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "file": "b31.jpg",
+  "y0": 15393,
+  "y1": 15867,
+  "h": 474,
+  "color": 0.0,
+  "density": 0.295,
+  "lines": [
+   {
+    "t": "Usability Testing",
+    "x": 0.1526,
+    "y": 0.0264,
+    "w": 0.1323,
+    "h": 0.058
+   },
+   {
+    "t": "To evaluate the overall usability, effectiveness, and user satisfaction of the Imperfect Foods homepage, I conducted a set of",
+    "x": 0.1526,
+    "y": 0.1013,
+    "w": 0.6526,
+    "h": 0.0401
+   },
+   {
+    "t": "moderated usability testing sessions with participants representing first time visitors who were interested in sustainable grocery",
+    "x": 0.1526,
+    "y": 0.141,
+    "w": 0.673,
+    "h": 0.0405
+   },
+   {
+    "t": "solutions. Each session was built around realistic and goal scenarios to simulate how users naturally approach exploring and",
+    "x": 0.1526,
+    "y": 0.1806,
+    "w": 0.6512,
+    "h": 0.0396
+   },
+   {
+    "t": "evaluating a mission food delivery service.",
+    "x": 0.1526,
+    "y": 0.2194,
+    "w": 0.2253,
+    "h": 0.0405
+   },
+   {
+    "t": "Participants were given the following scenario to complete:",
+    "x": 0.1526,
+    "y": 0.2996,
+    "w": 0.311,
+    "h": 0.0401
+   },
+   {
+    "t": "1. You've recently heard about a product that sells good quality food waste. You want to assess whether this platform is truly good",
+    "x": 0.1555,
+    "y": 0.3392,
+    "w": 0.6875,
+    "h": 0.0405
+   },
+   {
+    "t": "to use. How would you find that information?",
+    "x": 0.1686,
+    "y": 0.3789,
+    "w": 0.2369,
+    "h": 0.0396
+   },
+   {
+    "t": "2. After browsing the official website, you try to find the product you're looking for. How do you find it?",
+    "x": 0.1555,
+    "y": 0.4177,
+    "w": 0.5392,
+    "h": 0.0404
+   },
+   {
+    "t": "3. Upon finding the product, you want to gather information about the positive impact of that product. How do you do it?",
+    "x": 0.1555,
+    "y": 0.4578,
+    "w": 0.6337,
+    "h": 0.0401
+   },
+   {
+    "t": "4. You're becoming more interested, but you still feel unsure. So you decide to check the testimonials. How do you view them?",
+    "x": 0.1555,
+    "y": 0.4978,
+    "w": 0.6628,
+    "h": 0.0402
+   },
+   {
+    "t": "5. After reading the testimonials, you still have a few questions about Imperfect's features or products. How do you get those",
+    "x": 0.1555,
+    "y": 0.5419,
+    "w": 0.657,
+    "h": 0.0404
+   },
+   {
+    "t": "questions answered?",
+    "x": 0.1701,
+    "y": 0.5815,
+    "w": 0.1119,
+    "h": 0.0352
+   },
+   {
+    "t": "6. Once your questions are answered, you feel confident enough to place an order. Now, you want to start using the service. What's",
+    "x": 0.1555,
+    "y": 0.6203,
+    "w": 0.6904,
+    "h": 0.0405
+   },
+   {
+    "t": "the first step you need to take?",
+    "x": 0.1686,
+    "y": 0.6603,
+    "w": 0.1657,
+    "h": 0.0359
+   },
+   {
+    "t": "These tasks were designed to test how effectively the homepage communicates the platform's mission and value proposition, the",
+    "x": 0.1526,
+    "y": 0.7401,
+    "w": 0.6802,
+    "h": 0.0363
+   },
+   {
+    "t": "clarity of available information, and the ease of taking further steps such as understanding the product categories, reading about",
+    "x": 0.1526,
+    "y": 0.7797,
+    "w": 0.6788,
+    "h": 0.0396
+   },
+   {
+    "t": "social or environmental impact, and beginning the order process.",
+    "x": 0.1526,
+    "y": 0.8186,
+    "w": 0.343,
+    "h": 0.0405
+   },
+   {
+    "t": "The testing focused on how users navigated sections such as product offerings, sustainability metrics, testimonials, and FAQ, as",
+    "x": 0.1526,
+    "y": 0.8987,
+    "w": 0.673,
+    "h": 0.0401
+   },
+   {
+    "t": "well as the visibility and clarity of CTA like \"Get Started\" or \"See Our Food.\"",
+    "x": 0.1526,
+    "y": 0.9383,
+    "w": 0.3924,
+    "h": 0.0352
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "file": "b32.jpg",
+  "y0": 15900,
+  "y1": 16013,
+  "h": 113,
+  "color": 0.0,
+  "density": 0.138,
+  "lines": [
+   {
+    "t": "Reflection",
+    "x": 0.1526,
+    "y": 0.105,
+    "w": 0.0815,
+    "h": 0.2081
+   },
+   {
+    "t": "If I had additional time, I would:",
+    "x": 0.1526,
+    "y": 0.4182,
+    "w": 0.1657,
+    "h": 0.1455
+   },
+   {
+    "t": "1. Gather users to conduct usability testing according to the scenarios and tasks created.",
+    "x": 0.1555,
+    "y": 0.5789,
+    "w": 0.4724,
+    "h": 0.1667
+   },
+   {
+    "t": "2. Conduct usability testing and iterate if there is feedback from users.",
+    "x": 0.1555,
+    "y": 0.7455,
+    "w": 0.3735,
+    "h": 0.1668
+   }
+  ]
+ }
+]

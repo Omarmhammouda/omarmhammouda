@@ -1,0 +1,4492 @@
+[
+ {
+  "i": 0,
+  "file": "b00.jpg",
+  "y0": 117,
+  "y1": 234,
+  "h": 117,
+  "color": 0.0,
+  "density": 0.06,
+  "lines": [
+   {
+    "t": "W*nder",
+    "x": 0.2238,
+    "y": 0.0702,
+    "w": 0.1119,
+    "h": 0.3509
+   },
+   {
+    "t": "Works like a W*nder",
+    "x": 0.2208,
+    "y": 0.65,
+    "w": 0.1917,
+    "h": 0.25
+   }
+  ]
+ },
+ {
+  "i": 1,
+  "file": "b01.jpg",
+  "y0": 281,
+  "y1": 351,
+  "h": 70,
+  "color": 0.0,
+  "density": 0.23,
+  "lines": [
+   {
+    "t": "Each sip of our delicious CBD sparkling beverages has been thoughtfully formulated",
+    "x": 0.2224,
+    "y": 0.1429,
+    "w": 0.5523,
+    "h": 0.3571
+   },
+   {
+    "t": "to keep you energized, focused, and relaxed throughout the day",
+    "x": 0.2208,
+    "y": 0.4143,
+    "w": 0.425,
+    "h": 0.419
+   }
+  ]
+ },
+ {
+  "i": 2,
+  "file": "b02.jpg",
+  "y0": 377,
+  "y1": 1004,
+  "h": 627,
+  "color": 17.06,
+  "density": 0.598,
+  "lines": [
+   {
+    "t": "w'nder",
+    "x": 0.4375,
+    "y": 0.2833,
+    "w": 0.0291,
+    "h": 0.02
+   },
+   {
+    "t": "CBD",
+    "x": 0.6032,
+    "y": 0.3633,
+    "w": 0.0145,
+    "h": 0.02
+   },
+   {
+    "t": "w'nder",
+    "x": 0.5932,
+    "y": 0.4023,
+    "w": 0.0288,
+    "h": 0.0347
+   },
+   {
+    "t": "r\u1ed5nder",
+    "x": 0.4433,
+    "y": 0.41,
+    "w": 0.0262,
+    "h": 0.0367
+   },
+   {
+    "t": "Works like a",
+    "x": 0.5,
+    "y": 0.4666,
+    "w": 0.0669,
+    "h": 0.0271
+   },
+   {
+    "t": "w\"nder",
+    "x": 0.5145,
+    "y": 0.4933,
+    "w": 0.0407,
+    "h": 0.0267
+   },
+   {
+    "t": "o ndei",
+    "x": 0.6192,
+    "y": 0.5067,
+    "w": 0.0189,
+    "h": 0.0533
+   }
+  ]
+ },
+ {
+  "i": 3,
+  "file": "b03.jpg",
+  "y0": 1029,
+  "y1": 1584,
+  "h": 555,
+  "color": 0.39,
+  "density": 0.228,
+  "lines": [
+   {
+    "t": "w'nder",
+    "x": 0.1715,
+    "y": 0.0526,
+    "w": 0.1366,
+    "h": 0.1053
+   },
+   {
+    "t": "Project Overview",
+    "x": 0.3401,
+    "y": 0.0558,
+    "w": 0.1599,
+    "h": 0.0504
+   },
+   {
+    "t": "W*nder is a CBD infused sparkling beverage brand that has been specially formulated to",
+    "x": 0.3416,
+    "y": 0.1313,
+    "w": 0.4593,
+    "h": 0.0342
+   },
+   {
+    "t": "accompany various moments throughout the day morning, noon, and night. This product comes",
+    "x": 0.3416,
+    "y": 0.1691,
+    "w": 0.4971,
+    "h": 0.0306
+   },
+   {
+    "t": "in various variants that have different benefits, such as increasing energy in the morning",
+    "x": 0.3401,
+    "y": 0.1992,
+    "w": 0.4593,
+    "h": 0.0346
+   },
+   {
+    "t": "helping focus at work, or providing a sense of calm at night. W*nder emphasizes transparency",
+    "x": 0.3401,
+    "y": 0.2368,
+    "w": 0.4898,
+    "h": 0.0301
+   },
+   {
+    "t": "Industry",
+    "x": 0.1583,
+    "y": 0.2584,
+    "w": 0.0482,
+    "h": 0.0359
+   },
+   {
+    "t": "and quality by partnering with third party laboratories for product testing. Through a modern",
+    "x": 0.3401,
+    "y": 0.2698,
+    "w": 0.4811,
+    "h": 0.031
+   },
+   {
+    "t": "\u2022 Health & Wellness",
+    "x": 0.1642,
+    "y": 0.2895,
+    "w": 0.1076,
+    "h": 0.0379
+   },
+   {
+    "t": "approach and a clean and informative branding style, Wender not only offers products, but also",
+    "x": 0.3401,
+    "y": 0.304,
+    "w": 0.4956,
+    "h": 0.0344
+   },
+   {
+    "t": "Beverages",
+    "x": 0.1773,
+    "y": 0.3266,
+    "w": 0.0568,
+    "h": 0.0309
+   },
+   {
+    "t": "education about the benefits of CBD. The brand is also socially committed by donating 4.20%",
+    "x": 0.3416,
+    "y": 0.3381,
+    "w": 0.4855,
+    "h": 0.0342
+   },
+   {
+    "t": "\u2022 CBD Infused Functional",
+    "x": 0.1642,
+    "y": 0.3609,
+    "w": 0.1366,
+    "h": 0.0301
+   },
+   {
+    "t": "of their profits to communities affected by cannabis regulation.",
+    "x": 0.3401,
+    "y": 0.3722,
+    "w": 0.3328,
+    "h": 0.0343
+   },
+   {
+    "t": "Drinks",
+    "x": 0.1758,
+    "y": 0.394,
+    "w": 0.0365,
+    "h": 0.0316
+   },
+   {
+    "t": "\u2022 Solution",
+    "x": 0.6083,
+    "y": 0.4946,
+    "w": 0.1042,
+    "h": 0.054
+   },
+   {
+    "t": "Problem",
+    "x": 0.3647,
+    "y": 0.5022,
+    "w": 0.0787,
+    "h": 0.0482
+   },
+   {
+    "t": "Tools",
+    "x": 0.1599,
+    "y": 0.5188,
+    "w": 0.0305,
+    "h": 0.0301
+   },
+   {
+    "t": "Figma",
+    "x": 0.1599,
+    "y": 0.5526,
+    "w": 0.0334,
+    "h": 0.0376
+   },
+   {
+    "t": "1. Many people experience stress, fatigue,",
+    "x": 0.3444,
+    "y": 0.5788,
+    "w": 0.224,
+    "h": 0.0378
+   },
+   {
+    "t": "1. Provides CBD infused beverages",
+    "x": 0.609,
+    "y": 0.5827,
+    "w": 0.1846,
+    "h": 0.0306
+   },
+   {
+    "t": "and difficulty focusing in their daily",
+    "x": 0.3576,
+    "y": 0.6165,
+    "w": 0.1831,
+    "h": 0.0309
+   },
+   {
+    "t": "specially formulated to boost energy.",
+    "x": 0.6221,
+    "y": 0.6165,
+    "w": 0.1919,
+    "h": 0.0309
+   },
+   {
+    "t": "2. Provides educational information and",
+    "x": 0.6076,
+    "y": 0.6466,
+    "w": 0.2078,
+    "h": 0.0376
+   },
+   {
+    "t": "activities.",
+    "x": 0.3575,
+    "y": 0.6499,
+    "w": 0.0524,
+    "h": 0.0272
+   },
+   {
+    "t": "Year",
+    "x": 0.1613,
+    "y": 0.6767,
+    "w": 0.0262,
+    "h": 0.0301
+   },
+   {
+    "t": "2. Lack of understanding about the benefits",
+    "x": 0.3445,
+    "y": 0.6835,
+    "w": 0.2297,
+    "h": 0.0308
+   },
+   {
+    "t": "quality transparency with independent",
+    "x": 0.6221,
+    "y": 0.6835,
+    "w": 0.202,
+    "h": 0.0308
+   },
+   {
+    "t": "2020",
+    "x": 0.1599,
+    "y": 0.7143,
+    "w": 0.0291,
+    "h": 0.0301
+   },
+   {
+    "t": "of CBD that is legal and safe to consume.",
+    "x": 0.359,
+    "y": 0.7176,
+    "w": 0.2151,
+    "h": 0.0306
+   },
+   {
+    "t": "testing labs.",
+    "x": 0.6192,
+    "y": 0.7176,
+    "w": 0.0669,
+    "h": 0.0343
+   },
+   {
+    "t": "3. Stigma towards cannabis based products",
+    "x": 0.3445,
+    "y": 0.7518,
+    "w": 0.2297,
+    "h": 0.0342
+   },
+   {
+    "t": "3. Displaying branding that is clean,",
+    "x": 0.6061,
+    "y": 0.7518,
+    "w": 0.189,
+    "h": 0.0378
+   },
+   {
+    "t": "due to long standing negative",
+    "x": 0.359,
+    "y": 0.7857,
+    "w": 0.1541,
+    "h": 0.0344
+   },
+   {
+    "t": "modern, and far from the conventional",
+    "x": 0.6221,
+    "y": 0.7857,
+    "w": 0.2006,
+    "h": 0.0308
+   },
+   {
+    "t": "\"cannabis\" impression.",
+    "x": 0.6206,
+    "y": 0.8158,
+    "w": 0.1192,
+    "h": 0.0338
+   },
+   {
+    "t": "perceptions.",
+    "x": 0.3576,
+    "y": 0.8233,
+    "w": 0.0654,
+    "h": 0.0263
+   },
+   {
+    "t": "4. It is difficult to find healthy drinks that are",
+    "x": 0.3445,
+    "y": 0.8525,
+    "w": 0.2311,
+    "h": 0.0309
+   },
+   {
+    "t": "4. Making social contributions with \"The",
+    "x": 0.609,
+    "y": 0.8525,
+    "w": 0.2078,
+    "h": 0.0347
+   },
+   {
+    "t": "refreshing and provide a calming effect at",
+    "x": 0.3561,
+    "y": 0.8867,
+    "w": 0.2209,
+    "h": 0.0381
+   },
+   {
+    "t": "420 Rule\" program to help communities",
+    "x": 0.6206,
+    "y": 0.8867,
+    "w": 0.2078,
+    "h": 0.0381
+   },
+   {
+    "t": "affected by previous cannabis policies.",
+    "x": 0.6221,
+    "y": 0.9209,
+    "w": 0.2035,
+    "h": 0.0342
+   },
+   {
+    "t": "the same time.",
+    "x": 0.3576,
+    "y": 0.9245,
+    "w": 0.0799,
+    "h": 0.027
+   }
+  ]
+ },
+ {
+  "i": 4,
+  "file": "b04.jpg",
+  "y0": 1615,
+  "y1": 1853,
+  "h": 238,
+  "color": 0.12,
+  "density": 0.274,
+  "lines": [
+   {
+    "t": "\u00ae My Role and Responsibility",
+    "x": 0.1542,
+    "y": 0.025,
+    "w": 0.275,
+    "h": 0.1515
+   },
+   {
+    "t": "In this project, I worked as a UX/Ul Designer responsible for designing the experience and visual appearance of the W*nder",
+    "x": 0.1526,
+    "y": 0.2544,
+    "w": 0.6483,
+    "h": 0.0702
+   },
+   {
+    "t": "homepage. My main focus is to build trust and educate users about CBD based products, which are still considered sensitive by",
+    "x": 0.1526,
+    "y": 0.3319,
+    "w": 0.6715,
+    "h": 0.0803
+   },
+   {
+    "t": "some people. My design focus is to build trust by bringing transparency and education through an engaging and structured visual",
+    "x": 0.1526,
+    "y": 0.4118,
+    "w": 0.6817,
+    "h": 0.0714
+   },
+   {
+    "t": "experience.",
+    "x": 0.1526,
+    "y": 0.5,
+    "w": 0.0625,
+    "h": 0.0614
+   },
+   {
+    "t": "My role covers end to end design from user flow, wireframing, Ul design, to final prototyping by ensuring every visual element and",
+    "x": 0.1526,
+    "y": 0.6471,
+    "w": 0.6817,
+    "h": 0.081
+   },
+   {
+    "t": "interaction supports the brand's main objectives: build trust, educate, and encourage further product exploration. I also maintain",
+    "x": 0.1526,
+    "y": 0.7269,
+    "w": 0.6744,
+    "h": 0.0714
+   },
+   {
+    "t": "consistency in tone & style so that the W*nder brand appears unique, trusted, and relevant to new users and those who are familiar",
+    "x": 0.1526,
+    "y": 0.8067,
+    "w": 0.6919,
+    "h": 0.0798
+   },
+   {
+    "t": "with CBD.",
+    "x": 0.1512,
+    "y": 0.8857,
+    "w": 0.0553,
+    "h": 0.0795
+   }
+  ]
+ },
+ {
+  "i": 5,
+  "file": "b05.jpg",
+  "y0": 1893,
+  "y1": 2441,
+  "h": 548,
+  "color": 0.0,
+  "density": 0.269,
+  "lines": [
+   {
+    "t": "Process",
+    "x": 0.1526,
+    "y": 0.0191,
+    "w": 0.0756,
+    "h": 0.042
+   },
+   {
+    "t": "The design process for this project was divided into four key phases to ensure a user centered and results experience:",
+    "x": 0.1512,
+    "y": 0.1183,
+    "w": 0.625,
+    "h": 0.035
+   },
+   {
+    "t": "1. Discovery",
+    "x": 0.1555,
+    "y": 0.1861,
+    "w": 0.0669,
+    "h": 0.0352
+   },
+   {
+    "t": "In the Discovery phase, I started by conducting a competitor analysis to understand how other CBD brands approach safety and",
+    "x": 0.1686,
+    "y": 0.2208,
+    "w": 0.6744,
+    "h": 0.0387
+   },
+   {
+    "t": "transparency messaging. This analysis helped me identify pain points that are often found in the industry such as a lack of lab",
+    "x": 0.1686,
+    "y": 0.2555,
+    "w": 0.6613,
+    "h": 0.0347
+   },
+   {
+    "t": "test information or a confusing website interface. I also dug deeper into the characteristics of W*nder's users and target",
+    "x": 0.1686,
+    "y": 0.2901,
+    "w": 0.6323,
+    "h": 0.0347
+   },
+   {
+    "t": "audience, including their need for clarity, credibility and education around CBD.",
+    "x": 0.1686,
+    "y": 0.3244,
+    "w": 0.4157,
+    "h": 0.0351
+   },
+   {
+    "t": "2. Ideation",
+    "x": 0.1554,
+    "y": 0.3957,
+    "w": 0.0583,
+    "h": 0.0331
+   },
+   {
+    "t": "yet horative fol, savinate sers cold dis",
+    "x": 0.4792,
+    "y": 0.4234,
+    "w": 0.2375,
+    "h": 0.0766
+   },
+   {
+    "t": "Next, I developed a user flow and user journey map to map out how users would navigate the site and interact with the",
+    "x": 0.1686,
+    "y": 0.4307,
+    "w": 0.625,
+    "h": 0.0312
+   },
+   {
+    "t": "information provided. My main focus was to create a simple yet informative flow, so that users could easily understand the",
+    "x": 0.1686,
+    "y": 0.4617,
+    "w": 0.6424,
+    "h": 0.0347
+   },
+   {
+    "t": "benefits of W*nder and access product test results in just a few steps. This process was crucial to ensure the user experience",
+    "x": 0.1701,
+    "y": 0.5,
+    "w": 0.6613,
+    "h": 0.031
+   },
+   {
+    "t": "remained intuitive despite the educational and technical nature of the content.",
+    "x": 0.1686,
+    "y": 0.5344,
+    "w": 0.4128,
+    "h": 0.0313
+   },
+   {
+    "t": "3. Design Process",
+    "x": 0.1555,
+    "y": 0.6022,
+    "w": 0.0959,
+    "h": 0.0314
+   },
+   {
+    "t": "Moving into the Design System phase, I designed visual guidelines that are consistent and reflect the brand identity. I chose a",
+    "x": 0.1686,
+    "y": 0.6369,
+    "w": 0.6613,
+    "h": 0.0349
+   },
+   {
+    "t": "o the normale. also establish",
+    "x": 0.2542,
+    "y": 0.6624,
+    "w": 0.1708,
+    "h": 0.0767
+   },
+   {
+    "t": "warm yet trustworthy color palette to convey a safe and friendly impression, and clean and easy to read typography to support",
+    "x": 0.1686,
+    "y": 0.6715,
+    "w": 0.6686,
+    "h": 0.0347
+   },
+   {
+    "t": "the readability of the information. I also established a neat grid system so that each element on the page has a harmonious visual",
+    "x": 0.1686,
+    "y": 0.7061,
+    "w": 0.6802,
+    "h": 0.0348
+   },
+   {
+    "t": "rhythm and is easy to navigate.",
+    "x": 0.1686,
+    "y": 0.7443,
+    "w": 0.1672,
+    "h": 0.0313
+   },
+   {
+    "t": "4. Usability Testing",
+    "x": 0.1539,
+    "y": 0.8088,
+    "w": 0.1036,
+    "h": 0.0391
+   },
+   {
+    "t": "In the Usability Testing phase, I developed a set of tasks and scenarios to test the effectiveness of the design. Users were asked",
+    "x": 0.1686,
+    "y": 0.8431,
+    "w": 0.6773,
+    "h": 0.0348
+   },
+   {
+    "t": "to run scenarios such as searching for product test results, understanding the benefits of CBD, and finding the variant that suits",
+    "x": 0.1686,
+    "y": 0.8814,
+    "w": 0.6715,
+    "h": 0.031
+   },
+   {
+    "t": "their needs. From this, I gained valuable insights on which flows needed to be simplified and which elements were successful in",
+    "x": 0.1686,
+    "y": 0.916,
+    "w": 0.6701,
+    "h": 0.031
+   },
+   {
+    "t": "attracting users' attention. This feedback was then used to refine the design to be truly user centric and conversion oriented.",
+    "x": 0.1686,
+    "y": 0.9504,
+    "w": 0.6584,
+    "h": 0.0314
+   }
+  ]
+ },
+ {
+  "i": 6,
+  "file": "b06.jpg",
+  "y0": 2480,
+  "y1": 2843,
+  "h": 363,
+  "color": 0.0,
+  "density": 0.212,
+  "lines": [
+   {
+    "t": "Discovery",
+    "x": 0.1523,
+    "y": 0.0207,
+    "w": 0.0951,
+    "h": 0.0782
+   },
+   {
+    "t": "Discover and Understanding",
+    "x": 0.1512,
+    "y": 0.2005,
+    "w": 0.1904,
+    "h": 0.0638
+   },
+   {
+    "t": "The discovery process begins with understanding the key issues that users face in the CBD industry, specifically related to product",
+    "x": 0.1526,
+    "y": 0.3214,
+    "w": 0.6904,
+    "h": 0.0522
+   },
+   {
+    "t": "trust and safety. Amidst the rapid growth of the CBD market, many users find it difficult to distinguish legitimate and tested",
+    "x": 0.1526,
+    "y": 0.3736,
+    "w": 0.6468,
+    "h": 0.0523
+   },
+   {
+    "t": "products from those that are not. W*nder wanted to assert its position as a transparent and trusted brand by presenting lab result",
+    "x": 0.1526,
+    "y": 0.431,
+    "w": 0.6831,
+    "h": 0.047
+   },
+   {
+    "t": "information openly. Therefore, I needed to design a digital experience that would convey this message in a powerful and accessible",
+    "x": 0.1526,
+    "y": 0.4828,
+    "w": 0.689,
+    "h": 0.053
+   },
+   {
+    "t": "way to the target audience.",
+    "x": 0.1526,
+    "y": 0.5345,
+    "w": 0.1453,
+    "h": 0.046
+   },
+   {
+    "t": "Competitor Analysis",
+    "x": 0.1512,
+    "y": 0.6538,
+    "w": 0.1366,
+    "h": 0.0645
+   },
+   {
+    "t": "As part of my strategic approach, 1 analyzed several key competitors to understand how they present information related to product",
+    "x": 0.1526,
+    "y": 0.7637,
+    "w": 0.6933,
+    "h": 0.0581
+   },
+   {
+    "t": "quality and lab test transparency. My focus was on elements such as page structure, educational messaging, navigation, and",
+    "x": 0.1526,
+    "y": 0.8214,
+    "w": 0.6555,
+    "h": 0.0467
+   },
+   {
+    "t": "accessibility to test data. This analysis helped identify design gaps and opportunities that could be used to strengthen W*nder's",
+    "x": 0.1526,
+    "y": 0.8736,
+    "w": 0.6744,
+    "h": 0.0468
+   },
+   {
+    "t": "position against competitors.",
+    "x": 0.1526,
+    "y": 0.9253,
+    "w": 0.1541,
+    "h": 0.0472
+   }
+  ]
+ },
+ {
+  "i": 7,
+  "file": "b07.jpg",
+  "y0": 2867,
+  "y1": 3421,
+  "h": 554,
+  "color": 0.42,
+  "density": 0.249,
+  "lines": [
+   {
+    "t": "Competitor",
+    "x": 0.2092,
+    "y": 0.0207,
+    "w": 0.0526,
+    "h": 0.0302
+   },
+   {
+    "t": "Visual Style",
+    "x": 0.5596,
+    "y": 0.0223,
+    "w": 0.0538,
+    "h": 0.027
+   },
+   {
+    "t": "Lab Result",
+    "x": 0.3387,
+    "y": 0.0226,
+    "w": 0.0494,
+    "h": 0.0226
+   },
+   {
+    "t": "User Education",
+    "x": 0.4404,
+    "y": 0.0226,
+    "w": 0.0683,
+    "h": 0.0226
+   },
+   {
+    "t": "Navigation",
+    "x": 0.6788,
+    "y": 0.0226,
+    "w": 0.0494,
+    "h": 0.0264
+   },
+   {
+    "t": "Transparency",
+    "x": 0.3401,
+    "y": 0.0604,
+    "w": 0.0625,
+    "h": 0.0264
+   },
+   {
+    "t": "Charlotte's Web",
+    "x": 0.2078,
+    "y": 0.117,
+    "w": 0.0712,
+    "h": 0.031
+   },
+   {
+    "t": "Educational and",
+    "x": 0.4404,
+    "y": 0.117,
+    "w": 0.0698,
+    "h": 0.0264
+   },
+   {
+    "t": "Professional and calm",
+    "x": 0.5581,
+    "y": 0.117,
+    "w": 0.0974,
+    "h": 0.031
+   },
+   {
+    "t": "Clear and structured",
+    "x": 0.6802,
+    "y": 0.117,
+    "w": 0.0887,
+    "h": 0.0264
+   },
+   {
+    "t": "informative",
+    "x": 0.4404,
+    "y": 0.1547,
+    "w": 0.0494,
+    "h": 0.0226
+   },
+   {
+    "t": "Medterra",
+    "x": 0.2092,
+    "y": 0.2137,
+    "w": 0.0409,
+    "h": 0.0254
+   },
+   {
+    "t": "Moderately educational",
+    "x": 0.4404,
+    "y": 0.2148,
+    "w": 0.1032,
+    "h": 0.0271
+   },
+   {
+    "t": "Clean and modern",
+    "x": 0.561,
+    "y": 0.2148,
+    "w": 0.0785,
+    "h": 0.0235
+   },
+   {
+    "t": "Slightly dense",
+    "x": 0.6788,
+    "y": 0.2148,
+    "w": 0.0625,
+    "h": 0.0271
+   },
+   {
+    "t": "Joy Organics",
+    "x": 0.2093,
+    "y": 0.2755,
+    "w": 0.0567,
+    "h": 0.0264
+   },
+   {
+    "t": "Highly educational",
+    "x": 0.4404,
+    "y": 0.2755,
+    "w": 0.0799,
+    "h": 0.0264
+   },
+   {
+    "t": "Soft and trustworthy",
+    "x": 0.5596,
+    "y": 0.2755,
+    "w": 0.0901,
+    "h": 0.0264
+   },
+   {
+    "t": "User friendly",
+    "x": 0.6802,
+    "y": 0.2755,
+    "w": 0.0552,
+    "h": 0.0264
+   },
+   {
+    "t": "X",
+    "x": 0.3794,
+    "y": 0.3321,
+    "w": 0.0116,
+    "h": 0.034
+   },
+   {
+    "t": "W*nder (Before Redesign)",
+    "x": 0.2093,
+    "y": 0.3357,
+    "w": 0.1134,
+    "h": 0.0271
+   },
+   {
+    "t": "Lacks educational",
+    "x": 0.4404,
+    "y": 0.3357,
+    "w": 0.0799,
+    "h": 0.0235
+   },
+   {
+    "t": "Bright but unpolished",
+    "x": 0.561,
+    "y": 0.3357,
+    "w": 0.0916,
+    "h": 0.0271
+   },
+   {
+    "t": "Unfocused navigation",
+    "x": 0.6802,
+    "y": 0.3357,
+    "w": 0.0945,
+    "h": 0.0271
+   },
+   {
+    "t": "content",
+    "x": 0.4404,
+    "y": 0.3734,
+    "w": 0.0364,
+    "h": 0.023
+   },
+   {
+    "t": "Pain Points",
+    "x": 0.1526,
+    "y": 0.4828,
+    "w": 0.0742,
+    "h": 0.0381
+   },
+   {
+    "t": "1. Users have difficulty finding lab results that show the quality of the product.",
+    "x": 0.1555,
+    "y": 0.5578,
+    "w": 0.4142,
+    "h": 0.0309
+   },
+   {
+    "t": "2. Lack of educational information on the benefits and safety of CBD.",
+    "x": 0.1555,
+    "y": 0.5921,
+    "w": 0.3648,
+    "h": 0.0307
+   },
+   {
+    "t": "3. Unintuitive navigation structure to find products or important information.",
+    "x": 0.1555,
+    "y": 0.6264,
+    "w": 0.3997,
+    "h": 0.0307
+   },
+   {
+    "t": "4. Visual branding is not enough to build trust or a professional impression.",
+    "x": 0.1555,
+    "y": 0.6604,
+    "w": 0.3953,
+    "h": 0.031
+   },
+   {
+    "t": "5. No explanation of why lab testing is important to consumers.",
+    "x": 0.1555,
+    "y": 0.6943,
+    "w": 0.3343,
+    "h": 0.0302
+   },
+   {
+    "t": "User & Audience",
+    "x": 0.1526,
+    "y": 0.7736,
+    "w": 0.1105,
+    "h": 0.0377
+   },
+   {
+    "t": "1. New users who are curious about the benefits of CBD but are still hesitant.",
+    "x": 0.1555,
+    "y": 0.8448,
+    "w": 0.407,
+    "h": 0.0345
+   },
+   {
+    "t": "2. Health conscious consumers who want to make sure the products they consume are safe.",
+    "x": 0.1555,
+    "y": 0.8718,
+    "w": 0.4885,
+    "h": 0.0453
+   },
+   {
+    "t": "3. People with active lifestyles who are looking for natural alternatives for relaxation.",
+    "x": 0.1555,
+    "y": 0.917,
+    "w": 0.4448,
+    "h": 0.0307
+   },
+   {
+    "t": "4. Loyal CBD users who want a brand with high transparency and trustworthiness.",
+    "x": 0.1555,
+    "y": 0.9509,
+    "w": 0.4331,
+    "h": 0.031
+   }
+  ]
+ },
+ {
+  "i": 8,
+  "file": "b08.jpg",
+  "y0": 3460,
+  "y1": 4185,
+  "h": 725,
+  "color": 0.51,
+  "density": 0.189,
+  "lines": [
+   {
+    "t": "Ideation",
+    "x": 0.1512,
+    "y": 0.0086,
+    "w": 0.0785,
+    "h": 0.0375
+   },
+   {
+    "t": "After understanding the user needs and brand positioning through the discovery process, proceeded to the ideation stage to",
+    "x": 0.1526,
+    "y": 0.095,
+    "w": 0.6628,
+    "h": 0.0298
+   },
+   {
+    "t": "design an intuitive and purposeful user experience flow. The goal was to ensure that the information conveyed was easy to",
+    "x": 0.1526,
+    "y": 0.1239,
+    "w": 0.6453,
+    "h": 0.0235
+   },
+   {
+    "t": "understand, especially for new users who may not be familiar with the CBD world. I focused on creating a logical flow that supports",
+    "x": 0.1526,
+    "y": 0.1499,
+    "w": 0.689,
+    "h": 0.0237
+   },
+   {
+    "t": "the exploration and education process, while also paying attention to how visuals and navigation structure can strengthen",
+    "x": 0.1526,
+    "y": 0.1758,
+    "w": 0.641,
+    "h": 0.0259
+   },
+   {
+    "t": "engagement.",
+    "x": 0.1526,
+    "y": 0.2046,
+    "w": 0.0698,
+    "h": 0.0202
+   },
+   {
+    "t": "User Flow",
+    "x": 0.1526,
+    "y": 0.2765,
+    "w": 0.0669,
+    "h": 0.0291
+   },
+   {
+    "t": "I created a user flow that leads new users to explore the educational content easily, while giving them the option to understand the",
+    "x": 0.1512,
+    "y": 0.3401,
+    "w": 0.6904,
+    "h": 0.0263
+   },
+   {
+    "t": "W*nder product more deeply. The main focus was to create a short, engaging and barrier free flow.",
+    "x": 0.1526,
+    "y": 0.366,
+    "w": 0.5233,
+    "h": 0.0293
+   },
+   {
+    "t": "User Story: As a new user, I want to know educational information about CBD, so that I can learn comfortably and confidently about its",
+    "x": 0.1526,
+    "y": 0.4294,
+    "w": 0.6846,
+    "h": 0.0293
+   },
+   {
+    "t": "benefits and usage.",
+    "x": 0.1526,
+    "y": 0.464,
+    "w": 0.1032,
+    "h": 0.0236
+   },
+   {
+    "t": "View Lab",
+    "x": 0.8023,
+    "y": 0.5474,
+    "w": 0.0291,
+    "h": 0.0147
+   },
+   {
+    "t": "Learn About",
+    "x": 0.2326,
+    "y": 0.5476,
+    "w": 0.0392,
+    "h": 0.0144
+   },
+   {
+    "t": "Educational",
+    "x": 0.343,
+    "y": 0.5476,
+    "w": 0.0378,
+    "h": 0.0144
+   },
+   {
+    "t": "Product",
+    "x": 0.484,
+    "y": 0.5476,
+    "w": 0.0262,
+    "h": 0.0144
+   },
+   {
+    "t": "Homepage",
+    "x": 0.1584,
+    "y": 0.5562,
+    "w": 0.0363,
+    "h": 0.0173
+   },
+   {
+    "t": "Scroll",
+    "x": 0.2965,
+    "y": 0.5562,
+    "w": 0.0203,
+    "h": 0.0144
+   },
+   {
+    "t": "Product Detail",
+    "x": 0.5974,
+    "y": 0.5562,
+    "w": 0.0451,
+    "h": 0.0144
+   },
+   {
+    "t": "Result Details",
+    "x": 0.7965,
+    "y": 0.5675,
+    "w": 0.0422,
+    "h": 0.0152
+   },
+   {
+    "t": "CBD",
+    "x": 0.2456,
+    "y": 0.5677,
+    "w": 0.016,
+    "h": 0.0144
+   },
+   {
+    "t": "Content",
+    "x": 0.3503,
+    "y": 0.5677,
+    "w": 0.0262,
+    "h": 0.0144
+   },
+   {
+    "t": "Recommendation",
+    "x": 0.4695,
+    "y": 0.5677,
+    "w": 0.0567,
+    "h": 0.0144
+   },
+   {
+    "t": "Ingredient Benefits",
+    "x": 0.4956,
+    "y": 0.7314,
+    "w": 0.0596,
+    "h": 0.0152
+   },
+   {
+    "t": "Nutrition info",
+    "x": 0.5785,
+    "y": 0.7314,
+    "w": 0.0422,
+    "h": 0.0152
+   },
+   {
+    "t": "Lab Test Results",
+    "x": 0.6453,
+    "y": 0.7314,
+    "w": 0.0523,
+    "h": 0.0152
+   },
+   {
+    "t": "Other Products",
+    "x": 0.7224,
+    "y": 0.7314,
+    "w": 0.0465,
+    "h": 0.0152
+   },
+   {
+    "t": "Safety",
+    "x": 0.2907,
+    "y": 0.732,
+    "w": 0.0218,
+    "h": 0.0144
+   },
+   {
+    "t": "Benefits",
+    "x": 0.3488,
+    "y": 0.732,
+    "w": 0.0291,
+    "h": 0.0144
+   },
+   {
+    "t": "Ingredients",
+    "x": 0.4055,
+    "y": 0.732,
+    "w": 0.0378,
+    "h": 0.0144
+   },
+   {
+    "t": "User Journey",
+    "x": 0.1526,
+    "y": 0.8703,
+    "w": 0.0901,
+    "h": 0.0291
+   },
+   {
+    "t": "User journey maps are used to understand the user experience in a more emotional and contextual way. By mapping each step, 1",
+    "x": 0.1526,
+    "y": 0.9308,
+    "w": 0.6759,
+    "h": 0.0265
+   },
+   {
+    "t": "can identify opportunities for improvement and create a better experience from the user's perspective.",
+    "x": 0.1526,
+    "y": 0.9597,
+    "w": 0.5407,
+    "h": 0.0231
+   }
+  ]
+ },
+ {
+  "i": 9,
+  "file": "b09.jpg",
+  "y0": 4208,
+  "y1": 4791,
+  "h": 583,
+  "color": 0.46,
+  "density": 0.421,
+  "lines": [
+   {
+    "t": "Scenario: Looking for a CBD product that helps stay energized, focused, and relaxed throughout the day with safe",
+    "x": 0.1875,
+    "y": 0.0215,
+    "w": 0.6003,
+    "h": 0.0323
+   },
+   {
+    "t": "ingredients",
+    "x": 0.186,
+    "y": 0.0534,
+    "w": 0.0611,
+    "h": 0.033
+   },
+   {
+    "t": "Expectation: Understand about CBD with navigation and easy to understand information",
+    "x": 0.1875,
+    "y": 0.089,
+    "w": 0.4666,
+    "h": 0.0292
+   },
+   {
+    "t": "Explore",
+    "x": 0.4198,
+    "y": 0.1739,
+    "w": 0.0455,
+    "h": 0.0393
+   },
+   {
+    "t": "Discover",
+    "x": 0.2964,
+    "y": 0.1747,
+    "w": 0.054,
+    "h": 0.0341
+   },
+   {
+    "t": "Phase",
+    "x": 0.1903,
+    "y": 0.1748,
+    "w": 0.038,
+    "h": 0.0339
+   },
+   {
+    "t": "Browse",
+    "x": 0.5436,
+    "y": 0.1756,
+    "w": 0.0436,
+    "h": 0.0287
+   },
+   {
+    "t": "Decide",
+    "x": 0.673,
+    "y": 0.1756,
+    "w": 0.0436,
+    "h": 0.0323
+   },
+   {
+    "t": "Scroll through",
+    "x": 0.5421,
+    "y": 0.25,
+    "w": 0.0815,
+    "h": 0.0376
+   },
+   {
+    "t": "Click on",
+    "x": 0.42,
+    "y": 0.2507,
+    "w": 0.0466,
+    "h": 0.0326
+   },
+   {
+    "t": "Activity",
+    "x": 0.1904,
+    "y": 0.2509,
+    "w": 0.0436,
+    "h": 0.0358
+   },
+   {
+    "t": "Visit W*nder",
+    "x": 0.2965,
+    "y": 0.2509,
+    "w": 0.0741,
+    "h": 0.0323
+   },
+   {
+    "t": "Reads product detail",
+    "x": 0.673,
+    "y": 0.2509,
+    "w": 0.1177,
+    "h": 0.0358
+   },
+   {
+    "t": "homepage",
+    "x": 0.295,
+    "y": 0.2968,
+    "w": 0.0641,
+    "h": 0.0372
+   },
+   {
+    "t": "educational page,",
+    "x": 0.4186,
+    "y": 0.2975,
+    "w": 0.1032,
+    "h": 0.0398
+   },
+   {
+    "t": "product list, click on",
+    "x": 0.5422,
+    "y": 0.2975,
+    "w": 0.1134,
+    "h": 0.0364
+   },
+   {
+    "t": "thoroughly and",
+    "x": 0.673,
+    "y": 0.2975,
+    "w": 0.0872,
+    "h": 0.033
+   },
+   {
+    "t": "read about CBD,",
+    "x": 0.4186,
+    "y": 0.3401,
+    "w": 0.0945,
+    "h": 0.0403
+   },
+   {
+    "t": "items to view",
+    "x": 0.5422,
+    "y": 0.3405,
+    "w": 0.077,
+    "h": 0.0328
+   },
+   {
+    "t": "considers trying it",
+    "x": 0.673,
+    "y": 0.3405,
+    "w": 0.1047,
+    "h": 0.0362
+   },
+   {
+    "t": "benefits, and safety",
+    "x": 0.4186,
+    "y": 0.387,
+    "w": 0.1134,
+    "h": 0.036
+   },
+   {
+    "t": "ingredients, benefits,",
+    "x": 0.5407,
+    "y": 0.387,
+    "w": 0.1221,
+    "h": 0.0395
+   },
+   {
+    "t": "and lab test",
+    "x": 0.5422,
+    "y": 0.4332,
+    "w": 0.0683,
+    "h": 0.0291
+   },
+   {
+    "t": "Thought",
+    "x": 0.1903,
+    "y": 0.5047,
+    "w": 0.0496,
+    "h": 0.0371
+   },
+   {
+    "t": "\"Can I trust this",
+    "x": 0.2951,
+    "y": 0.5051,
+    "w": 0.0901,
+    "h": 0.0325
+   },
+   {
+    "t": "\"What are the",
+    "x": 0.4172,
+    "y": 0.5051,
+    "w": 0.0814,
+    "h": 0.0325
+   },
+   {
+    "t": "\"Which of these suits",
+    "x": 0.5392,
+    "y": 0.5051,
+    "w": 0.1221,
+    "h": 0.0325
+   },
+   {
+    "t": "\"This product looks",
+    "x": 0.6715,
+    "y": 0.5051,
+    "w": 0.1119,
+    "h": 0.0361
+   },
+   {
+    "t": "brand?\"",
+    "x": 0.2965,
+    "y": 0.5484,
+    "w": 0.048,
+    "h": 0.0358
+   },
+   {
+    "t": "effects of CBD, and",
+    "x": 0.4186,
+    "y": 0.5514,
+    "w": 0.1105,
+    "h": 0.0364
+   },
+   {
+    "t": "my needs and has",
+    "x": 0.5494,
+    "y": 0.5514,
+    "w": 0.1047,
+    "h": 0.0364
+   },
+   {
+    "t": "good, and the",
+    "x": 0.6729,
+    "y": 0.5516,
+    "w": 0.08,
+    "h": 0.0366
+   },
+   {
+    "t": "is it safe for daily",
+    "x": 0.4172,
+    "y": 0.5942,
+    "w": 0.0974,
+    "h": 0.0366
+   },
+   {
+    "t": "information makes me",
+    "x": 0.673,
+    "y": 0.5942,
+    "w": 0.1265,
+    "h": 0.0295
+   },
+   {
+    "t": "trustworthy",
+    "x": 0.5668,
+    "y": 0.5979,
+    "w": 0.0684,
+    "h": 0.0371
+   },
+   {
+    "t": "use?\"",
+    "x": 0.4186,
+    "y": 0.638,
+    "w": 0.0349,
+    "h": 0.0358
+   },
+   {
+    "t": "ingredients?\"",
+    "x": 0.564,
+    "y": 0.638,
+    "w": 0.0785,
+    "h": 0.0394
+   },
+   {
+    "t": "feel confident\"",
+    "x": 0.6715,
+    "y": 0.638,
+    "w": 0.0872,
+    "h": 0.0367
+   },
+   {
+    "t": "?",
+    "x": 0.3459,
+    "y": 0.7133,
+    "w": 0.0131,
+    "h": 0.0394
+   },
+   {
+    "t": "Emotion",
+    "x": 0.1904,
+    "y": 0.7168,
+    "w": 0.048,
+    "h": 0.0323
+   },
+   {
+    "t": "Highlight value",
+    "x": 0.2958,
+    "y": 0.7755,
+    "w": 0.0875,
+    "h": 0.0515
+   },
+   {
+    "t": "Opportunity",
+    "x": 0.1904,
+    "y": 0.7921,
+    "w": 0.0683,
+    "h": 0.0358
+   },
+   {
+    "t": "Present informative",
+    "x": 0.4201,
+    "y": 0.7921,
+    "w": 0.1105,
+    "h": 0.0323
+   },
+   {
+    "t": "Ensure each product",
+    "x": 0.5422,
+    "y": 0.7921,
+    "w": 0.1192,
+    "h": 0.0367
+   },
+   {
+    "t": "Add clear CTA to",
+    "x": 0.673,
+    "y": 0.7921,
+    "w": 0.0974,
+    "h": 0.0323
+   },
+   {
+    "t": "proposition and",
+    "x": 0.2965,
+    "y": 0.8387,
+    "w": 0.0887,
+    "h": 0.0329
+   },
+   {
+    "t": "visuals and simple",
+    "x": 0.4186,
+    "y": 0.8387,
+    "w": 0.1061,
+    "h": 0.0329
+   },
+   {
+    "t": "page clearly shows",
+    "x": 0.5422,
+    "y": 0.8387,
+    "w": 0.1105,
+    "h": 0.0363
+   },
+   {
+    "t": "purchase or learn more,",
+    "x": 0.673,
+    "y": 0.8387,
+    "w": 0.1366,
+    "h": 0.0363
+   },
+   {
+    "t": "educational CTA on",
+    "x": 0.2965,
+    "y": 0.8817,
+    "w": 0.1119,
+    "h": 0.0327
+   },
+   {
+    "t": "explanations for",
+    "x": 0.4201,
+    "y": 0.8817,
+    "w": 0.093,
+    "h": 0.0361
+   },
+   {
+    "t": "benefits, ingredients,",
+    "x": 0.5422,
+    "y": 0.8817,
+    "w": 0.1206,
+    "h": 0.0395
+   },
+   {
+    "t": "and build trust with lab",
+    "x": 0.673,
+    "y": 0.8817,
+    "w": 0.1294,
+    "h": 0.0327
+   },
+   {
+    "t": "the homepage",
+    "x": 0.2949,
+    "y": 0.9265,
+    "w": 0.0845,
+    "h": 0.0394
+   },
+   {
+    "t": "and test lab results",
+    "x": 0.5422,
+    "y": 0.9281,
+    "w": 0.1076,
+    "h": 0.0325
+   },
+   {
+    "t": "beginners",
+    "x": 0.4186,
+    "y": 0.9282,
+    "w": 0.0596,
+    "h": 0.0362
+   },
+   {
+    "t": "transparency",
+    "x": 0.673,
+    "y": 0.9283,
+    "w": 0.077,
+    "h": 0.0358
+   }
+  ]
+ },
+ {
+  "i": 10,
+  "file": "b10.jpg",
+  "y0": 4834,
+  "y1": 5042,
+  "h": 208,
+  "color": 0.0,
+  "density": 0.231,
+  "lines": [
+   {
+    "t": "Design Process",
+    "x": 0.1526,
+    "y": 0.0577,
+    "w": 0.1439,
+    "h": 0.1538
+   },
+   {
+    "t": "To ensure visual consistency and strengthen brand identity, I created a simple yet cohesive design system tailored for W*nder's",
+    "x": 0.1526,
+    "y": 0.25,
+    "w": 0.6701,
+    "h": 0.0817
+   },
+   {
+    "t": "educational and product-focused interface. The color palette combines soft neutrals with energizing accent tones to reflect both",
+    "x": 0.1526,
+    "y": 0.33,
+    "w": 0.6773,
+    "h": 0.09
+   },
+   {
+    "t": "the calm and focus associated with CBD, while also evoking a sense of trust and clarity. For typography, I chose clean and legible",
+    "x": 0.1526,
+    "y": 0.4279,
+    "w": 0.6788,
+    "h": 0.0821
+   },
+   {
+    "t": "typefaces that maintain readability across different screen sizes, aligning with the brand's modern and informative tone. Lastly, I",
+    "x": 0.1512,
+    "y": 0.5192,
+    "w": 0.6744,
+    "h": 0.0913
+   },
+   {
+    "t": "applied a responsive 12-column grid system that supports flexibility in layout.",
+    "x": 0.1526,
+    "y": 0.61,
+    "w": 0.4055,
+    "h": 0.0919
+   },
+   {
+    "t": "Design System",
+    "x": 0.1526,
+    "y": 0.84,
+    "w": 0.1192,
+    "h": 0.1215
+   }
+  ]
+ },
+ {
+  "i": 11,
+  "file": "b11.jpg",
+  "y0": 5075,
+  "y1": 5186,
+  "h": 111,
+  "color": 0.02,
+  "density": 0.027,
+  "lines": [
+   {
+    "t": "Color",
+    "x": 0.1787,
+    "y": 0.0509,
+    "w": 0.0598,
+    "h": 0.2686
+   },
+   {
+    "t": "Primary Color",
+    "x": 0.1772,
+    "y": 0.7323,
+    "w": 0.0932,
+    "h": 0.2207
+   }
+  ]
+ },
+ {
+  "i": 12,
+  "file": "b12.jpg",
+  "y0": 5255,
+  "y1": 6104,
+  "h": 849,
+  "color": 13.11,
+  "density": 0.247,
+  "lines": [
+   {
+    "t": "Squid's Ink",
+    "x": 0.1773,
+    "y": 0.0121,
+    "w": 0.0408,
+    "h": 0.0152
+   },
+   {
+    "t": "#01162D",
+    "x": 0.1773,
+    "y": 0.0296,
+    "w": 0.0291,
+    "h": 0.0148
+   },
+   {
+    "t": "Secondary colors",
+    "x": 0.1773,
+    "y": 0.1207,
+    "w": 0.1163,
+    "h": 0.0252
+   },
+   {
+    "t": "Blue Metallic",
+    "x": 0.1773,
+    "y": 0.1647,
+    "w": 0.0799,
+    "h": 0.02
+   },
+   {
+    "t": "Blue Metallic 700",
+    "x": 0.1773,
+    "y": 0.2906,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Blue Metallic 600",
+    "x": 0.2573,
+    "y": 0.2906,
+    "w": 0.064,
+    "h": 0.0129
+   },
+   {
+    "t": "Blue Metallic 500",
+    "x": 0.3387,
+    "y": 0.2906,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Blue Metallic 400",
+    "x": 0.4186,
+    "y": 0.2906,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Blue Metallic 300",
+    "x": 0.4985,
+    "y": 0.2906,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Blue Metallic 200",
+    "x": 0.5785,
+    "y": 0.2906,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Blue Metallic 100",
+    "x": 0.6599,
+    "y": 0.2906,
+    "w": 0.061,
+    "h": 0.0129
+   },
+   {
+    "t": "Blue Metallic 50",
+    "x": 0.7398,
+    "y": 0.2906,
+    "w": 0.0581,
+    "h": 0.0129
+   },
+   {
+    "t": "#76ADE6",
+    "x": 0.6599,
+    "y": 0.3077,
+    "w": 0.0306,
+    "h": 0.0126
+   },
+   {
+    "t": "#82BCF7",
+    "x": 0.7383,
+    "y": 0.3077,
+    "w": 0.0306,
+    "h": 0.0127
+   },
+   {
+    "t": "#05284C",
+    "x": 0.1773,
+    "y": 0.3078,
+    "w": 0.032,
+    "h": 0.0125
+   },
+   {
+    "t": "#1E466E",
+    "x": 0.2587,
+    "y": 0.3079,
+    "w": 0.0291,
+    "h": 0.0123
+   },
+   {
+    "t": "#376390",
+    "x": 0.3372,
+    "y": 0.3079,
+    "w": 0.0305,
+    "h": 0.0123
+   },
+   {
+    "t": "#5081B3",
+    "x": 0.4186,
+    "y": 0.3079,
+    "w": 0.0291,
+    "h": 0.0123
+   },
+   {
+    "t": "#SD90C4",
+    "x": 0.4985,
+    "y": 0.3079,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "#699EDS",
+    "x": 0.5785,
+    "y": 0.3079,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "Bronze Satin",
+    "x": 0.1773,
+    "y": 0.3867,
+    "w": 0.0785,
+    "h": 0.0197
+   },
+   {
+    "t": "Bronze Satin 700",
+    "x": 0.1773,
+    "y": 0.5118,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Bronze Satin 600",
+    "x": 0.2587,
+    "y": 0.5118,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Bronze Satin 500",
+    "x": 0.3387,
+    "y": 0.5118,
+    "w": 0.0625,
+    "h": 0.0153
+   },
+   {
+    "t": "Bronze Satin 400",
+    "x": 0.4186,
+    "y": 0.5118,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Bronze Satin 300",
+    "x": 0.4985,
+    "y": 0.5118,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Bronze Satin 200",
+    "x": 0.5785,
+    "y": 0.5118,
+    "w": 0.0625,
+    "h": 0.0129
+   },
+   {
+    "t": "Bronze Satin 100",
+    "x": 0.6599,
+    "y": 0.5118,
+    "w": 0.061,
+    "h": 0.0129
+   },
+   {
+    "t": "Bronze Satin 50",
+    "x": 0.7398,
+    "y": 0.5118,
+    "w": 0.0581,
+    "h": 0.0129
+   },
+   {
+    "t": "#F9EAE6",
+    "x": 0.7398,
+    "y": 0.5292,
+    "w": 0.0306,
+    "h": 0.0129
+   },
+   {
+    "t": "BFOCCC3",
+    "x": 0.5785,
+    "y": 0.5294,
+    "w": 0.0335,
+    "h": 0.0126
+   },
+   {
+    "t": "#CD5636",
+    "x": 0.1773,
+    "y": 0.5296,
+    "w": 0.0334,
+    "h": 0.0123
+   },
+   {
+    "t": "#D67459",
+    "x": 0.2573,
+    "y": 0.5296,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "#DF917C",
+    "x": 0.3387,
+    "y": 0.5296,
+    "w": 0.0305,
+    "h": 0.0123
+   },
+   {
+    "t": "#EZAFAO",
+    "x": 0.4186,
+    "y": 0.5296,
+    "w": 0.0291,
+    "h": 0.0123
+   },
+   {
+    "t": "#EC8EB1",
+    "x": 0.5,
+    "y": 0.5296,
+    "w": 0.0291,
+    "h": 0.0123
+   },
+   {
+    "t": "#F50BD4",
+    "x": 0.6584,
+    "y": 0.5296,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "Viridis",
+    "x": 0.1773,
+    "y": 0.6084,
+    "w": 0.0407,
+    "h": 0.0222
+   },
+   {
+    "t": "Viridis 400",
+    "x": 0.4185,
+    "y": 0.7335,
+    "w": 0.0408,
+    "h": 0.0158
+   },
+   {
+    "t": "Viridis 700",
+    "x": 0.1773,
+    "y": 0.7336,
+    "w": 0.0408,
+    "h": 0.0155
+   },
+   {
+    "t": "Viridis 500",
+    "x": 0.3372,
+    "y": 0.7338,
+    "w": 0.0408,
+    "h": 0.0153
+   },
+   {
+    "t": "Viridis 100",
+    "x": 0.6584,
+    "y": 0.7338,
+    "w": 0.0407,
+    "h": 0.0152
+   },
+   {
+    "t": "Viridis 600",
+    "x": 0.2573,
+    "y": 0.7339,
+    "w": 0.0407,
+    "h": 0.0149
+   },
+   {
+    "t": "Viridis 300",
+    "x": 0.4985,
+    "y": 0.734,
+    "w": 0.0407,
+    "h": 0.0123
+   },
+   {
+    "t": "Viridis 200",
+    "x": 0.5785,
+    "y": 0.734,
+    "w": 0.0407,
+    "h": 0.0148
+   },
+   {
+    "t": "Viridis 50",
+    "x": 0.7398,
+    "y": 0.734,
+    "w": 0.0349,
+    "h": 0.0148
+   },
+   {
+    "t": "#00826E",
+    "x": 0.1772,
+    "y": 0.7505,
+    "w": 0.0307,
+    "h": 0.0137
+   },
+   {
+    "t": "#ABFEF2",
+    "x": 0.7398,
+    "y": 0.7508,
+    "w": 0.0306,
+    "h": 0.0131
+   },
+   {
+    "t": "#229888",
+    "x": 0.2573,
+    "y": 0.7512,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "#44B4A3",
+    "x": 0.3372,
+    "y": 0.7512,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "#67COBD",
+    "x": 0.4186,
+    "y": 0.7512,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "#78D9CA",
+    "x": 0.4985,
+    "y": 0.7512,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "#89E6D8",
+    "x": 0.5785,
+    "y": 0.7512,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "#9AF2E5",
+    "x": 0.6584,
+    "y": 0.7512,
+    "w": 0.0305,
+    "h": 0.0123
+   },
+   {
+    "t": "Neutral colors",
+    "x": 0.1788,
+    "y": 0.83,
+    "w": 0.093,
+    "h": 0.0222
+   },
+   {
+    "t": "Neutral 300",
+    "x": 0.4985,
+    "y": 0.955,
+    "w": 0.0437,
+    "h": 0.016
+   },
+   {
+    "t": "Neutral 700",
+    "x": 0.1773,
+    "y": 0.9553,
+    "w": 0.0437,
+    "h": 0.0155
+   },
+   {
+    "t": "Neutral 500",
+    "x": 0.3387,
+    "y": 0.9553,
+    "w": 0.0436,
+    "h": 0.0153
+   },
+   {
+    "t": "Neutral 400",
+    "x": 0.4186,
+    "y": 0.9553,
+    "w": 0.0436,
+    "h": 0.0129
+   },
+   {
+    "t": "Neutral 600",
+    "x": 0.2572,
+    "y": 0.9554,
+    "w": 0.0437,
+    "h": 0.0152
+   },
+   {
+    "t": "Neutral 200",
+    "x": 0.5785,
+    "y": 0.9554,
+    "w": 0.0437,
+    "h": 0.0153
+   },
+   {
+    "t": "Neutral 100",
+    "x": 0.6584,
+    "y": 0.9554,
+    "w": 0.0437,
+    "h": 0.0152
+   },
+   {
+    "t": "Neutral 50",
+    "x": 0.7398,
+    "y": 0.9555,
+    "w": 0.0393,
+    "h": 0.015
+   },
+   {
+    "t": "#000000",
+    "x": 0.1773,
+    "y": 0.9729,
+    "w": 0.032,
+    "h": 0.0148
+   },
+   {
+    "t": "#616161",
+    "x": 0.3387,
+    "y": 0.9729,
+    "w": 0.0276,
+    "h": 0.0123
+   },
+   {
+    "t": "#919191",
+    "x": 0.4186,
+    "y": 0.9729,
+    "w": 0.0276,
+    "h": 0.0123
+   },
+   {
+    "t": "#AAAAAA",
+    "x": 0.4985,
+    "y": 0.9729,
+    "w": 0.0334,
+    "h": 0.0123
+   },
+   {
+    "t": "#C2C2C2",
+    "x": 0.5785,
+    "y": 0.9729,
+    "w": 0.0334,
+    "h": 0.0123
+   },
+   {
+    "t": "#DADADA",
+    "x": 0.6599,
+    "y": 0.9729,
+    "w": 0.032,
+    "h": 0.0123
+   },
+   {
+    "t": "#FFFFFF",
+    "x": 0.7398,
+    "y": 0.9729,
+    "w": 0.0291,
+    "h": 0.0148
+   },
+   {
+    "t": "#303030",
+    "x": 0.2573,
+    "y": 0.9754,
+    "w": 0.032,
+    "h": 0.0123
+   }
+  ]
+ },
+ {
+  "i": 13,
+  "file": "b13.jpg",
+  "y0": 6201,
+  "y1": 6415,
+  "h": 214,
+  "color": 0.0,
+  "density": 0.041,
+  "lines": [
+   {
+    "t": "Typography",
+    "x": 0.1802,
+    "y": 0.0287,
+    "w": 0.1047,
+    "h": 0.1485
+   },
+   {
+    "t": "Asul",
+    "x": 0.1788,
+    "y": 0.4804,
+    "w": 0.0392,
+    "h": 0.1176
+   },
+   {
+    "t": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "x": 0.1788,
+    "y": 0.6569,
+    "w": 0.1628,
+    "h": 0.0784
+   },
+   {
+    "t": "abcdefghijklmnopqrstuvwxyz",
+    "x": 0.1788,
+    "y": 0.7745,
+    "w": 0.1294,
+    "h": 0.0686
+   },
+   {
+    "t": "1234567890",
+    "x": 0.1788,
+    "y": 0.8922,
+    "w": 0.0552,
+    "h": 0.0588
+   }
+  ]
+ },
+ {
+  "i": 14,
+  "file": "b14.jpg",
+  "y0": 6513,
+  "y1": 6827,
+  "h": 314,
+  "color": 1.93,
+  "density": 0.039,
+  "lines": [
+   {
+    "t": "Button",
+    "x": 0.282,
+    "y": 0.04,
+    "w": 0.0698,
+    "h": 0.0867
+   },
+   {
+    "t": "< Label",
+    "x": 0.4214,
+    "y": 0.3052,
+    "w": 0.0423,
+    "h": 0.0495
+   },
+   {
+    "t": "Label",
+    "x": 0.532,
+    "y": 0.3133,
+    "w": 0.0305,
+    "h": 0.04
+   },
+   {
+    "t": "Label >",
+    "x": 0.4346,
+    "y": 0.5,
+    "w": 0.0436,
+    "h": 0.0478
+   },
+   {
+    "t": "Label",
+    "x": 0.5363,
+    "y": 0.5067,
+    "w": 0.0276,
+    "h": 0.04
+   },
+   {
+    "t": "Label",
+    "x": 0.4331,
+    "y": 0.6933,
+    "w": 0.032,
+    "h": 0.0467
+   },
+   {
+    "t": "Label >",
+    "x": 0.5305,
+    "y": 0.6933,
+    "w": 0.048,
+    "h": 0.0467
+   }
+  ]
+ },
+ {
+  "i": 15,
+  "file": "b15.jpg",
+  "y0": 7039,
+  "y1": 7545,
+  "h": 506,
+  "color": 3.56,
+  "density": 0.37,
+  "lines": [
+   {
+    "t": "Grid System",
+    "x": 0.1816,
+    "y": 0.0242,
+    "w": 0.0757,
+    "h": 0.0425
+   },
+   {
+    "t": "Desktop (1440px)",
+    "x": 0.1817,
+    "y": 0.1107,
+    "w": 0.1119,
+    "h": 0.0422
+   },
+   {
+    "t": "104px",
+    "x": 0.1802,
+    "y": 0.2231,
+    "w": 0.0291,
+    "h": 0.0289
+   },
+   {
+    "t": "76px",
+    "x": 0.3677,
+    "y": 0.2231,
+    "w": 0.0233,
+    "h": 0.0331
+   },
+   {
+    "t": "28px",
+    "x": 0.4404,
+    "y": 0.2231,
+    "w": 0.0233,
+    "h": 0.0248
+   },
+   {
+    "t": "1230px",
+    "x": 0.4855,
+    "y": 0.876,
+    "w": 0.0305,
+    "h": 0.0248
+   },
+   {
+    "t": "1440px",
+    "x": 0.484,
+    "y": 0.9545,
+    "w": 0.032,
+    "h": 0.0289
+   }
+  ]
+ },
+ {
+  "i": 16,
+  "file": "b16.jpg",
+  "y0": 7641,
+  "y1": 7764,
+  "h": 123,
+  "color": 0.0,
+  "density": 0.194,
+  "lines": [
+   {
+    "t": "Final Design",
+    "x": 0.1526,
+    "y": 0.1172,
+    "w": 0.0974,
+    "h": 0.2063
+   },
+   {
+    "t": "This design consists of two pages: Homepage and Lab Test Results. I will describe both pages in each",
+    "x": 0.1512,
+    "y": 0.5565,
+    "w": 0.6773,
+    "h": 0.1893
+   },
+   {
+    "t": "section because all sections have important information to understand this project better.",
+    "x": 0.1512,
+    "y": 0.7627,
+    "w": 0.5974,
+    "h": 0.1889
+   }
+  ]
+ },
+ {
+  "i": 17,
+  "file": "b17.jpg",
+  "y0": 7802,
+  "y1": 7902,
+  "h": 100,
+  "color": 0.0,
+  "density": 0.082,
+  "lines": [
+   {
+    "t": "Homepage",
+    "x": 0.1523,
+    "y": 0.1203,
+    "w": 0.0877,
+    "h": 0.233
+   },
+   {
+    "t": "Hero Section: Works like a W*nder",
+    "x": 0.15,
+    "y": 0.5882,
+    "w": 0.275,
+    "h": 0.2941
+   }
+  ]
+ },
+ {
+  "i": 18,
+  "file": "b18.jpg",
+  "y0": 7933,
+  "y1": 8640,
+  "h": 707,
+  "color": 14.42,
+  "density": 0.47,
+  "lines": [
+   {
+    "t": "w'nder",
+    "x": 0.2702,
+    "y": 0.0287,
+    "w": 0.0671,
+    "h": 0.0459
+   },
+   {
+    "t": "R Q",
+    "x": 0.6977,
+    "y": 0.0381,
+    "w": 0.0291,
+    "h": 0.0212
+   },
+   {
+    "t": "ABOUT CBD",
+    "x": 0.6424,
+    "y": 0.0382,
+    "w": 0.0451,
+    "h": 0.0179
+   },
+   {
+    "t": "ABOUT US",
+    "x": 0.5916,
+    "y": 0.041,
+    "w": 0.0392,
+    "h": 0.0155
+   },
+   {
+    "t": "SHOP",
+    "x": 0.5581,
+    "y": 0.0413,
+    "w": 0.0218,
+    "h": 0.0118
+   },
+   {
+    "t": "CBD",
+    "x": 0.666,
+    "y": 0.1865,
+    "w": 0.0367,
+    "h": 0.0457
+   },
+   {
+    "t": "10**",
+    "x": 0.2922,
+    "y": 0.233,
+    "w": 0.0189,
+    "h": 0.0206
+   },
+   {
+    "t": "under",
+    "x": 0.2789,
+    "y": 0.2531,
+    "w": 0.0726,
+    "h": 0.1067
+   },
+   {
+    "t": "under",
+    "x": 0.6468,
+    "y": 0.2655,
+    "w": 0.0596,
+    "h": 0.056
+   },
+   {
+    "t": "PORT.",
+    "x": 0.314,
+    "y": 0.3363,
+    "w": 0.0233,
+    "h": 0.0383
+   },
+   {
+    "t": ".....",
+    "x": 0.6389,
+    "y": 0.3601,
+    "w": 0.0514,
+    "h": 0.045
+   },
+   {
+    "t": "Works like a",
+    "x": 0.423,
+    "y": 0.3799,
+    "w": 0.1555,
+    "h": 0.048
+   },
+   {
+    "t": "under",
+    "x": 0.2703,
+    "y": 0.4189,
+    "w": 0.032,
+    "h": 0.1091
+   },
+   {
+    "t": "w*nder",
+    "x": 0.452,
+    "y": 0.4395,
+    "w": 0.0974,
+    "h": 0.0472
+   },
+   {
+    "t": "U",
+    "x": 0.2355,
+    "y": 0.4454,
+    "w": 0.0116,
+    "h": 0.0206
+   },
+   {
+    "t": "Each sip of our delicious CBD sparkling",
+    "x": 0.4259,
+    "y": 0.5221,
+    "w": 0.1497,
+    "h": 0.0177
+   },
+   {
+    "t": "beverages has been thoughtfully formulated to",
+    "x": 0.4128,
+    "y": 0.5395,
+    "w": 0.1759,
+    "h": 0.024
+   },
+   {
+    "t": "keep you energized, focused, and relaxed",
+    "x": 0.423,
+    "y": 0.5664,
+    "w": 0.1555,
+    "h": 0.0184
+   },
+   {
+    "t": "throughout the day.",
+    "x": 0.4622,
+    "y": 0.587,
+    "w": 0.0756,
+    "h": 0.0177
+   },
+   {
+    "t": "DRINK UP",
+    "x": 0.4811,
+    "y": 0.6342,
+    "w": 0.0378,
+    "h": 0.0148
+   },
+   {
+    "t": "This hero section is the main entry point for visitors to get to know the W*nder brand identity first-hand. Designed with dynamic",
+    "x": 0.1526,
+    "y": 0.7611,
+    "w": 0.673,
+    "h": 0.0242
+   },
+   {
+    "t": "and colorful visuals of the canned product, this section builds a strong first impression. The headline \"Works like a w*nder\" stands",
+    "x": 0.1526,
+    "y": 0.7847,
+    "w": 0.6831,
+    "h": 0.0265
+   },
+   {
+    "t": "out, conveying the brand's straightforward positioning that this CBD product is not just a drink, but specifically designed to help",
+    "x": 0.1526,
+    "y": 0.8136,
+    "w": 0.6701,
+    "h": 0.0271
+   },
+   {
+    "t": "users feel more focused, energized and relaxed in their daily lives. The supporting paragraphs below it briefly introduce the product",
+    "x": 0.1526,
+    "y": 0.8404,
+    "w": 0.6919,
+    "h": 0.0269
+   },
+   {
+    "t": "formula, while giving the impression that this product can be part of a daily routine. The \"Drink Up\" CTA button reinforces the",
+    "x": 0.1512,
+    "y": 0.8672,
+    "w": 0.657,
+    "h": 0.0268
+   },
+   {
+    "t": "conversion direction, inviting users to start exploring the benefits of the product further.",
+    "x": 0.1526,
+    "y": 0.8938,
+    "w": 0.4637,
+    "h": 0.0271
+   },
+   {
+    "t": "W*nder Meter",
+    "x": 0.1512,
+    "y": 0.9528,
+    "w": 0.1163,
+    "h": 0.0331
+   }
+  ]
+ },
+ {
+  "i": 19,
+  "file": "b19.jpg",
+  "y0": 8672,
+  "y1": 9405,
+  "h": 733,
+  "color": 1.78,
+  "density": 0.463,
+  "lines": [
+   {
+    "t": "t Morning, Noon, & N",
+    "x": 0.2238,
+    "y": 0.0256,
+    "w": 0.5538,
+    "h": 0.1174
+   },
+   {
+    "t": "orning, Noon, & Nigh",
+    "x": 0.2238,
+    "y": 0.1425,
+    "w": 0.5567,
+    "h": 0.114
+   },
+   {
+    "t": "DRINK IN THE MORNING",
+    "x": 0.3358,
+    "y": 0.2991,
+    "w": 0.1134,
+    "h": 0.0428
+   },
+   {
+    "t": "There's a",
+    "x": 0.5378,
+    "y": 0.302,
+    "w": 0.0843,
+    "h": 0.0345
+   },
+   {
+    "t": "W*nder for",
+    "x": 0.5377,
+    "y": 0.3464,
+    "w": 0.1048,
+    "h": 0.0365
+   },
+   {
+    "t": "energy",
+    "x": 0.5378,
+    "y": 0.4017,
+    "w": 0.064,
+    "h": 0.0342
+   },
+   {
+    "t": "You can enjoy any of our",
+    "x": 0.5378,
+    "y": 0.4523,
+    "w": 0.093,
+    "h": 0.0178
+   },
+   {
+    "t": "beverages any time of day, but",
+    "x": 0.5378,
+    "y": 0.4728,
+    "w": 0.1148,
+    "h": 0.0177
+   },
+   {
+    "t": "some are best served at specific",
+    "x": 0.5378,
+    "y": 0.4957,
+    "w": 0.1206,
+    "h": 0.0142
+   },
+   {
+    "t": "times. Use our W*nder Meter to",
+    "x": 0.5378,
+    "y": 0.5148,
+    "w": 0.1163,
+    "h": 0.0161
+   },
+   {
+    "t": "find out how to get the most out",
+    "x": 0.5378,
+    "y": 0.5354,
+    "w": 0.1206,
+    "h": 0.0177
+   },
+   {
+    "t": "Hover over the dots to learn about each Winder flavor.",
+    "x": 0.3169,
+    "y": 0.5381,
+    "w": 0.1497,
+    "h": 0.015
+   },
+   {
+    "t": "of your CBD.",
+    "x": 0.5378,
+    "y": 0.5556,
+    "w": 0.048,
+    "h": 0.0171
+   },
+   {
+    "t": "GET BREAKFAST CLUB",
+    "x": 0.5509,
+    "y": 0.6008,
+    "w": 0.0799,
+    "h": 0.015
+   },
+   {
+    "t": "This section serves as an educational tool to help users understand that each W*nder variant has a function and optimal",
+    "x": 0.1526,
+    "y": 0.7436,
+    "w": 0.6323,
+    "h": 0.0234
+   },
+   {
+    "t": "consumption time of morning, afternoon or evening. The visual \"W*nder Meter\" is depicted in the form of a clock or dial, which",
+    "x": 0.1526,
+    "y": 0.7692,
+    "w": 0.6628,
+    "h": 0.0256
+   },
+   {
+    "t": "shows the recommended consumption points for each variant. By hovering over each point, the user can see each variant. This is",
+    "x": 0.1526,
+    "y": 0.7943,
+    "w": 0.6788,
+    "h": 0.0262
+   },
+   {
+    "t": "also very helpful for users who are new to CBD, as it provides guidance on when to consume certain products for maximum results.",
+    "x": 0.1526,
+    "y": 0.8229,
+    "w": 0.689,
+    "h": 0.0233
+   },
+   {
+    "t": "On the right side, additional information is explained in a light but informative copy style, such as that the product can be consumed",
+    "x": 0.1526,
+    "y": 0.8488,
+    "w": 0.6919,
+    "h": 0.0232
+   },
+   {
+    "t": "at any time, but has the best effect at a certain time. The \"Get Breakfast Club\" CA is also a follow up path for users who want to",
+    "x": 0.1526,
+    "y": 0.8746,
+    "w": 0.6759,
+    "h": 0.0232
+   },
+   {
+    "t": "engage more deeply, expanding the possibility of long term interaction.",
+    "x": 0.1526,
+    "y": 0.9003,
+    "w": 0.375,
+    "h": 0.0234
+   },
+   {
+    "t": "Proof & Trust",
+    "x": 0.1526,
+    "y": 0.9538,
+    "w": 0.1062,
+    "h": 0.0355
+   }
+  ]
+ },
+ {
+  "i": 20,
+  "file": "b20.jpg",
+  "y0": 9437,
+  "y1": 10284,
+  "h": 847,
+  "color": 2.83,
+  "density": 0.463,
+  "lines": [
+   {
+    "t": "20 MG",
+    "x": 0.5727,
+    "y": 0.1284,
+    "w": 0.0276,
+    "h": 0.0123
+   },
+   {
+    "t": "CBD",
+    "x": 0.577,
+    "y": 0.1457,
+    "w": 0.0203,
+    "h": 0.0123
+   },
+   {
+    "t": "Trust us, it works",
+    "x": 0.3314,
+    "y": 0.3007,
+    "w": 0.3343,
+    "h": 0.0746
+   },
+   {
+    "t": "0 MG",
+    "x": 0.311,
+    "y": 0.4245,
+    "w": 0.0218,
+    "h": 0.0106
+   },
+   {
+    "t": "100%",
+    "x": 0.6599,
+    "y": 0.4247,
+    "w": 0.0262,
+    "h": 0.0123
+   },
+   {
+    "t": "THC",
+    "x": 0.311,
+    "y": 0.4321,
+    "w": 0.0203,
+    "h": 0.0222
+   },
+   {
+    "t": "CLEAN",
+    "x": 0.6584,
+    "y": 0.437,
+    "w": 0.0291,
+    "h": 0.0173
+   },
+   {
+    "t": "When it comes to",
+    "x": 0.4186,
+    "y": 0.4444,
+    "w": 0.1628,
+    "h": 0.0296
+   },
+   {
+    "t": "CBD, the more you",
+    "x": 0.4128,
+    "y": 0.4835,
+    "w": 0.1744,
+    "h": 0.0377
+   },
+   {
+    "t": "know, the better.",
+    "x": 0.4201,
+    "y": 0.5235,
+    "w": 0.1599,
+    "h": 0.037
+   },
+   {
+    "t": "So we've partnered with Green Scientific Labs to",
+    "x": 0.4099,
+    "y": 0.5896,
+    "w": 0.1817,
+    "h": 0.0153
+   },
+   {
+    "t": "verify the quality and transparency of every product.",
+    "x": 0.4026,
+    "y": 0.6073,
+    "w": 0.1948,
+    "h": 0.0177
+   },
+   {
+    "t": "SEE THE PROOF",
+    "x": 0.4709,
+    "y": 0.6469,
+    "w": 0.0596,
+    "h": 0.0123
+   },
+   {
+    "t": "Considering that CBD is still considered new and even controversial in some circles, building trust is a priority. This section aims to",
+    "x": 0.1526,
+    "y": 0.7556,
+    "w": 0.6831,
+    "h": 0.0227
+   },
+   {
+    "t": "address users' doubts about the quality, safety and legality of the product. With the strong headline \"Trust us, it works\", W*nder",
+    "x": 0.1526,
+    "y": 0.7748,
+    "w": 0.6715,
+    "h": 0.0252
+   },
+   {
+    "t": "demonstrates a data driven approach and transparency. Key information such as \"0 MG THC\", \"20 MG CBD\", and \"100% CLEAN\"",
+    "x": 0.1526,
+    "y": 0.7995,
+    "w": 0.6701,
+    "h": 0.0252
+   },
+   {
+    "t": "appear in the form of easy to understand visual elements.",
+    "x": 0.1526,
+    "y": 0.8219,
+    "w": 0.3038,
+    "h": 0.0225
+   },
+   {
+    "t": "The narrative goes on to explain the collaboration with Green Scientific Labs, a third party that conducts independent laboratory",
+    "x": 0.1526,
+    "y": 0.8667,
+    "w": 0.6744,
+    "h": 0.0225
+   },
+   {
+    "t": "testing to ensure quality. The \"See the Proof\" CA offers concrete evidence to support this claim, giving users direct access to the",
+    "x": 0.1512,
+    "y": 0.8889,
+    "w": 0.686,
+    "h": 0.0227
+   },
+   {
+    "t": "test report. This demonstrates the brand's commitment to scientific accountability and credibility.",
+    "x": 0.1512,
+    "y": 0.9136,
+    "w": 0.5145,
+    "h": 0.0198
+   },
+   {
+    "t": "Educational Emphasis",
+    "x": 0.1526,
+    "y": 0.9599,
+    "w": 0.1744,
+    "h": 0.033
+   }
+  ]
+ },
+ {
+  "i": 21,
+  "file": "b21.jpg",
+  "y0": 10315,
+  "y1": 10899,
+  "h": 584,
+  "color": 2.6,
+  "density": 0.472,
+  "lines": [
+   {
+    "t": "We know CBD",
+    "x": 0.2573,
+    "y": 0.1182,
+    "w": 0.2747,
+    "h": 0.0897
+   },
+   {
+    "t": "But what",
+    "x": 0.5833,
+    "y": 0.1832,
+    "w": 0.1,
+    "h": 0.0515
+   },
+   {
+    "t": "We know CBD",
+    "x": 0.2558,
+    "y": 0.2329,
+    "w": 0.2762,
+    "h": 0.0861
+   },
+   {
+    "t": "exactly is it?",
+    "x": 0.5848,
+    "y": 0.2387,
+    "w": 0.1256,
+    "h": 0.0799
+   },
+   {
+    "t": "...and how do you use it? Whether",
+    "x": 0.5858,
+    "y": 0.3297,
+    "w": 0.1366,
+    "h": 0.0251
+   },
+   {
+    "t": "We know CBD",
+    "x": 0.2573,
+    "y": 0.3441,
+    "w": 0.2747,
+    "h": 0.0932
+   },
+   {
+    "t": "you're curious about the stuff or know",
+    "x": 0.5843,
+    "y": 0.3579,
+    "w": 0.1526,
+    "h": 0.0223
+   },
+   {
+    "t": "a thing or two, our experts can help.",
+    "x": 0.5843,
+    "y": 0.387,
+    "w": 0.1439,
+    "h": 0.0223
+   },
+   {
+    "t": "GET TO KNOW CBD",
+    "x": 0.5974,
+    "y": 0.4444,
+    "w": 0.0785,
+    "h": 0.0215
+   },
+   {
+    "t": "We know CBD",
+    "x": 0.2573,
+    "y": 0.4552,
+    "w": 0.2747,
+    "h": 0.0932
+   },
+   {
+    "t": "This section is designed to emphasize W*nder's position as a brand that not only sells, but also educates. By featuring various",
+    "x": 0.1526,
+    "y": 0.7089,
+    "w": 0.6628,
+    "h": 0.033
+   },
+   {
+    "t": "typographic styles of the phrase \"We know CBD\", users are given the impression that the brand is rich in insight and confident in its",
+    "x": 0.1526,
+    "y": 0.7414,
+    "w": 0.689,
+    "h": 0.0363
+   },
+   {
+    "t": "expertise. The clean layout and consistent use of colors help maintain a professional yet approachable feel. On the right-hand side,",
+    "x": 0.1526,
+    "y": 0.774,
+    "w": 0.6875,
+    "h": 0.0325
+   },
+   {
+    "t": "a sparking question is displayed: \"But what exactly is it?\", which represents the curiosity of novice users towards CBD. With the",
+    "x": 0.1526,
+    "y": 0.8065,
+    "w": 0.6657,
+    "h": 0.036
+   },
+   {
+    "t": "addition of a \"Get to Know CBD\" CTA, the brand directs users to sources of further information, reinforcing their positioning as a",
+    "x": 0.1512,
+    "y": 0.8423,
+    "w": 0.673,
+    "h": 0.0327
+   },
+   {
+    "t": "brand that builds literacy, not just looking for sales.",
+    "x": 0.1526,
+    "y": 0.8746,
+    "w": 0.2703,
+    "h": 0.0287
+   },
+   {
+    "t": "Brand Mission: The 420 Rule",
+    "x": 0.1526,
+    "y": 0.9427,
+    "w": 0.2282,
+    "h": 0.0436
+   }
+  ]
+ },
+ {
+  "i": 22,
+  "file": "b22.jpg",
+  "y0": 10930,
+  "y1": 11606,
+  "h": 676,
+  "color": 6.43,
+  "density": 0.458,
+  "lines": [
+   {
+    "t": "The 420 Rule",
+    "x": 0.3474,
+    "y": 0.3062,
+    "w": 0.125,
+    "h": 0.0436
+   },
+   {
+    "t": "We reinvest 4.20% of our profits in",
+    "x": 0.3488,
+    "y": 0.3772,
+    "w": 0.1294,
+    "h": 0.0192
+   },
+   {
+    "t": "entrepreneurs from the communities",
+    "x": 0.3488,
+    "y": 0.3994,
+    "w": 0.1366,
+    "h": 0.0193
+   },
+   {
+    "t": "that have been negatively affected by",
+    "x": 0.3488,
+    "y": 0.4211,
+    "w": 0.1395,
+    "h": 0.0186
+   },
+   {
+    "t": "the prohibition of cannabis.",
+    "x": 0.3488,
+    "y": 0.4423,
+    "w": 0.1047,
+    "h": 0.0192
+   },
+   {
+    "t": "WHY WE CARE",
+    "x": 0.3619,
+    "y": 0.4923,
+    "w": 0.0538,
+    "h": 0.0155
+   },
+   {
+    "t": "As part of the effort to build value and differentiation, W*nder places their brand mission explicitly in this section. \"The 420 Rule\"",
+    "x": 0.1526,
+    "y": 0.7766,
+    "w": 0.6759,
+    "h": 0.0283
+   },
+   {
+    "t": "explains that 4.20% of the company's profits are channeled back to communities that have been negatively impacted by cannabis",
+    "x": 0.1526,
+    "y": 0.8077,
+    "w": 0.6817,
+    "h": 0.0251
+   },
+   {
+    "t": "regulations in the past. This move shows that W*nder is not just a commercial brand, but also committed to social justice. The clean",
+    "x": 0.1512,
+    "y": 0.8358,
+    "w": 0.6933,
+    "h": 0.0251
+   },
+   {
+    "t": "and elegant visual of the cannabis leaf is used to signify commitment to the community, rather than just a pop culture symbol. This",
+    "x": 0.1526,
+    "y": 0.8638,
+    "w": 0.686,
+    "h": 0.0282
+   },
+   {
+    "t": "reinforces brand values and creates an emotional bond with consumers that supports sustainability and business ethics.",
+    "x": 0.1512,
+    "y": 0.8916,
+    "w": 0.6352,
+    "h": 0.0248
+   },
+   {
+    "t": "Footer",
+    "x": 0.1511,
+    "y": 0.9532,
+    "w": 0.0539,
+    "h": 0.0318
+   }
+  ]
+ },
+ {
+  "i": 23,
+  "file": "b23.jpg",
+  "y0": 11638,
+  "y1": 11994,
+  "h": 356,
+  "color": 36.76,
+  "density": 0.501,
+  "lines": [
+   {
+    "t": "wnder",
+    "x": 0.635,
+    "y": 0.1863,
+    "w": 0.0686,
+    "h": 0.092
+   },
+   {
+    "t": "SHOP",
+    "x": 0.2573,
+    "y": 0.1941,
+    "w": 0.0276,
+    "h": 0.0353
+   },
+   {
+    "t": "Get Updates",
+    "x": 0.4621,
+    "y": 0.2102,
+    "w": 0.0757,
+    "h": 0.0619
+   },
+   {
+    "t": "ABOUT US",
+    "x": 0.2572,
+    "y": 0.269,
+    "w": 0.0467,
+    "h": 0.0385
+   },
+   {
+    "t": "Subscrbe to our newsletter to receive",
+    "x": 0.4448,
+    "y": 0.2941,
+    "w": 0.1119,
+    "h": 0.0294
+   },
+   {
+    "t": "DISCLAIMER",
+    "x": 0.6352,
+    "y": 0.3,
+    "w": 0.0422,
+    "h": 0.0294
+   },
+   {
+    "t": "updates and special announcements.",
+    "x": 0.4448,
+    "y": 0.3287,
+    "w": 0.1105,
+    "h": 0.0309
+   },
+   {
+    "t": "ABOUT CBD",
+    "x": 0.2573,
+    "y": 0.3471,
+    "w": 0.0552,
+    "h": 0.0294
+   },
+   {
+    "t": "Information and statements",
+    "x": 0.6352,
+    "y": 0.3647,
+    "w": 0.0814,
+    "h": 0.0294
+   },
+   {
+    "t": "regarding our products have not",
+    "x": 0.6337,
+    "y": 0.3989,
+    "w": 0.0974,
+    "h": 0.0309
+   },
+   {
+    "t": "TEST RESULTS",
+    "x": 0.2573,
+    "y": 0.4176,
+    "w": 0.064,
+    "h": 0.0353
+   },
+   {
+    "t": "been evaluated by the Food and",
+    "x": 0.6337,
+    "y": 0.4353,
+    "w": 0.0974,
+    "h": 0.0294
+   },
+   {
+    "t": "YOUR EMAIL",
+    "x": 0.4375,
+    "y": 0.4466,
+    "w": 0.0523,
+    "h": 0.0309
+   },
+   {
+    "t": "Drug Administration and are not",
+    "x": 0.6352,
+    "y": 0.4706,
+    "w": 0.0945,
+    "h": 0.0353
+   },
+   {
+    "t": "SHIPPING & RETURNS",
+    "x": 0.2573,
+    "y": 0.4882,
+    "w": 0.1017,
+    "h": 0.0353
+   },
+   {
+    "t": "intended to diagnose, treat, cure or",
+    "x": 0.6337,
+    "y": 0.5056,
+    "w": 0.1047,
+    "h": 0.0365
+   },
+   {
+    "t": "prevent any disease or health",
+    "x": 0.6337,
+    "y": 0.5471,
+    "w": 0.0887,
+    "h": 0.0294
+   },
+   {
+    "t": "CONTACT US",
+    "x": 0.2573,
+    "y": 0.5646,
+    "w": 0.0581,
+    "h": 0.0309
+   },
+   {
+    "t": "condition. Our product is not",
+    "x": 0.6352,
+    "y": 0.5815,
+    "w": 0.0843,
+    "h": 0.0309
+   },
+   {
+    "t": "recommended for women who are",
+    "x": 0.6337,
+    "y": 0.6176,
+    "w": 0.1032,
+    "h": 0.0353
+   },
+   {
+    "t": "pregnant, women who are nursing;",
+    "x": 0.6337,
+    "y": 0.6588,
+    "w": 0.1032,
+    "h": 0.0294
+   },
+   {
+    "t": "SUBMIT",
+    "x": 0.484,
+    "y": 0.6763,
+    "w": 0.0334,
+    "h": 0.0297
+   },
+   {
+    "t": "or children.",
+    "x": 0.6352,
+    "y": 0.6882,
+    "w": 0.0349,
+    "h": 0.0365
+   },
+   {
+    "t": "+",
+    "x": 0.2573,
+    "y": 0.7294,
+    "w": 0.016,
+    "h": 0.0647
+   },
+   {
+    "t": "Winder contains NO THC.",
+    "x": 0.6352,
+    "y": 0.7528,
+    "w": 0.077,
+    "h": 0.0309
+   },
+   {
+    "t": "\u2022 2020 W*NDER",
+    "x": 0.2573,
+    "y": 0.9353,
+    "w": 0.0538,
+    "h": 0.0294
+   },
+   {
+    "t": "PRIVACY POLICY TERMS OFUSE",
+    "x": 0.6395,
+    "y": 0.9353,
+    "w": 0.1047,
+    "h": 0.0294
+   }
+  ]
+ },
+ {
+  "i": 24,
+  "file": "b24.jpg",
+  "y0": 12017,
+  "y1": 12154,
+  "h": 137,
+  "color": 0.15,
+  "density": 0.392,
+  "lines": [
+   {
+    "t": "As the conclusion of the overall user experience on the main page, this footer plays an important role in organizing secondary",
+    "x": 0.1526,
+    "y": 0.0909,
+    "w": 0.6584,
+    "h": 0.1515
+   },
+   {
+    "t": "information while reinforcing a sense of trust. Navigation is clearly divided into categories such as \"About CBD\", \"Test Results\", and",
+    "x": 0.1526,
+    "y": 0.2246,
+    "w": 0.6831,
+    "h": 0.1542
+   },
+   {
+    "t": "\"Shipping & Returns\". The newsletter column invites users to join and get regular updates, creating further conversion opportunities.",
+    "x": 0.1512,
+    "y": 0.3623,
+    "w": 0.6948,
+    "h": 0.1377
+   },
+   {
+    "t": "On the bottom right, there are important disclaimers regarding the use of the product including warnings for pregnant and",
+    "x": 0.1526,
+    "y": 0.5145,
+    "w": 0.641,
+    "h": 0.1232
+   },
+   {
+    "t": "breastfeeding mothers that demonstrate the brand's responsibility for consumer safety. Copyright information, privacy policy, and",
+    "x": 0.1526,
+    "y": 0.6515,
+    "w": 0.6817,
+    "h": 0.1238
+   },
+   {
+    "t": "links to social media reinforce the brand's professional image and make it easy to access additional support and information.",
+    "x": 0.1512,
+    "y": 0.7727,
+    "w": 0.6555,
+    "h": 0.1364
+   }
+  ]
+ },
+ {
+  "i": 25,
+  "file": "b25.jpg",
+  "y0": 12185,
+  "y1": 12289,
+  "h": 104,
+  "color": 0.0,
+  "density": 0.075,
+  "lines": [
+   {
+    "t": "Test Result Page",
+    "x": 0.1522,
+    "y": 0.1031,
+    "w": 0.1344,
+    "h": 0.2841
+   },
+   {
+    "t": "Is your CBD legitimate and safe?",
+    "x": 0.1497,
+    "y": 0.68,
+    "w": 0.2616,
+    "h": 0.2623
+   }
+  ]
+ },
+ {
+  "i": 26,
+  "file": "b26.jpg",
+  "y0": 12320,
+  "y1": 12991,
+  "h": 671,
+  "color": 37.01,
+  "density": 0.408,
+  "lines": [
+   {
+    "t": "wnder",
+    "x": 0.2993,
+    "y": 0.0336,
+    "w": 0.0569,
+    "h": 0.0387
+   },
+   {
+    "t": "ABOUT US",
+    "x": 0.5799,
+    "y": 0.0401,
+    "w": 0.035,
+    "h": 0.0163
+   },
+   {
+    "t": "ABOUT CBD R Q",
+    "x": 0.6235,
+    "y": 0.0402,
+    "w": 0.0756,
+    "h": 0.0193
+   },
+   {
+    "t": "SHOP",
+    "x": 0.5509,
+    "y": 0.0405,
+    "w": 0.0203,
+    "h": 0.0125
+   },
+   {
+    "t": "Is your CBD",
+    "x": 0.3966,
+    "y": 0.2689,
+    "w": 0.2038,
+    "h": 0.0852
+   },
+   {
+    "t": "legitimate and safe?",
+    "x": 0.3212,
+    "y": 0.3551,
+    "w": 0.3532,
+    "h": 0.0779
+   },
+   {
+    "t": "It's the wild west in CBD",
+    "x": 0.3983,
+    "y": 0.5045,
+    "w": 0.202,
+    "h": 0.0345
+   },
+   {
+    "t": "W\u00bander leads the market in quality and transparency, which is",
+    "x": 0.3997,
+    "y": 0.5607,
+    "w": 0.2006,
+    "h": 0.0187
+   },
+   {
+    "t": "why we publish the lab results from Green Scientific Labs of",
+    "x": 0.4012,
+    "y": 0.5818,
+    "w": 0.1977,
+    "h": 0.0194
+   },
+   {
+    "t": "every batch.",
+    "x": 0.4782,
+    "y": 0.601,
+    "w": 0.0436,
+    "h": 0.0191
+   },
+   {
+    "t": "This section is the main gateway to introduce Wnder's commitment to the safety and transparency of their CBD products. With a",
+    "x": 0.1526,
+    "y": 0.747,
+    "w": 0.6744,
+    "h": 0.0287
+   },
+   {
+    "t": "bold orange background and large typography that immediately catches the eye, this section emphasizes a common consumer",
+    "x": 0.1526,
+    "y": 0.7753,
+    "w": 0.6686,
+    "h": 0.0284
+   },
+   {
+    "t": "concern: \"Is the CBD you are consuming safe and legal?\". Underneath, there's the subtitle \"It's the wild west in CBD\",",
+    "x": 0.1526,
+    "y": 0.8036,
+    "w": 0.609,
+    "h": 0.0283
+   },
+   {
+    "t": ", which",
+    "x": 0.7558,
+    "y": 0.8065,
+    "w": 0.0423,
+    "h": 0.0288
+   },
+   {
+    "t": "illustrates how unorganized the CBD industry is today, followed by the explanation that W*nder consistently publishes lab results",
+    "x": 0.1526,
+    "y": 0.8318,
+    "w": 0.6773,
+    "h": 0.0283
+   },
+   {
+    "t": "from Green Scientific Labs to ensure each batch is safe and transparent. This builds trust and positions the brand as a responsible",
+    "x": 0.1526,
+    "y": 0.8629,
+    "w": 0.6846,
+    "h": 0.0255
+   },
+   {
+    "t": "leader in the CBD industry.",
+    "x": 0.1512,
+    "y": 0.891,
+    "w": 0.1439,
+    "h": 0.0249
+   },
+   {
+    "t": "Testing Parameters",
+    "x": 0.1522,
+    "y": 0.9432,
+    "w": 0.1563,
+    "h": 0.0512
+   }
+  ]
+ },
+ {
+  "i": 27,
+  "file": "b27.jpg",
+  "y0": 13022,
+  "y1": 13778,
+  "h": 756,
+  "color": 0.87,
+  "density": 0.421,
+  "lines": [
+   {
+    "t": "W*nder is tested for the following",
+    "x": 0.3619,
+    "y": 0.0831,
+    "w": 0.2762,
+    "h": 0.0333
+   },
+   {
+    "t": "RESIDUAL",
+    "x": 0.4826,
+    "y": 0.4183,
+    "w": 0.0349,
+    "h": 0.0111
+   },
+   {
+    "t": "HEAVY",
+    "x": 0.5916,
+    "y": 0.4183,
+    "w": 0.0233,
+    "h": 0.0139
+   },
+   {
+    "t": "MYCOTOXIN",
+    "x": 0.3765,
+    "y": 0.4238,
+    "w": 0.0407,
+    "h": 0.0139
+   },
+   {
+    "t": "THC",
+    "x": 0.5959,
+    "y": 0.6177,
+    "w": 0.0145,
+    "h": 0.0139
+   },
+   {
+    "t": "MATERIALS",
+    "x": 0.3779,
+    "y": 0.6233,
+    "w": 0.0378,
+    "h": 0.0139
+   },
+   {
+    "t": "ACTIVITY",
+    "x": 0.4855,
+    "y": 0.6233,
+    "w": 0.0305,
+    "h": 0.0139
+   },
+   {
+    "t": "The second section presents a comprehensive list of testing parameters conducted on Wnder products, with a clean and minimalist",
+    "x": 0.1526,
+    "y": 0.8003,
+    "w": 0.6919,
+    "h": 0.0252
+   },
+   {
+    "t": "circle design style for each item. There are 9 key points tested: CBD, Microbials, Pesticides, Mycotoxins, Residual Solvents, Heavy",
+    "x": 0.1526,
+    "y": 0.828,
+    "w": 0.6817,
+    "h": 0.0225
+   },
+   {
+    "t": "Metals, Foreign Materials, Water Activity, and THC. As the user hovers over each item, the benefits of each parameter appear,",
+    "x": 0.1526,
+    "y": 0.8504,
+    "w": 0.6613,
+    "h": 0.0252
+   },
+   {
+    "t": "providing additional education and proving that W*nder pays attention to every important aspect of product safety. This interaction",
+    "x": 0.1526,
+    "y": 0.8781,
+    "w": 0.6904,
+    "h": 0.0227
+   },
+   {
+    "t": "provides an educational and transparent user experience.",
+    "x": 0.1526,
+    "y": 0.903,
+    "w": 0.3038,
+    "h": 0.0222
+   },
+   {
+    "t": "Product Lab Result",
+    "x": 0.1526,
+    "y": 0.9584,
+    "w": 0.1526,
+    "h": 0.0283
+   }
+  ]
+ },
+ {
+  "i": 28,
+  "file": "b28.jpg",
+  "y0": 13809,
+  "y1": 14386,
+  "h": 577,
+  "color": 12.7,
+  "density": 0.433,
+  "lines": [
+   {
+    "t": "CBD",
+    "x": 0.6221,
+    "y": 0.1486,
+    "w": 0.0276,
+    "h": 0.0254
+   },
+   {
+    "t": "CBD",
+    "x": 0.4433,
+    "y": 0.1522,
+    "w": 0.0247,
+    "h": 0.0217
+   },
+   {
+    "t": "CBD",
+    "x": 0.5334,
+    "y": 0.1522,
+    "w": 0.0262,
+    "h": 0.0217
+   },
+   {
+    "t": "CBD",
+    "x": 0.3532,
+    "y": 0.1558,
+    "w": 0.0262,
+    "h": 0.0217
+   },
+   {
+    "t": "SONG",
+    "x": 0.6279,
+    "y": 0.1739,
+    "w": 0.0174,
+    "h": 0.0145
+   },
+   {
+    "t": "wunder",
+    "x": 0.4316,
+    "y": 0.2277,
+    "w": 0.0481,
+    "h": 0.041
+   },
+   {
+    "t": "wunder",
+    "x": 0.6119,
+    "y": 0.2283,
+    "w": 0.0494,
+    "h": 0.0435
+   },
+   {
+    "t": "w'nder",
+    "x": 0.5217,
+    "y": 0.2311,
+    "w": 0.0496,
+    "h": 0.0414
+   },
+   {
+    "t": "w'nder",
+    "x": 0.343,
+    "y": 0.2391,
+    "w": 0.048,
+    "h": 0.0362
+   },
+   {
+    "t": "TIMES",
+    "x": 0.5363,
+    "y": 0.2862,
+    "w": 0.0203,
+    "h": 0.0326
+   },
+   {
+    "t": "TO RON",
+    "x": 0.4433,
+    "y": 0.2899,
+    "w": 0.0247,
+    "h": 0.029
+   },
+   {
+    "t": "MOVES",
+    "x": 0.6235,
+    "y": 0.2899,
+    "w": 0.0247,
+    "h": 0.0326
+   },
+   {
+    "t": "VIEW TEST",
+    "x": 0.4331,
+    "y": 0.558,
+    "w": 0.0451,
+    "h": 0.0182
+   },
+   {
+    "t": "VIEW TEST",
+    "x": 0.5233,
+    "y": 0.558,
+    "w": 0.0451,
+    "h": 0.0217
+   },
+   {
+    "t": "VIEW TEST",
+    "x": 0.6134,
+    "y": 0.558,
+    "w": 0.0451,
+    "h": 0.0217
+   },
+   {
+    "t": "VIEW TEST",
+    "x": 0.3416,
+    "y": 0.5616,
+    "w": 0.0465,
+    "h": 0.0217
+   },
+   {
+    "t": "In this section, four variants of W*nder CBD drinks are featured: Breakfast Club, Born to Run, Fast Times, and Night Moves. Each",
+    "x": 0.1526,
+    "y": 0.7388,
+    "w": 0.673,
+    "h": 0.0366
+   },
+   {
+    "t": "product is presented with a brightly colored can display that represents their unique flavors and functions. Below each product,",
+    "x": 0.1526,
+    "y": 0.7716,
+    "w": 0.6686,
+    "h": 0.0329
+   },
+   {
+    "t": "there is a \"View Test\" button that directs users to the product's specific lab test results. This emphasizes the total transparency of",
+    "x": 0.1526,
+    "y": 0.8043,
+    "w": 0.6846,
+    "h": 0.033
+   },
+   {
+    "t": "the brand, allowing users to check the quality and safety of the variant they are interested in before purchasing. Attractive product",
+    "x": 0.1497,
+    "y": 0.8406,
+    "w": 0.689,
+    "h": 0.0366
+   },
+   {
+    "t": "visuals combined with direct access to scientific data creates a balance between aesthetics and credibility.",
+    "x": 0.1526,
+    "y": 0.8732,
+    "w": 0.564,
+    "h": 0.029
+   },
+   {
+    "t": "Educational Section",
+    "x": 0.1526,
+    "y": 0.9457,
+    "w": 0.1584,
+    "h": 0.037
+   }
+  ]
+ },
+ {
+  "i": 29,
+  "file": "b29.jpg",
+  "y0": 14417,
+  "y1": 14947,
+  "h": 530,
+  "color": 1.88,
+  "density": 0.413,
+  "lines": [
+   {
+    "t": "We know",
+    "x": 0.3575,
+    "y": 0.1693,
+    "w": 0.0815,
+    "h": 0.0448
+   },
+   {
+    "t": "CBD",
+    "x": 0.359,
+    "y": 0.2292,
+    "w": 0.0407,
+    "h": 0.0435
+   },
+   {
+    "t": "But what exactly is it and how do",
+    "x": 0.359,
+    "y": 0.3038,
+    "w": 0.1163,
+    "h": 0.0245
+   },
+   {
+    "t": "you use it? Whether you're",
+    "x": 0.3576,
+    "y": 0.332,
+    "w": 0.0959,
+    "h": 0.0246
+   },
+   {
+    "t": "curious about the stuff or know a",
+    "x": 0.3576,
+    "y": 0.3597,
+    "w": 0.1177,
+    "h": 0.0198
+   },
+   {
+    "t": "thing or two, our experts can",
+    "x": 0.3576,
+    "y": 0.3868,
+    "w": 0.1017,
+    "h": 0.0208
+   },
+   {
+    "t": "help.",
+    "x": 0.3576,
+    "y": 0.415,
+    "w": 0.0189,
+    "h": 0.0198
+   },
+   {
+    "t": "GET TO KNOW CBD",
+    "x": 0.3706,
+    "y": 0.4698,
+    "w": 0.0669,
+    "h": 0.0208
+   },
+   {
+    "t": "This section serves as an invitation to learn more about CBD. With the friendly and affirmative heading \"We Know CBD\", this section",
+    "x": 0.1526,
+    "y": 0.7151,
+    "w": 0.689,
+    "h": 0.0359
+   },
+   {
+    "t": "offers help to users who are unfamiliar or want to know more about the benefits, workings, and uses of CBD. Reinforced by a flat",
+    "x": 0.1526,
+    "y": 0.7547,
+    "w": 0.6759,
+    "h": 0.0358
+   },
+   {
+    "t": "design illustration of a CBD bottle with subtle animation, this section gives a lively and informative feel. There is also a \"Get to Know",
+    "x": 0.1526,
+    "y": 0.7905,
+    "w": 0.6904,
+    "h": 0.0359
+   },
+   {
+    "t": "CBD\" button that encourages users to explore other educational pages of W*nder. This section is very useful for building the brand",
+    "x": 0.1526,
+    "y": 0.8214,
+    "w": 0.6876,
+    "h": 0.0407
+   },
+   {
+    "t": "as a trusted source, not only as a seller, but also as an educator in the field.",
+    "x": 0.1526,
+    "y": 0.8613,
+    "w": 0.3983,
+    "h": 0.0383
+   },
+   {
+    "t": "Footer",
+    "x": 0.1526,
+    "y": 0.9407,
+    "w": 0.0523,
+    "h": 0.0435
+   }
+  ]
+ },
+ {
+  "i": 30,
+  "file": "b30.jpg",
+  "y0": 14979,
+  "y1": 15299,
+  "h": 320,
+  "color": 34.42,
+  "density": 0.462,
+  "lines": [
+   {
+    "t": "wnder",
+    "x": 0.6278,
+    "y": 0.1429,
+    "w": 0.0641,
+    "h": 0.0933
+   },
+   {
+    "t": "SHOP",
+    "x": 0.2718,
+    "y": 0.1438,
+    "w": 0.0262,
+    "h": 0.0392
+   },
+   {
+    "t": "Get Updates",
+    "x": 0.4636,
+    "y": 0.1625,
+    "w": 0.0728,
+    "h": 0.0673
+   },
+   {
+    "t": "ABOUT US",
+    "x": 0.2718,
+    "y": 0.2219,
+    "w": 0.0451,
+    "h": 0.0344
+   },
+   {
+    "t": "DISCLAIMER",
+    "x": 0.6265,
+    "y": 0.2549,
+    "w": 0.0407,
+    "h": 0.0327
+   },
+   {
+    "t": "updates and special announcements",
+    "x": 0.4477,
+    "y": 0.2875,
+    "w": 0.1017,
+    "h": 0.0262
+   },
+   {
+    "t": "ABOUT CBD",
+    "x": 0.2718,
+    "y": 0.3,
+    "w": 0.0509,
+    "h": 0.0344
+   },
+   {
+    "t": "information and statements",
+    "x": 0.6265,
+    "y": 0.3187,
+    "w": 0.077,
+    "h": 0.0344
+   },
+   {
+    "t": "regarding our products have not",
+    "x": 0.6265,
+    "y": 0.3594,
+    "w": 0.0916,
+    "h": 0.0328
+   },
+   {
+    "t": "TEST RESULTS",
+    "x": 0.2718,
+    "y": 0.3719,
+    "w": 0.061,
+    "h": 0.0406
+   },
+   {
+    "t": "been evaluated by the Food and",
+    "x": 0.6265,
+    "y": 0.3906,
+    "w": 0.0916,
+    "h": 0.0407
+   },
+   {
+    "t": "YOUR EMAIL \u2022",
+    "x": 0.4404,
+    "y": 0.4052,
+    "w": 0.0494,
+    "h": 0.0327
+   },
+   {
+    "t": "Drug Administration and are not",
+    "x": 0.6265,
+    "y": 0.4312,
+    "w": 0.0901,
+    "h": 0.0328
+   },
+   {
+    "t": "SHIPPING & RETURNS",
+    "x": 0.2718,
+    "y": 0.45,
+    "w": 0.0959,
+    "h": 0.0406
+   },
+   {
+    "t": "intended to diagnose, treat, cure or",
+    "x": 0.6265,
+    "y": 0.4706,
+    "w": 0.0988,
+    "h": 0.0392
+   },
+   {
+    "t": "prevent any disease or health",
+    "x": 0.6265,
+    "y": 0.5094,
+    "w": 0.0828,
+    "h": 0.0344
+   },
+   {
+    "t": "CONTACT US",
+    "x": 0.2718,
+    "y": 0.5281,
+    "w": 0.0552,
+    "h": 0.0406
+   },
+   {
+    "t": "condition. Our product is not",
+    "x": 0.6265,
+    "y": 0.549,
+    "w": 0.0799,
+    "h": 0.0327
+   },
+   {
+    "t": "recommended for women who are",
+    "x": 0.6265,
+    "y": 0.5812,
+    "w": 0.0974,
+    "h": 0.0406
+   },
+   {
+    "t": "pregnant, women who are nursing,",
+    "x": 0.6265,
+    "y": 0.6275,
+    "w": 0.0974,
+    "h": 0.0327
+   },
+   {
+    "t": "SUBMIT",
+    "x": 0.4855,
+    "y": 0.6471,
+    "w": 0.0305,
+    "h": 0.0327
+   },
+   {
+    "t": "or children",
+    "x": 0.6265,
+    "y": 0.6594,
+    "w": 0.0334,
+    "h": 0.0344
+   },
+   {
+    "t": "W\u00bander contains NO THC",
+    "x": 0.6265,
+    "y": 0.725,
+    "w": 0.0727,
+    "h": 0.0344
+   },
+   {
+    "t": "\u00a9 2020 W\u00b0NDER",
+    "x": 0.2718,
+    "y": 0.915,
+    "w": 0.0509,
+    "h": 0.0327
+   }
+  ]
+ },
+ {
+  "i": 31,
+  "file": "b31.jpg",
+  "y0": 15326,
+  "y1": 15461,
+  "h": 135,
+  "color": 0.17,
+  "density": 0.368,
+  "lines": [
+   {
+    "t": "The closing section includes quick navigation to important pages such as About Us, Shipping & Returns, as well as a form to sign up",
+    "x": 0.1526,
+    "y": 0.0923,
+    "w": 0.6904,
+    "h": 0.1385
+   },
+   {
+    "t": "for the newsletter. In the center is a \"Get Updates\" form for users who wish to receive the latest product announcements or",
+    "x": 0.1512,
+    "y": 0.2279,
+    "w": 0.6497,
+    "h": 0.1413
+   },
+   {
+    "t": "information via email. On the right side, there is an important disclaimer from W*nder regarding FDA regulations and who is not",
+    "x": 0.1512,
+    "y": 0.3824,
+    "w": 0.6672,
+    "h": 0.1253
+   },
+   {
+    "t": "recommended to consume CBD products, including pregnant and nursing mothers. This section reflects the brand's legal and",
+    "x": 0.1512,
+    "y": 0.5074,
+    "w": 0.6599,
+    "h": 0.1397
+   },
+   {
+    "t": "ethical responsibility, showing that they are not only transparent, but also compliant with health regulations. The visuals remain",
+    "x": 0.1526,
+    "y": 0.6615,
+    "w": 0.6672,
+    "h": 0.1252
+   },
+   {
+    "t": "minimalistic ensuring the focus remains on the important information.",
+    "x": 0.1526,
+    "y": 0.8,
+    "w": 0.3648,
+    "h": 0.1265
+   }
+  ]
+ },
+ {
+  "i": 32,
+  "file": "b32.jpg",
+  "y0": 15494,
+  "y1": 15967,
+  "h": 473,
+  "color": 0.0,
+  "density": 0.307,
+  "lines": [
+   {
+    "t": "Usability Testing",
+    "x": 0.1526,
+    "y": 0.0264,
+    "w": 0.1323,
+    "h": 0.058
+   },
+   {
+    "t": "To evaluate the usability, effectiveness and user satisfaction levels of the W*nder product, I conducted a series of moderated",
+    "x": 0.1526,
+    "y": 0.1013,
+    "w": 0.6584,
+    "h": 0.0401
+   },
+   {
+    "t": "usability testing sessions with participants who represented first-time visitors interested in healthy and safe beverage solutions to",
+    "x": 0.1526,
+    "y": 0.141,
+    "w": 0.6831,
+    "h": 0.0405
+   },
+   {
+    "t": "support work productivity. The participants had an interest in CBD-based products, but also had concerns about their safety and",
+    "x": 0.1526,
+    "y": 0.1806,
+    "w": 0.6773,
+    "h": 0.0396
+   },
+   {
+    "t": "health benefits. Therefore, the test was designed to simulate how users naturally explore and evaluate products before making a",
+    "x": 0.1526,
+    "y": 0.2194,
+    "w": 0.6759,
+    "h": 0.0449
+   },
+   {
+    "t": "purchase decision.",
+    "x": 0.1526,
+    "y": 0.2637,
+    "w": 0.1003,
+    "h": 0.0316
+   },
+   {
+    "t": "In each session, participants were presented with realistic scenarios that reflected the user's process of deciding. The scenarios",
+    "x": 0.1526,
+    "y": 0.3392,
+    "w": 0.6744,
+    "h": 0.0405
+   },
+   {
+    "t": "given were as follows:",
+    "x": 0.1526,
+    "y": 0.3833,
+    "w": 0.1177,
+    "h": 0.0352
+   },
+   {
+    "t": "1. You need a drink that can energize you for work. You hear that W*nder is the solution that can solve your problem, but you are",
+    "x": 0.1555,
+    "y": 0.4184,
+    "w": 0.6774,
+    "h": 0.0447
+   },
+   {
+    "t": "not sure if this product is safe for health. So you want to get to know this product first. What steps do you take?",
+    "x": 0.1672,
+    "y": 0.462,
+    "w": 0.5887,
+    "h": 0.0402
+   },
+   {
+    "t": "2. After looking at the product information, you feel unsure about consuming it. You need more detailed product information. How",
+    "x": 0.1555,
+    "y": 0.5021,
+    "w": 0.6788,
+    "h": 0.0359
+   },
+   {
+    "t": "do you look for it?",
+    "x": 0.1701,
+    "y": 0.5419,
+    "w": 0.0945,
+    "h": 0.0362
+   },
+   {
+    "t": "3. By looking at the benefits of the ingredients, you already feel pretty confident but haven't found strong information to buy this",
+    "x": 0.1555,
+    "y": 0.5815,
+    "w": 0.6744,
+    "h": 0.0396
+   },
+   {
+    "t": "product. What should you do?",
+    "x": 0.1686,
+    "y": 0.6203,
+    "w": 0.1584,
+    "h": 0.0361
+   },
+   {
+    "t": "4. After finding the lab test results, you are very confident to buy this product. How do you buy it?",
+    "x": 0.1555,
+    "y": 0.6603,
+    "w": 0.5203,
+    "h": 0.0401
+   },
+   {
+    "t": "Through this scenario, the test focused on how users navigated the W*nder home page to find information about the product,",
+    "x": 0.1512,
+    "y": 0.7401,
+    "w": 0.6628,
+    "h": 0.0447
+   },
+   {
+    "t": "safety, and health benefits. It also assessed how clearly the brand's values and mission were communicated, how easy it was to",
+    "x": 0.1526,
+    "y": 0.7797,
+    "w": 0.6715,
+    "h": 0.0396
+   },
+   {
+    "t": "access information such as lab test results and ingredient descriptions, and how easy it was for users to find CTA buttons such as",
+    "x": 0.1526,
+    "y": 0.8186,
+    "w": 0.6817,
+    "h": 0.0405
+   },
+   {
+    "t": "\"View Test\" \"Get to Know CBD\", and \"Shop\". The results of this test are expected to identify points of friction, the strength of the",
+    "x": 0.1512,
+    "y": 0.8586,
+    "w": 0.6759,
+    "h": 0.0401
+   },
+   {
+    "t": "home page and test result page in building trust with new users, and provide recommendations to improve the overall user",
+    "x": 0.1526,
+    "y": 0.903,
+    "w": 0.6439,
+    "h": 0.0359
+   },
+   {
+    "t": "experience.",
+    "x": 0.1526,
+    "y": 0.9471,
+    "w": 0.0625,
+    "h": 0.0264
+   }
+  ]
+ },
+ {
+  "i": 33,
+  "file": "b33.jpg",
+  "y0": 16001,
+  "y1": 16192,
+  "h": 191,
+  "color": 0.0,
+  "density": 0.241,
+  "lines": [
+   {
+    "t": "Reflection",
+    "x": 0.1526,
+    "y": 0.0652,
+    "w": 0.0799,
+    "h": 0.1196
+   },
+   {
+    "t": "If I had additional time, I would:",
+    "x": 0.1526,
+    "y": 0.25,
+    "w": 0.1657,
+    "h": 0.099
+   },
+   {
+    "t": "1. Conduct additional user research to explore more issues that may not have been revealed and gain new insights from the user's",
+    "x": 0.1555,
+    "y": 0.3478,
+    "w": 0.6846,
+    "h": 0.1001
+   },
+   {
+    "t": "perspective.",
+    "x": 0.1686,
+    "y": 0.4565,
+    "w": 0.0669,
+    "h": 0.0761
+   },
+   {
+    "t": "2. Conduct usability testing using the tasks and scenarios that have been created, in order to measure the effectiveness of",
+    "x": 0.1555,
+    "y": 0.5417,
+    "w": 0.6468,
+    "h": 0.0996
+   },
+   {
+    "t": "information flow, navigation, and user confidence in the product.",
+    "x": 0.1686,
+    "y": 0.6406,
+    "w": 0.3401,
+    "h": 0.099
+   },
+   {
+    "t": "3. Resolve any issues found and improve areas that are still lacking to make the user experience more intuitive and convincing.",
+    "x": 0.1555,
+    "y": 0.75,
+    "w": 0.6657,
+    "h": 0.0885
+   },
+   {
+    "t": "4. Iterate on the design to improve visual quality and functionality, and ensure that the final design truly meets the user's needs.",
+    "x": 0.1555,
+    "y": 0.8478,
+    "w": 0.673,
+    "h": 0.1001
+   }
+  ]
+ }
+]

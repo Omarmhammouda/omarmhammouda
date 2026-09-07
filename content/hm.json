@@ -1,0 +1,148 @@
+{
+ "slug": "hm",
+ "name": "HM",
+ "category": "E-commerce admin",
+ "tier": "full",
+ "dek": "An e-commerce admin console where reviews, product search, and purchase sharing stop living in separate silos.",
+ "at_a_glance": {
+  "role": "Sole UX/UI designer, end to end",
+  "type": "Independent concept project",
+  "year": "2023",
+  "platform": "Responsive web",
+  "scope": "Competitive analysis, user flows, design system, hi-fi UI, usability testing",
+  "industry": "E-commerce and retail tech",
+  "hard_part": "Keeping eleven-column operational tables scannable while every row still ends in a judgment: approve, share, or dig deeper.",
+  "look_for": "How one filter, column, and pagination grammar repeats across reviews and purchases, so the console is learned once."
+ },
+ "problem": {
+  "claim_h2": "Guarding quality without seeing the feedback",
+  "thesis": "Admins are asked to guard product quality without direct access to the one signal that measures it: what customers actually say.",
+  "body": "Mainstream platforms scatter the admin's core jobs across plugins, hidden menus, and extra navigation, when they support them at all. HM is a concept console where review moderation, precise product search, and shareable purchase records are native to one surface.",
+  "bullets": [
+   "Reviews sat behind integrations or extra navigation, so quality monitoring ran blind.",
+   "Filters were too generic to isolate one product in a large catalog quickly.",
+   "Purchase details had no copyable link, so documenting or sharing a record meant rebuilding it by hand."
+  ],
+  "research_note": "Desk research compared Amazon, Walmart, Etsy Shop Manager, and Shopify Admin on review visibility, filtering depth, and link sharing."
+ },
+ "decisions": [
+  {
+   "title": "Scoped filters plus a column picker, not a query builder",
+   "thesis": "The answer to dense tables was not fewer columns, it was giving each admin control over which columns exist at all.",
+   "rationale": "The competitive scan surfaced a contradiction: admins drown in metrics they did not ask for, yet the filters they get are too coarse to find anything. HM answers with two controls that work together: a persistent filter bar scoped to product name, customer name, and status, and a column picker in the table header that lets each admin subtract what their role never reads. Truncated cells and badge-coded statuses keep whatever survives the cut readable at a glance. An advanced query builder was the obvious alternative, but the journey work showed admins asking where the filter is, not asking for more operators, so prominence beat power. The tradeoff is that compound queries stay out of reach, a fair price for a filter non-technical admins find on the first try.",
+   "figure": "b30-crop.jpg",
+   "caption": "The column picker lives in the table header, so an admin can cut eleven columns down to the five their job actually reads.",
+   "alt": "Product Review table with a column visibility checklist open in the header, listing SKU, Product Name, Review Title, Content, and more, all checked.",
+   "source_blocks": [
+    3,
+    7,
+    11,
+    30,
+    31
+   ]
+  },
+  {
+   "title": "Reviews live inside the catalog, one click from a verdict",
+   "thesis": "A review is not content to browse, it is a work item, so every review row ends in a decision screen.",
+   "rationale": "The queue sits under Catalog as a sortable table, and each row's action opens a detail screen headed by three radio options, Approve, Pending, and Reject, with the evidence directly beneath: customer photos, star rating, full text, and a public reply field. A second tab lists the same customer's other reviews, because credibility is judged from a reviewer's history, not one data point, and that history should not cost a navigation trip. The safer pattern would be a standalone moderation queue, but a separate surface recreates exactly the silo this project set out to remove. Keeping approval inside the catalog costs a longer breadcrumb and buys a loop with no context switch.",
+   "figure": "b28-crop.jpg",
+   "caption": "Approve, Pending, and Reject sit above the evidence: customer photos, rating, full text, and a reply field.",
+   "alt": "Product Review Detail screen with approval radio buttons, a row of customer keyboard photos, five-star rating, review text, and a public reply box.",
+   "source_blocks": [
+    3,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "title": "Copy link as a first-class action on purchase details",
+   "thesis": "If sharing a record takes more than one click, admins will screenshot it, so the link became a button.",
+   "rationale": "Purchase details travel constantly between sales, support, and documentation, yet the competitive scan found link copying hidden, plugin-dependent, or missing on every platform reviewed. In HM the order modal presents Copy link as a peer of View Order and Download, with the raw URL exposed in a copyable field beneath the buttons. Showing the URL is deliberate noise: an admin who can read the link trusts what just went to a colleague. The quieter alternative, copying silently with a toast, would look cleaner but hides the one thing being shared. An activity log under the actions records every touch on the file, so a link that travels stays auditable.",
+   "figure": "b34-crop.jpg",
+   "caption": "Copy link sits beside Download and View Order, with the raw URL visible so the admin can trust what they copied.",
+   "alt": "Order detail modal for a digital product showing Copy link, Download, and View Order buttons, an exposed download URL, status panel, and activity log table.",
+   "source_blocks": [
+    3,
+    7,
+    32,
+    33,
+    34
+   ]
+  }
+ ],
+ "pull_quote": "Find, judge, act, share. The console earns its keep by never breaking that loop.",
+ "design": {
+  "claim_h2": "One grammar, learned once",
+  "intro": "Every screen repeats one anatomy: breadcrumb, scoped filter bar, badge-coded table, and pagination built for hundreds of rows.",
+  "figures": [
+   {
+    "figure": "b27-crop.jpg",
+    "caption": "The review queue holds eleven sortable columns; truncation and status badges keep hundreds of rows scannable.",
+    "alt": "Admin dashboard with left sidebar, Product Review breadcrumb, filter bar, and a wide review table with orange Pending and green Approved badges.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b29-crop.jpg",
+    "caption": "The same customer's other reviews sit one tab away, so credibility gets judged without leaving the approval flow.",
+    "alt": "Product Review Detail on the Other reviews of Mason Monu tab, listing that customer's reviews with star ratings and status badges.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b31-crop.jpg",
+    "caption": "The queue after subtraction: five columns, one job, no noise.",
+    "alt": "Product Review table reduced to SKU, Product Name, Content, Customer, and Timestamp columns, with the column checklist open at right.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b32-crop.jpg",
+    "caption": "Purchases reuse the identical filter and table grammar, so the Sales module needs no relearning.",
+    "alt": "Digital Purchase Management table listing SKUs, file names, sizes, download counts, and last purchased dates under a search and status filter bar.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b33-crop.jpg",
+    "caption": "A purchase detail pairs the file card with its transaction history, each status in its own color.",
+    "alt": "Digital Purchase detail for boddydigital-5 with product photo, Download button, Edit Product action, and a transaction table with color-coded statuses.",
+    "frame": "dark"
+   }
+  ]
+ },
+ "validation": {
+  "flows": [
+   "Find a buyer's review",
+   "Spot top-rated products",
+   "Filter by exact criteria",
+   "Share a purchase link",
+   "Check sales per product"
+  ],
+  "changed": [],
+  "honest_line": "Moderated sessions showed whether admins could find the filter, read the queue, and share a link unaided; they could not establish how the console holds up against a live catalog at real volume."
+ },
+ "learnings": [
+  "Density is only a problem when it is not optional. The column picker reframed the loudest complaint from the competitive scan: instead of deciding for every admin which metrics matter, the table ships complete and lets each role subtract. That resolution cost one icon in the table header.",
+  "Judgment needs adjacent evidence, not another tab. Approving a review is a trust call, and the moment that call requires hunting down a customer's history elsewhere, it gets skipped. Folding the reviewer's other reviews into the approval screen turned a navigation chore into a glance.",
+  "The smallest control in the system carries the most workflow weight. Copy link is one button, but it replaces screenshots and retyped order numbers as the way purchase details travel between people. Exposing the raw URL beside the button was the trust detail: admins share confidently when they can see what they are sharing."
+ ],
+ "appendix": {
+  "framing": "The scaffolding behind the screens. A competitive scan set the feature bar, three user stories fixed the navigation, and a component inventory keeps every table speaking the same language.",
+  "figures": [
+   {
+    "figure": "b07-crop.jpg",
+    "caption": "Four platforms scored on review visibility, filtering depth, and link sharing; the gaps became HM's three core features.",
+    "alt": "Comparison table scoring Amazon, Walmart, Etsy Shop Manager, and Shopify Admin on review visibility, product filtering, and link sharing."
+   },
+   {
+    "figure": "b09.jpg",
+    "caption": "Three user stories, three flows, each ending at the action that matters: a review verdict, filtered results, a copied link.",
+    "alt": "Three flow diagrams built from admin user stories, terminating in review detail, filter results, and copy link nodes."
+   },
+   {
+    "figure": "b25.jpg",
+    "caption": "Tabs, tags, pagination, and side nav specced as reusable parts: the grammar every table screen borrows.",
+    "alt": "Component sheet with progress tabs, toggles, radio buttons, checkboxes, colored tag chips, pagination rows, side navigation, and table specimens."
+   }
+  ]
+ },
+ "next": "mockquestions"
+}
