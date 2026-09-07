@@ -157,13 +157,97 @@ a {
 /* ---------- Hero ---------- */
 .hero {
   padding-block: clamp(56px, 10vh, 96px) clamp(48px, 8vh, 88px);
+  position: relative;
 }
+
+/* Palette orb: the 11 project colors blended into one object,
+   with a thin orbit ring. The headline staggers around it. */
+.orb {
+  position: absolute;
+  top: clamp(-20px, 2vh, 40px);
+  right: clamp(-40px, 4vw, 120px);
+  width: clamp(260px, 30vw, 430px);
+  aspect-ratio: 1;
+  pointer-events: none;
+  z-index: 0;
+}
+.orb::before {
+  content: "";
+  position: absolute;
+  inset: -13%;
+  border: 1px solid var(--line-soft);
+  border-radius: 50%;
+}
+.orb::after {
+  content: "";
+  position: absolute;
+  inset: -26%;
+  border: 1px solid var(--line-soft);
+  border-radius: 50%;
+  opacity: 0.6;
+}
+.orb-core {
+  position: absolute;
+  inset: 0;
+  display: block;
+  border-radius: 50%;
+  background:
+    radial-gradient(circle at 30% 28%, rgba(246, 198, 206, 0.95), transparent 52%),
+    radial-gradient(circle at 72% 30%, rgba(246, 200, 155, 0.95), transparent 54%),
+    radial-gradient(circle at 68% 74%, rgba(199, 214, 242, 0.95), transparent 55%),
+    radial-gradient(circle at 26% 70%, rgba(111, 194, 154, 0.85), transparent 55%),
+    radial-gradient(circle at 50% 50%, rgba(220, 239, 227, 0.9), rgba(220, 239, 227, 0.35) 70%);
+  filter: blur(clamp(14px, 2vw, 26px)) saturate(1.15);
+  opacity: 0.9;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .orb-core {
+    animation: orb-drift 16s ease-in-out infinite alternate,
+      orb-hue 34s linear infinite;
+  }
+}
+@keyframes orb-drift {
+  from {
+    transform: translateY(-2.5%) scale(0.985);
+  }
+  to {
+    transform: translateY(2.5%) scale(1.015);
+  }
+}
+@keyframes orb-hue {
+  to {
+    filter: blur(clamp(14px, 2vw, 26px)) saturate(1.15) hue-rotate(360deg);
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .orb-core {
+    opacity: 0.62;
+  }
+}
+
 .hero h1 {
   font-size: clamp(2.5rem, 5.6vw, 4.4rem);
   font-weight: 900;
   letter-spacing: -0.035em;
-  line-height: 1.02;
-  max-width: 14ch;
+  line-height: 1.06;
+  position: relative;
+  z-index: 1;
+}
+.hero h1 .hl {
+  display: block;
+}
+@media (min-width: 861px) {
+  .hero h1 .hl-2 {
+    margin-left: clamp(48px, 8vw, 150px);
+  }
+  .hero h1 .hl-3 {
+    margin-left: clamp(120px, 19vw, 340px);
+  }
+}
+.hero-sub,
+.hero-actions {
+  position: relative;
+  z-index: 1;
 }
 .hero h1 em {
   font-style: italic;
@@ -776,6 +860,15 @@ a.index-item:hover .i-go {
   color: var(--accent);
 }
 
+.show-sm {
+  display: none;
+}
+@media (max-width: 860px) {
+  .show-sm {
+    display: block;
+  }
+}
+
 /* ---------- Reveal on scroll ---------- */
 .reveal {
   opacity: 0;
@@ -841,7 +934,15 @@ a.index-item:hover .i-go {
   .case-list {
     grid-template-columns: 1fr;
   }
-  .nav-links li.hide-sm {
+  .nav-links .hide-sm {
     display: none;
+  }
+  .orb {
+    right: -32%;
+    top: -14px;
+    width: min(80vw, 420px);
+  }
+  .orb-core {
+    opacity: 0.7;
   }
 }
