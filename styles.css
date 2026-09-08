@@ -331,11 +331,11 @@ a {
   transition: transform 0.7s var(--ease), opacity 0.7s var(--ease);
 }
 /* settle-in: layers rise into their tilt as the card reveals */
-.work-card .cover-live .ly {
+html.js .work-card .cover-live .ly {
   opacity: 0;
   transform: translate(-50%, -38%) rotate(calc(var(--r) * 0.25));
 }
-.work-card.in .cover-live .ly {
+html.js .work-card.in .cover-live .ly {
   opacity: 1;
   transform: translate(-50%, -50%) rotate(var(--r));
 }
@@ -663,13 +663,13 @@ a {
   }
 }
 
-/* ---------- Reveal on scroll ---------- */
-.reveal {
+/* ---------- Reveal on scroll (JS-gated: content is visible without JS) ---------- */
+html.js .reveal {
   opacity: 0;
   transform: translateY(22px);
   transition: opacity 0.7s var(--ease), transform 0.7s var(--ease);
 }
-.reveal.in {
+html.js .reveal.in {
   opacity: 1;
   transform: none;
 }
@@ -927,7 +927,7 @@ a {
 }
 .w-cat-b {
   opacity: 0;
-  color: var(--chip);
+  color: var(--ink);
   font-weight: 700;
 }
 @media (hover: hover) {
@@ -949,10 +949,10 @@ a {
   }
 }
 @media (prefers-reduced-motion: no-preference) {
-  .work-card.drift-l.reveal {
+  html.js .work-card.drift-l.reveal {
     transform: translate(-16px, 22px);
   }
-  .work-card.drift-r.reveal {
+  html.js .work-card.drift-r.reveal {
     transform: translate(16px, 22px);
   }
   .work-card.drift-l.reveal.in,
@@ -1077,9 +1077,9 @@ a {
   transition-delay: 0.16s;
 }
 @media (prefers-reduced-motion: no-preference) {
-  .reveal.big-mail .m1,
-  .reveal.big-mail .m2,
-  .reveal.big-mail .m3 {
+  html.js .reveal.big-mail .m1,
+  html.js .reveal.big-mail .m2,
+  html.js .reveal.big-mail .m3 {
     opacity: 0;
     transform: translateY(16px);
     transition: opacity 0.6s var(--ease), transform 0.6s var(--ease);
@@ -1378,12 +1378,14 @@ a {
   padding: 8px 16px;
   font-size: 0.9rem;
   font-weight: 700;
+}
+html.js .pill {
   opacity: 0;
   transform: translateY(8px);
   transition: opacity 0.5s var(--ease) calc(var(--i, 0) * 70ms),
     transform 0.5s var(--ease) calc(var(--i, 0) * 70ms);
 }
-.chapter.in .pill {
+html.js .chapter.in .pill {
   opacity: 1;
   transform: none;
 }
@@ -1548,4 +1550,22 @@ a {
   .appendix .case-fig {
     margin: 16px;
   }
+}
+
+
+/* ---------- Skip link ---------- */
+.skip-link {
+  position: absolute;
+  top: -48px;
+  left: 16px;
+  z-index: 100;
+  background: var(--ink);
+  color: var(--bg);
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-weight: 700;
+  transition: top 0.2s var(--ease);
+}
+.skip-link:focus-visible {
+  top: 12px;
 }

@@ -4,12 +4,13 @@
  "category": "Learning platform",
  "tier": "full",
  "dek": "Interview prep is scattered and anxious. MockQuestions turns it into structured practice by role and company.",
+ "attribution": "MockQuestions is a real interview preparation platform, and this is an unsolicited concept study with no affiliation to Mock Questions LLC. The brand and the product premise belong to their owners; the competitive research, flows, screens, and system work on this page are my own exploration and were never commissioned, endorsed, or shipped.",
  "at_a_glance": {
   "role": "Sole UX/UI designer, end to end",
   "type": "Independent concept project",
   "year": "2023",
   "platform": "Responsive web and mobile",
-  "scope": "Competitive analysis, flows, design system, hi-fi UI, usability testing",
+  "scope": "Competitive analysis, flows, design system, hi-fi UI, usability test plan",
   "industry": "Career development and HR tech",
   "hard_part": "Long Q&A pages have to serve two opposing modes at once, deep reading and fast jumping between question categories, on desktop and a 375px phone.",
   "look_for": "How the reading surface stays calm while the collapsing table of contents, filters, and role-based question banks do the structural work."
@@ -17,7 +18,7 @@
  "problem": {
   "claim_h2": "Prep lives in ten tabs, and none of them match the job",
   "thesis": "Job seekers do not lack interview advice, they lack advice organized around the exact role and company in front of them.",
-  "body": "Existing platforms either index jobs or coach interviews, rarely both, so a candidate researching a Marketing role at Amazon assembles their own prep from scattered, unstructured sources. MockQuestions folds career search, company filters, and expert-written answers into one place.",
+  "body": "Existing platforms either index jobs or coach interviews, rarely both, so a candidate researching a Marketing role at Amazon assembles their own prep from scattered, unstructured sources. The premise of pairing question banks with expert answers already belongs to MockQuestions; this redesign asks how that existing premise could work harder, folding career search, company filters, and expert guidance into one coherent surface.",
   "bullets": [
    "Question databases are generic; almost nothing is tailored to the specific role a candidate is actually chasing.",
    "Job search and interview prep live in separate tools, forcing candidates to bounce between tabs mid-preparation.",
@@ -30,9 +31,9 @@
    "title": "A table of contents that collapses out of the reading path",
    "thesis": "The side navigation earns its space only when the reader asks for it; the rest of the time the page belongs to the answer.",
    "rationale": "The Q&A page stacks a lot of material: an open question with expert and example answers, an accordion of further questions, related careers, and company interviews. A permanently docked sidebar would tax reading width on every visit to serve a wayfinding need that is intermittent. So the navigation ships as a slim collapsed rail and expands on demand into a table of contents, with entries like Typical, Online, and Growth Marketing questions that jump straight to a section without long scrolling. I considered a sticky bar of anchor chips across the top instead, but question categories are too numerous and too long to survive horizontal compression. Collapsed by default, the feature costs nothing until the moment it pays for itself.",
-   "figure": "b22.jpg",
-   "caption": "The table of contents expands from a slim rail, so section jumping is one click away without permanently taxing reading width.",
-   "alt": "Component sheet showing the desktop side navigation in collapsed and expanded states, a table of contents listing marketing question categories, plus pop-up search and Q&A accordion components with their 375px mobile counterparts.",
+   "figure": "b22-fix.jpg",
+   "caption": "Collapsed, the rail stays out of the reading path; expanded, it becomes a jump list of question categories. One concept seam remains on the sheet: the dropdown's sample guidance answers a different question than the header above it.",
+   "alt": "Component sheet on a dark board showing the desktop side navigation collapsed and expanded under a Table of Contents heading that lists marketing question categories, a pop-up search overlay, a question dropdown opened into How to Answer guidance about UnitedHealth Group, and 375px mobile versions of the dropdown and search.",
    "source_blocks": [
     36,
     22,
@@ -43,7 +44,7 @@
    "title": "Question banks filed by role, company, and topic, never one big list",
    "thesis": "The unit of preparation is a specific interview, so every entry point is a role, a company, or a topic rather than a generic question dump.",
    "rationale": "The clearest competitive gap was generality: existing databases answer everyone and therefore no one. Here the search overlay organizes the entire catalog into Careers, Companies, and Topics as scannable alphabetical columns, with featured articles alongside. Choosing a career leads to subtopic cards like Accomplishment and Adaptability, each with its own Start Interview action, while the company view lists open roles under employers like Amazon and Google so candidates can prep for a named target. I weighed leaning on free-text search alone, but many users do not yet know the name of the role they need; browsable categories carry the unsure while the search bar serves the decided. The taxonomy is the product; the screens mostly stay out of its way.",
-   "figure": "b32-crop.jpg",
+   "figure": "b32-crop-fix.jpg",
    "caption": "The search overlay files the whole catalog under Careers, Companies, and Topics, so browsing works even before you know the role's name.",
    "alt": "Full-screen dark search overlay with a prominent search bar and green call to action above four columns: careers such as Nursing and Fintech, companies such as Amazon and Google, interview topics, and featured articles.",
    "source_blocks": [
@@ -79,14 +80,8 @@
    },
    {
     "figure": "b25-crop.jpg",
-    "caption": "Profession cards and a live Q&A preview show the catalog's depth up front, before asking the user for anything.",
-    "alt": "Light homepage section titled We've Got Every Profession Covered, with cards for Nursing, Teacher, Accounting, and Marketer above a preview list of numbered interview questions and a dark panel showing How to Answer guidance and an example answer.",
-    "frame": "light"
-   },
-   {
-    "figure": "b28-crop.jpg",
-    "caption": "Testimonial cards carry a name, a title, and a rating, so credibility rests on identifiable people rather than claims.",
-    "alt": "Light testimonial section headlined Hear what our customers have to say, pairing a photo of two professionals high-fiving with a quote card showing a reviewer's portrait, name, CEO title, and star rating.",
+    "caption": "Profession cards sit above a homepage question preview with one answer opened into How to Answer guidance. The list copy is sample content that repeats a data management question, so this figure demonstrates the layout, not the catalog's depth.",
+    "alt": "Light homepage section titled We've Got Every Profession Covered, with cards for Nursing, Teacher, Accounting, and Marketer above a numbered question list in which a favorite data management tool question repeats, beside a dark panel of How to Answer guidance and an example answer about health care roles.",
     "frame": "light"
    },
    {
@@ -98,6 +93,7 @@
   ]
  },
  "validation": {
+  "claim_h2": "Five tasks I planned to watch",
   "flows": [
    "Search open positions",
    "Find role-specific questions",
@@ -106,7 +102,8 @@
    "Jump via table of contents"
   ],
   "changed": [],
-  "honest_line": "Moderated sessions with representative job seekers could show whether the filters, categories, and guidance were findable and clear; they could not show whether structured practice changes real interview outcomes."
+  "honest_line": "Walking representative job seekers through these tasks would show whether roles, companies, and question categories are findable and whether the expert guidance reads as clear and actionable; it would not show whether structured practice changes how a real interview goes.",
+  "limit_line": "This chapter is the plan for testing a concept, not an account of sessions with real job seekers; nothing in this study is validated by live usage."
  },
  "learnings": [
   "Reading and wayfinding want different pages, and the honest answer is to let one page be both at different moments. The collapsing table of contents taught me to price navigation by how often it is actually needed, not by how important it feels; docking it permanently would have charged every reader for a feature used in bursts.",

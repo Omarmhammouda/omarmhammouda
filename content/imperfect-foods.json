@@ -1,14 +1,15 @@
 {
  "slug": "imperfect-foods",
  "name": "Imperfect Foods",
- "category": "Mobile commerce",
+ "category": "E-commerce",
  "tier": "full",
+ "attribution": "An unsolicited concept study built around Imperfect Foods, a real grocery brand with a real shipped storefront, made without any affiliation, commission, or endorsement. The study deliberately reuses the brand's visual world, its name, logo, product photography, and voice, so any resemblance to the production site comes from that borrowed material: the research, page structure, and system work shown here are my own unpaid exploration, and none of it was adopted or shipped by the company.",
  "dek": "Selling ugly produce means selling trust: a storefront that makes the sustainable order the easy one.",
  "at_a_glance": {
-  "role": "Sole UX/UI designer, end to end",
+  "role": "Concept study, end to end",
   "type": "Independent concept project",
-  "year": null,
-  "platform": "Responsive web",
+  "year": "2022",
+  "platform": "Desktop web",
   "scope": "Competitive research, user journey, design system, hi-fi UI, usability test plan",
   "industry": "Sustainable grocery delivery",
   "hard_part": "One page has to teach food rescue, defuse subscription anxiety, and sell groceries at the same time, without any of the three slowing the other two.",
@@ -16,7 +17,7 @@
  },
  "problem": {
   "claim_h2": "The sustainable choice has to be the easy one",
-  "thesis": "People already want to fight food waste; what stops them is a storefront that makes rescuing groceries feel like homework.",
+  "thesis": "People already want to fight food waste. What stops them is a storefront that makes rescuing groceries feel like homework.",
   "body": "Imperfect Foods sells produce that is perfectly edible but cosmetically rejected, through a weekly subscription. That model inherits every doubt of online grocery, then adds two of its own: is imperfect food actually good, and what am I committing to?",
   "bullets": [
    "Affordable and healthy read as opposites, so shoppers assume the sustainable option costs more.",
@@ -42,7 +43,7 @@
   {
    "title": "Mission proof at every scroll stop, action always adjacent",
    "thesis": "The mission earns attention only if it never costs a click.",
-   "rationale": "The journey map located the real doubt at evaluation: is the food fresh, can I trust this brand, are the prices actually lower. So instead of quarantining sustainability content on an about page, proof is threaded through the scroll: a running tally of food saved rides above the hero headline, an impact section breaks one weekly box into food recovered, water conserved, time saved, and carbon avoided, and a slider lets the reader scale that story across weeks. Each of these moments keeps a CTA within reach, so being convinced and getting started are the same gesture. A dedicated impact page was the considered alternative; it would let the story breathe but pulls exactly the hesitant readers off the conversion path at their most persuadable moment. The tradeoff is density, managed by giving each proof point its own section rather than stacking statistics.",
+   "rationale": "The journey map located the real doubt at evaluation: is the food fresh, can I trust this brand, are the prices actually lower. So instead of quarantining sustainability content on an about page, proof is threaded through the scroll: a running tally of food saved rides above the hero headline, an impact section breaks one weekly box into food recovered, water conserved, time saved, and carbon avoided, and a slider lets the reader scale that story across weeks. Each of these moments keeps a CTA within reach, so being convinced and getting started are the same gesture. A dedicated impact page was the considered alternative: it would let the story breathe but pulls exactly the hesitant readers off the conversion path at their most persuadable moment. The tradeoff is density, managed by giving each proof point its own section rather than stacking statistics.",
    "figure": "b27-crop.jpg",
    "caption": "Impact broken down per weekly box, with a slider that scales the story across weeks and a CTA waiting under the answer.",
    "alt": "Impact section titled Taking a bite out of food waste, with four icon stats for food recovered, water conserved, time saved, and carbon avoided, a week slider labeled slide to see how your impact grows, and a magenta Get started for free button.",
@@ -55,7 +56,7 @@
   },
   {
    "title": "A warm system for a utilitarian errand",
-   "thesis": "Warmth is not decoration here; it is the argument that imperfect means charming, not defective.",
+   "thesis": "Warmth is not decoration here. It is the argument that imperfect means charming, not defective.",
    "rationale": "The product is cosmetically rejected food, so the visual language has to do persuasion the copy cannot: odd produce framed by a cold, clinical interface reads like damaged goods. The system pairs natural greens with a confident magenta, keeps Roboto as a plain-spoken workhorse for reading, and spends the personality budget on handwritten annotations and illustration, a delivery van looping one neighborhood road, a beet parachuting into the footer box. Competitor analysis pointed the same direction from the other side: Thrive Market's premium polish was logged as a weakness because it deters the price-conscious, and Whole Foods reads generic inside Amazon. The considered alternative, an all-photography art direction, would look more premium but flatten exactly the friendliness that makes the mission approachable. The bet is that a grocery errand done in a warm system starts to feel like participation rather than penance.",
    "figure": "b30-crop.jpg",
    "caption": "A beet parachutes into the footer, so even the sitemap does brand work instead of ending the page on a link dump.",
@@ -93,14 +94,14 @@
    },
    {
     "figure": "b25-crop.jpg",
-    "caption": "Familiar partner logos vouch for unfamiliar imperfect produce, borrowing trust the young brand has not yet earned.",
+    "caption": "Familiar partner logos vouch for unfamiliar imperfect produce, lending the category a trust signal it cannot generate alone.",
     "alt": "Partners who share our values section showing product shots of Tillamook cheese, La Croix, Organic Valley milk, Cento beans, and a snack mix, above a row of partner logos including Imperfect Foods, Tillamook, Impossible, and Cento.",
     "frame": "light"
    },
    {
-    "figure": "b28-crop.jpg",
-    "caption": "Customer photos turn the collective impact claim into social proof, with the net-zero pledge as a quiet banner above.",
-    "alt": "Community section headlined with the total pounds of food customers have saved, a Join the movement button, three customer testimonial cards with photos of delivered boxes, and a small banner pledging a net-zero operation.",
+    "figure": "b28-fix.jpg",
+    "caption": "Testimonial cards stack under the collective impact headline, with the account handles redacted for this case study.",
+    "alt": "Community section headlined Our customers have saved 139 million lbs of food, a magenta Join the movement button, three testimonial cards with quotes about weekly boxes, photos of delivered produce and a smiling customer, handles removed, and a small net-zero by 2030 pledge banner above.",
     "frame": "light"
    },
    {
@@ -112,15 +113,18 @@
   ]
  },
  "validation": {
+  "claim_h2": "How I planned to test it",
   "flows": [
    "Size up the service",
    "Find a product",
    "Trace your impact",
    "Check testimonials",
+   "Get questions answered",
    "Start an order"
   ],
   "changed": [],
-  "honest_line": "The board carries a complete moderated test script, six scenarios running from first impression to first order, but no recorded sessions, so it establishes that the design is testable against real doubts, not that it resolves them."
+  "honest_line": "Walking a first-time visitor through these six scenarios could reveal whether the homepage answers each doubt in the order the journey map predicts, and where the scroll loses people. It could not show whether that confidence survives all the way to a paid box on a doorstep, and since no walkthrough has been run, even the first question stays open.",
+  "limit_line": "Everything in this chapter is test design for a concept homepage, not evidence from live sessions: no participant ever attempted these tasks, so no claim here is validated by real use."
  },
  "learnings": [
   "Pre-filling is a promise about control, and the copy has to keep it. The moment the cart starts full, every sentence around it must be an editing verb, because a pre-filled box described in recommendation language flips from convenient to presumptuous. The words are load-bearing infrastructure for the flow, not polish on top of it.",

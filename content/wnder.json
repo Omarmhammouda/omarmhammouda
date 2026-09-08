@@ -3,6 +3,7 @@
  "name": "W*nder",
  "category": "Brand site",
  "tier": "light",
+ "attribution": "W*nder is a real CBD sparkling beverage brand, and this is an unsolicited concept study with no affiliation, commission, or endorsement. The brand identity and product belong to their owners, while the competitor research, flows, screens, and design system on this page are entirely my own exploration and nothing here was adopted or shipped.",
  "dek": "A CBD brand site that teaches before it sells.",
  "at_a_glance": {
   "role": "Sole UX/UI designer, end to end",
@@ -29,11 +30,11 @@
  "pull_quote": null,
  "design": {
   "claim_h2": "Proof, then education, then the sale",
-  "intro": "The homepage and lab-results page run the same sequence: a warm, un-cannabis identity up front, evidence in the middle, and every call to action pointing toward learning or verifying before buying.",
+  "intro": "The homepage and lab-results page run the same sequence: a warm, un-cannabis identity up front, evidence in the middle, and after the hero's Drink Up button, calls to action that mostly route to education or proof rather than straight to the cart.",
   "figures": [
    {
     "figure": "b18-crop.jpg",
-    "caption": "The hero leads with the four cans and a plain-language promise; Drink Up is the only CTA, so the first read stays uncluttered.",
+    "caption": "The hero leads with the four cans and a plain-language promise. Drink Up is the only CTA, so the first read stays uncluttered.",
     "alt": "W*nder homepage hero with four brightly colored CBD cans floating around the headline Works like a w*nder and a Drink Up button.",
     "frame": "light"
    },
@@ -70,6 +71,7 @@
   ]
  },
  "validation": {
+  "claim_h2": "The test I designed but did not run",
   "flows": [
    "Find the lab results",
    "Learn what CBD is",
@@ -78,7 +80,8 @@
    "Buy with confidence"
   ],
   "changed": [],
-  "honest_line": "Moderated scenarios were scripted around a skeptical first-time buyer moving from doubt to purchase, but as a concept project the board records the test design rather than measured outcomes, so it shows how trust would be evaluated, not that it was won."
+  "honest_line": "A moderated walkthrough of these five tasks could establish whether a hesitant first-time buyer can reach the lab results, understand what a batch is tested for, and arrive at a purchase without help. It could not establish whether the design converts doubt into trust in the product itself, and because no sessions were held, both questions remain open.",
+  "limit_line": "This chapter documents a usability test plan for a concept, not a record of sessions: no participants were recruited, and nothing on this page is validated by real usage."
  },
  "learnings": [],
  "appendix": {
