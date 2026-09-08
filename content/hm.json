@@ -46,9 +46,9 @@
    "title": "Reviews live inside the catalog, one click from a verdict",
    "thesis": "A review is not content to browse, it is a work item, so every review row ends in a decision screen.",
    "rationale": "The queue sits under Catalog as a sortable table, and each row's action opens a detail screen headed by three radio options, Approve, Pending, and Reject, with the evidence directly beneath: customer photos, star rating, review text, and a public reply field. A second tab is reserved for the same customer's other reviews, because credibility is judged from a reviewer's history, not one data point, and that history should not cost a navigation trip. The safer pattern would be a standalone moderation queue, but a separate surface recreates exactly the silo this project set out to remove. Keeping approval inside the catalog costs a longer breadcrumb and buys a loop with no context switch.",
-   "figure": "b28-crop.jpg",
-   "caption": "Approve, Pending, and Reject sit above the evidence: customer photos, star rating, and a public reply field. The review body on this screen is still placeholder copy, acknowledged here rather than dressed up.",
-   "alt": "Product Review Detail screen with approval radio buttons, a row of customer keyboard photos, a five star rating, placeholder review text, and a public reply box.",
+   "figure": "b28-fix.jpg",
+   "caption": "Approve, Pending, and Reject sit above the evidence: customer photos, the star rating, the review text, and a public reply field.",
+   "alt": "Product Review Detail screen with approval radio buttons, a row of customer keyboard photos, a five star review praising blue potato chips, and a public reply box.",
    "source_blocks": [
     3,
     27,
@@ -59,10 +59,10 @@
   {
    "title": "Copy link as a first-class action on purchase details",
    "thesis": "If sharing a record takes more than one click, admins will screenshot it, so the link became a button.",
-   "rationale": "Purchase details travel constantly between sales, support, and documentation, yet the competitive scan found link copying hidden, plugin-dependent, or missing on every platform reviewed. In HM the order modal presents Copy link as a peer of View Order and Download, with the raw URL exposed in a copyable field beneath the buttons. Showing the URL is deliberate noise: an admin who can read the link trusts what just went to a colleague. The quieter alternative, copying silently with a toast, would look cleaner but hides the one thing being shared. An activity log under the actions is structured so every touch on the file gets recorded, keeping a link that travels auditable. In this concept the log rows are still scaffold copy, so the log shows the shape of the audit trail, not real events.",
-   "figure": "b34-crop.jpg",
-   "caption": "Copy link sits beside Download and View Order, with the raw URL exposed so the admin can see exactly what they copied. The activity log beneath still runs on placeholder rows, standing in for the audit structure rather than real events.",
-   "alt": "Order detail modal for a digital product showing Copy link, Download, and View Order buttons, an exposed download URL, a status panel, and an activity log table whose rows contain placeholder text.",
+   "rationale": "Purchase details travel constantly between sales, support, and documentation, yet the competitive scan found link copying hidden, plugin-dependent, or missing on every platform reviewed. In HM the order modal presents Copy link as a peer of View Order and Download, with the raw URL exposed in a copyable field beneath the buttons. Showing the URL is deliberate noise: an admin who can read the link trusts what just went to a colleague. The quieter alternative, copying silently with a toast, would look cleaner but hides the one thing being shared. An activity log under the actions records every touch on the file, so a link that travels stays auditable.",
+   "figure": "b34-fix.jpg",
+   "caption": "Copy link sits beside Download and View Order, with the raw URL exposed so the admin can see exactly what they copied. The activity log beneath records each touch on the file, from link creation to download.",
+   "alt": "Order detail modal for a digital product showing Copy link, Download, and View Order buttons, an exposed download URL, a status panel, and an activity log listing link created, link opened, and file downloaded events with dates and IP addresses.",
    "source_blocks": [
     3,
     7,
@@ -87,6 +87,12 @@
     "figure": "b31-crop.jpg",
     "caption": "The queue after subtraction: five columns, one job, no noise.",
     "alt": "Product Review table reduced to SKU, Product Name, Content, Customer, and Timestamp columns, with the column checklist open at right.",
+    "frame": "dark"
+   },
+   {
+    "figure": "b29-fix.jpg",
+    "caption": "The reviewer history tab keeps every review by the same customer one click from the verdict, so credibility is judged from a record.",
+    "alt": "Other reviews tab for Mason Monu listing the customer's past reviews with star ratings, orange Pending and green Approved badges, and timestamps.",
     "frame": "dark"
    },
    {

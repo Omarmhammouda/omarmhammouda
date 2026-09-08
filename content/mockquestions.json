@@ -31,9 +31,9 @@
    "title": "A table of contents that collapses out of the reading path",
    "thesis": "The side navigation earns its space only when the reader asks for it; the rest of the time the page belongs to the answer.",
    "rationale": "The Q&A page stacks a lot of material: an open question with expert and example answers, an accordion of further questions, related careers, and company interviews. A permanently docked sidebar would tax reading width on every visit to serve a wayfinding need that is intermittent. So the navigation ships as a slim collapsed rail and expands on demand into a table of contents, with entries like Typical, Online, and Growth Marketing questions that jump straight to a section without long scrolling. I considered a sticky bar of anchor chips across the top instead, but question categories are too numerous and too long to survive horizontal compression. Collapsed by default, the feature costs nothing until the moment it pays for itself.",
-   "figure": "b22.jpg",
-   "caption": "Collapsed, the rail stays out of the reading path; expanded, it becomes a jump list of question categories. The sheet also shows its concept seams: the header reads Table of Content, and the dropdown's sample guidance answers a different question than the header above it.",
-   "alt": "Component sheet on a dark board showing the desktop side navigation collapsed and expanded under a Table of Content heading that lists marketing question categories, a pop-up search overlay, a question dropdown opened into How to Answer guidance about UnitedHealth Group, and 375px mobile versions of the dropdown and search.",
+   "figure": "b22-fix.jpg",
+   "caption": "Collapsed, the rail stays out of the reading path; expanded, it becomes a jump list of question categories. One concept seam remains on the sheet: the dropdown's sample guidance answers a different question than the header above it.",
+   "alt": "Component sheet on a dark board showing the desktop side navigation collapsed and expanded under a Table of Contents heading that lists marketing question categories, a pop-up search overlay, a question dropdown opened into How to Answer guidance about UnitedHealth Group, and 375px mobile versions of the dropdown and search.",
    "source_blocks": [
     36,
     22,
@@ -44,7 +44,7 @@
    "title": "Question banks filed by role, company, and topic, never one big list",
    "thesis": "The unit of preparation is a specific interview, so every entry point is a role, a company, or a topic rather than a generic question dump.",
    "rationale": "The clearest competitive gap was generality: existing databases answer everyone and therefore no one. Here the search overlay organizes the entire catalog into Careers, Companies, and Topics as scannable alphabetical columns, with featured articles alongside. Choosing a career leads to subtopic cards like Accomplishment and Adaptability, each with its own Start Interview action, while the company view lists open roles under employers like Amazon and Google so candidates can prep for a named target. I weighed leaning on free-text search alone, but many users do not yet know the name of the role they need; browsable categories carry the unsure while the search bar serves the decided. The taxonomy is the product; the screens mostly stay out of its way.",
-   "figure": "b32-crop.jpg",
+   "figure": "b32-crop-fix.jpg",
    "caption": "The search overlay files the whole catalog under Careers, Companies, and Topics, so browsing works even before you know the role's name.",
    "alt": "Full-screen dark search overlay with a prominent search bar and green call to action above four columns: careers such as Nursing and Fintech, companies such as Amazon and Google, interview topics, and featured articles.",
    "source_blocks": [

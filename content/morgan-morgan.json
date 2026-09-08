@@ -39,9 +39,9 @@
     "frame": "dark"
    },
    {
-    "figure": "b23-crop.jpg",
-    "caption": "Result cards pair the final award with the pre-trial offer to argue the firm never settles cheap. Both cards in this concept frame carry the same placeholder figures, a repeated $4,930,000 over $300,001, so what it demonstrates is the comparison layout, not verified case outcomes.",
-    "alt": "Navy section titled We Never Settle for Less with two white case cards that both display an identical $4,930,000 award above an identical $300,001 pre-trial offer, beside an attorney portrait.",
+    "figure": "b23-crop-fix2.jpg",
+    "caption": "Result cards pair each final award with the pre-trial offer to argue the firm never settles cheap. The amounts are illustrative concept figures rather than verified case outcomes.",
+    "alt": "Navy section titled We Never Settle for Less with two white case cards, one showing a $4,930,000 award over a $300,001 pre-trial offer and the other a $4,300,000 award over a $330,001 offer, beside an attorney portrait.",
     "frame": "dark"
    },
    {
@@ -55,6 +55,12 @@
     "caption": "A side-by-side table contrasts retainer and contingency billing right before the evaluation CTA. One flaw survives in this frame: both columns reuse the same checkmark bullet, so retainer drawbacks like pay even if you lose read as endorsements, a detail the next pass would swap for cross marks.",
     "alt": "Light comparison section titled It's Free Unless We Win with two columns comparing retainer based and contingency based models, every line in both columns marked with an identical checkmark, above a yellow CTA button.",
     "frame": "light"
+   },
+   {
+    "figure": "b27-crop-fix2.jpg",
+    "caption": "The closing section makes the ask trivially easy: a short form beside a reassuring photo of counsel with a client, ending in one unmistakable yellow Free Case Evaluation button.",
+    "alt": "Form section titled Get Your Free, Immediate Case Evaluation with fields for name, phone, email, and zip code, a Case Type dropdown, a what happened text area, and a yellow Free Case Evaluation button beside a photo of two lawyers with a client.",
+    "frame": "dark"
    }
   ]
  },

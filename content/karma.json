@@ -31,9 +31,9 @@
    "title": "A score you can audit, not just admire",
    "thesis": "The Karma Score is itemized activity by activity, because a number nobody can verify is a number nobody will build a reputation on.",
    "rationale": "The score is synthetic: it converts proposals, votes, and forum discussion into points, and any synthetic number invites suspicion. So the homepage spends a full section on the math itself, presenting example weights for creating proposals, voting, and discussing as oversized green numerals on white cards. I considered keeping the formula behind the interface and presenting the score as a polished badge, which is how most reputation products behave. The competitor analysis argued against it: SourceCred's automated scoring was powerful but opaque, and non-technical users struggled to adopt it. Publishing the itemization trades some mystique for auditability, and auditability is what turns a metric into a credential.",
-   "figure": "b17.jpg",
-   "caption": "Example weights in the open: creating proposals, voting, and discussing each carry a visible point value. The mock copy is still rough, with a truncated sentence and a stray abbreviation baked into the render.",
-   "alt": "Karma Score explainer on a pale green panel. The left side asks What is Karma Score and ends with the unfinished line Example: How Karma Score calculated. The right side shows three white rounded cards with large green numerals 20, 10, and 10, labeled points for creating proposals, points for voting with a stray truncated abbreviation after it, and points for discussing proposals.",
+   "figure": "b17-fix.jpg",
+   "caption": "Example weights in the open: creating proposals, voting, and discussing each carry a visible point value.",
+   "alt": "Karma Score explainer on a pale green panel. The left side asks What is Karma Score and explains that each DAO defines and quantifies contributor scores. The right side shows three white rounded cards with large green numerals 20, 10, and 10, labeled points for creating proposals, points for voting, and points for discussing proposals.",
    "source_blocks": [
     4,
     17,
@@ -44,9 +44,9 @@
    "title": "One profile that crosses DAO borders",
    "thesis": "Reputation only becomes an asset when it travels, and that aggregation mechanic is Karma's own, so the decision here was presentational: lead the homepage with the cross DAO profile as proof rather than describe it in copy.",
    "rationale": "The journey mapping surfaced the payoff moment: joining a new DAO where people already know your track record. The live product already answers that moment, its profile stacks one row per DAO with a Karma Score, voting activity, and proposal counts, so the aggregation concept belongs to Karma, not to me. What I controlled was the framing: the homepage stakes its hero on a profile mockup built on that existing shape, with a share action at the top level and a source filter that scopes the view to a single tool like Snapshot, so the credential story lands before any feature copy asks for attention. The tradeoff is a denser table than any single DAO view would need, and the usability plan's per DAO checking and filtering tasks were written to probe exactly whether that density reads.",
-   "figure": "b14-fix.jpg",
-   "caption": "The hero stakes itself on the profile: four DAO rows under one identity with a top level share action. Contributor identity is redacted, and the row stats are duplicated placeholder values with a TBD chip still visible.",
-   "alt": "Karma homepage hero on a soft green gradient, headline reading Build and Maintain Better Communities, above a dark browser mockup of a contributor profile with the name and wallet address blanked out, listing Bankless DAO, ENS DAO, BitDAO, and Star Atlas DAO as rows whose activity columns repeat identical placeholder figures.",
+   "figure": "b14-fix2.jpg",
+   "caption": "The hero stakes itself on the profile: four DAO rows under one identity with a top level share action. Contributor identity is redacted, and the row metrics are illustrative mock values.",
+   "alt": "Karma homepage hero on a soft green gradient, headline reading Build and Maintain Better Communities, above a dark browser mockup of a contributor profile with the name and wallet address blanked out, listing Bankless DAO, ENS DAO, BitDAO, and Star Atlas DAO as rows, each with its own voting, activity, and proposal figures.",
    "source_blocks": [
     1,
     6,
@@ -58,7 +58,7 @@
    "title": "Mechanics first, interface second",
    "thesis": "For an audience primed to distrust black boxes, the homepage teaches how Karma works before it shows what Karma looks like.",
    "rationale": "The page order is an argument: the hero states the promise, then three step cards explain the pipeline, then the score math, then the benefits. The step cards name the actual inputs, integrations with Discourse, Snapshot, on-chain voting, Discord, and DaoHaus, and walk from visibility to compensation to hiring in three short beats. I considered leading with a feature tour, the standard product-site move, but screens of an unfamiliar mechanic mean nothing until the mechanic itself lands. New DAO members were an explicit audience, and the step narrative exists so they grasp where the data comes from and what it produces before any interface asks for their attention. It is the cheapest section on the page and it carries the most explanatory weight.",
-   "figure": "b15.jpg",
+   "figure": "b15-fix.jpg",
    "caption": "Three step cards compress the pipeline: integrate DAO tools, surface contributors, compensate and hire.",
    "alt": "How it Works section on a pale green background with a ghosted outline wordmark, a subtitle listing integrated DAO tools, and three white cards labeled Step 01, Step 02, and Step 03 with green icons and one-line descriptions.",
    "source_blocks": [
@@ -74,7 +74,7 @@
   "intro": "The visual system runs against Web3's dark-UI default: white cards, soft green gradients, and oversized numerals that put the data in plain daylight.",
   "figures": [
    {
-    "figure": "b20-crop.jpg",
+    "figure": "b20-crop-fix.jpg",
     "caption": "Benefit cards state the payoff in the contributor's own terms: improve on metrics, prove work, get discovered.",
     "alt": "Benefits section titled How Karma score is beneficial to DAO contributors, with a ghosted BENEFICIAL wordmark behind the heading and three white cards with green icons describing improvement, proof of work, and discovery.",
     "frame": "light"

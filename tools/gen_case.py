@@ -19,7 +19,7 @@ OUT = ROOT / "projects"
 CASE_ASSETS = ROOT / "assets" / "case"
 
 ORDER = ["hm", "sanctify", "content-cloud", "mockquestions", "karma", "imperfect-foods",
-         "wnder", "morgan-morgan", "duradry", "nuvie", "oh-snap"]
+         "wnder", "morgan-morgan", "duradry", "oh-snap"]
 
 PALETTE = {
     "karma": ("#dcefe3", "#0e3b2e", "#58b98b"),
@@ -284,7 +284,7 @@ def build(slug):
     <section class="case-hero" style="--c-bg:{bg};--c-ink:{ink}">
       <span class="case-ghost" aria-hidden="true">{name_html}</span>
       <div class="wrap">
-        <p class="case-kicker">Case study {n:02d} of 11 &middot; {esc(c['category'])} &middot; Independent concept project</p>
+        <p class="case-kicker">Case study {n:02d} of {len(ORDER)} &middot; {esc(c['category'])} &middot; Independent concept project</p>
         <h1>{name_html}</h1>
         <p class="case-lede">{esc(c['dek'])}</p>
         <p class="case-mins">{mins} min read</p>
@@ -346,4 +346,4 @@ if __name__ == "__main__":
         for e in errors:
             print(" -", e)
         sys.exit(1)
-    print("11 pages generated, all lints green")
+    print(f"{len(ORDER)} pages generated, all lints green")
