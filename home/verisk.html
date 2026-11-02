@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Verisk platform modernization, case study by Omar M. Hammouda</title>
+  <meta name="description" content="Co-leading experience design to modernize a commercial property insurance platform: synthesizing 20,000 survey responses and 50 interviews into a new information architecture and workflow model.">
+  <meta property="og:title" content="Verisk: modernizing a 14-year-old insurance platform">
+  <meta property="og:description" content="From 20,000 survey responses and 50 interviews to a new information architecture, workflow model and early prototypes.">
+  <meta property="og:image" content="https://omhstudios.com/work/verisk/img/process.webp">
+  <meta property="og:url" content="https://omhstudios.com/work/verisk/">
+  <meta property="og:type" content="article">
+  <link rel="canonical" href="https://omhstudios.com/work/verisk/">
+  <meta name="theme-color" content="#0e0c0c">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap">
+  <style>
+    @font-face{font-family:"Satoshi";src:url(/assets/fonts/satoshi-500.woff2) format("woff2");font-weight:400 500;font-display:swap}
+    @font-face{font-family:"Satoshi";src:url(/assets/fonts/satoshi-700.woff2) format("woff2");font-weight:600 700;font-display:swap}
+    :root{
+      --bg:#0e0c0c; --surface:#171414; --surface-2:#1e1a1a; --paper:#ece7e1;
+      --ink:#f4efea; --muted:#9a918a; --faint:#5f5853;
+      --line:rgba(244,239,234,.12); --line-strong:rgba(244,239,234,.22);
+      --accent:#d6a5a0; --accent-deep:#620000;
+      --serif:"Instrument Serif","Iowan Old Style",Georgia,serif;
+      --sans:"Satoshi","Helvetica Neue",Arial,system-ui,sans-serif;
+      --gutter:clamp(16px,4vw,48px); --max:1360px; --read:720px;
+      color-scheme:dark;
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+    @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+    body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.65 var(--sans);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+    a{color:inherit} img{display:block;max-width:100%;height:auto}
+    .wrap{max-width:var(--max);margin:0 auto;padding:0 var(--gutter)}
+    .skip{position:absolute;left:-9999px}.skip:focus{left:16px;top:16px;z-index:99;background:var(--ink);color:var(--bg);padding:8px 12px;border-radius:6px}
+    .label{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+    :focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+
+    .nav{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 82%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+    .nav-in{display:flex;align-items:center;justify-content:space-between;gap:16px;height:68px}
+    .brand{display:flex;gap:18px;align-items:baseline;text-decoration:none;font-size:14px;white-space:nowrap}
+    .brand b{font-weight:500}.brand span{color:var(--muted)}
+    .nav ul{display:flex;align-items:center;gap:28px;list-style:none;margin:0;padding:0;font-size:14px}
+    .nav ul a{text-decoration:none;color:var(--muted)} .nav ul a:hover{color:var(--ink)}
+    .btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font:500 14px/1 var(--sans);padding:11px 18px;border-radius:999px;border:1px solid var(--line-strong);transition:background .2s,border-color .2s,color .2s}
+    .btn-solid{background:var(--ink);color:var(--bg)!important;border-color:var(--ink)} .btn-solid:hover{background:var(--accent);border-color:var(--accent)}
+    .btn-ghost:hover{border-color:var(--ink)}
+    @media (max-width:860px){.nav ul .hide-m{display:none}.brand span{display:none}.nav ul{gap:18px}}
+    .progress{position:fixed;top:0;left:0;height:2px;width:100%;transform-origin:0 50%;transform:scaleX(0);background:var(--accent);z-index:30}
+
+    /* hero */
+    .hero{padding-top:clamp(40px,7vw,96px)}
+    .crumb{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+    .crumb a{text-decoration:none;color:var(--muted)} .crumb a:hover{color:var(--ink)}
+    .hero h1{font:400 clamp(64px,12vw,184px)/.88 var(--serif);letter-spacing:-.025em;margin:28px 0 0}
+    .hero h1 em{color:var(--accent)}
+    .dek{font:400 clamp(24px,2.8vw,40px)/1.18 var(--serif);max-width:26ch;margin:28px 0 0;color:var(--ink)}
+    .meta{display:grid;grid-template-columns:repeat(4,1fr);gap:24px 32px;margin-top:clamp(40px,6vw,72px);padding-top:28px;border-top:1px solid var(--line)}
+    .meta dt{margin:0 0 6px}.meta dd{margin:0;font-size:15px}
+    @media (max-width:860px){.meta{grid-template-columns:1fr 1fr}}
+
+    /* stage: framed screenshots */
+    .stage{margin:clamp(40px,6vw,80px) auto 0;max-width:var(--max);padding:0 var(--gutter)}
+    .stage-in{position:relative;background:radial-gradient(120% 90% at 70% 0%,color-mix(in srgb,var(--accent-deep) 60%,var(--surface)),var(--surface) 70%);border-radius:6px;padding:clamp(20px,5vw,72px);overflow:hidden;display:grid;grid-template-columns:1fr auto;gap:clamp(16px,3vw,40px);align-items:start}
+    .shot{border-radius:10px;overflow:hidden;box-shadow:0 30px 80px -30px rgba(0,0,0,.8),0 0 0 1px rgba(255,255,255,.06);background:#fff}
+    .shot.phone{width:clamp(120px,19vw,250px);border-radius:22px;box-shadow:0 30px 80px -30px rgba(0,0,0,.9),0 0 0 6px #050505,0 0 0 7px rgba(255,255,255,.12)}
+    .stage-in .phone{margin-top:clamp(40px,8vw,120px)}
+    .cap{font-size:13px;color:var(--muted);margin-top:14px}
+
+    .photo{margin:0;border-radius:6px;overflow:hidden;background:var(--surface)}
+    .photo img{width:100%;height:auto}
+    .photo.tall{max-width:620px}
+    .figure.photo-pair{display:grid;grid-template-columns:3fr 2fr;gap:clamp(16px,2vw,28px);align-items:stretch}
+    .figure.photo-pair .photo img{height:100%;object-fit:cover}
+    @media (max-width:860px){.figure.photo-pair{grid-template-columns:1fr}}
+    .bleed{margin:clamp(72px,10vw,140px) 0 0}
+    /* results */
+    .results{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:clamp(56px,8vw,112px)}
+    .results div{padding:clamp(24px,3vw,40px) clamp(12px,2vw,28px) clamp(24px,3vw,40px) 0}
+    .results div+div{border-left:1px solid var(--line);padding-left:clamp(16px,2vw,28px)}
+    .results b{display:block;font:400 clamp(48px,6vw,88px)/.95 var(--serif);letter-spacing:-.02em;color:var(--accent)}
+    .results span{display:block;margin-top:10px;font-size:15px;color:var(--muted);max-width:22ch}
+    @media (max-width:860px){.results{grid-template-columns:1fr 1fr}.results div:nth-child(3){border-left:0;padding-left:0}.results div:nth-child(n+3){border-top:1px solid var(--line)}}
+
+    /* chapters */
+    .chap{padding:clamp(72px,10vw,140px) 0 0}
+    .chap-head{display:grid;grid-template-columns:minmax(120px,1fr) 3fr;gap:clamp(16px,4vw,64px);align-items:start}
+    .chap-head .no{font:400 clamp(20px,2vw,26px)/1 var(--serif);color:var(--accent);padding-top:.5em}
+    .chap h2{font:400 clamp(40px,5.6vw,84px)/1 var(--serif);letter-spacing:-.015em;margin:0;max-width:18ch}
+    .prose{display:grid;grid-template-columns:minmax(120px,1fr) 3fr;gap:clamp(16px,4vw,64px);margin-top:clamp(24px,3vw,40px)}
+    .prose>div{max-width:var(--read)}
+    .prose p{margin:0 0 18px;color:#d9d2cb}
+    .prose p.lead{font:400 clamp(22px,2.2vw,30px)/1.3 var(--serif);color:var(--ink)}
+    .prose strong{font-weight:500;color:var(--ink)}
+    .side{font-size:13px;color:var(--muted);padding-top:6px}
+    @media (max-width:860px){.chap-head,.prose{grid-template-columns:1fr}.chap-head .no{padding-top:0}.side{order:2}}
+
+    .figure{margin:clamp(32px,5vw,64px) 0 0}
+    .figure.split{display:grid;grid-template-columns:1fr 1fr;gap:clamp(16px,2vw,28px);align-items:start}
+    .figure.combo{display:grid;grid-template-columns:3fr 1fr;gap:clamp(16px,2vw,28px);align-items:start}
+    .panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:clamp(16px,3vw,40px)}
+    .panel.light{background:var(--paper)}
+    .figure figcaption{font-size:13px;color:var(--muted);margin-top:12px;max-width:70ch}
+    @media (max-width:860px){.figure.split,.figure.combo{grid-template-columns:1fr}.figure.combo .phone{max-width:260px;margin:0 auto}}
+
+    .principles{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:clamp(32px,5vw,56px);border-top:1px solid var(--line)}
+    .principles div{padding:28px 24px 28px 0;border-bottom:1px solid var(--line)}
+    .principles div+div{border-left:1px solid var(--line);padding-left:24px}
+    .principles h3{font:400 clamp(22px,2vw,28px)/1.1 var(--serif);margin:8px 0 10px}
+    .principles p{margin:0;font-size:15px;color:var(--muted)}
+    .principles .n{font-size:12px;letter-spacing:.12em;color:var(--accent)}
+    @media (max-width:960px){.principles{grid-template-columns:1fr 1fr}.principles div:nth-child(3){border-left:0;padding-left:0}}
+    @media (max-width:560px){.principles{grid-template-columns:1fr}.principles div+div{border-left:0;padding-left:0}}
+
+    .decisions{list-style:none;padding:0;margin:8px 0 0;counter-reset:d}
+    .decisions li{position:relative;padding:18px 0 18px 44px;border-top:1px solid var(--line);color:#d9d2cb}
+    .decisions li::before{counter-increment:d;content:counter(d,decimal-leading-zero);position:absolute;left:0;top:20px;font-size:12px;letter-spacing:.1em;color:var(--accent)}
+    .decisions b{font-weight:500;color:var(--ink)}
+
+    blockquote.pull{margin:clamp(40px,6vw,72px) 0 0;padding:0;font:400 clamp(30px,4vw,56px)/1.12 var(--serif);max-width:22ch;color:var(--ink)}
+    blockquote.pull em{color:var(--accent)}
+
+    .next{margin-top:clamp(96px,12vw,180px);border-top:1px solid var(--line)}
+    .next a{display:flex;justify-content:space-between;align-items:end;gap:24px;padding:clamp(40px,6vw,72px) 0;text-decoration:none}
+    .next .t{font:400 clamp(44px,7vw,112px)/.95 var(--serif);letter-spacing:-.02em;transition:color .3s}
+    .next a:hover .t{color:var(--accent)}
+    .next .arrow{font-size:clamp(28px,4vw,56px);color:var(--muted)}
+    footer{border-top:1px solid var(--line);padding:28px 0 calc(28px + env(safe-area-inset-bottom));font-size:13px;color:var(--muted)}
+    .foot{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px 24px}
+    .foot nav{display:flex;flex-wrap:wrap;gap:20px}.foot a{text-decoration:none}.foot a:hover{color:var(--ink)}
+
+    .js .rv{opacity:0;transform:translateY(24px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1);transition-delay:var(--d,0s)}
+    .js .rv.in{opacity:1;transform:none}
+    @media (prefers-reduced-motion:reduce){.js .rv{opacity:1;transform:none;transition:none}}
+  </style>
+  <script>document.documentElement.classList.add("js")</script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="progress" aria-hidden="true"></div>
+
+  <header class="nav">
+    <div class="wrap nav-in">
+      <a class="brand" href="/"><b>Omar M. Hammouda</b><span>Lead UX/UI Designer</span></a>
+      <ul>
+        <li><a href="/#work">Work</a></li>
+        <li class="hide-m"><a href="/#experience">Experience</a></li>
+        <li class="hide-m"><a href="/#about">About</a></li>
+        <li><a class="btn btn-solid" href="/#contact">Get in touch</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero wrap" aria-labelledby="title">
+      <div class="crumb label"><a href="/#work">Work</a><span aria-hidden="true">/</span><span>Verisk &middot; 2025&ndash;2026</span></div>
+      <h1 id="title" class="rv">Verisk <em>modernization</em></h1>
+      <p class="dek rv" style="--d:.08s">Turning 20,000 voices into a clear direction for a commercial insurance platform that hadn't been rethought in 14 years.</p>
+      <dl class="meta rv" style="--d:.16s">
+        <div><dt class="label">Role</dt><dd>Lead UX/UI Designer, co-leading experience design</dd></div>
+        <div><dt class="label">Product</dt><dd>Commercial property insurance platform, used by brokers and internal teams</dd></div>
+        <div><dt class="label">Team</dt><dd>Product, research, design, engineering, compliance and marketing</dd></div>
+        <div><dt class="label">Phase</dt><dd>Discovery and experience strategy, Sept 2025 to Jan 2026</dd></div>
+      </dl>
+    </section>
+
+    <div class="stage rv">
+      <figure class="photo"><img src="/work/verisk/img/process.webp" alt="Diagram: survey, interviews and audits feed synthesis into usability gaps, workflow inefficiencies and trust issues; these become opportunity areas and refined personas, then the deliverables: information architecture, workflow maps and early prototypes" width="2000" height="670" fetchpriority="high"></figure>
+      <p class="cap">How the work moved, from research inputs to what I delivered. The product's screens are confidential, so this case study is told through process.</p>
+    </div>
+
+    <div class="wrap">
+      <div class="results rv" aria-label="Scope">
+        <div><b>14 yrs</b><span>since the platform's last major update</span></div>
+        <div><b>20k+</b><span>survey responses in the research program</span></div>
+        <div><b>50</b><span>moderated user interviews</span></div>
+        <div><b>4 mo</b><span>from kickoff to a delivered experience direction</span></div>
+      </div>
+
+      <section class="chap" aria-labelledby="c1">
+        <div class="chap-head rv"><span class="no">01</span><h2 id="c1">The problem</h2></div>
+        <div class="prose rv">
+          <aside class="side">Context</aside>
+          <div>
+            <p class="lead">Enterprise insurance software ages in a particular way: it keeps working, while everyone works around it.</p>
+            <p>The platform supports commercial property insurance for brokers and internal teams. Fourteen years after its last major update, the experience had piled up usability problems and workflow complexity, and people had to work hard to find, understand and act on complex information inside regulation-driven processes.</p>
+            <p>The goal of this phase was not to repaint screens. It was to understand what people actually needed, then re-architect the experience: a clearer information architecture and simpler workflows that the new platform could be built on.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="chap" aria-labelledby="c2">
+        <div class="chap-head rv"><span class="no">02</span><h2 id="c2">My role</h2></div>
+        <div class="prose rv">
+          <aside class="side">Ownership</aside>
+          <div>
+            <p class="lead">I co-led the experience design work, alongside partners in product, research and design.</p>
+            <ul class="decisions">
+              <li><b>Set direction.</b> I helped establish the design direction for the modernization and kept it tied to what the research said.</li>
+              <li><b>Facilitated.</b> I ran discussions across product, engineering, compliance and marketing, so decisions were made with the constraints in the room.</li>
+              <li><b>Evaluated.</b> I reviewed proposed solutions against user needs, feasibility and regulatory requirements.</li>
+              <li><b>Translated research.</b> My focus was synthesis: turning survey and interview findings into concrete design opportunities, then into structure and flows.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="chap" aria-labelledby="c3">
+        <div class="chap-head rv"><span class="no">03</span><h2 id="c3">Research, then synthesis</h2></div>
+        <div class="prose rv">
+          <aside class="side">Discovery</aside>
+          <div>
+            <p>The research ran at two depths. A survey of more than <strong>20,000 people</strong> showed the broad picture of behaviors, needs and pain points. <strong>Fifty moderated interviews</strong> showed the texture: how individual brokers and internal users actually move through their work, where they get stuck, and what they've learned to distrust. Competitive and heuristic audits of the commercial insurance space added an outside view.</p>
+            <p>I contributed to that research, and my main job was connecting the numbers to the stories. The themes that came out of it were consistent:</p>
+            <ol class="decisions">
+              <li><b>Usability gaps</b> in how people found, read and acted on complex information.</li>
+              <li><b>Workflow inefficiencies</b> in complex, regulation-driven processes.</li>
+              <li><b>Trust issues</b> that affected adoption by brokers and internal users.</li>
+            </ol>
+          </div>
+        </div>
+        <blockquote class="pull rv">A survey tells you what is broken. Interviews tell you <em>why</em> it matters.</blockquote>
+      </section>
+
+      <section class="chap" aria-labelledby="c4">
+        <div class="chap-head rv"><span class="no">04</span><h2 id="c4">From findings to structure</h2></div>
+        <div class="prose rv">
+          <aside class="side">Direction</aside>
+          <div>
+            <p>We turned the themes into prioritized opportunity areas and refined the personas, defining who does what and under which rules. From there the work became structural:</p>
+            <ul class="decisions">
+              <li><b>Information architecture</b> that organizes complex insurance information around the tasks people are doing, not around the system's internal model.</li>
+              <li><b>Workflow maps</b> for the most important regulation-driven tasks, showing where steps could be removed, combined or made clearer, and where they had to stay for compliance.</li>
+              <li><b>Early interactive prototypes</b> to explore the direction and align stakeholders before committing design and engineering time.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="chap" aria-labelledby="c5">
+        <div class="chap-head rv"><span class="no">05</span><h2 id="c5">Where it landed</h2></div>
+        <div class="prose rv">
+          <aside class="side">Outcome</aside>
+          <div>
+            <p>By January 2026 the team had a foundational experience strategy: the information architecture, workflow mapping, UX explorations and early prototypes that set a clearer direction for the product, and a foundation for the design and development work that followed. My engagement concluded with that initial phase and its discovery and design deliverables.</p>
+            <p>I'm happy to walk through the work in more detail in an interview, using redacted or recreated artifacts.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="chap" aria-labelledby="c6">
+        <div class="chap-head rv"><span class="no">06</span><h2 id="c6">What I took away</h2></div>
+        <div class="prose rv">
+          <aside class="side">Reflection</aside>
+          <div>
+            <p class="lead">In a regulated product, the fastest way to simplify is to know exactly which rules are real.</p>
+            <p>A lot of enterprise complexity is history, not law. Having compliance in the conversation early is what lets a team tell the difference between steps that protect people and steps that are just old.</p>
+          </div>
+        </div>
+      </section>
+
+      <nav class="next" aria-label="Next case study">
+        <a href="/work/checkfree-next/"><span><span class="label">Next case study</span><br><span class="t">CheckFree Next</span></span><span class="arrow" aria-hidden="true">&rarr;</span></a>
+      </nav>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap foot">
+      <span>&copy; 2026 Omar M. Hammouda &middot; New York City</span>
+      <nav aria-label="Footer">
+        <a href="/">Home</a>
+        <a href="mailto:omar@omhstudios.com">omar@omhstudios.com</a>
+        <a href="https://www.linkedin.com/in/omarmhammouda/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="/assets/Omar_M_Hammouda_Resume.pdf">Resume</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script>
+    (function(){
+      var els=document.querySelectorAll(".rv");
+      if(!("IntersectionObserver" in window)){els.forEach(function(e){e.classList.add("in")});}
+      else{var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("in");io.unobserve(e.target)}})},{rootMargin:"0px 0px -8% 0px",threshold:.06});els.forEach(function(e){io.observe(e)});}
+      var bar=document.querySelector(".progress");
+      function p(){var h=document.documentElement;var m=h.scrollHeight-h.clientHeight;bar.style.transform="scaleX("+(m>0?h.scrollTop/m:0)+")"}
+      addEventListener("scroll",p,{passive:true});p();
+    })();
+  </script>
+</body>
+</html>

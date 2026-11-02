@@ -106,6 +106,8 @@
     /* project cards */
     .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:clamp(16px,2vw,28px)}
     .card{grid-column:span 6;text-decoration:none;display:block}
+    .card.w4{grid-column:span 4}
+    .sub-h{font:400 clamp(28px,3vw,44px)/1 var(--serif);margin:0}
     .card.w7{grid-column:span 7}.card.w5{grid-column:span 5}
     .card .thumb{border-radius:4px;overflow:hidden;background:var(--surface);aspect-ratio:1440/860}
     .card.w5 .thumb{aspect-ratio:auto;height:100%}
@@ -206,7 +208,7 @@
           <div><dt class="label">Based</dt><dd>New York City, NY</dd></div>
           <div><dt class="label">Focus</dt><dd>Enterprise UX, research, design systems</dd></div>
           <div><dt class="label">Most recently</dt><dd>Lead UX/UI Designer, Verisk</dd></div>
-          <div><dt class="label">Open to</dt><dd>Senior and lead product design roles</dd></div>
+          <div><dt class="label">Open to</dt><dd>Lead, staff and principal design roles; design management</dd></div>
           <div class="cta-row">
             <a class="btn btn-solid" href="#work">See the work &darr;</a>
             <a class="btn btn-ghost" href="/assets/Omar_M_Hammouda_Resume.pdf">Resume (PDF)</a>
@@ -222,7 +224,7 @@
       <div class="wrap">
         <div class="sec-head rv">
           <h2 id="work-h">Selected work</h2>
-          <p>Enterprise work first: the screens are under NDA, the decisions and results are not. Then end-to-end case studies that show the whole process.</p>
+          <p>Two enterprise case studies, told with recreated screens where the originals are under NDA. Then three independent concept studies.</p>
         </div>
 
         <div class="ent">
@@ -230,56 +232,46 @@
             <div class="ent-text">
               <div class="ent-top"><b>Fiserv</b><span>2023&ndash;25 &middot; Senior UX/UI</span></div>
               <div>
-                <div class="ent-big">+75%<small>engagement on bill pay used by 100,000+ people</small></div>
+                <div class="ent-big">~&frac12;<small>the time to onboard, on bill pay used by 100,000+ people</small></div>
                 <h3>CheckFree Next: rebuilding bill pay and the design system behind it</h3>
-                <div class="ent-meta"><span class="tag">Onboarding time halved</span><span class="tag">40% faster dev</span><span class="tag tag-go">Read the case study &rarr;</span></div>
+                <div class="ent-meta"><span class="tag">6 core flows owned</span><span class="tag">Design system</span><span class="tag tag-go">Read the case study &rarr;</span></div>
               </div>
             </div>
-            <div class="ent-img"><img src="/work/checkfree-next/img/mock-hero.webp" alt="CheckFree Next Pay Bills screen on a laptop at a lamp-lit desk" width="2688" height="1520" loading="lazy" decoding="async"></div>
+            <div class="ent-img"><img src="/work/checkfree-next/img/mock2-hero.webp" alt="A recreated Pay Bills screen on a laptop at a lamp-lit desk" width="2688" height="1520" loading="lazy" decoding="async"></div>
           </a>
-          <a class="ent-card ent-wide rv" href="#experience" aria-label="Verisk, 2025 to 2026: platform modernization">
+          <a class="ent-card ent-wide rv" href="/work/verisk/" aria-label="Verisk, 2025 to 2026: platform modernization case study">
             <div class="ent-top"><b>Verisk</b><span>2025&ndash;26 &middot; Lead UX/UI</span></div>
             <div class="ent-row">
-              <div class="ent-big">20,000<small>users surveyed, plus 50 practitioner interviews</small></div>
+              <div class="ent-big">20,000<small>people surveyed plus 50 interviews, synthesized into a new IA</small></div>
               <div>
-                <h3>Co-led design on the modernization of a legacy insurance platform</h3>
-                <div class="ent-meta"><span class="tag">Research program</span><span class="tag">IA &amp; workflows</span><span class="tag">NDA &middot; walkthrough on request</span></div>
+                <h3>Co-led experience design to modernize a 14-year-old commercial insurance platform</h3>
+                <div class="ent-meta"><span class="tag">Research synthesis</span><span class="tag">IA &amp; workflows</span><span class="tag tag-go">Read the case study &rarr;</span></div>
               </div>
             </div>
           </a>
         </div>
 
+        <div class="sec-head rv" style="margin-top:clamp(64px,8vw,112px);margin-bottom:clamp(24px,3vw,40px)">
+          <h3 class="sub-h">Concept studies</h3>
+          <p>Independent, end-to-end studies (research, flows, UI and testing) that show range beyond my employer work.</p>
+        </div>
         <div class="grid">
-          <a class="card w7 rv" href="/projects/hm.html">
-            <div class="thumb"><img src="/assets/covers/hm.jpg" alt="HM admin console shown on a laptop beside its user-story flows" width="1440" height="780" loading="lazy" decoding="async"></div>
-            <div class="card-meta"><b>HM</b><span>E-commerce admin &middot; Case study</span></div>
-            <p>An admin console where reviews, search and purchase details stop living in three tabs.</p>
-          </a>
-          <a class="card w5 card-wrap rv" href="/projects/sanctify.html" style="--d:.1s">
+          <a class="card w4 rv" href="/projects/sanctify.html">
             <div class="thumb"><img src="/assets/covers/sanctify.jpg" alt="Sanctify marketing page and analytics dashboard" width="1440" height="780" loading="lazy" decoding="async"></div>
-            <div class="card-meta"><b>Sanctify</b><span>Analytics dashboard</span></div>
-            <p>A dashboard and the design system behind it.</p>
+            <div class="card-meta"><b>Sanctify</b><span>Fintech &middot; Analytics</span></div>
+            <p>A values-based investing dashboard and the design system behind it.</p>
           </a>
-          <a class="card w5 card-wrap rv" href="/projects/content-cloud.html">
-            <div class="thumb"><img src="/assets/covers/content-cloud.jpg" alt="Content Cloud planning and publishing workspace" width="1440" height="780" loading="lazy" decoding="async"></div>
-            <div class="card-meta"><b>Content Cloud</b><span>Content platform</span></div>
-            <p>One workspace for planning, publishing and tracking content.</p>
+          <a class="card w4 rv" href="/projects/duradry.html" style="--d:.08s">
+            <div class="thumb"><img src="/assets/covers/duradry.jpg" alt="Duradry e-commerce storefront concept" width="1440" height="780" loading="lazy" decoding="async"></div>
+            <div class="card-meta"><b>Duradry</b><span>E-commerce</span></div>
+            <p>DTC commerce that sells a routine, not a product.</p>
           </a>
-          <a class="card w7 rv" href="/projects/mockquestions.html" style="--d:.1s">
-            <div class="thumb"><img src="/assets/covers/mockquestions.jpg" alt="MockQuestions interview practice on web and mobile" width="1440" height="780" loading="lazy" decoding="async"></div>
-            <div class="card-meta"><b>MockQuestions</b><span>Learning platform &middot; Case study</span></div>
-            <p>Turning interview anxiety into structured practice, on web and mobile.</p>
+          <a class="card w4 rv" href="/projects/karma.html" style="--d:.16s">
+            <div class="thumb"><img src="/assets/covers/karma.jpg" alt="Karma DAO contribution tracking concept" width="1440" height="780" loading="lazy" decoding="async"></div>
+            <div class="card-meta"><b>Karma</b><span>Emerging tech</span></div>
+            <p>Making invisible DAO work visible, and legible enough to trust.</p>
           </a>
         </div>
-
-        <ul class="more" aria-label="More case studies">
-          <li class="rv"><a href="/projects/karma.html"><span class="n">05</span><span class="t">Karma</span><span class="d">Making invisible DAO work visible, and legible enough to trust</span><span class="go">&rarr;</span></a></li>
-          <li class="rv"><a href="/projects/imperfect-foods.html"><span class="n">06</span><span class="t">Imperfect Foods</span><span class="d">Grocery flows that make the sustainable choice the easy one</span><span class="go">&rarr;</span></a></li>
-          <li class="rv"><a href="/projects/wnder.html"><span class="n">07</span><span class="t">W*nder</span><span class="d">A brand site that teaches before it sells</span><span class="go">&rarr;</span></a></li>
-          <li class="rv"><a href="/projects/morgan-morgan.html"><span class="n">08</span><span class="t">Morgan &amp; Morgan</span><span class="d">A clearer path to legal help</span><span class="go">&rarr;</span></a></li>
-          <li class="rv"><a href="/projects/duradry.html"><span class="n">09</span><span class="t">Duradry</span><span class="d">DTC e-commerce that sells a routine, not a product</span><span class="go">&rarr;</span></a></li>
-          <li class="rv"><a href="/projects/oh-snap.html"><span class="n">10</span><span class="t">Oh Snap</span><span class="d">A travel photo app and the UI kit that keeps it consistent</span><span class="go">&rarr;</span></a></li>
-        </ul>
       </div>
     </section>
 
@@ -301,12 +293,24 @@
       <div class="wrap">
         <div class="sec-head rv"><h2 id="xp-h">Experience</h2><p>Eight years in product design, the last five in enterprise software.</p></div>
         <ol class="xp">
-          <li class="rv"><div class="who"><b>Verisk</b><span>Lead UX/UI Designer &middot; Sept 2025 to Jan 2026</span></div><p>Co-led design on the modernization of a legacy insurance platform. Built and ran the research program behind it, a <strong>20,000-user survey</strong> and <strong>50 practitioner interviews</strong>, and turned it into the IA and workflow model the new platform is built on.</p></li>
-          <li class="rv"><div class="who"><b>Fiserv</b><span>Senior UX/UI Designer &middot; 2023 to 2025</span></div><p>Designed enterprise bill-pay serving <strong>100,000+ users</strong>. Redesigned onboarding to cut completion time in half and lifted engagement <strong>75%</strong>; built the Figma design system that cut dev turnaround <strong>40%</strong>; led the WCAG 2.1 AA overhaul.</p></li>
+          <li class="rv"><div class="who"><b>Verisk</b><span>Lead UX/UI Designer &middot; Sept 2025 to Jan 2026</span></div><p>Co-led experience design for the modernization of a commercial property insurance platform, 14 years after its last major update. Helped synthesize a <strong>20,000-person survey</strong> and <strong>50 user interviews</strong> into opportunity areas, information architecture, workflow maps and early interactive prototypes.</p></li>
+          <li class="rv"><div class="who"><b>Fiserv</b><span>Senior UX/UI Designer &middot; 2023 to 2025</span></div><p>Design owner for six core flows of CheckFree Next, white-label bill pay serving <strong>100,000+ users</strong>: onboarding, the Pay Bills home and navigation, review and pay, multipay, activity and bill discovery. Simplified onboarding to roughly <strong>half the time</strong>, and contributed to the shared design system and its accessibility (WCAG 2.1 AA).</p></li>
           <li class="rv"><div class="who"><b>Millennium Systems</b><span>UX/UI Designer &middot; 2021 to 2023</span></div><p>Salon and spa point-of-sale: <strong>20% faster</strong> time to first transaction, and part of the work behind a <strong>15% lift</strong> in client retention.</p></li>
           <li class="rv"><div class="who"><b>Independent practice</b><span>UX/UI &amp; CRM Designer &middot; 2020 to present</span></div><p>Salesforce Experience Cloud portals designed and shipped end to end, through the production HTML/CSS, on a modular content-block system non-technical teams update without a developer.</p></li>
         </ol>
         <p class="xp-earlier rv">Earlier: web and e-commerce at Windows and Doors Inc (39% lower bounce, 30% more mobile sessions) and Porcelanosa (27% faster loads, 21% more engagement).</p>
+      </div>
+    </section>
+
+    <section class="sec" id="lead" aria-labelledby="lead-h">
+      <div class="wrap">
+        <div class="sec-head rv"><h2 id="lead-h">How I lead</h2><p>Lead work is mostly influence: getting design into the room early, and making the reasoning easy for everyone to follow.</p></div>
+        <ol class="xp">
+          <li class="rv"><div class="who"><b>Design in the room early</b><span>Process</span></div><p>At Fiserv I pushed for design to join product and technical discussions before requirements were locked, not after. It led to more collaborative design reviews, clearer handoffs, and usability problems caught before they were built.</p></li>
+          <li class="rv"><div class="who"><b>Push back with options</b><span>Stakeholders</span></div><p>When requirements made a flow harder for the people using it, I challenged them, always bringing alternatives that still worked for the business and for engineering.</p></li>
+          <li class="rv"><div class="who"><b>Systems over screens</b><span>Craft</span></div><p>I help teams think past the screen in front of them: shared patterns, components and accessibility that hold up across a whole product.</p></li>
+          <li class="rv"><div class="who"><b>Explain the why</b><span>Teaching</span></div><p>In critiques, reviews and stakeholder walkthroughs, I focus on the reasoning behind a decision, not just the pixels. Teaching is the part of design I love most, and I'm looking for a role where growing other designers is part of the job.</p></li>
+        </ol>
       </div>
     </section>
 
@@ -315,8 +319,8 @@
         <h2 id="about-h" class="rv">About</h2>
         <div class="rv" style="--d:.1s">
           <p class="lead">Research first, pixels second. I design for the people who have to use the product every day, not just the ones who buy it.</p>
-          <p>I've spent eight years in product design across fintech, SaaS, CRM and e-commerce, most recently leading UX at Verisk and before that at Fiserv. I'm happiest inside messy, rule-heavy systems, finding the structure that makes them feel simple.</p>
-          <p>Outside of product work I'm a photographer, and I love teaching design. I'm open to senior and lead roles, remote or hybrid in New Jersey and New York.</p>
+          <p>I've spent eight years in product design across fintech, SaaS, CRM and e-commerce, most recently co-leading experience design at Verisk and, before that, owning the core flows of Fiserv's CheckFree Next. I'm happiest inside messy, rule-heavy systems, finding the structure that makes them feel simple.</p>
+          <p>Outside of product work I'm a photographer. I'm open to lead, staff and principal product design roles and design management, remote or hybrid in New York, especially in fintech, enterprise SaaS and AI-powered products.</p>
           <ul class="chips" aria-label="Skills">
             <li class="tag">UX research</li><li class="tag">Information architecture</li><li class="tag">Design systems</li><li class="tag">High-fidelity UI</li><li class="tag">Prototyping</li><li class="tag">Usability testing</li><li class="tag">WCAG 2.1 AA</li><li class="tag">Figma</li><li class="tag">HTML / CSS / JS</li>
           </ul>
@@ -326,7 +330,7 @@
 
     <section class="contact" id="contact" aria-labelledby="contact-h">
       <div class="wrap">
-        <p class="label rv">Hiring for a senior or lead product design role?</p>
+        <p class="label rv">Hiring for a lead, staff or design leadership role?</p>
         <h2 class="big rv" id="contact-h">Let's <em>talk</em>.</h2>
         <a class="mail rv" href="mailto:omar@omhstudios.com">omar@omhstudios.com <span aria-hidden="true">&nearr;</span></a>
         <div class="contact-row rv">

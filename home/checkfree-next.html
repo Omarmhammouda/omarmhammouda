@@ -4,10 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>CheckFree Next, case study by Omar M. Hammouda</title>
-  <meta name="description" content="Redesigning Fiserv's consumer bill pay for 100,000+ people: onboarding time cut in half, engagement up 75%, and a design system that sped up development 40%.">
+  <meta name="description" content="Redesigning Fiserv's consumer bill pay for 100,000+ people: I owned onboarding, the Pay Bills home, payments, activity and bill discovery, and cut onboarding time roughly in half.">
   <meta property="og:title" content="CheckFree Next: rebuilding consumer bill pay at Fiserv">
-  <meta property="og:description" content="Onboarding time cut in half, engagement up 75%, and a design system that sped up development 40%.">
-  <meta property="og:image" content="https://omhstudios.com/work/checkfree-next/img/mock-hero.webp">
+  <meta property="og:description" content="Owning the core flows of a white-label bill pay platform for 100,000+ people, and cutting onboarding time roughly in half.">
+  <meta property="og:image" content="https://omhstudios.com/work/checkfree-next/img/mock2-hero.webp">
   <meta property="og:url" content="https://omhstudios.com/work/checkfree-next/">
   <meta property="og:type" content="article">
   <link rel="canonical" href="https://omhstudios.com/work/checkfree-next/">
@@ -160,28 +160,44 @@
       <h1 id="title" class="rv">CheckFree <em>Next</em></h1>
       <p class="dek rv" style="--d:.08s">Rebuilding consumer bill pay so paying every bill feels like one calm, five-second task.</p>
       <dl class="meta rv" style="--d:.16s">
-        <div><dt class="label">Role</dt><dd>Senior UX/UI Designer</dd></div>
+        <div><dt class="label">Role</dt><dd>Senior UX/UI Designer, design owner for the core flows</dd></div>
         <div><dt class="label">Product</dt><dd>Fiserv CheckFree Next, consumer bill pay</dd></div>
         <div><dt class="label">Platform</dt><dd>Responsive web, white-labeled for banks and credit unions</dd></div>
-        <div><dt class="label">Scope</dt><dd>Onboarding, bill discovery, payments, activity, design system</dd></div>
+        <div><dt class="label">Team</dt><dd>Product, design, engineering and business stakeholders</dd></div>
       </dl>
     </section>
 
     <div class="stage rv">
-      <figure class="photo"><img src="/work/checkfree-next/img/mock-hero.webp" alt="The CheckFree Next Pay Bills home screen on a laptop at a walnut desk, lit by a warm lamp at night" width="2688" height="1520" fetchpriority="high"></figure>
-      <p class="cap">Pay Bills, the new home screen. Shown in the white-label template brand.</p>
+      <figure class="photo"><img src="/work/checkfree-next/img/mock2-hero.webp" alt="A recreated Pay Bills home screen on a laptop at a walnut desk, lit by a warm lamp at night" width="2688" height="1520" fetchpriority="high"></figure>
+      <p class="cap">Pay Bills, the new home screen. All screens on this page are my recreations in a neutral demo brand; the originals are under NDA.</p>
     </div>
 
     <div class="wrap">
       <div class="results rv" aria-label="Results">
         <div><b>100k+</b><span>people paying bills on the platform</span></div>
-        <div><b>&frac12;</b><span>the time to finish onboarding</span></div>
-        <div><b>+75%</b><span>engagement after the redesign</span></div>
-        <div><b>40%</b><span>faster dev turnaround from the design system</span></div>
+        <div><b>~&frac12;</b><span>the time to finish onboarding</span></div>
+        <div><b>6</b><span>core flows I owned, on desktop and mobile</span></div>
+        <div><b>AA</b><span>WCAG 2.1 accessibility as the baseline</span></div>
       </div>
 
-      <figure class="photo bleed rv"><img src="/work/checkfree-next/img/mock-phones.webp" alt="Two phones floating over a deep maroon background: the mobile Pay Bills home and the Review and pay screen" width="2688" height="1520" loading="lazy" decoding="async"></figure>
+      <figure class="photo bleed rv"><img src="/work/checkfree-next/img/mock2-phones.webp" alt="Two phones floating over a deep maroon background: the mobile Pay Bills home and the Review and pay screen" width="2688" height="1520" loading="lazy" decoding="async"></figure>
       <p class="cap">Designed mobile-first: every flow ships at desktop and phone widths.</p>
+
+      <section class="chap" aria-labelledby="c0">
+        <div class="chap-head rv"><span class="no">00</span><h2 id="c0">My role</h2></div>
+        <div class="prose rv">
+          <aside class="side">Ownership</aside>
+          <div>
+            <p class="lead">I was the design owner for six core flows, and one of several designers keeping the whole product consistent.</p>
+            <ul class="decisions">
+              <li><b>I owned</b> the UX, UI and prototyping for onboarding, the Pay Bills home and navigation, review and pay, multipay, activity, and bill discovery.</li>
+              <li><b>I shared</b> interaction patterns and consistency work with the other product designers, so flows owned by different people still felt like one product.</li>
+              <li><b>I contributed</b> to the design system: reusable components, interaction patterns, visual consistency and accessibility.</li>
+              <li><b>I worked directly</b> with product leadership on experience priorities, and with engineering from early in each flow rather than at handoff.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
 
       <!-- 01 -->
       <section class="chap" aria-labelledby="c1">
@@ -209,13 +225,13 @@
           <aside class="side">Onboarding &middot; 0.0&ndash;0.7</aside>
           <div>
             <p>New and existing users needed different first minutes. New users get a three-point welcome (convenience, control, confidence) and go straight into finding their bills. Existing users get a short "your bill pay has been refreshed" summary of what changed, then land on a home screen that already has their billers.</p>
-            <p>Mapping both paths end to end, on desktop and mobile, let us cut every screen that didn't move someone closer to paying a bill. <strong>Onboarding completion time dropped by half.</strong></p>
+            <p>Mapping both paths end to end, on desktop and mobile, I cut steps that didn't move someone closer to paying a bill and simplified the ones that did. <strong>Onboarding took roughly half the time.</strong></p>
           </div>
         </div>
-        <figure class="figure split rv">
-          <div class="panel"><img src="/work/checkfree-next/img/onboarding-flows.webp" alt="User-flow map of onboarding: new users go from terms to a welcome screen to bill discovery or Pay Bills; existing users go from terms to a what's-new summary to Pay Bills, each shown on desktop and mobile" width="1239" height="1400" loading="lazy" decoding="async"></div>
-          <div class="panel light"><img src="/work/checkfree-next/img/onboarding-welcome.webp" alt="New-user welcome screen on desktop and mobile: Simplify your bill pay routine, with Convenience, Control and Confidence sections and a Get started button" width="1600" height="1192" loading="lazy" decoding="async"></div>
-          <figcaption>Left: the two onboarding paths, desktop and mobile. Right: the new-user welcome.</figcaption>
+        <figure class="figure rv">
+          <div class="panel"><img src="/work/checkfree-next/img/onboarding-flows.webp" alt="User-flow map of onboarding: new users go from terms to a welcome screen to Find my bills, then review results or skip, then Pay Bills; existing users go from terms to a what's-new summary to Pay Bills, with classic view available for a limited time" width="1800" height="833" loading="lazy" decoding="async"></div>
+          <div class="panel light" style="margin-top:clamp(16px,2vw,28px)"><img src="/work/checkfree-next/img/onboarding-welcome.webp" alt="Recreated new-user welcome screen: Pay every bill in one place, with Convenience, Control and Confidence sections and a Get started button" width="1800" height="1088" loading="lazy" decoding="async"></div>
+          <figcaption>The two onboarding paths, then the new-user welcome (recreated).</figcaption>
         </figure>
       </section>
 
@@ -235,8 +251,8 @@
           </div>
         </div>
         <figure class="figure split rv">
-          <div class="panel light"><img src="/work/checkfree-next/img/discovery-consent.webp" alt="Let's get started by finding the bills you pay: two opt-in cards, Bills from our biller network and Your credit report, each with plain-language bullets, plus Skip and Find my bills buttons" width="1600" height="1112" loading="lazy" decoding="async"></div>
-          <div class="panel light"><img src="/work/checkfree-next/img/discovery-results.webp" alt="Bill discovery results split into Quick add and Add with verification, with one biller expanded to show its input fields, and a link to turn off automatic search" width="1215" height="1350" loading="lazy" decoding="async"></div>
+          <div class="panel light"><img src="/work/checkfree-next/img/discovery-consent.webp" alt="Recreated consent screen: two opt-in cards, Bills from our biller network and Your credit report, each with plain-language bullets, plus Skip and Find my bills buttons" width="1800" height="1097" loading="lazy" decoding="async"></div>
+          <div class="panel light"><img src="/work/checkfree-next/img/discovery-results.webp" alt="Recreated results screen split into Quick add and Add with verification, with one biller expanded to ask for an account number, and a link to turn off automatic search" width="1800" height="1325" loading="lazy" decoding="async"></div>
           <figcaption>Consent, then results sorted by how much effort each biller needs.</figcaption>
         </figure>
       </section>
@@ -249,7 +265,6 @@
           <div>
             <p>Pay Bills became the home screen. Unpaid bills sit at the top with their total and due dates, every biller has its own Pay button, and the side rail shows balances and the latest payments without leaving the page.</p>
             <p>Instead of a separate settings maze, the next helpful step appears on the biller it belongs to: a quiet prompt to <strong>turn on autopay</strong> or <strong>switch to eBills</strong>, only where it applies. Multipay is a single toggle, so paying five bills is one review, not five.</p>
-            <p>After the redesign, <strong>engagement rose 75%.</strong></p>
           </div>
         </div>
         <blockquote class="pull rv">Every biller card answers three questions: who, how much, and <em>by when</em>.</blockquote>
@@ -261,13 +276,13 @@
         <div class="prose rv">
           <aside class="side">Schedule payment &middot; 2.0&ndash;2.27</aside>
           <div>
-            <p>Paying is one focused screen: amount, deliver-by date, account and memo. The button repeats the amount, "Pay $114.00", so the last thing you read is exactly what will happen. Rush delivery shows up inline, only when it's available.</p>
+            <p>Paying is one focused screen: amount, deliver-by date, account and memo. The button repeats the amount, "Pay $89.99", so the last thing you read is exactly what will happen. Rush delivery shows up inline, only when it's available.</p>
             <p>The happy path is short because the edge cases were designed, not left to engineering: paper payments with fees, payments that fall back to paper, unusual amounts, an existing scheduled payment, overnight addresses, going to a biller's own site, and marking a bill as paid. More than two dozen states, each on desktop and mobile.</p>
           </div>
         </div>
         <figure class="figure photo-pair rv">
-          <div class="panel light"><img src="/work/checkfree-next/img/pay-desktop.webp" alt="Review and pay screen on desktop: biller card with due date, large amount field, deliver-by date with rush delivery available, pay-from account with available balance, memo, and a Pay $114.00 button" width="1215" height="1021" loading="lazy" decoding="async"></div>
-          <div class="photo"><img src="/work/checkfree-next/img/mock-hand.webp" alt="A hand holding a phone showing the Review and pay screen in front of a New York skyline at dusk" width="1792" height="2240" loading="lazy" decoding="async"></div>
+          <div class="panel light"><img src="/work/checkfree-next/img/pay-desktop.webp" alt="Recreated Review and pay screen on desktop: biller card with due date, large amount field, deliver-by date with rush delivery available, pay-from account with available balance, memo, and a Pay $89.99 button" width="1800" height="1097" loading="lazy" decoding="async"></div>
+          <div class="photo"><img src="/work/checkfree-next/img/mock2-hand.webp" alt="A hand holding a phone showing the Review and pay screen in front of a New York skyline at dusk" width="1792" height="2240" loading="lazy" decoding="async"></div>
           <figcaption>Same screen, two contexts. On mobile the primary action moves above Cancel, where the thumb already is.</figcaption>
         </figure>
       </section>
@@ -278,29 +293,48 @@
         <div class="prose rv">
           <aside class="side">Activity &middot; 3.0&ndash;3.18</aside>
           <div>
-            <p>The anxious question in bill pay is always "did my payment go through?" Activity splits every payment into <strong>Scheduled</strong>, <strong>Processing</strong> and <strong>History</strong>, with filters, sorting and print, and a side rail summarizing each autopay. From any payment you can open an inquiry without calling anyone.</p>
+            <p>The anxious question in bill pay is always "did my payment go through?" Activity splits every payment into <strong>Scheduled</strong>, <strong>Processing</strong> and <strong>History</strong>, with filters, sorting and print, and a side rail summarizing each autopay. From a payment you can start an inquiry, and follow it in Messages, without calling anyone.</p>
           </div>
         </div>
         <figure class="figure rv">
-          <div class="photo"><img src="/work/checkfree-next/img/mock-activity.webp" alt="The Activity page on a laptop: search, a filter bar, payments grouped into Scheduled, Processing and History, and a recent-activity rail with autopay details" width="2688" height="1520" loading="lazy" decoding="async"></div>
+          <div class="photo"><img src="/work/checkfree-next/img/mock2-activity.webp" alt="Recreated Activity page on a laptop: search, a filter bar, payments grouped into Scheduled, Processing and History, and an autopay rail" width="2688" height="1520" loading="lazy" decoding="async"></div>
         </figure>
       </section>
 
       <!-- 07 -->
       <section class="chap" aria-labelledby="c7">
-        <div class="chap-head rv"><span class="no">07</span><h2 id="c7">One system, any bank</h2></div>
+        <div class="chap-head rv"><span class="no">07</span><h2 id="c7">What testing changed</h2></div>
+        <div class="prose rv">
+          <aside class="side">Prototypes &amp; validation</aside>
+          <div>
+            <p>Before anything reached engineering, I built interactive prototypes and compared alternatives: different payment experiences, including competing takes on multipay, different onboarding flows, and mobile interactions.</p>
+            <p class="lead">The lesson that stuck: a screen that looks simpler isn't always easier to use.</p>
+            <p>Some of the most minimal versions tested worse, because they hid things people relied on. I stopped removing elements for the sake of minimalism and started optimizing for <strong>clarity and familiarity</strong>: a visible total, a due date on every bill, a button that says exactly what it will do.</p>
+          </div>
+        </div>
+        <div class="prose rv" style="margin-top:clamp(32px,4vw,56px)">
+          <aside class="side">Pushing back</aside>
+          <div>
+            <p>When requirements added steps that made a flow harder for the person paying the bill, I pushed back, but with alternatives that still met the business and technical constraints, not just objections. I also pushed for design to join product and technical discussions earlier, before requirements were locked. That led to more collaborative reviews, cleaner handoffs, and usability problems caught before they were built.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- 08 -->
+      <section class="chap" aria-labelledby="c8a">
+        <div class="chap-head rv"><span class="no">08</span><h2 id="c8a">One system, any bank</h2></div>
         <div class="prose rv">
           <aside class="side">Design system</aside>
           <div>
-            <p>Because CheckFree Next ships inside many institutions' apps, nothing could be designed for a single brand. I built and maintained the Figma component library the product runs on: tokens for color and type that take on each institution's brand, components for biller cards, payment rows, banners and form fields, and a review step before library updates roll out across every flow.</p>
-            <p>Engineering built from the same components, which <strong>cut dev turnaround by 40%</strong>. I also led the <strong>WCAG 2.1 AA</strong> pass across the product: contrast, focus order, labels and error messaging that works with a screen reader.</p>
+            <p>Because CheckFree Next ships inside many institutions' apps, nothing could be designed for a single brand. I contributed to the shared design system: reusable components for things like biller cards, payment rows, banners and form fields, consistent interaction patterns, and accessibility built into the components themselves.</p>
+            <p>The point was to stop treating every screen as an isolated design. Patterns I established in my flows were reused across the product, and <strong>WCAG 2.1 AA</strong> (contrast, focus order, labels, and error messages that work with a screen reader) was the baseline, not a later pass.</p>
           </div>
         </div>
       </section>
 
       <!-- 08 -->
       <section class="chap" aria-labelledby="c8">
-        <div class="chap-head rv"><span class="no">08</span><h2 id="c8">What I took away</h2></div>
+        <div class="chap-head rv"><span class="no">09</span><h2 id="c8">What I took away</h2></div>
         <div class="prose rv">
           <aside class="side">Reflection</aside>
           <div>
@@ -311,7 +345,7 @@
       </section>
 
       <nav class="next" aria-label="Next case study">
-        <a href="/projects/hm.html"><span><span class="label">Next case study</span><br><span class="t">HM admin console</span></span><span class="arrow" aria-hidden="true">&rarr;</span></a>
+        <a href="/work/verisk/"><span><span class="label">Next case study</span><br><span class="t">Verisk platform modernization</span></span><span class="arrow" aria-hidden="true">&rarr;</span></a>
       </nav>
     </div>
   </main>
