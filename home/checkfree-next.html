@@ -7,7 +7,7 @@
   <meta name="description" content="Redesigning Fiserv's consumer bill pay for 100,000+ people: onboarding time cut in half, engagement up 75%, and a design system that sped up development 40%.">
   <meta property="og:title" content="CheckFree Next: rebuilding consumer bill pay at Fiserv">
   <meta property="og:description" content="Onboarding time cut in half, engagement up 75%, and a design system that sped up development 40%.">
-  <meta property="og:image" content="https://omhstudios.com/work/checkfree-next/img/home-desktop.webp">
+  <meta property="og:image" content="https://omhstudios.com/work/checkfree-next/img/mock-hero.webp">
   <meta property="og:url" content="https://omhstudios.com/work/checkfree-next/">
   <meta property="og:type" content="article">
   <link rel="canonical" href="https://omhstudios.com/work/checkfree-next/">
@@ -70,6 +70,13 @@
     .stage-in .phone{margin-top:clamp(40px,8vw,120px)}
     .cap{font-size:13px;color:var(--muted);margin-top:14px}
 
+    .photo{margin:0;border-radius:6px;overflow:hidden;background:var(--surface)}
+    .photo img{width:100%;height:auto}
+    .photo.tall{max-width:620px}
+    .figure.photo-pair{display:grid;grid-template-columns:3fr 2fr;gap:clamp(16px,2vw,28px);align-items:stretch}
+    .figure.photo-pair .photo img{height:100%;object-fit:cover}
+    @media (max-width:860px){.figure.photo-pair{grid-template-columns:1fr}}
+    .bleed{margin:clamp(72px,10vw,140px) 0 0}
     /* results */
     .results{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:clamp(56px,8vw,112px)}
     .results div{padding:clamp(24px,3vw,40px) clamp(12px,2vw,28px) clamp(24px,3vw,40px) 0}
@@ -161,11 +168,8 @@
     </section>
 
     <div class="stage rv">
-      <div class="stage-in">
-        <div class="shot"><img src="/work/checkfree-next/img/home-desktop.webp" alt="CheckFree Next Pay Bills home on desktop: unpaid bills with Pay buttons, a Find my bills prompt, biller cards with autopay and eBill nudges, and a side rail with account balances and recent activity" width="1205" height="1300" fetchpriority="high"></div>
-        <div class="shot phone"><img src="/work/checkfree-next/img/home-mobile.webp" alt="The same Pay Bills home on mobile, with full-width Pay buttons on every biller card" width="378" height="1292"></div>
-      </div>
-      <p class="cap wrap" style="padding:0">Pay Bills, the new home screen, on desktop and mobile. Shown in the white-label template brand.</p>
+      <figure class="photo"><img src="/work/checkfree-next/img/mock-hero.webp" alt="The CheckFree Next Pay Bills home screen on a laptop at a walnut desk, lit by a warm lamp at night" width="2688" height="1520" fetchpriority="high"></figure>
+      <p class="cap">Pay Bills, the new home screen. Shown in the white-label template brand.</p>
     </div>
 
     <div class="wrap">
@@ -175,6 +179,9 @@
         <div><b>+75%</b><span>engagement after the redesign</span></div>
         <div><b>40%</b><span>faster dev turnaround from the design system</span></div>
       </div>
+
+      <figure class="photo bleed rv"><img src="/work/checkfree-next/img/mock-phones.webp" alt="Two phones floating over a deep maroon background: the mobile Pay Bills home and the Review and pay screen" width="2688" height="1520" loading="lazy" decoding="async"></figure>
+      <p class="cap">Designed mobile-first: every flow ships at desktop and phone widths.</p>
 
       <!-- 01 -->
       <section class="chap" aria-labelledby="c1">
@@ -258,10 +265,10 @@
             <p>The happy path is short because the edge cases were designed, not left to engineering: paper payments with fees, payments that fall back to paper, unusual amounts, an existing scheduled payment, overnight addresses, going to a biller's own site, and marking a bill as paid. More than two dozen states, each on desktop and mobile.</p>
           </div>
         </div>
-        <figure class="figure combo rv">
+        <figure class="figure photo-pair rv">
           <div class="panel light"><img src="/work/checkfree-next/img/pay-desktop.webp" alt="Review and pay screen on desktop: biller card with due date, large amount field, deliver-by date with rush delivery available, pay-from account with available balance, memo, and a Pay $114.00 button" width="1215" height="1021" loading="lazy" decoding="async"></div>
-          <div class="shot phone"><img src="/work/checkfree-next/img/pay-mobile.webp" alt="Review and pay on mobile, with the Pay button above Cancel" width="378" height="1085" loading="lazy" decoding="async"></div>
-          <figcaption>On mobile the primary action moves above Cancel, where the thumb already is.</figcaption>
+          <div class="photo"><img src="/work/checkfree-next/img/mock-hand.webp" alt="A hand holding a phone showing the Review and pay screen in front of a New York skyline at dusk" width="1792" height="2240" loading="lazy" decoding="async"></div>
+          <figcaption>Same screen, two contexts. On mobile the primary action moves above Cancel, where the thumb already is.</figcaption>
         </figure>
       </section>
 
@@ -275,7 +282,7 @@
           </div>
         </div>
         <figure class="figure rv">
-          <div class="panel light"><img src="/work/checkfree-next/img/activity.webp" alt="Activity page: search, a filter bar with date range, status and sort, payments grouped into Scheduled, Processing and History, and a recent-activity rail with autopay details" width="1215" height="1027" loading="lazy" decoding="async"></div>
+          <div class="photo"><img src="/work/checkfree-next/img/mock-activity.webp" alt="The Activity page on a laptop: search, a filter bar, payments grouped into Scheduled, Processing and History, and a recent-activity rail with autopay details" width="2688" height="1520" loading="lazy" decoding="async"></div>
         </figure>
       </section>
 
