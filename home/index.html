@@ -89,6 +89,16 @@
     .ent-top b{color:var(--ink);font-weight:500}
     .ent-big{font:400 clamp(64px,9vw,136px)/.9 var(--serif);letter-spacing:-.02em;margin:24px 0 8px;position:relative;z-index:1}
     .ent-big small{display:block;font:400 15px/1.4 var(--sans);letter-spacing:0;color:var(--muted);margin-top:12px}
+    .ent-feature{grid-column:1/-1;display:grid;grid-template-columns:1fr 1.35fr;gap:clamp(20px,3vw,48px);align-items:stretch;min-height:0}
+    .ent-feature .ent-text{display:flex;flex-direction:column;justify-content:space-between;gap:24px;position:relative;z-index:1}
+    .ent-img{position:relative;z-index:1;border-radius:4px;overflow:hidden;align-self:center}
+    .ent-img img{width:100%;height:auto;transition:transform .9s cubic-bezier(.2,.7,.2,1)}
+    .ent-feature:hover .ent-img img{transform:scale(1.03)}
+    .tag-go{color:var(--ink);border-color:var(--ink)}
+    .ent-wide{grid-column:1/-1;min-height:0}
+    .ent-row{display:grid;grid-template-columns:1fr 1.35fr;gap:clamp(20px,3vw,48px);align-items:end;margin-top:12px}
+    .ent-row .ent-big{margin:0}
+    @media (max-width:860px){.ent-feature,.ent-row{grid-template-columns:1fr}.ent-img{order:-1}}
     .ent-card h3{font:400 clamp(24px,2.4vw,34px)/1.12 var(--serif);margin:0 0 14px;max-width:24ch;position:relative;z-index:1}
     .ent-meta{display:flex;flex-wrap:wrap;gap:8px;position:relative;z-index:1}
     .tag{font-size:12px;padding:6px 10px;border:1px solid var(--line-strong);border-radius:999px;color:var(--muted)}
@@ -216,20 +226,25 @@
         </div>
 
         <div class="ent">
-          <a class="ent-card rv" href="#experience" aria-label="Verisk, 2025 to 2026: platform modernization">
-            <div class="ent-top"><b>Verisk</b><span>2025&ndash;26 &middot; Lead UX/UI</span></div>
-            <div>
-              <div class="ent-big">20,000<small>users surveyed, plus 50 practitioner interviews</small></div>
-              <h3>Co-led design on the modernization of a legacy insurance platform</h3>
-              <div class="ent-meta"><span class="tag">Research program</span><span class="tag">IA &amp; workflows</span><span class="tag">NDA &middot; walkthrough on request</span></div>
+          <a class="ent-card ent-feature rv" href="/work/checkfree-next/" aria-label="Fiserv, 2023 to 2025: CheckFree Next case study">
+            <div class="ent-text">
+              <div class="ent-top"><b>Fiserv</b><span>2023&ndash;25 &middot; Senior UX/UI</span></div>
+              <div>
+                <div class="ent-big">+75%<small>engagement on bill pay used by 100,000+ people</small></div>
+                <h3>CheckFree Next: rebuilding bill pay and the design system behind it</h3>
+                <div class="ent-meta"><span class="tag">Onboarding time halved</span><span class="tag">40% faster dev</span><span class="tag tag-go">Read the case study &rarr;</span></div>
+              </div>
             </div>
+            <div class="ent-img"><img src="/work/checkfree-next/img/mock-hero.webp" alt="CheckFree Next Pay Bills screen on a laptop at a lamp-lit desk" width="2688" height="1520" loading="lazy" decoding="async"></div>
           </a>
-          <a class="ent-card rv" href="/work/checkfree-next/" style="--d:.1s" aria-label="Fiserv, 2023 to 2025: CheckFree Next case study">
-            <div class="ent-top"><b>Fiserv</b><span>2023&ndash;25 &middot; Senior UX/UI</span></div>
-            <div>
-              <div class="ent-big">+75%<small>engagement on bill-pay used by 100,000+ people</small></div>
-              <h3>CheckFree Next: rebuilding bill pay and the design system behind it</h3>
-              <div class="ent-meta"><span class="tag">Onboarding time halved</span><span class="tag">40% faster dev</span><span class="tag">Read the case study &rarr;</span></div>
+          <a class="ent-card ent-wide rv" href="#experience" aria-label="Verisk, 2025 to 2026: platform modernization">
+            <div class="ent-top"><b>Verisk</b><span>2025&ndash;26 &middot; Lead UX/UI</span></div>
+            <div class="ent-row">
+              <div class="ent-big">20,000<small>users surveyed, plus 50 practitioner interviews</small></div>
+              <div>
+                <h3>Co-led design on the modernization of a legacy insurance platform</h3>
+                <div class="ent-meta"><span class="tag">Research program</span><span class="tag">IA &amp; workflows</span><span class="tag">NDA &middot; walkthrough on request</span></div>
+              </div>
             </div>
           </a>
         </div>
