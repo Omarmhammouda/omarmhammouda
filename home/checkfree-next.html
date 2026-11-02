@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>CheckFree Next, case study by Omar M. Hammouda</title>
+  <meta name="description" content="Redesigning Fiserv's consumer bill pay for 100,000+ people: onboarding time cut in half, engagement up 75%, and a design system that sped up development 40%.">
+  <meta property="og:title" content="CheckFree Next: rebuilding consumer bill pay at Fiserv">
+  <meta property="og:description" content="Onboarding time cut in half, engagement up 75%, and a design system that sped up development 40%.">
+  <meta property="og:image" content="https://omhstudios.com/work/checkfree-next/img/home-desktop.webp">
+  <meta property="og:url" content="https://omhstudios.com/work/checkfree-next/">
+  <meta property="og:type" content="article">
+  <link rel="canonical" href="https://omhstudios.com/work/checkfree-next/">
+  <meta name="theme-color" content="#0e0c0c">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap">
+  <style>
+    @font-face{font-family:"Satoshi";src:url(/assets/fonts/satoshi-500.woff2) format("woff2");font-weight:400 500;font-display:swap}
+    @font-face{font-family:"Satoshi";src:url(/assets/fonts/satoshi-700.woff2) format("woff2");font-weight:600 700;font-display:swap}
+    :root{
+      --bg:#0e0c0c; --surface:#171414; --surface-2:#1e1a1a; --paper:#ece7e1;
+      --ink:#f4efea; --muted:#9a918a; --faint:#5f5853;
+      --line:rgba(244,239,234,.12); --line-strong:rgba(244,239,234,.22);
+      --accent:#d6a5a0; --accent-deep:#620000;
+      --serif:"Instrument Serif","Iowan Old Style",Georgia,serif;
+      --sans:"Satoshi","Helvetica Neue",Arial,system-ui,sans-serif;
+      --gutter:clamp(16px,4vw,48px); --max:1360px; --read:720px;
+      color-scheme:dark;
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+    @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+    body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.65 var(--sans);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+    a{color:inherit} img{display:block;max-width:100%;height:auto}
+    .wrap{max-width:var(--max);margin:0 auto;padding:0 var(--gutter)}
+    .skip{position:absolute;left:-9999px}.skip:focus{left:16px;top:16px;z-index:99;background:var(--ink);color:var(--bg);padding:8px 12px;border-radius:6px}
+    .label{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+    :focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+
+    .nav{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 82%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+    .nav-in{display:flex;align-items:center;justify-content:space-between;gap:16px;height:68px}
+    .brand{display:flex;gap:18px;align-items:baseline;text-decoration:none;font-size:14px;white-space:nowrap}
+    .brand b{font-weight:500}.brand span{color:var(--muted)}
+    .nav ul{display:flex;align-items:center;gap:28px;list-style:none;margin:0;padding:0;font-size:14px}
+    .nav ul a{text-decoration:none;color:var(--muted)} .nav ul a:hover{color:var(--ink)}
+    .btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font:500 14px/1 var(--sans);padding:11px 18px;border-radius:999px;border:1px solid var(--line-strong);transition:background .2s,border-color .2s,color .2s}
+    .btn-solid{background:var(--ink);color:var(--bg)!important;border-color:var(--ink)} .btn-solid:hover{background:var(--accent);border-color:var(--accent)}
+    .btn-ghost:hover{border-color:var(--ink)}
+    @media (max-width:860px){.nav ul .hide-m{display:none}.brand span{display:none}.nav ul{gap:18px}}
+    .progress{position:fixed;top:0;left:0;height:2px;width:100%;transform-origin:0 50%;transform:scaleX(0);background:var(--accent);z-index:30}
+
+    /* hero */
+    .hero{padding-top:clamp(40px,7vw,96px)}
+    .crumb{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+    .crumb a{text-decoration:none;color:var(--muted)} .crumb a:hover{color:var(--ink)}
+    .hero h1{font:400 clamp(64px,12vw,184px)/.88 var(--serif);letter-spacing:-.025em;margin:28px 0 0}
+    .hero h1 em{color:var(--accent)}
+    .dek{font:400 clamp(24px,2.8vw,40px)/1.18 var(--serif);max-width:26ch;margin:28px 0 0;color:var(--ink)}
+    .meta{display:grid;grid-template-columns:repeat(4,1fr);gap:24px 32px;margin-top:clamp(40px,6vw,72px);padding-top:28px;border-top:1px solid var(--line)}
+    .meta dt{margin:0 0 6px}.meta dd{margin:0;font-size:15px}
+    @media (max-width:860px){.meta{grid-template-columns:1fr 1fr}}
+
+    /* stage: framed screenshots */
+    .stage{margin:clamp(40px,6vw,80px) auto 0;max-width:var(--max);padding:0 var(--gutter)}
+    .stage-in{position:relative;background:radial-gradient(120% 90% at 70% 0%,color-mix(in srgb,var(--accent-deep) 60%,var(--surface)),var(--surface) 70%);border-radius:6px;padding:clamp(20px,5vw,72px);overflow:hidden;display:grid;grid-template-columns:1fr auto;gap:clamp(16px,3vw,40px);align-items:start}
+    .shot{border-radius:10px;overflow:hidden;box-shadow:0 30px 80px -30px rgba(0,0,0,.8),0 0 0 1px rgba(255,255,255,.06);background:#fff}
+    .shot.phone{width:clamp(120px,19vw,250px);border-radius:22px;box-shadow:0 30px 80px -30px rgba(0,0,0,.9),0 0 0 6px #050505,0 0 0 7px rgba(255,255,255,.12)}
+    .stage-in .phone{margin-top:clamp(40px,8vw,120px)}
+    .cap{font-size:13px;color:var(--muted);margin-top:14px}
+
+    /* results */
+    .results{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:clamp(56px,8vw,112px)}
+    .results div{padding:clamp(24px,3vw,40px) clamp(12px,2vw,28px) clamp(24px,3vw,40px) 0}
+    .results div+div{border-left:1px solid var(--line);padding-left:clamp(16px,2vw,28px)}
+    .results b{display:block;font:400 clamp(48px,6vw,88px)/.95 var(--serif);letter-spacing:-.02em;color:var(--accent)}
+    .results span{display:block;margin-top:10px;font-size:15px;color:var(--muted);max-width:22ch}
+    @media (max-width:860px){.results{grid-template-columns:1fr 1fr}.results div:nth-child(3){border-left:0;padding-left:0}.results div:nth-child(n+3){border-top:1px solid var(--line)}}
+
+    /* chapters */
+    .chap{padding:clamp(72px,10vw,140px) 0 0}
+    .chap-head{display:grid;grid-template-columns:minmax(120px,1fr) 3fr;gap:clamp(16px,4vw,64px);align-items:start}
+    .chap-head .no{font:400 clamp(20px,2vw,26px)/1 var(--serif);color:var(--accent);padding-top:.5em}
+    .chap h2{font:400 clamp(40px,5.6vw,84px)/1 var(--serif);letter-spacing:-.015em;margin:0;max-width:18ch}
+    .prose{display:grid;grid-template-columns:minmax(120px,1fr) 3fr;gap:clamp(16px,4vw,64px);margin-top:clamp(24px,3vw,40px)}
+    .prose>div{max-width:var(--read)}
+    .prose p{margin:0 0 18px;color:#d9d2cb}
+    .prose p.lead{font:400 clamp(22px,2.2vw,30px)/1.3 var(--serif);color:var(--ink)}
+    .prose strong{font-weight:500;color:var(--ink)}
+    .side{font-size:13px;color:var(--muted);padding-top:6px}
+    @media (max-width:860px){.chap-head,.prose{grid-template-columns:1fr}.chap-head .no{padding-top:0}.side{order:2}}
+
+    .figure{margin:clamp(32px,5vw,64px) 0 0}
+    .figure.split{display:grid;grid-template-columns:1fr 1fr;gap:clamp(16px,2vw,28px);align-items:start}
+    .figure.combo{display:grid;grid-template-columns:3fr 1fr;gap:clamp(16px,2vw,28px);align-items:start}
+    .panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:clamp(16px,3vw,40px)}
+    .panel.light{background:var(--paper)}
+    .figure figcaption{font-size:13px;color:var(--muted);margin-top:12px;max-width:70ch}
+    @media (max-width:860px){.figure.split,.figure.combo{grid-template-columns:1fr}.figure.combo .phone{max-width:260px;margin:0 auto}}
+
+    .principles{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:clamp(32px,5vw,56px);border-top:1px solid var(--line)}
+    .principles div{padding:28px 24px 28px 0;border-bottom:1px solid var(--line)}
+    .principles div+div{border-left:1px solid var(--line);padding-left:24px}
+    .principles h3{font:400 clamp(22px,2vw,28px)/1.1 var(--serif);margin:8px 0 10px}
+    .principles p{margin:0;font-size:15px;color:var(--muted)}
+    .principles .n{font-size:12px;letter-spacing:.12em;color:var(--accent)}
+    @media (max-width:960px){.principles{grid-template-columns:1fr 1fr}.principles div:nth-child(3){border-left:0;padding-left:0}}
+    @media (max-width:560px){.principles{grid-template-columns:1fr}.principles div+div{border-left:0;padding-left:0}}
+
+    .decisions{list-style:none;padding:0;margin:8px 0 0;counter-reset:d}
+    .decisions li{position:relative;padding:18px 0 18px 44px;border-top:1px solid var(--line);color:#d9d2cb}
+    .decisions li::before{counter-increment:d;content:counter(d,decimal-leading-zero);position:absolute;left:0;top:20px;font-size:12px;letter-spacing:.1em;color:var(--accent)}
+    .decisions b{font-weight:500;color:var(--ink)}
+
+    blockquote.pull{margin:clamp(40px,6vw,72px) 0 0;padding:0;font:400 clamp(30px,4vw,56px)/1.12 var(--serif);max-width:22ch;color:var(--ink)}
+    blockquote.pull em{color:var(--accent)}
+
+    .next{margin-top:clamp(96px,12vw,180px);border-top:1px solid var(--line)}
+    .next a{display:flex;justify-content:space-between;align-items:end;gap:24px;padding:clamp(40px,6vw,72px) 0;text-decoration:none}
+    .next .t{font:400 clamp(44px,7vw,112px)/.95 var(--serif);letter-spacing:-.02em;transition:color .3s}
+    .next a:hover .t{color:var(--accent)}
+    .next .arrow{font-size:clamp(28px,4vw,56px);color:var(--muted)}
+    footer{border-top:1px solid var(--line);padding:28px 0 calc(28px + env(safe-area-inset-bottom));font-size:13px;color:var(--muted)}
+    .foot{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px 24px}
+    .foot nav{display:flex;flex-wrap:wrap;gap:20px}.foot a{text-decoration:none}.foot a:hover{color:var(--ink)}
+
+    .js .rv{opacity:0;transform:translateY(24px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1);transition-delay:var(--d,0s)}
+    .js .rv.in{opacity:1;transform:none}
+    @media (prefers-reduced-motion:reduce){.js .rv{opacity:1;transform:none;transition:none}}
+  </style>
+  <script>document.documentElement.classList.add("js")</script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="progress" aria-hidden="true"></div>
+
+  <header class="nav">
+    <div class="wrap nav-in">
+      <a class="brand" href="/"><b>Omar M. Hammouda</b><span>Lead UX/UI Designer</span></a>
+      <ul>
+        <li><a href="/#work">Work</a></li>
+        <li class="hide-m"><a href="/#experience">Experience</a></li>
+        <li class="hide-m"><a href="/#about">About</a></li>
+        <li><a class="btn btn-solid" href="/#contact">Get in touch</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero wrap" aria-labelledby="title">
+      <div class="crumb label"><a href="/#work">Work</a><span aria-hidden="true">/</span><span>Fiserv &middot; 2023&ndash;2025</span></div>
+      <h1 id="title" class="rv">CheckFree <em>Next</em></h1>
+      <p class="dek rv" style="--d:.08s">Rebuilding consumer bill pay so paying every bill feels like one calm, five-second task.</p>
+      <dl class="meta rv" style="--d:.16s">
+        <div><dt class="label">Role</dt><dd>Senior UX/UI Designer</dd></div>
+        <div><dt class="label">Product</dt><dd>Fiserv CheckFree Next, consumer bill pay</dd></div>
+        <div><dt class="label">Platform</dt><dd>Responsive web, white-labeled for banks and credit unions</dd></div>
+        <div><dt class="label">Scope</dt><dd>Onboarding, bill discovery, payments, activity, design system</dd></div>
+      </dl>
+    </section>
+
+    <div class="stage rv">
+      <div class="stage-in">
+        <div class="shot"><img src="/work/checkfree-next/img/home-desktop.webp" alt="CheckFree Next Pay Bills home on desktop: unpaid bills with Pay buttons, a Find my bills prompt, biller cards with autopay and eBill nudges, and a side rail with account balances and recent activity" width="1205" height="1300" fetchpriority="high"></div>
+        <div class="shot phone"><img src="/work/checkfree-next/img/home-mobile.webp" alt="The same Pay Bills home on mobile, with full-width Pay buttons on every biller card" width="378" height="1292"></div>
+      </div>
+      <p class="cap wrap" style="padding:0">Pay Bills, the new home screen, on desktop and mobile. Shown in the white-label template brand.</p>
+    </div>
+
+    <div class="wrap">
+      <div class="results rv" aria-label="Results">
+        <div><b>100k+</b><span>people paying bills on the platform</span></div>
+        <div><b>&frac12;</b><span>the time to finish onboarding</span></div>
+        <div><b>+75%</b><span>engagement after the redesign</span></div>
+        <div><b>40%</b><span>faster dev turnaround from the design system</span></div>
+      </div>
+
+      <!-- 01 -->
+      <section class="chap" aria-labelledby="c1">
+        <div class="chap-head rv"><span class="no">01</span><h2 id="c1">The problem</h2></div>
+        <div class="prose rv">
+          <aside class="side">Context</aside>
+          <div>
+            <p class="lead">CheckFree is the bill pay that sits quietly inside bank and credit union apps. People don't choose it. They inherit it, and they judge their bank by it.</p>
+            <p>The classic experience worked, but it was built around features rather than bills. To pay someone new you first had to know exactly who they were, type in their details, and wait. Due dates, eBills, autopay and payment history lived in different corners, so the simple question "what do I owe this week?" took several screens to answer.</p>
+            <p>CheckFree Next was the rebuild. It had to serve <strong>100,000+ people</strong>, carry any institution's brand without redesign, move existing users off the classic view without breaking their trust, and meet <strong>WCAG 2.1 AA</strong> from day one.</p>
+          </div>
+        </div>
+        <div class="principles rv">
+          <div><span class="n">PRINCIPLE 01</span><h3>Bills first</h3><p>Open on what you owe and when, not on a menu of features.</p></div>
+          <div><span class="n">PRINCIPLE 02</span><h3>Do the typing for them</h3><p>Find people's billers for them instead of making them search one by one.</p></div>
+          <div><span class="n">PRINCIPLE 03</span><h3>Say it plainly</h3><p>Money and credit reports make people nervous. Every consent and warning in plain English.</p></div>
+          <div><span class="n">PRINCIPLE 04</span><h3>One system, any bank</h3><p>A component library that takes on any institution's brand and stays accessible.</p></div>
+        </div>
+      </section>
+
+      <!-- 02 -->
+      <section class="chap" aria-labelledby="c2">
+        <div class="chap-head rv"><span class="no">02</span><h2 id="c2">Onboarding, two ways in</h2></div>
+        <div class="prose rv">
+          <aside class="side">Onboarding &middot; 0.0&ndash;0.7</aside>
+          <div>
+            <p>New and existing users needed different first minutes. New users get a three-point welcome (convenience, control, confidence) and go straight into finding their bills. Existing users get a short "your bill pay has been refreshed" summary of what changed, then land on a home screen that already has their billers.</p>
+            <p>Mapping both paths end to end, on desktop and mobile, let us cut every screen that didn't move someone closer to paying a bill. <strong>Onboarding completion time dropped by half.</strong></p>
+          </div>
+        </div>
+        <figure class="figure split rv">
+          <div class="panel"><img src="/work/checkfree-next/img/onboarding-flows.webp" alt="User-flow map of onboarding: new users go from terms to a welcome screen to bill discovery or Pay Bills; existing users go from terms to a what's-new summary to Pay Bills, each shown on desktop and mobile" width="1239" height="1400" loading="lazy" decoding="async"></div>
+          <div class="panel light"><img src="/work/checkfree-next/img/onboarding-welcome.webp" alt="New-user welcome screen on desktop and mobile: Simplify your bill pay routine, with Convenience, Control and Confidence sections and a Get started button" width="1600" height="1192" loading="lazy" decoding="async"></div>
+          <figcaption>Left: the two onboarding paths, desktop and mobile. Right: the new-user welcome.</figcaption>
+        </figure>
+      </section>
+
+      <!-- 03 -->
+      <section class="chap" aria-labelledby="c3">
+        <div class="chap-head rv"><span class="no">03</span><h2 id="c3">Find my bills</h2></div>
+        <div class="prose rv">
+          <aside class="side">Bill discovery &middot; 5.0&ndash;5.16</aside>
+          <div>
+            <p class="lead">The fastest biller to add is the one you never have to type.</p>
+            <p>Bill discovery searches two sources, the provider's biller network and, with permission, the person's credit report, and returns the bills they actually pay. The hard part wasn't the search. It was asking someone to share their credit report with their bank's bill pay.</p>
+            <ol class="decisions">
+              <li><b>Consent in three plain lines.</b> The report won't include your score, checking it won't affect your score, and the data is only used to find your bills.</li>
+              <li><b>Two lanes of results.</b> Billers that can be added in one tap sit under "Quick add"; the ones that need an account number sit under "Add with verification" and expand inline, so nobody leaves the page.</li>
+              <li><b>Always reversible.</b> Skip it, remove any result, or turn automatic search off later. More than a dozen designed states cover empty results, cached results and errors.</li>
+            </ol>
+          </div>
+        </div>
+        <figure class="figure split rv">
+          <div class="panel light"><img src="/work/checkfree-next/img/discovery-consent.webp" alt="Let's get started by finding the bills you pay: two opt-in cards, Bills from our biller network and Your credit report, each with plain-language bullets, plus Skip and Find my bills buttons" width="1600" height="1112" loading="lazy" decoding="async"></div>
+          <div class="panel light"><img src="/work/checkfree-next/img/discovery-results.webp" alt="Bill discovery results split into Quick add and Add with verification, with one biller expanded to show its input fields, and a link to turn off automatic search" width="1215" height="1350" loading="lazy" decoding="async"></div>
+          <figcaption>Consent, then results sorted by how much effort each biller needs.</figcaption>
+        </figure>
+      </section>
+
+      <!-- 04 -->
+      <section class="chap" aria-labelledby="c4">
+        <div class="chap-head rv"><span class="no">04</span><h2 id="c4">A home that answers "what do I owe?"</h2></div>
+        <div class="prose rv">
+          <aside class="side">Pay Bills &middot; 1.0&ndash;1.11</aside>
+          <div>
+            <p>Pay Bills became the home screen. Unpaid bills sit at the top with their total and due dates, every biller has its own Pay button, and the side rail shows balances and the latest payments without leaving the page.</p>
+            <p>Instead of a separate settings maze, the next helpful step appears on the biller it belongs to: a quiet prompt to <strong>turn on autopay</strong> or <strong>switch to eBills</strong>, only where it applies. Multipay is a single toggle, so paying five bills is one review, not five.</p>
+            <p>After the redesign, <strong>engagement rose 75%.</strong></p>
+          </div>
+        </div>
+        <blockquote class="pull rv">Every biller card answers three questions: who, how much, and <em>by when</em>.</blockquote>
+      </section>
+
+      <!-- 05 -->
+      <section class="chap" aria-labelledby="c5">
+        <div class="chap-head rv"><span class="no">05</span><h2 id="c5">Review and pay</h2></div>
+        <div class="prose rv">
+          <aside class="side">Schedule payment &middot; 2.0&ndash;2.27</aside>
+          <div>
+            <p>Paying is one focused screen: amount, deliver-by date, account and memo. The button repeats the amount, "Pay $114.00", so the last thing you read is exactly what will happen. Rush delivery shows up inline, only when it's available.</p>
+            <p>The happy path is short because the edge cases were designed, not left to engineering: paper payments with fees, payments that fall back to paper, unusual amounts, an existing scheduled payment, overnight addresses, going to a biller's own site, and marking a bill as paid. More than two dozen states, each on desktop and mobile.</p>
+          </div>
+        </div>
+        <figure class="figure combo rv">
+          <div class="panel light"><img src="/work/checkfree-next/img/pay-desktop.webp" alt="Review and pay screen on desktop: biller card with due date, large amount field, deliver-by date with rush delivery available, pay-from account with available balance, memo, and a Pay $114.00 button" width="1215" height="1021" loading="lazy" decoding="async"></div>
+          <div class="shot phone"><img src="/work/checkfree-next/img/pay-mobile.webp" alt="Review and pay on mobile, with the Pay button above Cancel" width="378" height="1085" loading="lazy" decoding="async"></div>
+          <figcaption>On mobile the primary action moves above Cancel, where the thumb already is.</figcaption>
+        </figure>
+      </section>
+
+      <!-- 06 -->
+      <section class="chap" aria-labelledby="c6">
+        <div class="chap-head rv"><span class="no">06</span><h2 id="c6">Activity you can trust</h2></div>
+        <div class="prose rv">
+          <aside class="side">Activity &middot; 3.0&ndash;3.18</aside>
+          <div>
+            <p>The anxious question in bill pay is always "did my payment go through?" Activity splits every payment into <strong>Scheduled</strong>, <strong>Processing</strong> and <strong>History</strong>, with filters, sorting and print, and a side rail summarizing each autopay. From any payment you can open an inquiry without calling anyone.</p>
+          </div>
+        </div>
+        <figure class="figure rv">
+          <div class="panel light"><img src="/work/checkfree-next/img/activity.webp" alt="Activity page: search, a filter bar with date range, status and sort, payments grouped into Scheduled, Processing and History, and a recent-activity rail with autopay details" width="1215" height="1027" loading="lazy" decoding="async"></div>
+        </figure>
+      </section>
+
+      <!-- 07 -->
+      <section class="chap" aria-labelledby="c7">
+        <div class="chap-head rv"><span class="no">07</span><h2 id="c7">One system, any bank</h2></div>
+        <div class="prose rv">
+          <aside class="side">Design system</aside>
+          <div>
+            <p>Because CheckFree Next ships inside many institutions' apps, nothing could be designed for a single brand. I built and maintained the Figma component library the product runs on: tokens for color and type that take on each institution's brand, components for biller cards, payment rows, banners and form fields, and a review step before library updates roll out across every flow.</p>
+            <p>Engineering built from the same components, which <strong>cut dev turnaround by 40%</strong>. I also led the <strong>WCAG 2.1 AA</strong> pass across the product: contrast, focus order, labels and error messaging that works with a screen reader.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- 08 -->
+      <section class="chap" aria-labelledby="c8">
+        <div class="chap-head rv"><span class="no">08</span><h2 id="c8">What I took away</h2></div>
+        <div class="prose rv">
+          <aside class="side">Reflection</aside>
+          <div>
+            <p class="lead">In financial products, calm is a feature.</p>
+            <p>The biggest wins didn't come from new features. They came from removing doubt: saying plainly what happens to someone's credit report, repeating the amount on the button, and showing exactly where a payment is. When people trust the screen, they come back to it.</p>
+          </div>
+        </div>
+      </section>
+
+      <nav class="next" aria-label="Next case study">
+        <a href="/projects/hm.html"><span><span class="label">Next case study</span><br><span class="t">HM admin console</span></span><span class="arrow" aria-hidden="true">&rarr;</span></a>
+      </nav>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap foot">
+      <span>&copy; 2026 Omar M. Hammouda &middot; New York City</span>
+      <nav aria-label="Footer">
+        <a href="/">Home</a>
+        <a href="mailto:omar@omhstudios.com">omar@omhstudios.com</a>
+        <a href="https://www.linkedin.com/in/omarmhammouda/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="/assets/Omar_M_Hammouda_Resume.pdf">Resume</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script>
+    (function(){
+      var els=document.querySelectorAll(".rv");
+      if(!("IntersectionObserver" in window)){els.forEach(function(e){e.classList.add("in")});}
+      else{var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("in");io.unobserve(e.target)}})},{rootMargin:"0px 0px -8% 0px",threshold:.06});els.forEach(function(e){io.observe(e)});}
+      var bar=document.querySelector(".progress");
+      function p(){var h=document.documentElement;var m=h.scrollHeight-h.clientHeight;bar.style.transform="scaleX("+(m>0?h.scrollTop/m:0)+")"}
+      addEventListener("scroll",p,{passive:true});p();
+    })();
+  </script>
+</body>
+</html>
